@@ -1,0 +1,11 @@
+{
+  "name": "reelforge-local",
+  "owner": { "name": "Aman Porwal" },
+  "plugins": [
+    {
+      "name": "reelforge",
+      "source": "./plugin",
+      "description": "AI-directed product launch films (skill + MCP server + slash commands)."
+    }
+  ]
+}

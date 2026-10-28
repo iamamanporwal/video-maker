@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "youtube": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "--python",
+        "3.12",
+        "--from",
+        "yt-mcp-server",
+        "youtube-mcp-server"
+      ],
+      "env": {}
+    },
+    "claudetube": {
+      "type": "stdio",
+      "command": "/Users/amanporwal/.claudetube/venv/bin/claudetube-mcp",
+      "args": [],
+      "env": {}
+    }
+  }
+}

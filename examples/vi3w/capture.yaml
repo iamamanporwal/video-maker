@@ -1,0 +1,60 @@
+# Product-specific capture knowledge. The driver (node/capture/capture.mjs) is generic; flows live here.
+# Selectors use visible text and aria roles from `reelforge` ui_dump. Values like "{prompt}" are filled from the
+# capture plan (D3); a value that is exactly "{strokes}" is replaced by the stroke list from the stroke designer.
+
+viewport: { width: 1920, height: 1080 }
+dpr: 2
+headless: false
+max_retries: 2
+
+# Capture-only cosmetics: swap the throwaway test email for a studio name. Product UI is never altered.
+replace_text:
+  "reelforge-test@example.com": "Vi3W Studio"
+
+# Approximate app credits per command (enforced against budgets.app_credits).
+credits: { sketch: 10, edit: 10, to3d: 60 }
+
+judge_checks:
+  - "no legible brand badge or roundel anywhere on the car"
+  - "the change is dramatic at a 320 px thumbnail"
+  - "the requested features are present"
+  - "composition matches the sketch"
+
+macros:
+  new_studio:
+    - { action: goto, url: "{url}/studio/new", settleMs: 1500 }      # a New Studio per chain: no stale state
+
+  sketch:
+    - { use: new_studio }
+    - { action: click, target: { role: button, name: "Draw" }, event: drawMode }
+    - { action: draw, target: { selector: "canvas" }, strokes: "{strokes}" }
+    - { action: fill, target: { role: textbox }, text: "{prompt}" }
+    - { action: click, target: { role: button, name: "Generate" }, event: generateClicked }
+    - { action: wait_new_image, timeoutMs: 120000 }
+    - { action: save_image, as: out.jpg }
+    - { action: screenshot, as: done.png }
+
+  edit:
+    - { action: click, target: { role: button, regex: "sketch tools|edit" }, event: editOpen }
+    - { action: draw, target: { selector: "canvas" }, strokes: "{strokes}" }
+    - { action: fill, target: { role: textbox }, text: "{prompt}" }
+    - { action: click, target: { role: button, regex: "regen" }, event: generateClicked }
+    - { action: wait_new_image, timeoutMs: 120000 }
+    - { action: save_image, as: out.jpg }
+
+  to3d:
+    # The model picker label changes after a choice ("Trellis" -> "Hunyuan..."): match a regex over every model.
+    - { action: click, target: { role: button, regex: "Trellis|Hunyuan|Tripo|Model" } }
+    - { action: click, target: { regex: "{model_regex}" } }
+    - { action: click, target: { role: button, name: "Generate 3D" }, event: generate3dClicked }
+    - { action: wait_for, target: { role: button, name: "Download GLB" }, timeoutMs: 600000, event: modelReady }
+    - { action: wait, ms: 4000 }        # big models take time to load into the viewer: capture the loaded state
+    - { action: download, target: { role: button, name: "Download GLB" }, as: model.glb, timeoutMs: 600000 }
+
+  look:
+    - { action: dump_ui, as: ui.json }
+    - { action: screenshot, as: look.png }
+
+  models:
+    - { action: click, target: { role: button, regex: "Trellis|Hunyuan|Tripo|Model" } }
+    - { action: dump_ui, as: models.json }

@@ -1,0 +1,28 @@
+# GTA frog series, ep 4 (audience: game modders + game devs). Shared assets/permission: see ep1-stopped/reel.yaml.
+# Hook: "Franklin Saw The Real Reason Frog Stopped His Bike In GTA 5" (9.2M views): trap, frog turns to camera
+# (~3.5 s), bike hits the spikes (~5 s).
+# Claim check: subject.png shows the frog from one side only (facing left); its other side and back were filled
+# in by Vi3W, which is what "the side the screenshot never showed" refers to.
+# CTA opens on the back (turntable-cta-back.mp4 = turntable.mp4 from 6 s / 180°).
+title: gta-frog-ep4-bike
+source: {url: 'https://www.youtube.com/shorts/13HW9jj1Erk', creator: '@AvunHub', rights: permission, proof: ../assets/permission.md}
+hook: {text: 'One side view. Watch what *Vi3W* builds', seconds: 2.4}
+credit: '🎥 @AvunHub'
+sfx: true
+segments:
+- {id: hook, type: source, src: ../assets/bike.mp4, in: 0.0, out: 6.0, fit: crop, gain: 0}
+- {id: reveal, type: reveal, before: ../assets/subject-card.png, before_label: 'SIDE VIEW ONLY', after: ../assets/turntable.mp4, seconds: 6, label: 'Real Vi3W output · unedited'}
+- {id: spin, type: cta, seconds: 7.8, after: ../assets/turntable-cta-back.mp4, line: 'It filled in the *rest*'}
+vo:
+- {at: 0.4, text: "Our screenshot only showed this frog from one side. Watch what happens next."}
+- {at: reveal, offset: 0.2, text: "One side view, into Vi3W…"}
+- {at: spin, offset: 0.1, text: "[gasps] …and it built the side the screenshot never showed. His back, his feet, all of it."}
+post:
+  caption: 'We only had ONE side of this GTA frog 🐸 Vi3W built the rest.
+
+    Side-view screenshot → full 3D model. Clip: @AvunHub
+
+    What should we 3D next? 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [gta5mods, gtamods, gta5, modding, gamedev, 3dmodeling, imageto3d, vi3w]

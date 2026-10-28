@@ -1,0 +1,26 @@
+# Game reel: Doodle Derby by Sagar Prema Rajan (creator agreed to be featured).
+# Every frame is real: gameplay and the sketch -> 3D step both come from the creator's own trailer.
+title: doodle-derby
+hook: {text: These karts were *pencil doodles* 😳, seconds: 2.6}
+credit: 🎮 Doodle Derby · by Sagar Prema Rajan
+segments:
+- {id: open, type: clip, src: ../../../Input/DoodleDerby_trailer (1).mp4, in: 38.0, out: 41.0, fit: crop, focus: 0.5, zoom: 1.05}
+- {id: reveal, type: reveal, before: assets/sketch.png, after: assets/models-3d.png, seconds: 5.6, label: Real Vi3W output · from Sagar's build}
+- {id: moon, type: clip, src: ../../../Input/DoodleDerby_trailer (1).mp4, in: 32.0, out: 35.0, fit: crop, focus: 0.5}
+- {id: split, type: clip, src: ../../../Input/DoodleDerby_trailer (1).mp4, in: 47.5, out: 50.0, fit: frame, label: 2 players · 1 keyboard}
+- {id: flip, type: clip, src: ../../../Input/DoodleDerby_trailer (1).mp4, in: 52.0, out: 54.5, fit: crop, focus: 0.5}
+- {id: cta, type: cta, seconds: 3.6, after: assets/models-3d.png, line: Your doodle → 3D at *Vi3W.in*, button: Comment your doodle ✏️}
+vo:
+- {at: 0.1, text: '[gasps] Wait. These karts were pencil doodles?!'}
+- {at: reveal, offset: 0.2, text: '[excited] Sagar sketched them on paper, threw them into Vi3W, and boom! Real 3D models.'}
+- {at: moon, offset: 0.2, text: 'Now they''re flipping in moon gravity, racing split screen, and driving upside down?!'}
+- {at: cta, offset: 0.1, text: '[excited] Drop your worst doodle below. We''ll make it 3D!'}
+post:
+  caption: 'He drew 4 karts in a notebook… now they race UPSIDE DOWN 🏎️🙃
+
+    Game: Doodle Derby by Sagar Prema Rajan (play it on itch.io)
+
+    Drop your worst doodle in the comments and we''ll turn it into 3D ✏️➡️🧊 Make yours at Vi3W.in
+
+    '
+  hashtags: [gamedev, indiegame, 3dmodeling, sketchto3d, ai3d, indiedev, threejs, vi3w]

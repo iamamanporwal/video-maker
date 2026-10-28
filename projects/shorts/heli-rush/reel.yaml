@@ -1,0 +1,26 @@
+# Game reel: Heli Rush (creator agreed to be featured). Gameplay only; no Vi3W capture yet, so no reveal.
+title: heli-rush
+hook: {text: Every zone is a *new world* 🤯, seconds: 2.4}
+credit: 🎮 Heli Rush · made with Vi3W models
+segments:
+- {id: open, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.12.46 PM.mov, in: 47.6, out: 50.0, fit: frame, zoom: 1.12}
+- {id: z1, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.12.46 PM.mov, in: 2.0, out: 5.0, fit: frame, zoom: 1.12, label: Zone 1 · Neon Cavern}
+- {id: z2, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.12.46 PM.mov, in: 27.6, out: 30.4, fit: frame, zoom: 1.12, label: Zone 2 · Arctic Abyss}
+- {id: z3, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.12.46 PM.mov, in: 37.6, out: 40.4, fit: frame, zoom: 1.12, label: Zone 3 · Volcanic Core}
+- {id: z5, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.12.46 PM.mov, in: 56.0, out: 59.6, fit: frame, zoom: 1.12, label: Zone 5 · Stellar Void}
+- {id: cta, type: cta, seconds: 3.6, after: assets/cta.png, line: Build your own world at *Vi3W.in*, button: Comment your zone 👇}
+vo:
+- {at: 0.1, text: '[excited] Wait, every single zone in this game is a whole new world?'}
+- {at: z1, offset: 0.1, text: Heli Rush! Made with Vi3W.}
+- {at: z2, offset: 0.6, text: 'Ice caves… [gasps] lava…'}
+- {at: z5, offset: 0.6, text: 'and then… space?! [laughs]'}
+- {at: cta, offset: 0.1, text: 'Which zone takes you out first? Tell me below!'}
+post:
+  caption: '5 zones. 5 worlds. 1 very brave helicopter 🚁 Which one takes you out first?
+
+    Heli Rush — 3D models made with Vi3W.
+
+    Tell us your zone 👇 Build yours at Vi3W.in
+
+    '
+  hashtags: [gamedev, indiegame, indiedev, 3dmodeling, sketchto3d, browsergame, vi3w]

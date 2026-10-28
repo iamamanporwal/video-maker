@@ -1,0 +1,22 @@
+# Game reel: Neon Velocity (creator agreed to be featured). Only 8.5 s of static footage, so a short 11 s reel.
+title: neon-velocity
+hook: {text: '*260 km/h*, no brakes 🏎️', seconds: 2.4}
+credit: 🎮 Neon Velocity · made with Vi3W models
+segments:
+- {id: open, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.18.07 PM.mov, in: 0.0, out: 3.0, fit: crop, focus: 0.5, zoom: 1.2}
+- {id: city, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.18.07 PM.mov, in: 3.0, out: 6.75, speed: 1.5, fit: crop, focus: 0.5, zoom: 1.2}
+- {id: end, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.18.07 PM.mov, in: 6.0, out: 8.4, fit: crop, focus: 0.5, zoom: 1.2}
+- {id: cta, type: cta, seconds: 3.2, after: assets/cta.png, line: Sketch → 3D at *Vi3W.in*, button: Save for later 🔖}
+vo:
+- {at: 0.1, text: '[excited] Two sixty. Neon city. Zero brakes.'}
+- {at: city, offset: 0.1, text: 'Neon Velocity! And yep, that car was made with Vi3W.'}
+- {at: cta, offset: 0.1, text: Save this for your next game idea!}
+post:
+  caption: '260 km/h through a neon city, no brakes 🏎️💨
+
+    Neon Velocity — the car was made with Vi3W.
+
+    Save this for your next game idea 🔖 Make yours at Vi3W.in
+
+    '
+  hashtags: [gamedev, indiegame, threejs, indiedev, 3dmodeling, sketchto3d, vi3w]

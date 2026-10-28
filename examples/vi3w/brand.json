@@ -1,0 +1,9 @@
+{
+  "colors": {"ink": "#0B0B0C", "accent": "#D4F77C", "text": "#E2E6DA", "muted": ["#8E9686", "#585E54", "#3A3F36"], "accentShadow": "#2E3A12"},
+  "accent_rules": "accent only for strokes, cursor, highlighted words, thruster glow",
+  "fonts": {"display": "Urbanist:800", "body": "Urbanist:600", "mono": "JetBrains Mono:400"},
+  "tracking": {"headline": "-0.035em"},
+  "motion": {"default_ease": "outExpo", "ui_spring": {"damping": 13}, "linear_allowed": ["caret", "camera_drift"]},
+  "logo": {"mark": "assets/logo-still.png", "wordmark": "text"},
+  "motif": "a lime line that becomes the next object"
+}

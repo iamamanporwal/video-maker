@@ -1,0 +1,26 @@
+project: vi3w-launch
+genre: ai-3d-tools
+product:
+  name: Vi3W
+  url: http://localhost:8080          # app under test (local or staging)
+  auth: { method: test_token, script: scripts/mint-test-token.mjs, local_storage_key: auth_token }
+idea: "A 3D artist gets an impossible car request at 2:47 AM; Vi3W saves the night."
+story:                                 # free text OR beat list; AI normalises it to beats
+  - "Dev asks for a car model in one hour"
+  - "Artist sketches a sedan → image"
+  - "Sketches mods ON the image → sports car"
+  - "Generates 3D, delivers"
+  - "Twist: it needs to fly → thrusters → new 3D"
+  - "Cinematic finale; tagline"
+tagline: "We built Vi3W so 3D artists can catch more sleep."
+setting: "dark late-night room, cold monitor glow, wry Pixar-style humour"
+cuts:
+  - { name: hero,   seconds: 80, formats: [16x9, 9x16, 4x5] }
+  - { name: social, seconds: 45, formats: [9x16, 4x5, 16x9], hook_seconds: 1.5 }
+voiceover: false
+music: { bpm: 120, mood: "minimal electronic, felt piano, confident" }
+providers: { music: "fal:fal-ai/elevenlabs/music", sfx: elevenlabs, video: "fal:<model>", llm: claude }
+budgets: { app_credits: 600, fal_usd: 10, llm_usd: 25, max_iterations: 10, target_score: 9.0 }
+rules:
+  trademark_avoid: ["BMW"]             # never on screen; badges must not be legible
+  honesty_labels: true

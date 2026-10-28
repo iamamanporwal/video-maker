@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ReelForge</title>
+<style>
+  :root {
+    --ink: #0b0b0c; --panel: #131513; --panel2: #1a1d1a; --line: #2a2e29; --text: #e2e6da; --muted: #8e9686;
+    --accent: #d4f77c; --bad: #ff7a6b; --warn: #f5c451;
+    --mono: ui-monospace, "JetBrains Mono", Menlo, monospace; --sans: ui-sans-serif, -apple-system, "Segoe UI", sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--ink); color: var(--text); font: 14px/1.45 var(--sans); }
+  header { display: flex; gap: 16px; align-items: center; padding: 12px 20px; border-bottom: 1px solid var(--line); position: sticky; top: 0; background: var(--ink); z-index: 2; flex-wrap: wrap; }
+  header h1 { margin: 0; font-size: 18px; letter-spacing: -0.02em; }
+  header h1 span { color: var(--accent); }
+  select, input, textarea, button { font: inherit; color: var(--text); background: var(--panel2); border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; }
+  textarea { width: 100%; font-family: var(--mono); font-size: 12.5px; min-height: 360px; }
+  button { cursor: pointer; }
+  button.primary { background: var(--accent); color: var(--ink); border-color: var(--accent); font-weight: 600; }
+  button:disabled { opacity: .5; cursor: default; }
+  nav { display: flex; gap: 4px; flex-wrap: wrap; }
+  nav button { background: transparent; border-color: transparent; }
+  nav button.on { border-color: var(--line); background: var(--panel); color: var(--accent); }
+  main { padding: 20px; max-width: 1400px; margin: 0 auto; }
+  .grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr)); }
+  td button { padding: 3px 12px; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 16px; min-width: 0; }
+  .card h3 { margin: 0 0 10px; font-size: 13px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+  table { border-collapse: collapse; width: 100%; font-size: 13px; }
+  th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { color: var(--muted); font-weight: 500; }
+  .pill { display: inline-block; padding: 1px 8px; border-radius: 99px; font-size: 12px; font-family: var(--mono); border: 1px solid var(--line); }
+  .done { color: var(--accent); border-color: #4a5a2a; } .failed { color: var(--bad); border-color: #5a2a2a; }
+  .running, .awaiting_decision { color: var(--warn); border-color: #5a4a2a; }
+  .muted { color: var(--muted); } .mono { font-family: var(--mono); font-size: 12px; }
+  .row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  img.sheet { width: 100%; border-radius: 8px; border: 1px solid var(--line); display: block; }
+  .thumbs { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 8px; }
+  .thumbs img { width: 100%; border-radius: 6px; }
+  video { width: 100%; border-radius: 10px; background: #000; }
+  .swatch { width: 28px; height: 28px; border-radius: 6px; border: 1px solid var(--line); padding: 0; }
+  .log { font-family: var(--mono); font-size: 12px; max-height: 340px; overflow: auto; white-space: pre-wrap; background: var(--panel2); border-radius: 8px; padding: 10px; }
+  .drop { border: 2px dashed var(--line); border-radius: 12px; padding: 24px; text-align: center; color: var(--muted); }
+  .drop.over { border-color: var(--accent); color: var(--accent); }
+  .err { color: var(--bad); white-space: pre-wrap; font-family: var(--mono); font-size: 12px; }
+  .scroll { overflow-x: auto; }
+  @media (max-width: 640px) { main { padding: 16px; } header { padding: 10px 16px; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Reel<span>Forge</span></h1>
+  <select id="proj"></select>
+  <button id="newBtn">New project</button>
+  <nav id="tabs"></nav>
+</header>
+<main id="main"><p class="muted">Loading…</p></main>
+<script>
+const $ = (s, el = document) => el.querySelector(s);
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const api = async (path, opts = {}) => {
+  const r = await fetch(path, { headers: { "Content-Type": "application/json" }, ...opts, body: opts.body && typeof opts.body !== "string" && !(opts.body instanceof FormData) ? JSON.stringify(opts.body) : opts.body });
+  if (!r.ok) throw new Error((await r.json().catch(() => ({ detail: r.statusText }))).detail);
+  return r.json();
+};
+const TABS = ["Run", "Brief", "Brand", "Assets", "Review", "Deliverables"];
+let state = { project: null, tab: localStorage.getItem("rf.tab") || "Run", info: null, logSince: 0, logs: [] };
+const file = (p) => `/files/${encodeURIComponent(state.project)}/${p}`;
+
+async function loadProjects() {
+  const ps = await api("/api/projects");
+  const sel = $("#proj");
+  sel.innerHTML = ps.map((p) => `<option value="${esc(p.name)}">${esc(p.name)} · ${p.stages_done}/11</option>`).join("") || `<option value="">no projects</option>`;
+  const saved = localStorage.getItem("rf.project");
+  state.project = ps.find((p) => p.name === saved) ? saved : ps[0]?.name || null;
+  sel.value = state.project || "";
+  render();
+}
+$("#proj").onchange = (e) => { state.project = e.target.value; localStorage.setItem("rf.project", state.project); state.logs = []; state.logSince = 0; render(); };
+$("#newBtn").onclick = async () => {
+  const name = prompt("Project name (slug):");
+  if (!name) return;
+  const demo = confirm("Build the offline demo fixture? (OK = demo with synthetic capture/music/GLB, Cancel = blank from the Vi3W template)");
+  await api("/api/projects", { method: "POST", body: { name, demo } });
+  localStorage.setItem("rf.project", name);
+  loadProjects();
+};
+function tabs() {
+  $("#tabs").innerHTML = TABS.map((t) => `<button class="${t === state.tab ? "on" : ""}" data-t="${t}">${t}</button>`).join("");
+  $("#tabs").querySelectorAll("button").forEach((b) => (b.onclick = () => { state.tab = b.dataset.t; localStorage.setItem("rf.tab", state.tab); render(); }));
+}
+async function render() {
+  tabs();
+  if (!state.project) { $("#main").innerHTML = `<div class="card"><p>No projects yet. Click <b>New project</b>.</p></div>`; return; }
+  state.info = await api(`/api/p/${state.project}`);
+  ({ Run: viewRun, Brief: viewBrief, Brand: viewBrand, Assets: viewAssets, Review: viewReview, Deliverables: viewDeliv })[state.tab]();
+}
+
+// ---------------------------------------------------------------- Run monitor
+function viewRun() {
+  const i = state.info, st = i.state.stages || {};
+  const job = i.jobs;
+  $("#main").innerHTML = `
+  <div class="grid">
+    <div class="card"><h3>Stages</h3>
+      <table>${i.stages.map((s) => { const x = st[s.id] || {}; return `<tr><td class="mono">${s.id}</td><td>${s.name}</td>
+        <td><span class="pill ${x.status || ""}">${x.status || "–"}</span> ${x.decision ? `<span class="mono muted">${esc(x.decision)}</span>` : ""}</td>
+        <td><button data-stage="${s.id}">run</button></td></tr>`; }).join("")}</table>
+      <div class="row" style="margin-top:12px"><button class="primary" id="runAll">Run pipeline</button><label class="row"><input type="checkbox" id="force"> force</label></div>
+    </div>
+    <div class="card"><h3>Job</h3>
+      ${job ? `<p><span class="pill ${job.status}">${job.status}</span> ${esc(job.what)}</p>${job.error ? `<div class="err">${esc(job.error)}</div>` : ""}${job.result ? `<pre class="log">${esc(JSON.stringify(job.result, null, 1)).slice(0, 4000)}</pre>` : ""}` : `<p class="muted">idle</p>`}
+      <h3 style="margin-top:16px">Costs</h3>
+      <table>${Object.entries(i.costs).map(([k, v]) => `<tr><td>${k}</td><td class="mono">${v}</td></tr>`).join("") || `<tr><td class="muted">nothing spent</td></tr>`}
+      <tr><td class="muted">budgets</td><td class="mono">fal $${i.budgets.fal_usd} · llm $${i.budgets.llm_usd} · credits ${i.budgets.app_credits}</td></tr></table>
+    </div>
+    <div class="card" style="grid-column: 1 / -1"><h3>Approval gates · pending decisions (${i.pending.length})</h3>
+      ${i.pending.map((d) => `<details><summary><b>${esc(d.decision)}</b> <span class="muted">${esc(d.task.slice(0, 140))}…</span></summary>
+        <p class="muted">Images: ${(d.images || []).map((x) => esc(x.split("/").slice(-2).join("/"))).join(", ") || "none"}</p>
+        <details><summary class="muted">context + schema</summary><pre class="log">${esc(JSON.stringify({ context: d.context, output_schema: d.output_schema }, null, 1)).slice(0, 20000)}</pre></details>
+        <textarea data-ans="${esc(d.decision)}" style="min-height:160px" placeholder="JSON answer matching output_schema"></textarea>
+        <button class="primary" data-submit="${esc(d.decision)}">Submit answer</button></details>`).join("") || `<p class="muted">None. With an API key set, decisions are made automatically. Without one, they appear here or go to Claude Code via the MCP tools.</p>`}
+    </div>
+    <div class="card" style="grid-column: 1 / -1"><h3>Live log</h3><div class="log" id="log"></div></div>
+  </div>`;
+  $("#main").querySelectorAll("[data-stage]").forEach((b) => (b.onclick = () => go({ stage: b.dataset.stage, force: $("#force").checked })));
+  $("#runAll").onclick = () => go({ pipeline: true });
+  $("#main").querySelectorAll("[data-submit]").forEach((b) => (b.onclick = async () => {
+    try { await api(`/api/p/${state.project}/decisions/${b.dataset.submit}`, { method: "POST", body: { answer: $(`[data-ans="${b.dataset.submit}"]`).value } }); alert("Saved. Re-run the stage to validate."); }
+    catch (e) { alert(e.message); }
+  }));
+  pollLog();
+}
+async function go(body) {
+  try { await api(`/api/p/${state.project}/run`, { method: "POST", body }); } catch (e) { alert(e.message); }
+  setTimeout(render, 400);
+}
+async function pollLog() {
+  if (state.tab !== "Run" || !$("#log")) return;
+  const recs = await api(`/api/p/${state.project}/logs?since=${state.logSince}`);
+  if (recs.length) { state.logSince = recs[recs.length - 1].t; state.logs = state.logs.concat(recs).slice(-400); }
+  const el = $("#log");
+  el.textContent = state.logs.map((r) => `${new Date(r.t * 1000).toLocaleTimeString()} [${r.stream}] ${JSON.stringify(Object.fromEntries(Object.entries(r).filter(([k]) => !["t", "stream", "result"].includes(k))))}`).join("\n");
+  el.scrollTop = el.scrollHeight;
+  if (state.info?.jobs?.status === "running") { const prev = state.info.jobs.status; const i = await api(`/api/p/${state.project}`); if (i.jobs?.status !== prev) return render(); state.info = i; }
+  setTimeout(pollLog, 2000);
+}
+
+// ---------------------------------------------------------------- Brief
+function viewBrief() {
+  const i = state.info;
+  $("#main").innerHTML = `<div class="grid">
+    <div class="card"><h3>brief.yaml</h3><textarea id="brief">${esc(i.brief_yaml)}</textarea>
+      <div class="row" style="margin-top:8px"><button class="primary" id="saveBrief">Save</button><button id="normalise">Normalise with AI (D2 → beats)</button><span id="briefMsg" class="muted"></span></div></div>
+    <div class="card"><h3>Beat sheet</h3>${i.beats ? i.beats.cuts.map((c) => `<p><b>${esc(c.cut)}</b></p><div class="scroll"><table><tr><th>id</th><th>start</th><th>dur</th><th>kind</th><th>headline</th><th>caption</th></tr>
+      ${c.beats.map((b) => `<tr><td class="mono">${esc(b.id)}</td><td class="mono">${b.start}</td><td class="mono">${b.dur}</td><td>${esc(b.kind)}</td><td>${esc(b.headline)}</td><td class="muted">${esc(b.caption)}</td></tr>`).join("")}</table></div>`).join("") : `<p class="muted">No beats yet. Run S1/S2, or click Normalise.</p>`}
+    </div></div>`;
+  $("#saveBrief").onclick = async () => { try { await api(`/api/p/${state.project}/brief`, { method: "PUT", body: { yaml: $("#brief").value } }); $("#briefMsg").textContent = "saved ✓"; } catch (e) { $("#briefMsg").textContent = e.message; } };
+  $("#normalise").onclick = async () => { await api(`/api/p/${state.project}/brief`, { method: "PUT", body: { yaml: $("#brief").value } }); go({ stage: "S2", force: true }); state.tab = "Run"; };
+}
+
+// ---------------------------------------------------------------- Brand
+const PRESETS = { snappy: { default_ease: "outExpo", ui_spring: { damping: 13 } }, calm: { default_ease: "calm", ui_spring: { damping: 22 } }, apple: { default_ease: "inOutCubic", ui_spring: { damping: 18 } } };
+async function viewBrand() {
+  const b = structuredClone(state.info.brand);
+  const contrast = await api(`/api/p/${state.project}/brand/contrast`);
+  const flat = Object.entries(b.colors).flatMap(([k, v]) => (Array.isArray(v) ? v.map((c, j) => [`${k}.${j}`, c]) : [[k, v]]));
+  $("#main").innerHTML = `<div class="grid">
+    <div class="card"><h3>Colours (preview on ink)</h3>
+      <table>${flat.map(([k, c]) => { const ct = contrast.find((x) => x.color.toLowerCase() === String(c).toLowerCase()); return `<tr><td class="mono">${k}</td><td><input type="color" class="swatch" data-c="${k}" value="${c}"></td>
+        <td><span style="background:${b.colors.ink};color:${c};padding:4px 10px;border-radius:6px;font-weight:700">Aa Sample</span></td>
+        <td class="mono ${ct?.warn ? "failed" : "muted"}">${ct ? ct.ratio + ":1" + (ct.warn ? " low contrast" : "") : ""}</td></tr>`; }).join("")}</table></div>
+    <div class="card"><h3>Type + motion</h3>
+      ${["display", "body", "mono"].map((r) => `<p><label>${r} font <input data-font="${r}" value="${esc(b.fonts[r] || "")}" placeholder="Family:weight"></label></p>`).join("")}
+      <p><label>Easing preset <select id="preset"><option value="">custom</option>${Object.keys(PRESETS).map((k) => `<option>${k}</option>`).join("")}</select></label> <span class="mono muted">${esc(JSON.stringify(b.motion))}</span></p>
+      <p><label>Accent rules<br><input id="accentRules" style="width:100%" value="${esc(b.accent_rules)}"></label></p>
+      <p><label>Motif<br><input id="motif" style="width:100%" value="${esc(b.motif)}"></label></p>
+      <button class="primary" id="saveBrand">Save brand.json</button> <span id="brandMsg" class="muted"></span>
+    </div></div>`;
+  $("#main").querySelectorAll("[data-c]").forEach((el) => (el.oninput = () => { const [k, j] = el.dataset.c.split("."); if (j !== undefined) b.colors[k][+j] = el.value; else b.colors[k] = el.value; }));
+  $("#main").querySelectorAll("[data-font]").forEach((el) => (el.oninput = () => (b.fonts[el.dataset.font] = el.value)));
+  $("#preset").onchange = (e) => { if (PRESETS[e.target.value]) b.motion = { ...b.motion, ...PRESETS[e.target.value] }; };
+  $("#saveBrand").onclick = async () => {
+    b.accent_rules = $("#accentRules").value; b.motif = $("#motif").value;
+    try { await api(`/api/p/${state.project}/brand`, { method: "PUT", body: b }); state.info.brand = b; viewBrand(); } catch (e) { $("#brandMsg").textContent = e.message; }
+  };
+}
+
+// ---------------------------------------------------------------- Assets
+async function viewAssets() {
+  const assets = await api(`/api/p/${state.project}/assets`);
+  const kinds = ["logo", "music", "sfx", "hdri", "photo", "video", "image", "font", "glb", "other"];
+  $("#main").innerHTML = `<div class="card"><div class="drop" id="drop">Drop files here to add them to the library, or <input type="file" id="pick" multiple></div></div>
+  <div class="card" style="margin-top:16px"><h3>Labelled assets: AI picks per beat; Python enforces "never"</h3><div class="scroll"><table>
+    <tr><th></th><th>file</th><th>kind</th><th>use (beats/kinds)</th><th>never</th><th>licence</th><th>notes</th><th>auto-tags</th></tr>
+    ${assets.map((a, i) => `<tr data-i="${i}">
+      <td>${/\.(png|jpe?g|webp)$/i.test(a.file) && a.exists ? `<img src="${file(a.file)}" style="width:72px;border-radius:6px">` : ""}</td>
+      <td class="mono">${esc(a.file)}${a.exists ? "" : ` <span class="failed">missing</span>`}</td>
+      <td><select data-k="kind">${kinds.map((k) => `<option ${k === a.kind ? "selected" : ""}>${k}</option>`).join("")}</select></td>
+      <td><input data-k="use" value="${esc((a.use || []).join(", "))}"></td>
+      <td><input data-k="never" value="${esc((a.never || []).join(", "))}"></td>
+      <td><input data-k="licence" value="${esc(a.licence || "")}"></td>
+      <td><input data-k="notes" value="${esc(a.notes || "")}"></td>
+      <td class="mono muted">${[a.dims, a.duration && a.duration + "s", a.size_kb && a.size_kb + "KB"].filter(Boolean).join(" · ")}
+        ${(a.colours || []).map((c) => `<span title="${c}" style="display:inline-block;width:12px;height:12px;border-radius:3px;background:${c}"></span>`).join("")}</td></tr>`).join("")}
+  </table></div><button class="primary" id="saveAssets" style="margin-top:10px">Save manifest</button></div>`;
+  const upload = async (files) => { const fd = new FormData(); [...files].forEach((f) => fd.append("files", f)); await fetch(`/api/p/${state.project}/assets/upload`, { method: "POST", body: fd }); viewAssets(); };
+  const drop = $("#drop");
+  drop.ondragover = (e) => { e.preventDefault(); drop.classList.add("over"); };
+  drop.ondragleave = () => drop.classList.remove("over");
+  drop.ondrop = (e) => { e.preventDefault(); drop.classList.remove("over"); upload(e.dataTransfer.files); };
+  $("#pick").onchange = (e) => upload(e.target.files);
+  $("#saveAssets").onclick = async () => {
+    const list = $("#main").querySelectorAll("tr[data-i]");
+    const out = [...list].map((tr) => { const a = assets[+tr.dataset.i]; const g = (k) => tr.querySelector(`[data-k=${k}]`).value;
+      const arr = (s) => s.split(",").map((x) => x.trim()).filter(Boolean);
+      return { file: a.file, kind: g("kind"), use: arr(g("use")), never: arr(g("never")), licence: g("licence") || null, notes: g("notes") || null }; });
+    try { await api(`/api/p/${state.project}/assets`, { method: "PUT", body: out }); viewAssets(); } catch (e) { alert(e.message); }
+  };
+}
+
+// ---------------------------------------------------------------- Review gallery
+async function viewReview() {
+  const r = await api(`/api/p/${state.project}/reviews`);
+  const its = r.iterations.slice().reverse();
+  $("#main").innerHTML = `<div class="row" style="margin-bottom:12px"><button class="primary" id="iter">Run one review iteration (S9)</button><button id="ev">Build evidence pack only</button></div>
+  ${r.scoreboard ? `<div class="card"><h3>Scoreboard</h3><pre class="log">${esc(r.scoreboard)}</pre></div>` : ""}
+  ${its.map((it) => `<div class="card" style="margin-top:16px"><h3>${it.iteration} ${it.scores ? `· total ${it.scores.total} · ${esc(it.scores.decision)}` : ""}</h3>
+    ${it.review ? diffTable(it.review) : ""}
+    ${it.fixplan ? `<details><summary>Fix plan: apply ${it.fixplan.apply.length}, skip ${it.fixplan.skip.length}${it.fixplan.needs_asset?.length ? ", needs asset" : ""}</summary><pre class="log">${esc(JSON.stringify(it.fixplan, null, 1))}</pre></details>` : ""}
+    ${it.sheets.map((s) => `<p class="mono muted">${esc(s)}</p><img class="sheet" loading="lazy" src="${file(s)}">`).join("")}
+    ${it.waves.map((s) => `<img class="sheet" style="margin-top:6px" loading="lazy" src="${file(s)}">`).join("")}
+    <div class="thumbs" style="margin-top:10px">${it.stills.map((s) => `<a href="${file(s)}" target="_blank"><img loading="lazy" src="${file(s)}"></a>`).join("")}</div></div>`).join("") || `<div class="card muted">No review iterations yet.</div>`}`;
+  $("#iter").onclick = () => { go({ stage: "S9", force: true, options: { iterations: (state.info.state.iteration || 0) + 1 } }); state.tab = "Run"; };
+  $("#ev").onclick = async () => { await api(`/api/p/${state.project}/evidence`, { method: "POST", body: {} }); state.tab = "Run"; render(); };
+}
+function diffTable(rv) {
+  const s = Object.fromEntries((rv.self?.scores || []).map((x) => [x.dimension, x]));
+  const f = Object.fromEntries((rv.fresh?.scores || []).map((x) => [x.dimension, x]));
+  const dims = [...new Set([...Object.keys(s), ...Object.keys(f)])];
+  return `<div class="scroll"><table><tr><th>dimension</th><th>self</th><th>fresh</th><th>merged</th><th>evidence</th></tr>${dims.map((d) => {
+    const a = s[d]?.score, b = f[d]?.score, m = rv.merged?.dimensions?.[d];
+    return `<tr><td>${d}</td><td class="mono">${a ?? "–"}</td><td class="mono">${b ?? "–"}</td><td class="mono ${a != null && b != null && Math.abs(a - b) > 1 ? "failed" : ""}">${m ?? "–"}</td><td class="muted">${esc([...(s[d]?.evidence || []), ...(f[d]?.evidence || [])].slice(0, 3).join(" | "))}</td></tr>`; }).join("")}</table></div>
+    ${(rv.merged?.issues || []).length ? `<details><summary>Issues (${rv.merged.issues.length})</summary><table>${rv.merged.issues.map((x) => `<tr><td><span class="pill ${x.severity === "high" ? "failed" : x.severity === "medium" ? "running" : ""}">${x.severity}</span></td><td class="mono">${esc(x.timecode)}</td><td>${esc(x.problem)}<br><span class="muted">${esc(x.fix)}</span></td><td class="mono">${x.tag}</td></tr>`).join("")}</table></details>` : ""}`;
+}
+
+// ---------------------------------------------------------------- Deliverables
+async function viewDeliv() {
+  const d = await api(`/api/p/${state.project}/deliverables`);
+  const vids = d.files.filter((f) => f.endsWith(".mp4"));
+  $("#main").innerHTML = `<div class="grid">${vids.map((v) => `<div class="card"><h3>${esc(v)}</h3><video controls preload="metadata" src="${file("render/out/" + v)}"></video>
+     <p><a style="color:var(--accent)" download href="${file("render/out/" + v)}">download</a></p></div>`).join("") || `<div class="card muted">No masters yet. Run S8.</div>`}</div>
+   ${d.spec_table ? `<div class="card" style="margin-top:16px"><h3>Spec table</h3><pre class="log">${esc(d.spec_table)}</pre></div>` : ""}
+   <div class="card" style="margin-top:16px"><h3>Other files</h3>${d.files.filter((f) => !f.endsWith(".mp4")).map((f) => `<a class="mono" style="color:var(--accent);margin-right:14px" href="${file("render/out/" + f)}" target="_blank">${esc(f)}</a>`).join("")}</div>
+   ${d.storyboard.length ? `<div class="card" style="margin-top:16px"><h3>Storyboard</h3>${d.storyboard.map((s) => `<img class="sheet" style="margin-bottom:8px" src="${file(s)}">`).join("")}</div>` : ""}`;
+}
+loadProjects().catch((e) => ($("#main").innerHTML = `<div class="err">${esc(e.message)}</div>`));
+</script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+# Hook → 3D: the sea-serpent slide from "PLAYGROUND - trailer" (7M views, @rodrigosousa8853).
+# Permission: yes (assets/permission.md, 2026-10-29).
+# Model: assets/dragon.glb is the untouched Vi3W export. assets/model.glb = dragon.glb minus two loose parts past the
+# tail (the playground pole occluding it in subject.png, rebuilt as geometry, and a hollow fin fragment), removed by
+# tools/clean_tail.py. Body and texture are untouched; the reveal label says so. No screen recording, so no timer.
+# ref/ is the analysis copy (10 s) and is never rendered.
+title: playground-serpent
+source: {url: 'https://www.youtube.com/shorts/P8U22dvli4w', creator: '@rodrigosousa8853', rights: permission, proof: assets/permission.md}
+hook: {text: 'Wait… what if this was *3D*?', seconds: 2.5}
+credit: '🎥 PLAYGROUND · @rodrigosousa8853'
+sfx: true
+segments:
+- {id: hook, type: source, src: assets/source.mp4, in: 1.8, out: 4.0, fit: frame, gain: 0.8}  # frame, not crop: the serpent spans the full 16:9 width
+# turntable.mp4 = model.glb rendered by src/reelforge/blender/turntable.py (Blender; lighting/camera only). The in-browser GLB turntable rendered blank.
+- {id: reveal, type: reveal, before: assets/subject.png, before_label: SCREENSHOT, after: assets/turntable.mp4, seconds: 6, label: 'Vi3W output · stray pole removed'}
+# turntable-cta.mp4 = turntable.mp4 from 5 s (150°): other profile → 3/4 → ends head-on, mouth open.
+- {id: spin, type: cta, seconds: 4.6, after: assets/turntable-cta.mp4, line: 'One screenshot → *3D*'}
+vo:
+- {at: reveal, offset: 0.2, text: "Okay, but what if that slide was a real 3D model? One screenshot into Vi3W…"}
+- {at: spin, offset: 0.1, text: "…and it's a full 3D model. [excited] What should we 3D next? Comment it!"}
+post:
+  caption: 'This sea-serpent slide from PLAYGROUND by @rodrigosousa8853 deserved to be real 🐉
+
+    One screenshot → 3D model with Vi3W (we only removed a playground pole it rebuilt by the tail).
+
+    What should we 3D next? 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [gamedev, 3dmodeling, indiedev, animation, imageto3d, vi3w]

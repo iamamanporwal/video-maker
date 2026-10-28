@@ -1,0 +1,15 @@
+- file: assets/logo-still.png
+  kind: logo
+  use: [title_sting, end_card]
+  never: [over_product_ui, product_shot]
+- file: assets/music/hero.mp3
+  kind: music
+  licence: "generated, ElevenLabs via fal"
+  use: [hero]
+- file: assets/hdri/studio_small_03_1k.hdr
+  kind: hdri
+  use: [3d_stage]
+- file: assets/photos/desk-real.jpg
+  kind: photo
+  use: [cold_open, end_room]
+  notes: "real desk; preferred over the vector room"

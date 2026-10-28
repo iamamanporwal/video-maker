@@ -1,0 +1,25 @@
+# GTA frog series, ep 3 (audience: game modders + game devs). Shared assets/permission: see ep1-stopped/reel.yaml.
+# Hook: "GTA V Franklin Questioned Frog | Then He Saw What Was Inside" (9.9M views): the frog rises out of the
+# water by the puppies (~7 s) and throws a manhole cover at a car. The first 7 s (no frog) are skipped.
+title: gta-frog-ep3-questioned
+source: {url: 'https://www.youtube.com/shorts/YTppMLRfBAI', creator: '@AvunHub', rights: permission, proof: ../assets/permission.md}
+hook: {text: 'Modders, you need *this* 🐸', seconds: 2.4}
+credit: '🎥 @AvunHub'
+sfx: true
+segments:
+- {id: hook, type: source, src: ../assets/questioned.mp4, in: 7.0, out: 13.0, fit: crop, gain: 0}
+- {id: reveal, type: reveal, before: ../assets/subject-card.png, before_label: SCREENSHOT, after: ../assets/turntable.mp4, seconds: 6, label: 'Real Vi3W output · unedited'}
+- {id: spin, type: cta, seconds: 6.6, after: ../assets/turntable-cta.mp4, line: 'See it → screenshot it → *3D*'}
+vo:
+- {at: 0.4, text: "Every modder knows this moment. You see a character… and you think, I need that model."}
+- {at: reveal, offset: 0.2, text: "So here's the trick. Screenshot. Vi3W. Three clicks."}
+- {at: spin, offset: 0.1, text: "[excited] And he's 3D! Front, back, everything. Comment your mod idea!"}
+post:
+  caption: 'You see a mod character and think: I NEED that model 🐸 Here''s the trick.
+
+    Screenshot → Vi3W → full 3D model. Clip: @AvunHub
+
+    Comment the mod character you want in 3D 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [gta5mods, gtamods, gta5, modding, gamedev, 3dmodeling, imageto3d, vi3w]

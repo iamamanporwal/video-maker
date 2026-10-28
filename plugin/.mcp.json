@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "reelforge": {
+      "command": "uv",
+      "args": ["run", "--directory", "${CLAUDE_PLUGIN_ROOT}/..", "reelforge-mcp"],
+      "env": { "REELFORGE_DECIDER": "agent" }
+    }
+  }
+}

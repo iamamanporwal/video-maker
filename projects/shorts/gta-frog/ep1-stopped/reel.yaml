@@ -1,0 +1,27 @@
+# GTA frog series, ep 1 (audience: game modders + game devs). Shared assets in ../assets:
+#   frog.glb (Vi3W output of subject.png, unedited) → turntable.mp4 via src/reelforge/blender/turntable.py.
+#   Permission: ../assets/permission.md (@AvunHub, 2026-10-29). Source audio muted: their Shorts may carry
+#   licensed music the permission doesn't cover; add trending audio in-app.
+# Hook: "Frog Stopped Franklin Just In Time To Save Him In GTA 5" (20M views): trap → bike pops at ~5.5 s.
+title: gta-frog-ep1-stopped
+source: {url: 'https://www.youtube.com/shorts/5AM8j4jIJ_I', creator: '@AvunHub', rights: permission, proof: ../assets/permission.md}
+hook: {text: '20M views… now he''s *3D* 🐸', seconds: 2.4}
+credit: '🎥 @AvunHub'
+sfx: true
+segments:
+- {id: hook, type: source, src: ../assets/stopped.mp4, in: 0.0, out: 6.0, fit: crop, gain: 0}
+- {id: reveal, type: reveal, before: ../assets/subject-card.png, before_label: SCREENSHOT, after: ../assets/turntable.mp4, seconds: 6, label: 'Real Vi3W output · unedited'}
+- {id: spin, type: cta, seconds: 7.8, after: ../assets/turntable-cta.mp4, line: 'One screenshot → *3D*'}
+vo:
+- {at: 0.4, text: "[excited] Twenty million people watched this frog save Franklin. Modders… watch this."}
+- {at: reveal, offset: 0.2, text: "I took one screenshot of him, dropped it into Vi3W… three clicks…"}
+- {at: spin, offset: 0.1, text: "[excited] …and boom. A textured 3D model, already T-posed. Make yours at Vi3W.in!"}
+post:
+  caption: 'This frog saved Franklin in front of 20M people 🐸 So we turned him into a real 3D model.
+
+    One screenshot → textured 3D model in T-pose with Vi3W. Clip: @AvunHub
+
+    Which GTA mod should we 3D next? 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [gta5mods, gtamods, gta5, modding, gamedev, 3dmodeling, imageto3d, vi3w]

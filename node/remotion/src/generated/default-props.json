@@ -1,0 +1,25 @@
+{
+  "assetBase": "",
+  "takes": {},
+  "sfxFiles": {},
+  "timeline": {
+    "version": 1,
+    "project": "empty",
+    "brand": {},
+    "cuts": [
+      {
+        "name": "demo",
+        "fps": 30,
+        "durationInFrames": 90,
+        "formats": ["16x9"],
+        "bpm": 120,
+        "scenes": [
+          { "id": "card", "kind": "end_card", "from": 0, "duration": 90, "props": { "wordmark": "ReelForge", "tagline": "Run `reelforge render` with a project." } }
+        ],
+        "sfx": [],
+        "captions": [],
+        "music": []
+      }
+    ]
+  }
+}

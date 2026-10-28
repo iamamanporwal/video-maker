@@ -1,0 +1,25 @@
+# Game reel: Street Dodge (creator agreed to be featured). Gameplay only; no Vi3W capture yet, so no reveal.
+title: street-dodge
+hook: {text: Near miss at *full boost* 😱, seconds: 2.4}
+credit: 🎮 Street Dodge · made with Vi3W models
+segments:
+- {id: open, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.29.58 PM.mov, in: 31.0, out: 33.5, fit: crop, focus: 0.5, zoom: 1.25}
+- {id: left, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.29.58 PM.mov, in: 7.0, out: 9.5, fit: crop, focus: 0.45, zoom: 1.25}
+- {id: weave, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.29.58 PM.mov, in: 19.0, out: 22.5, fit: crop, focus: 0.5, zoom: 1.25}
+- {id: crash, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.29.58 PM.mov, in: 39.0, out: 42.8, fit: crop, focus: 0.5, zoom: 1.25}
+- {id: cta, type: cta, seconds: 3.6, after: assets/cta.png, line: Make your own ride at *Vi3W.in*, button: Tag that friend 😭}
+vo:
+- {at: 0.1, text: '[gasps] Nope. Nope! That was way too close.'}
+- {at: left, offset: 0.1, text: 'Street Dodge! That truck? Made with Vi3W.'}
+- {at: weave, offset: 1.0, text: 'Dodge, boost, grab the coins…'}
+- {at: crash, offset: 1.7, text: '[laughs] annnd it''s gone.'}
+- {at: cta, offset: 0.1, text: Tag the friend who drives exactly like this!}
+post:
+  caption: 'Dodge. Boost. Crash. Repeat 🚚💥
+
+    Street Dodge — the truck was made with Vi3W.
+
+    Tag the friend who drives exactly like this 😭 Make yours at Vi3W.in
+
+    '
+  hashtags: [gamedev, indiegame, indiedev, 3dmodeling, sketchto3d, browsergame, vi3w]

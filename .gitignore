@@ -1,0 +1,30 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+projects/*/capture/
+projects/*/render/
+projects/*/audio/
+projects/*/video_gen/
+projects/*/review/
+.pytest_cache/
+dist/
+
+# OS
+.DS_Store
+
+# Raw footage and rendered output (too large for git)
+Input/
+Output/
+*.mov
+*.mp4
+*.webm
+*.mkv
+
+# Nested git repos / generated project workspaces
+projects/artist-who-couldnt-create/
+projects/demo/
+projects/shorts/*/public/clips/
+projects/shorts/*/*/public/clips/
+projects/shorts/**/out/

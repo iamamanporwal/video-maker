@@ -1,0 +1,7 @@
+{
+  "name": "reelforge",
+  "version": "0.1.0",
+  "description": "AI-directed product launch films: real product capture, Remotion compositing, measured mastering and a scored review loop. Python does the operations; Claude makes the decisions.",
+  "author": { "name": "Aman Porwal" },
+  "keywords": ["video", "remotion", "launch", "playwright", "marketing"]
+}

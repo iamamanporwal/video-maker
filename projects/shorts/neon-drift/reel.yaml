@@ -1,0 +1,27 @@
+# Game reel: Neon Drift (creator agreed to be featured). Gameplay only; no Vi3W capture yet, so no reveal.
+title: neon-drift
+hook: {text: 'Can you survive *1 km*? 😤', seconds: 2.4}
+credit: 🎮 Neon Drift · made with Vi3W models
+segments:
+- {id: open, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.19.08 PM.mov, in: 17.0, out: 19.5, fit: crop, focus: 0.5, zoom: 1.12}
+- {id: cells, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.19.08 PM.mov, in: 8.0, out: 11.0, fit: crop, focus: 0.5, zoom: 1.12}
+- {id: fast, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.19.08 PM.mov, in: 25.5, out: 28.0, fit: crop, focus: 0.5, zoom: 1.12}
+- {id: km, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.19.08 PM.mov, in: 31.0, out: 33.5, fit: crop, focus: 0.5, zoom: 1.12}
+- {id: close, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.19.08 PM.mov, in: 35.0, out: 37.5, fit: crop, focus: 0.4, zoom: 1.12}
+- {id: top, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.19.08 PM.mov, in: 39.5, out: 41.5, fit: crop, focus: 0.5, zoom: 1.12}
+- {id: cta, type: cta, seconds: 3.6, after: assets/cta.png, line: Sketch it → drive it at *Vi3W.in*, button: Comment your dream car 👇}
+vo:
+- {at: 0.1, text: '[excited] Bet you can''t survive one kilometer in this.'}
+- {at: cells, offset: 0.1, text: 'Neon Drift! Synthwave city, laser walls, and every 3D model came from Vi3W.'}
+- {at: km, offset: 0.0, text: 'One K! [laughs] And it just keeps getting faster…'}
+- {at: top, offset: 0.0, text: 'Two hundred and ten?! Nope!'}
+- {at: cta, offset: 0.1, text: '[excited] Which car should we build next? Comment it!'}
+post:
+  caption: '1 km. 210 km/h. Zero chill 🌆🏎️ How far would YOU get?
+
+    Neon Drift — every 3D model made with Vi3W.
+
+    Comment the car we should build next 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [gamedev, indiegame, synthwave, indiedev, 3dmodeling, sketchto3d, vi3w]

@@ -1,0 +1,25 @@
+# GTA frog series, ep 2 (audience: game modders + game devs). Shared assets/permission: see ep1-stopped/reel.yaml.
+# Hook: "Franklin Discovered Frog Saved Him From A Dangerous Trap In GTA 5" (13M views): the clip subject.png
+# was taken from (2.5 s), so the screenshot in the reveal is from this exact hook.
+title: gta-frog-ep2-trap
+source: {url: 'https://www.youtube.com/shorts/044-KxIwa0A', creator: '@AvunHub', rights: permission, proof: ../assets/permission.md}
+hook: {text: 'No Blender. No sculpting. *One screenshot.*', seconds: 2.4}
+credit: '🎥 @AvunHub'
+sfx: true
+segments:
+- {id: hook, type: source, src: ../assets/trap.mp4, in: 0.0, out: 6.0, fit: crop, gain: 0}
+- {id: reveal, type: reveal, before: ../assets/subject-card.png, before_label: SCREENSHOT, after: ../assets/turntable.mp4, seconds: 6, label: 'Real Vi3W output · unedited'}
+- {id: spin, type: cta, seconds: 7.8, after: ../assets/turntable-cta.mp4, line: 'Screenshot → *3D model*'}
+vo:
+- {at: 0.4, text: "This frog mod has thirteen million views. What if you needed him in your game… tonight?"}
+- {at: reveal, offset: 0.2, text: "No Blender. No sculpting. Just this one screenshot, into Vi3W…"}
+- {at: spin, offset: 0.1, text: "[excited] …and there he is. Full 3D, textured, T-posed. Which mod should I 3D next?"}
+post:
+  caption: 'No Blender. No sculpting. One screenshot of this GTA frog → a full 3D model 🐸
+
+    Made with Vi3W. Clip: @AvunHub
+
+    Which mod should we 3D next? Comment it 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [gta5mods, gtamods, gta5, modding, gamedev, indiedev, 3dmodeling, vi3w]

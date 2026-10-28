@@ -1,0 +1,23 @@
+# Game reel: Coin Rush (creator agreed to be featured). Gameplay only; no Vi3W capture yet, so no reveal.
+title: coin-rush
+hook: {text: 'How long can you *last*? 🤖', seconds: 2.3}
+credit: 🎮 Coin Rush · made with Vi3W models
+segments:
+- {id: open, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.25.35 PM.mov, in: 1.0, out: 3.5, fit: crop, focus: 0.5, zoom: 1.1}
+- {id: run, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.25.35 PM.mov, in: 3.5, out: 6.3, fit: crop, focus: 0.5, zoom: 1.1}
+- {id: crash, type: clip, src: ../../../Input/Screen Recording 2026-10-25 at 10.25.35 PM.mov, in: 6.3, out: 9.8, fit: crop, focus: 0.5, zoom: 1.1}
+- {id: cta, type: cta, seconds: 3.9, after: assets/cta.png, line: Make your own hero at *Vi3W.in*, button: Name the robot 👇}
+vo:
+- {at: 0.1, text: '[excited] Okay, how long would you last?'}
+- {at: run, offset: 0.1, text: Coin Rush! This little robot came straight out of Vi3W.}
+- {at: crash, offset: 2.6, text: '[laughs] Crashed. Again.'}
+- {at: cta, offset: 0.1, text: Give this little guy a name in the comments!}
+post:
+  caption: 'One tiny robot vs. a field of rocks 🤖🪨 Best score: 26. Could you beat it?
+
+    Coin Rush — the robot was made with Vi3W.
+
+    Give him a name in the comments 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [gamedev, indiegame, lowpoly, indiedev, 3dmodeling, sketchto3d, vi3w]

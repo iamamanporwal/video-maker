@@ -1,0 +1,10 @@
+{
+  "name": "reelforge-capture",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Playwright + CDP screencast capture driver for ReelForge",
+  "dependencies": {
+    "playwright": "1.63.0"
+  }
+}
