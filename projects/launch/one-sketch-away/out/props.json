@@ -11,42 +11,27 @@
   {
    "type": "clip",
    "from": 0,
-   "dur": 51,
-   "credit": "\ud83c\udfa5 Pxl Pwr",
-   "src": "clips/src-b0a1cd.mp4",
-   "startFrom": 684,
+   "dur": 72,
+   "credit": "\ud83c\udfa5 I Like To Make Stuff",
+   "src": "clips/src-47db35.mp4",
+   "startFrom": 11280,
    "speed": 1,
-   "focus": 0.28,
+   "focus": 0.8,
    "focusY": 0.5,
    "zoom": [
-    1.0,
-    1.06
-   ],
-   "gain": 0
-  },
-  {
-   "type": "clip",
-   "from": 51,
-   "dur": 48,
-   "credit": "\ud83c\udfae Doodle Derby \u00b7 Sagar Prema Rajan",
-   "src": "clips/doodlederby-trailer-1-62730b.mp4",
-   "startFrom": 1140,
-   "speed": 1,
-   "focus": 0.5,
-   "focusY": 0.3,
-   "zoom": [
-    1.45,
-    1.35
+    1.15,
+    1.05
    ],
    "gain": 0
   },
   {
    "type": "image",
-   "from": 99,
-   "dur": 51,
-   "src": "assets/sneaker-sketch.png",
+   "from": 72,
+   "dur": 78,
+   "credit": "\ud83c\udfa5 I Like To Make Stuff",
+   "src": "assets/robot-drawing.png",
    "zoom": [
-    1.25,
+    1.15,
     1.0
    ],
    "paper": true
@@ -141,29 +126,31 @@
    "from": 474,
    "dur": 21,
    "n": 1,
-   "label": "DROP YOUR SKETCH"
+   "label": "SKETCH \u2192 IMAGE"
   },
   {
    "type": "scan",
    "from": 495,
    "dur": 78,
    "before": "assets/robot-drawing.png",
+   "after": "assets/robot0.jpeg",
    "phase": "scan",
-   "label": "SKETCH \u2192 Vi3W"
+   "label": "REAL Vi3W OUTPUT"
   },
   {
    "type": "count",
    "from": 573,
    "dur": 21,
    "n": 2,
-   "label": "HIT GENERATE"
+   "label": "ADD COLOR"
   },
   {
    "type": "scan",
    "from": 594,
    "dur": 60,
-   "before": "assets/robot-drawing.png",
-   "phase": "model",
+   "before": "assets/robot0.jpeg",
+   "after": "assets/robot1.jpeg",
+   "phase": "scan",
    "label": "REAL Vi3W OUTPUT"
   },
   {
@@ -171,16 +158,16 @@
    "from": 654,
    "dur": 21,
    "n": 3,
-   "label": "IT'S 3D"
+   "label": "MAKE IT 3D"
   },
   {
    "type": "scan",
    "from": 675,
    "dur": 48,
-   "before": "assets/sneaker-sketch.png",
-   "after": "assets/sneaker-3d.png",
+   "before": "assets/robot-drawing.png",
+   "glb": "assets/robot.glb",
    "phase": "model",
-   "label": "ROCKET SNEAKER \u00b7 DOODLE DERBY"
+   "label": "REAL Vi3W 3D MODEL"
   },
   {
    "type": "clip",
@@ -359,6 +346,7 @@
    "from": 1317,
    "dur": 156,
    "glbs": [
+    "assets/robot.glb",
     "assets/frog.glb",
     "assets/cat.glb",
     "assets/dragon.glb",
@@ -370,6 +358,7 @@
    "from": 1473,
    "dur": 114,
    "glbs": [
+    "assets/robot.glb",
     "assets/frog.glb",
     "assets/cat.glb",
     "assets/dragon.glb",
@@ -725,8 +714,8 @@
  "titles": [
   {
    "from": 0,
-   "to": 99,
-   "text": "This was a doodle.",
+   "to": 72,
+   "text": "He drew this.",
    "y": 420,
    "size": 128
   }
@@ -742,19 +731,14 @@
  ],
  "sfx": [
   {
-   "src": "sfx/pencil.mp3",
-   "from": 0,
-   "volume": 0.7
-  },
-  {
    "src": "sfx/whoosh.mp3",
-   "from": 46,
+   "from": 68,
    "volume": 0.6
   },
   {
-   "src": "sfx/rewind.mp3",
-   "from": 96,
-   "volume": 0.6
+   "src": "sfx/boom.mp3",
+   "from": 72,
+   "volume": 0.5
   },
   {
    "src": "sfx/tick.mp3",
@@ -775,6 +759,11 @@
    "src": "sfx/click.mp3",
    "from": 573,
    "volume": 1.0
+  },
+  {
+   "src": "sfx/scan.mp3",
+   "from": 597,
+   "volume": 0.6
   },
   {
    "src": "sfx/click.mp3",

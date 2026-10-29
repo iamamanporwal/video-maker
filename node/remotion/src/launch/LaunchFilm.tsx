@@ -112,9 +112,15 @@ const Scan: React.FC<{ s: ScanShot; brand: Brand }> = ({ s, brand }) => {
         <div style={{ position: "absolute", left: 90, right: 90, top: 470, height: 900, overflow: "hidden", borderRadius: 20,
                       boxShadow: "0 30px 80px #0004", transform: `scale(${1 + 0.04 * sweep})` }}>
           <Img src={src(s.before)} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
-          {/* Behind the scan the drawing turns into lime "data". */}
-          <div style={{ position: "absolute", left: 0, right: 0, top: 0, height: `${sweep * 100}%`, background: `${brand.accent}`,
-                        mixBlendMode: "multiply", opacity: 0.55 }} />
+          {/* Behind the scan the drawing becomes the Vi3W output (or lime "data" when there is none yet). */}
+          {s.after ? (
+            <div style={{ position: "absolute", inset: 0, clipPath: `inset(0 0 ${(1 - sweep) * 100}% 0)` }}>
+              <Img src={src(s.after)} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+            </div>
+          ) : (
+            <div style={{ position: "absolute", left: 0, right: 0, top: 0, height: `${sweep * 100}%`, background: `${brand.accent}`,
+                          mixBlendMode: "multiply", opacity: 0.55 }} />
+          )}
           <div style={{ position: "absolute", left: 0, right: 0, top: `${sweep * 100}%`, height: 8, background: brand.accent,
                         boxShadow: `0 0 50px 18px ${brand.accent}AA`, opacity: sweep > 0 && sweep < 1 ? 1 : 0 }} />
         </div>

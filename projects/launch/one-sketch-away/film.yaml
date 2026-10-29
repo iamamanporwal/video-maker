@@ -20,12 +20,13 @@ shots:
 - {type: image, src: assets/robot-drawing.png, paper: true, dur: 2.4, zoom: [1.0, 1.12], credit: "🎥 I Like To Make Stuff"}
 - {type: black, dur: 1.0}
 # ACT 3 · three clicks
-- {type: count, n: 1, label: DROP YOUR SKETCH, dur: 0.7}
-- {type: scan, phase: scan, before: assets/robot-drawing.png, label: "SKETCH → Vi3W", dur: 2.6}
-- {type: count, n: 2, label: HIT GENERATE, dur: 0.7}
-- {type: scan, phase: model, before: assets/robot-drawing.png, glb: assets/robot.glb, label: REAL Vi3W OUTPUT, dur: 2.0}
-- {type: count, n: 3, label: "IT'S 3D", dur: 0.7}
-- {type: scan, phase: model, before: assets/sneaker-sketch.png, after: assets/sneaker-3d.png, label: ROCKET SNEAKER · DOODLE DERBY, dur: 1.6}
+# Real Vi3W chain on the kid's drawing (Input/robot0.jpeg, robot1.jpeg, robot.glb): sketch → image → color → 3D.
+- {type: count, n: 1, label: SKETCH → IMAGE, dur: 0.7}
+- {type: scan, phase: scan, before: assets/robot-drawing.png, after: assets/robot0.jpeg, label: REAL Vi3W OUTPUT, dur: 2.6}
+- {type: count, n: 2, label: ADD COLOR, dur: 0.7}
+- {type: scan, phase: scan, before: assets/robot0.jpeg, after: assets/robot1.jpeg, label: REAL Vi3W OUTPUT, dur: 2.0}
+- {type: count, n: 3, label: MAKE IT 3D, dur: 0.7}
+- {type: scan, phase: model, before: assets/robot-drawing.png, glb: assets/robot.glb, label: REAL Vi3W 3D MODEL, dur: 1.6}
 # ACT 4 · flat becomes real (the drop)
 - {type: clip, src: sources/lostintech/src.mp4, in: 350.0, dur: 1.8, focus: 0.5, credit: "🎥 Lost In Tech"}
 - {type: clip, src: sources/iltms/src.mp4, in: 229.3, dur: 1.6, focus: 0.45, credit: "🎥 I Like To Make Stuff"}
@@ -84,6 +85,7 @@ sfx:
 - {name: click, at: 15.8, volume: 1.0}
 - {name: scan, at: 16.6, volume: 0.6}
 - {name: click, at: 19.1, volume: 1.0}
+- {name: scan, at: 19.9, volume: 0.6}
 - {name: click, at: 21.8, volume: 1.0}
 - {name: riser, at: 22.3, volume: 0.7}
 - {name: boom, at: 24.1, volume: 0.9}

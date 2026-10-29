@@ -11,6 +11,7 @@ Store each creator's reply (screenshot or email) next to this file as `proof-<cr
 | 2AM | https://www.youtube.com/watch?v=FgsSVgeL-l4 | 158–159.6, 440–441.5, 752.5–754 | "the wall" montage |
 | Grant Abbitt | https://www.youtube.com/watch?v=jxrOk1HNrpw | 300–301.2 (cropped to the UI, no face) | "the wall" montage |
 | Pxl Pwr | https://www.youtube.com/watch?v=ucVlmEdoTvA | 22.8–24.5 | opening pencil macro |
+| Jonathan Stephen Harris | https://youtube.com/shorts/I_1nQBOh_oA | 37.6–39.8, 9.4–15.0 (2× speed) | hook A only: the stairs illusion. **Permission requested by Aman — confirm before posting hook A.** |
 
 Game footage (Doodle Derby, Heli Rush, Neon Drift, Street Dodge, Coin Rush, Neon Velocity): creators agreed to be featured.
 Every creator is credited on screen while their footage plays.

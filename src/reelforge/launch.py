@@ -86,9 +86,10 @@ def recut(f: Path, edit: list[dict], out: Path) -> Path:
     return out
 
 
-def build(d: Path, render: bool = True, stills: list[int] | None = None, gen_music: bool = False) -> dict:
+def build(d: Path, render: bool = True, stills: list[int] | None = None, gen_music: bool = False, spec_file: str = "film.yaml",
+          frames: str | None = None) -> dict:
     d = d.resolve()
-    spec = yaml.safe_load((d / "film.yaml").read_text())
+    spec = yaml.safe_load((d / spec_file).read_text())
     fps = int(spec.get("fps", 30))
     pub = d / "public"
     pub.mkdir(exist_ok=True)
@@ -168,7 +169,8 @@ def build(d: Path, render: bool = True, stills: list[int] | None = None, gen_mus
     if render:
         raw = out / f"{title}.raw.mp4"
         _run(base + ["render", "src/launch/index.ts", "LaunchFilm", str(raw), "--codec", "h264", "--crf", "16",
-                     "--pixel-format", "yuv420p", "--image-format", "jpeg", "--jpeg-quality", "95", "--concurrency", "4"] + common, cwd=REMOTION)
+                     "--pixel-format", "yuv420p", "--image-format", "jpeg", "--jpeg-quality", "95", "--concurrency", "4"]
+             + ([f"--frames={frames}"] if frames else []) + common, cwd=REMOTION)
         final = out / f"{title}-9x16.mp4"
         report["master"] = media.master(raw, final)
         raw.unlink(missing_ok=True)
@@ -187,10 +189,12 @@ def main(argv: list[str] | None = None) -> int:
     b.add_argument("--stills", help="comma-separated frames to render as PNGs (fast layout check)")
     b.add_argument("--no-render", action="store_true")
     b.add_argument("--music", action="store_true", help="generate the music if audio/music.mp3 is missing (paid, fal)")
+    b.add_argument("--spec", default="film.yaml", help="spec file in the folder, e.g. a hook variant")
+    b.add_argument("--frames", help="render only this frame range, e.g. 0-299 (a quick preview)")
     a = ap.parse_args(argv)
     try:
         stills = [int(x) for x in a.stills.split(",")] if a.stills else None
-        print(json.dumps(build(a.dir, render=not a.no_render, stills=stills, gen_music=a.music), indent=1, default=str))
+        print(json.dumps(build(a.dir, render=not a.no_render, stills=stills, gen_music=a.music, spec_file=a.spec, frames=a.frames), indent=1, default=str))
     except ReelError as e:
         print(f"error: {e}", file=sys.stderr)
         return 1
