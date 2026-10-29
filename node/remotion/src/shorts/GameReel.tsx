@@ -151,10 +151,12 @@ const Cta: React.FC<{ s: CtaSeg; brand: Brand }> = ({ s, brand }) => {
   const pulse = 1 + 0.04 * Math.sin((f / 30) * Math.PI * 2 * 1.2);
   return (
     <AbsoluteFill style={{ background: `radial-gradient(110% 70% at 50% 45%, #1d2333 0%, ${brand.ink} 75%)` }}>
-      {/* Stacked column between the caption band (~380) and the bottom platform UI (~1540). */}
-      <div style={{ position: "absolute", top: 490, bottom: 380, left: SAFE.left, right: SAFE.left, display: "flex",
+      {s.backdrop && <OffthreadVideo src={src(s.backdrop)} muted style={{ width: "100%", height: "100%", objectFit: "cover" }} />}
+      {/* Stacked column between the caption band (~380) and the bottom platform UI (~1540); with a backdrop the
+          model owns the middle, so line + button drop to the lower third. */}
+      <div style={{ position: "absolute", top: s.backdrop ? 1170 : 490, bottom: 380, left: SAFE.left, right: SAFE.left, display: "flex",
                     flexDirection: "column", alignItems: "center", justifyContent: "center", gap: 44 }}>
-        {(s.after || s.glb) && (
+        {!s.backdrop && (s.after || s.glb) && (
           <div style={{ width: 900, height: 520, borderRadius: 34, overflow: "hidden", transform: `scale(${a})`,
                         boxShadow: `0 40px 90px #000C, 0 0 0 4px ${brand.accent}55` }}>
             {s.after ? (isImage(s.after) ? <Img src={src(s.after)} style={{ width: "100%", height: "100%", objectFit: "cover" }} />

@@ -1,0 +1,15 @@
+# Screenshot → 3D transition for concrete-cat (python -m reelforge.morph projects/shorts/concrete-cat/morph.yaml).
+# Renders: src/reelforge/blender/morph.py cat.glb render/morph -22 42 180 (yaw/elev matched to the 7.0 s frame).
+video: assets/source.mp4
+start: 4.0
+freeze: 7.0
+subject: [200, 240, 527, 853]   # source px at 7.0 s: tail tip → paws
+renders: render/morph
+out: assets/morph.mp4
+cta_out: assets/cta-spin.mp4
+spin_tail: 156
+gain: 0.55
+spin_zoom: 1.4
+center_y: 860
+cta_full_out: assets/cta-full.mp4
+cta_seconds: 6

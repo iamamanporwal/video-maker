@@ -39,6 +39,7 @@ export type CtaSeg = {
   after?: string;
   glb?: string;
   logo?: string;
+  backdrop?: string;      // full-frame video behind the CTA (e.g. a morph spin continuing); replaces the card
 };
 
 export type Seg = ClipSeg | RevealSeg | CtaSeg;

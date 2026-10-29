@@ -1,0 +1,30 @@
+# Hook → 3D: the calico cat from "Le béton était frais" (@ParleursQuotidien, 82M views in 15 days on 2026-10-29).
+# Permission: assets/permission.md (covers the clip and its original audio). The clip looks AI-generated, so the
+# script never calls it real. Source is 720x1280 (YouTube's max); we hold its first 12 of 15 s.
+# Vi3W input: assets/cat-screenshot.png = frame 7.0 s; model: cat.glb (Vi3W output, unedited).
+# Timeline: 0-4 s original clip + original audio, untouched (only the hook title on top) → morph.mp4 (clip continues
+# 4→7 s, freezes on the screenshot frame, scan → wireframe → 3D lifts out and spins; built by
+# `python -m reelforge.morph projects/shorts/concrete-cat/morph.yaml`) → CTA spin.
+title: concrete-cat
+source: {url: 'https://www.youtube.com/shorts/TmUH-3X0yyw', creator: '@ParleursQuotidien', rights: permission, proof: assets/permission.md}
+hook: {text: 'Pause on the cat… 🐾', seconds: 2.4}
+credit: '🎥 @ParleursQuotidien'
+sfx: true
+segments:
+- {id: hook, type: source, src: assets/source.mp4, in: 0.0, out: 4.0, fit: crop, gain: 1.0}
+- {id: morph, type: source, src: assets/morph.mp4, in: 0.0, out: 10.7, fit: crop, gain: 1.0}
+- {id: spin, type: cta, seconds: 6, backdrop: assets/cta-full.mp4, line: 'One screenshot → *3D*'}
+vo:
+- {at: morph, offset: 0.15, text: "[whispers] Wait… pause. Screenshot that cat."}
+- {at: morph, offset: 3.7, text: "Now watch this…"}
+- {at: morph, offset: 5.7, text: "[gasps] She's 3D! A real 3D model… concrete boots and all!"}
+- {at: spin, offset: 0.2, text: "[excited] One screenshot into Vi3W. What should we 3D next? Comment it!"}
+post:
+  caption: 'This cat walked across fresh concrete in front of 82M people 🐾 So we turned her into a 3D model.
+
+    One screenshot → 3D with Vi3W. Clip: @ParleursQuotidien
+
+    What should we 3D next? 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [cat, funnycats, catvideos, 3d, 3dmodel, imageto3d, vi3w]

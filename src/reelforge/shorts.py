@@ -276,7 +276,7 @@ def build(d: Path, render: bool = True, stills: list[int] | None = None) -> dict
         elif kind == "cta":
             secs = float(s.get("seconds", 2.5))
             seg = {"type": "cta", "line": s.get("line"), "button": s.get("button")}
-            for k in ("after", "glb", "logo"):
+            for k in ("after", "glb", "logo", "backdrop"):
                 if s.get(k):
                     seg[k] = place(d / s[k], pub)
         else:
