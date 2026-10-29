@@ -1,0 +1,199 @@
+{
+ "fps": 30,
+ "durationInFrames": 333,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-18-07-pm-c3e4c5.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.2,
+   "gain": 0,
+   "from": 0,
+   "dur": 90
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-18-07-pm-c3e4c5.mp4",
+   "startFrom": 90,
+   "speed": 1.5,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.2,
+   "gain": 0,
+   "from": 90,
+   "dur": 75
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-18-07-pm-c3e4c5.mp4",
+   "startFrom": 180,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.2,
+   "gain": 0,
+   "from": 165,
+   "dur": 72
+  },
+  {
+   "type": "cta",
+   "line": "Sketch \u2192 3D at *Vi3W.in*",
+   "button": "Save for later \ud83d\udd16",
+   "after": "assets/cta.png",
+   "from": 237,
+   "dur": 96
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/b5f7c1d94368.mp3",
+   "from": 3,
+   "words": [
+    [
+     7,
+     8,
+     "Two"
+    ],
+    [
+     11,
+     27,
+     "sixty."
+    ],
+    [
+     30,
+     44,
+     "Neon"
+    ],
+    [
+     47,
+     67,
+     "city."
+    ],
+    [
+     68,
+     75,
+     "Zero"
+    ],
+    [
+     78,
+     99,
+     "brakes."
+    ]
+   ]
+  },
+  {
+   "src": "vo/4241d8681cda.mp3",
+   "from": 101,
+   "words": [
+    [
+     101,
+     111,
+     "Neon"
+    ],
+    [
+     113,
+     132,
+     "Velocity!"
+    ],
+    [
+     138,
+     154,
+     "And"
+    ],
+    [
+     155,
+     171,
+     "yep,"
+    ],
+    [
+     172,
+     175,
+     "that"
+    ],
+    [
+     178,
+     187,
+     "car"
+    ],
+    [
+     190,
+     197,
+     "was"
+    ],
+    [
+     199,
+     207,
+     "made"
+    ],
+    [
+     208,
+     211,
+     "with"
+    ],
+    [
+     214,
+     226,
+     "Vi3W."
+    ]
+   ]
+  },
+  {
+   "src": "vo/e2e859586d98.mp3",
+   "from": 240,
+   "words": [
+    [
+     240,
+     247,
+     "Save"
+    ],
+    [
+     249,
+     257,
+     "this"
+    ],
+    [
+     258,
+     262,
+     "for"
+    ],
+    [
+     263,
+     269,
+     "your"
+    ],
+    [
+     271,
+     278,
+     "next"
+    ],
+    [
+     280,
+     286,
+     "game"
+    ],
+    [
+     288,
+     305,
+     "idea!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "*260 km/h*, no brakes \ud83c\udfce\ufe0f",
+  "until": 72
+ },
+ "credit": "\ud83c\udfae Neon Velocity \u00b7 made with Vi3W models",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ }
+}

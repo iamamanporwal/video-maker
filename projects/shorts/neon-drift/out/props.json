@@ -1,0 +1,342 @@
+{
+ "fps": 30,
+ "durationInFrames": 558,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-19-08-pm-8087df.mp4",
+   "startFrom": 510,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.12,
+   "gain": 0,
+   "from": 0,
+   "dur": 75
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-19-08-pm-8087df.mp4",
+   "startFrom": 240,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.12,
+   "gain": 0,
+   "from": 75,
+   "dur": 90
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-19-08-pm-8087df.mp4",
+   "startFrom": 765,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.12,
+   "gain": 0,
+   "from": 165,
+   "dur": 75
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-19-08-pm-8087df.mp4",
+   "startFrom": 930,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.12,
+   "gain": 0,
+   "from": 240,
+   "dur": 75
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-19-08-pm-8087df.mp4",
+   "startFrom": 1050,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.4,
+   "zoom": 1.12,
+   "gain": 0,
+   "from": 315,
+   "dur": 75
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-19-08-pm-8087df.mp4",
+   "startFrom": 1185,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.12,
+   "gain": 0,
+   "from": 390,
+   "dur": 60
+  },
+  {
+   "type": "cta",
+   "line": "Sketch it \u2192 drive it at *Vi3W.in*",
+   "button": "Comment your dream car \ud83d\udc47",
+   "after": "assets/cta.png",
+   "from": 450,
+   "dur": 108
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/a7f681ac9970.mp3",
+   "from": 3,
+   "words": [
+    [
+     9,
+     10,
+     "Bet"
+    ],
+    [
+     11,
+     15,
+     "you"
+    ],
+    [
+     16,
+     22,
+     "can't"
+    ],
+    [
+     24,
+     37,
+     "survive"
+    ],
+    [
+     38,
+     44,
+     "one"
+    ],
+    [
+     46,
+     63,
+     "kilometer"
+    ],
+    [
+     65,
+     68,
+     "in"
+    ],
+    [
+     71,
+     87,
+     "this."
+    ]
+   ]
+  },
+  {
+   "src": "vo/240313970c94.mp3",
+   "from": 89,
+   "words": [
+    [
+     89,
+     99,
+     "Neon"
+    ],
+    [
+     101,
+     124,
+     "Drift!"
+    ],
+    [
+     126,
+     144,
+     "Synthwave"
+    ],
+    [
+     147,
+     166,
+     "city,"
+    ],
+    [
+     168,
+     178,
+     "laser"
+    ],
+    [
+     180,
+     195,
+     "walls,"
+    ],
+    [
+     196,
+     199,
+     "and"
+    ],
+    [
+     201,
+     211,
+     "every"
+    ],
+    [
+     216,
+     223,
+     "3D"
+    ],
+    [
+     225,
+     235,
+     "model"
+    ],
+    [
+     237,
+     245,
+     "came"
+    ],
+    [
+     246,
+     250,
+     "from"
+    ],
+    [
+     252,
+     274,
+     "Vi3W."
+    ]
+   ]
+  },
+  {
+   "src": "vo/e8f42104a526.mp3",
+   "from": 276,
+   "words": [
+    [
+     276,
+     283,
+     "One"
+    ],
+    [
+     290,
+     300,
+     "K!"
+    ],
+    [
+     311,
+     314,
+     "And"
+    ],
+    [
+     317,
+     322,
+     "it"
+    ],
+    [
+     323,
+     329,
+     "just"
+    ],
+    [
+     330,
+     338,
+     "keeps"
+    ],
+    [
+     340,
+     348,
+     "getting"
+    ],
+    [
+     351,
+     379,
+     "faster\u2026"
+    ]
+   ]
+  },
+  {
+   "src": "vo/5c7af71818d7.mp3",
+   "from": 390,
+   "words": [
+    [
+     390,
+     395,
+     "Two"
+    ],
+    [
+     396,
+     407,
+     "hundred"
+    ],
+    [
+     408,
+     412,
+     "and"
+    ],
+    [
+     415,
+     428,
+     "ten?!"
+    ],
+    [
+     436,
+     467,
+     "Nope!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/d8b70c2a33a8.mp3",
+   "from": 469,
+   "words": [
+    [
+     473,
+     474,
+     "Which"
+    ],
+    [
+     476,
+     481,
+     "car"
+    ],
+    [
+     482,
+     486,
+     "should"
+    ],
+    [
+     487,
+     491,
+     "we"
+    ],
+    [
+     492,
+     498,
+     "build"
+    ],
+    [
+     500,
+     510,
+     "next?"
+    ],
+    [
+     513,
+     531,
+     "Comment"
+    ],
+    [
+     533,
+     543,
+     "it!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "Can you survive *1 km*? \ud83d\ude24",
+  "until": 72
+ },
+ "credit": "\ud83c\udfae Neon Drift \u00b7 made with Vi3W models",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ }
+}

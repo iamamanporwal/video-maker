@@ -1,0 +1,222 @@
+{
+ "fps": 30,
+ "durationInFrames": 621,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "source",
+   "src": "clips/source-1443db.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 0,
+   "dur": 120
+  },
+  {
+   "type": "source",
+   "src": "clips/morph-54a6d9.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 120,
+   "dur": 321
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "backdrop": "clips/cta-full-89b509.mp4",
+   "from": 441,
+   "dur": 180
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/3cb46cc09bf2.mp3",
+   "from": 124,
+   "words": [
+    [
+     134,
+     148,
+     "Wait\u2026"
+    ],
+    [
+     150,
+     162,
+     "pause."
+    ],
+    [
+     172,
+     196,
+     "Screenshot"
+    ],
+    [
+     197,
+     203,
+     "that"
+    ],
+    [
+     206,
+     220,
+     "cat."
+    ]
+   ]
+  },
+  {
+   "src": "vo/11186a24984b.mp3",
+   "from": 231,
+   "words": [
+    [
+     231,
+     233,
+     "Now"
+    ],
+    [
+     235,
+     245,
+     "watch"
+    ],
+    [
+     248,
+     265,
+     "this\u2026"
+    ]
+   ]
+  },
+  {
+   "src": "vo/27b41822b8b8.mp3",
+   "from": 291,
+   "words": [
+    [
+     308,
+     317,
+     "She's"
+    ],
+    [
+     320,
+     341,
+     "3D!"
+    ],
+    [
+     350,
+     358,
+     "A"
+    ],
+    [
+     361,
+     373,
+     "real"
+    ],
+    [
+     377,
+     387,
+     "3D"
+    ],
+    [
+     389,
+     411,
+     "model\u2026"
+    ],
+    [
+     413,
+     428,
+     "concrete"
+    ],
+    [
+     429,
+     437,
+     "boots"
+    ],
+    [
+     439,
+     442,
+     "and"
+    ],
+    [
+     445,
+     459,
+     "all!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/1738bc92d539.mp3",
+   "from": 461,
+   "words": [
+    [
+     465,
+     466,
+     "One"
+    ],
+    [
+     467,
+     480,
+     "screenshot"
+    ],
+    [
+     482,
+     490,
+     "into"
+    ],
+    [
+     492,
+     502,
+     "Vi3W."
+    ],
+    [
+     504,
+     514,
+     "What"
+    ],
+    [
+     514,
+     519,
+     "should"
+    ],
+    [
+     520,
+     523,
+     "we"
+    ],
+    [
+     526,
+     533,
+     "3D"
+    ],
+    [
+     536,
+     562,
+     "next?"
+    ],
+    [
+     563,
+     574,
+     "Comment"
+    ],
+    [
+     575,
+     581,
+     "it!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "Pause on the cat\u2026 \ud83d\udc3e",
+  "until": 72
+ },
+ "credit": "\ud83c\udfa5 @ParleursQuotidien",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ }
+}

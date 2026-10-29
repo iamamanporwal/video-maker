@@ -1,0 +1,321 @@
+{
+ "fps": 30,
+ "durationInFrames": 606,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/doodlederby-trailer-1-62730b.mp4",
+   "startFrom": 1140,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.05,
+   "gain": 0,
+   "from": 0,
+   "dur": 90
+  },
+  {
+   "type": "reveal",
+   "before": "assets/sketch.png",
+   "label": "Real Vi3W output \u00b7 from Sagar's build",
+   "after": "assets/models-3d.png",
+   "from": 90,
+   "dur": 168
+  },
+  {
+   "type": "clip",
+   "src": "clips/doodlederby-trailer-1-62730b.mp4",
+   "startFrom": 960,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "from": 258,
+   "dur": 90
+  },
+  {
+   "type": "clip",
+   "src": "clips/doodlederby-trailer-1-62730b.mp4",
+   "startFrom": 1425,
+   "speed": 1.0,
+   "fit": "frame",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "label": "2 players \u00b7 1 keyboard",
+   "from": 348,
+   "dur": 75
+  },
+  {
+   "type": "clip",
+   "src": "clips/doodlederby-trailer-1-62730b.mp4",
+   "startFrom": 1560,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "from": 423,
+   "dur": 75
+  },
+  {
+   "type": "cta",
+   "line": "Your doodle \u2192 3D at *Vi3W.in*",
+   "button": "Comment your doodle \u270f\ufe0f",
+   "after": "assets/models-3d.png",
+   "from": 498,
+   "dur": 108
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/b0fabe702b43.mp3",
+   "from": 3,
+   "words": [
+    [
+     19,
+     29,
+     "Wait."
+    ],
+    [
+     32,
+     44,
+     "These"
+    ],
+    [
+     46,
+     56,
+     "karts"
+    ],
+    [
+     57,
+     63,
+     "were"
+    ],
+    [
+     65,
+     77,
+     "pencil"
+    ],
+    [
+     79,
+     99,
+     "doodles?!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/2d16bb8b086e.mp3",
+   "from": 101,
+   "words": [
+    [
+     103,
+     115,
+     "Sagar"
+    ],
+    [
+     117,
+     127,
+     "sketched"
+    ],
+    [
+     128,
+     130,
+     "them"
+    ],
+    [
+     131,
+     135,
+     "on"
+    ],
+    [
+     137,
+     156,
+     "paper,"
+    ],
+    [
+     157,
+     163,
+     "threw"
+    ],
+    [
+     164,
+     168,
+     "them"
+    ],
+    [
+     170,
+     175,
+     "into"
+    ],
+    [
+     178,
+     195,
+     "Vi3W,"
+    ],
+    [
+     196,
+     202,
+     "and"
+    ],
+    [
+     205,
+     221,
+     "boom!"
+    ],
+    [
+     224,
+     238,
+     "Real"
+    ],
+    [
+     243,
+     252,
+     "3D"
+    ],
+    [
+     255,
+     271,
+     "models."
+    ]
+   ]
+  },
+  {
+   "src": "vo/d512d51fe64f.mp3",
+   "from": 273,
+   "words": [
+    [
+     273,
+     278,
+     "Now"
+    ],
+    [
+     278,
+     283,
+     "they're"
+    ],
+    [
+     284,
+     292,
+     "flipping"
+    ],
+    [
+     294,
+     297,
+     "in"
+    ],
+    [
+     298,
+     302,
+     "moon"
+    ],
+    [
+     304,
+     326,
+     "gravity,"
+    ],
+    [
+     328,
+     338,
+     "racing"
+    ],
+    [
+     339,
+     347,
+     "split"
+    ],
+    [
+     349,
+     367,
+     "screen,"
+    ],
+    [
+     368,
+     371,
+     "and"
+    ],
+    [
+     373,
+     388,
+     "driving"
+    ],
+    [
+     390,
+     400,
+     "upside"
+    ],
+    [
+     403,
+     419,
+     "down?!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/812f10c77c54.mp3",
+   "from": 501,
+   "words": [
+    [
+     507,
+     508,
+     "Drop"
+    ],
+    [
+     509,
+     513,
+     "your"
+    ],
+    [
+     515,
+     527,
+     "worst"
+    ],
+    [
+     529,
+     537,
+     "doodle"
+    ],
+    [
+     539,
+     554,
+     "below."
+    ],
+    [
+     557,
+     566,
+     "We'll"
+    ],
+    [
+     567,
+     573,
+     "make"
+    ],
+    [
+     575,
+     578,
+     "it"
+    ],
+    [
+     580,
+     599,
+     "3D!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "These karts were *pencil doodles* \ud83d\ude33",
+  "until": 78
+ },
+ "credit": "\ud83c\udfae Doodle Derby \u00b7 by Sagar Prema Rajan",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ }
+}

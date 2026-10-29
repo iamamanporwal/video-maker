@@ -1,0 +1,835 @@
+{
+ "fps": 30,
+ "durationInFrames": 1800,
+ "brand": {
+  "accent": "#D4F77C",
+  "ink": "#0B0B0C",
+  "text": "#E2E6DA",
+  "paper": "#EFEAE0"
+ },
+ "shots": [
+  {
+   "type": "clip",
+   "from": 0,
+   "dur": 51,
+   "credit": "\ud83c\udfa5 Pxl Pwr",
+   "src": "clips/src-b0a1cd.mp4",
+   "startFrom": 684,
+   "speed": 1,
+   "focus": 0.28,
+   "focusY": 0.5,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 51,
+   "dur": 48,
+   "credit": "\ud83c\udfae Doodle Derby \u00b7 Sagar Prema Rajan",
+   "src": "clips/doodlederby-trailer-1-62730b.mp4",
+   "startFrom": 1140,
+   "speed": 1,
+   "focus": 0.5,
+   "focusY": 0.3,
+   "zoom": [
+    1.45,
+    1.35
+   ],
+   "gain": 0
+  },
+  {
+   "type": "image",
+   "from": 99,
+   "dur": 51,
+   "src": "assets/sneaker-sketch.png",
+   "zoom": [
+    1.25,
+    1.0
+   ],
+   "paper": true
+  },
+  {
+   "type": "clip",
+   "from": 150,
+   "dur": 48,
+   "credit": "\ud83c\udfa5 2AM",
+   "src": "clips/src-6bcbed.mp4",
+   "startFrom": 4740,
+   "speed": 1,
+   "focus": 0.35,
+   "focusY": 0.5,
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 198,
+   "dur": 45,
+   "credit": "\ud83c\udfa5 2AM",
+   "src": "clips/src-6bcbed.mp4",
+   "startFrom": 13200,
+   "speed": 1,
+   "focus": 0.42,
+   "focusY": 0.5,
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 243,
+   "dur": 45,
+   "credit": "\ud83c\udfa5 2AM",
+   "src": "clips/src-6bcbed.mp4",
+   "startFrom": 22575,
+   "speed": 1,
+   "focus": 0.35,
+   "focusY": 0.65,
+   "zoom": [
+    1.25,
+    1.35
+   ],
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 288,
+   "dur": 36,
+   "credit": "\ud83c\udfa5 Grant Abbitt",
+   "src": "clips/src-1cdf25.mp4",
+   "startFrom": 9000,
+   "speed": 1,
+   "focus": 0.82,
+   "focusY": 0.5,
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 324,
+   "dur": 48,
+   "credit": "\ud83c\udfa5 I Like To Make Stuff",
+   "src": "clips/src-47db35.mp4",
+   "startFrom": 915,
+   "speed": 1,
+   "focus": 0.45,
+   "focusY": 0.5,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "gain": 0
+  },
+  {
+   "type": "image",
+   "from": 372,
+   "dur": 72,
+   "credit": "\ud83c\udfa5 I Like To Make Stuff",
+   "src": "assets/robot-drawing.png",
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "paper": true
+  },
+  {
+   "type": "black",
+   "from": 444,
+   "dur": 30
+  },
+  {
+   "type": "count",
+   "from": 474,
+   "dur": 21,
+   "n": 1,
+   "label": "DROP YOUR SKETCH"
+  },
+  {
+   "type": "scan",
+   "from": 495,
+   "dur": 78,
+   "before": "assets/robot-drawing.png",
+   "phase": "scan",
+   "label": "SKETCH \u2192 Vi3W"
+  },
+  {
+   "type": "count",
+   "from": 573,
+   "dur": 21,
+   "n": 2,
+   "label": "HIT GENERATE"
+  },
+  {
+   "type": "scan",
+   "from": 594,
+   "dur": 60,
+   "before": "assets/robot-drawing.png",
+   "phase": "model",
+   "label": "REAL Vi3W OUTPUT"
+  },
+  {
+   "type": "count",
+   "from": 654,
+   "dur": 21,
+   "n": 3,
+   "label": "IT'S 3D"
+  },
+  {
+   "type": "scan",
+   "from": 675,
+   "dur": 48,
+   "before": "assets/sneaker-sketch.png",
+   "after": "assets/sneaker-3d.png",
+   "phase": "model",
+   "label": "ROCKET SNEAKER \u00b7 DOODLE DERBY"
+  },
+  {
+   "type": "clip",
+   "from": 723,
+   "dur": 54,
+   "credit": "\ud83c\udfa5 Lost In Tech",
+   "src": "clips/src-1e2c4d.mp4",
+   "startFrom": 10500,
+   "speed": 1,
+   "focus": 0.5,
+   "focusY": 0.5,
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 777,
+   "dur": 48,
+   "credit": "\ud83c\udfa5 I Like To Make Stuff",
+   "src": "clips/src-47db35.mp4",
+   "startFrom": 6879,
+   "speed": 1,
+   "focus": 0.45,
+   "focusY": 0.5,
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 825,
+   "dur": 36,
+   "credit": "\ud83c\udfa5 Jon Stern",
+   "src": "clips/src-6cc800.mp4",
+   "startFrom": 540,
+   "speed": 1,
+   "focus": 0.5,
+   "focusY": 0.5,
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 861,
+   "dur": 39,
+   "credit": "\ud83c\udfa5 I Like To Make Stuff",
+   "src": "clips/src-47db35.mp4",
+   "startFrom": 6948,
+   "speed": 1,
+   "focus": 0.55,
+   "focusY": 0.5,
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 900,
+   "dur": 54,
+   "credit": "\ud83c\udfa5 I Like To Make Stuff",
+   "src": "clips/src-47db35.mp4",
+   "startFrom": 10710,
+   "speed": 1,
+   "focus": 0.45,
+   "focusY": 0.5,
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 954,
+   "dur": 78,
+   "credit": "\ud83c\udfa5 I Like To Make Stuff",
+   "src": "clips/src-47db35.mp4",
+   "startFrom": 11265,
+   "speed": 1,
+   "focus": 0.8,
+   "focusY": 0.5,
+   "zoom": [
+    1.05,
+    1.12
+   ],
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 1032,
+   "dur": 66,
+   "credit": "\ud83c\udfae Doodle Derby \u00b7 Sagar Prema Rajan",
+   "src": "clips/doodlederby-trailer-1-62730b.mp4",
+   "startFrom": 990,
+   "speed": 1,
+   "focus": 0.5,
+   "focusY": 0.3,
+   "zoom": [
+    1.35,
+    1.45
+   ],
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 1098,
+   "dur": 39,
+   "credit": "\ud83c\udfae Heli Rush",
+   "src": "clips/screen-recording-2026-10-25-at-10-12-46-pm-35e6d6.mp4",
+   "startFrom": 1428,
+   "speed": 1,
+   "focus": 0.5,
+   "focusY": 0.5,
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 1137,
+   "dur": 36,
+   "credit": "\ud83c\udfae Neon Drift",
+   "src": "clips/screen-recording-2026-10-25-at-10-19-08-pm-8087df.mp4",
+   "startFrom": 510,
+   "speed": 1,
+   "focus": 0.5,
+   "focusY": 0.5,
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 1173,
+   "dur": 36,
+   "credit": "\ud83c\udfae Street Dodge",
+   "src": "clips/screen-recording-2026-10-25-at-10-29-58-pm-fd5d2e.mp4",
+   "startFrom": 930,
+   "speed": 1,
+   "focus": 0.5,
+   "focusY": 0.5,
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 1209,
+   "dur": 36,
+   "credit": "\ud83c\udfae Coin Rush",
+   "src": "clips/screen-recording-2026-10-25-at-10-25-35-pm-213939.mp4",
+   "startFrom": 105,
+   "speed": 1,
+   "focus": 0.5,
+   "focusY": 0.5,
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 1245,
+   "dur": 36,
+   "credit": "\ud83c\udfae Neon Velocity",
+   "src": "clips/screen-recording-2026-10-25-at-10-18-07-pm-c3e4c5.mp4",
+   "startFrom": 0,
+   "speed": 1,
+   "focus": 0.5,
+   "focusY": 0.5,
+   "gain": 0
+  },
+  {
+   "type": "clip",
+   "from": 1281,
+   "dur": 36,
+   "credit": "\ud83c\udfae Doodle Derby \u00b7 Sagar Prema Rajan",
+   "src": "clips/doodlederby-trailer-1-62730b.mp4",
+   "startFrom": 1320,
+   "speed": 1,
+   "focus": 0.5,
+   "focusY": 0.3,
+   "zoom": [
+    1.4,
+    1.4
+   ],
+   "gain": 0
+  },
+  {
+   "type": "models",
+   "from": 1317,
+   "dur": 156,
+   "glbs": [
+    "assets/frog.glb",
+    "assets/cat.glb",
+    "assets/dragon.glb",
+    "assets/model.glb"
+   ]
+  },
+  {
+   "type": "line",
+   "from": 1473,
+   "dur": 114,
+   "glbs": [
+    "assets/frog.glb",
+    "assets/cat.glb",
+    "assets/dragon.glb",
+    "assets/model.glb"
+   ]
+  },
+  {
+   "type": "logo",
+   "from": 1587,
+   "dur": 213,
+   "logo": "assets/logo.png",
+   "line": "3D in 3 Clicks",
+   "url": "Vi3W.in",
+   "clicks": [
+    9,
+    20,
+    30
+   ]
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/933b6e9ad5a2.mp3",
+   "from": 104,
+   "words": [
+    [
+     104,
+     111,
+     "Every"
+    ],
+    [
+     114,
+     126,
+     "idea"
+    ],
+    [
+     127,
+     138,
+     "starts"
+    ],
+    [
+     140,
+     154,
+     "flat."
+    ]
+   ],
+   "accent": [
+    "flat"
+   ],
+   "y": null,
+   "hide": null
+  },
+  {
+   "src": "vo/e78997477e08.mp3",
+   "from": 156,
+   "words": [
+    [
+     156,
+     163,
+     "For"
+    ],
+    [
+     166,
+     175,
+     "most"
+    ],
+    [
+     177,
+     197,
+     "people"
+    ]
+   ],
+   "accent": [
+    "wall"
+   ],
+   "y": null,
+   "hide": null
+  },
+  {
+   "src": "vo/6a882397438d.mp3",
+   "from": 246,
+   "words": [
+    [
+     246,
+     260,
+     "Hundreds"
+    ],
+    [
+     261,
+     263,
+     "of"
+    ],
+    [
+     266,
+     292,
+     "hours."
+    ],
+    [
+     293,
+     304,
+     "Software"
+    ],
+    [
+     305,
+     308,
+     "that"
+    ],
+    [
+     310,
+     318,
+     "fights"
+    ],
+    [
+     320,
+     335,
+     "back."
+    ]
+   ],
+   "accent": null,
+   "y": null,
+   "hide": null
+  },
+  {
+   "src": "vo/778c61a34005.mp3",
+   "from": 342,
+   "words": [
+    [
+     342,
+     347,
+     "So"
+    ],
+    [
+     348,
+     352,
+     "the"
+    ],
+    [
+     354,
+     361,
+     "best"
+    ],
+    [
+     364,
+     380,
+     "ideas"
+    ],
+    [
+     382,
+     392,
+     "stayed"
+    ],
+    [
+     394,
+     397,
+     "on"
+    ],
+    [
+     400,
+     416,
+     "paper."
+    ]
+   ],
+   "accent": [
+    "paper"
+   ],
+   "y": null,
+   "hide": null
+  },
+  {
+   "src": "vo/c304d14e9c17.mp3",
+   "from": 726,
+   "words": [
+    [
+     726,
+     731,
+     "And"
+    ],
+    [
+     732,
+     750,
+     "then\u2026"
+    ],
+    [
+     753,
+     767,
+     "flat"
+    ],
+    [
+     769,
+     781,
+     "became"
+    ],
+    [
+     784,
+     798,
+     "real."
+    ]
+   ],
+   "accent": [
+    "real"
+   ],
+   "y": null,
+   "hide": null
+  },
+  {
+   "src": "vo/6f03feb0bf5f.mp3",
+   "from": 957,
+   "words": [
+    [
+     957,
+     981,
+     "Holdable."
+    ]
+   ],
+   "accent": [
+    "holdable"
+   ],
+   "y": null,
+   "hide": null
+  },
+  {
+   "src": "vo/f5305329eaf7.mp3",
+   "from": 1035,
+   "words": [
+    [
+     1035,
+     1061,
+     "Playable."
+    ]
+   ],
+   "accent": [
+    "playable"
+   ],
+   "y": null,
+   "hide": null
+  },
+  {
+   "src": "vo/2a7372f225f9.mp3",
+   "from": 1107,
+   "words": [
+    [
+     1107,
+     1124,
+     "Yours."
+    ]
+   ],
+   "accent": [
+    "yours"
+   ],
+   "y": null,
+   "hide": null
+  },
+  {
+   "src": "vo/f68ce974aad6.mp3",
+   "from": 1329,
+   "words": [
+    [
+     1329,
+     1336,
+     "Every"
+    ],
+    [
+     1339,
+     1348,
+     "idea"
+    ],
+    [
+     1350,
+     1355,
+     "you"
+    ],
+    [
+     1357,
+     1363,
+     "never"
+    ],
+    [
+     1364,
+     1377,
+     "built\u2026"
+    ]
+   ],
+   "accent": null,
+   "y": null,
+   "hide": null
+  },
+  {
+   "src": "vo/d93effcd9816.mp3",
+   "from": 1488,
+   "words": [
+    [
+     1488,
+     1495,
+     "\u2026is"
+    ],
+    [
+     1498,
+     1507,
+     "one"
+    ],
+    [
+     1509,
+     1522,
+     "sketch"
+    ],
+    [
+     1524,
+     1541,
+     "away."
+    ]
+   ],
+   "accent": [
+    "sketch"
+   ],
+   "y": null,
+   "hide": null
+  },
+  {
+   "src": "vo/8501bad74517.mp3",
+   "from": 1632,
+   "words": [
+    [
+     1632,
+     1644,
+     "Vi3W."
+    ],
+    [
+     1654,
+     1668,
+     "3D"
+    ],
+    [
+     1670,
+     1675,
+     "in"
+    ],
+    [
+     1676,
+     1682,
+     "three"
+    ],
+    [
+     1685,
+     1702,
+     "clicks."
+    ]
+   ],
+   "accent": null,
+   "y": null,
+   "hide": true
+  }
+ ],
+ "titles": [
+  {
+   "from": 0,
+   "to": 99,
+   "text": "This was a doodle.",
+   "y": 420,
+   "size": 128
+  }
+ ],
+ "counters": [
+  {
+   "from": 150,
+   "to": 303,
+   "label": "TUTORIAL",
+   "a": 1,
+   "b": 47
+  }
+ ],
+ "sfx": [
+  {
+   "src": "sfx/pencil.mp3",
+   "from": 0,
+   "volume": 0.7
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 46,
+   "volume": 0.6
+  },
+  {
+   "src": "sfx/rewind.mp3",
+   "from": 96,
+   "volume": 0.6
+  },
+  {
+   "src": "sfx/tick.mp3",
+   "from": 150,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 474,
+   "volume": 1.0
+  },
+  {
+   "src": "sfx/scan.mp3",
+   "from": 498,
+   "volume": 0.6
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 573,
+   "volume": 1.0
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 654,
+   "volume": 1.0
+  },
+  {
+   "src": "sfx/riser.mp3",
+   "from": 669,
+   "volume": 0.7
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 723,
+   "volume": 0.9
+  },
+  {
+   "src": "sfx/printer.mp3",
+   "from": 777,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 1029,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 1314,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 1596,
+   "volume": 1.0
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 1606,
+   "volume": 1.0
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 1617,
+   "volume": 1.0
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 1617,
+   "volume": 0.8
+  }
+ ],
+ "music": {
+  "src": "audio/music-edit.wav",
+  "volume": 0.55,
+  "duck": 0.42
+ }
+}

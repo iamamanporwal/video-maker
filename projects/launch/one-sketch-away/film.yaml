@@ -1,0 +1,111 @@
+# Vi3W launch film "ONE SKETCH AWAY" (about 60 s, 9:16).
+# Third-party footage: every creator below gave permission (user confirmed 2026-10-29); see RIGHTS.md.
+# Game footage: creators agreed to be featured (see projects/shorts/*/reel.yaml).
+title: one-sketch-away
+fps: 30
+# Laura (the channel's voice) at v3 "Natural" stability: warmer and steadier than the reels' excited read.
+voice: {stability: 0.5}
+
+shots:
+# ACT 1 · hook: a doodle → a racing game
+- {type: clip, src: sources/pencil/src.mp4, in: 22.8, dur: 1.7, focus: 0.28, zoom: [1.0, 1.06], credit: "🎥 Pxl Pwr"}
+- {type: clip, src: "../../../Input/DoodleDerby_trailer (1).mp4", in: 38.0, dur: 1.6, focus: 0.5, focus_y: 0.3, zoom: [1.45, 1.35], credit: "🎮 Doodle Derby · Sagar Prema Rajan"}
+- {type: image, src: assets/sneaker-sketch.png, paper: true, dur: 1.7, zoom: [1.25, 1.0]}
+# ACT 2 · the wall
+- {type: clip, src: sources/twoam/src.mp4, in: 158.0, dur: 1.6, focus: 0.35, credit: "🎥 2AM"}
+- {type: clip, src: sources/twoam/src.mp4, in: 440.0, dur: 1.5, focus: 0.42, credit: "🎥 2AM"}
+- {type: clip, src: sources/twoam/src.mp4, in: 752.5, dur: 1.5, focus: 0.35, focus_y: 0.65, zoom: [1.25, 1.35], credit: "🎥 2AM"}
+- {type: clip, src: sources/abbitt/src.mp4, in: 300.0, dur: 1.2, focus: 0.82, credit: "🎥 Grant Abbitt"}
+- {type: clip, src: sources/iltms/src.mp4, in: 30.5, dur: 1.6, focus: 0.45, zoom: [1.0, 1.1], credit: "🎥 I Like To Make Stuff"}
+- {type: image, src: assets/robot-drawing.png, paper: true, dur: 2.4, zoom: [1.0, 1.12], credit: "🎥 I Like To Make Stuff"}
+- {type: black, dur: 1.0}
+# ACT 3 · three clicks
+- {type: count, n: 1, label: DROP YOUR SKETCH, dur: 0.7}
+- {type: scan, phase: scan, before: assets/robot-drawing.png, label: "SKETCH → Vi3W", dur: 2.6}
+- {type: count, n: 2, label: HIT GENERATE, dur: 0.7}
+- {type: scan, phase: model, before: assets/robot-drawing.png, glb: assets/robot.glb, label: REAL Vi3W OUTPUT, dur: 2.0}
+- {type: count, n: 3, label: "IT'S 3D", dur: 0.7}
+- {type: scan, phase: model, before: assets/sneaker-sketch.png, after: assets/sneaker-3d.png, label: ROCKET SNEAKER · DOODLE DERBY, dur: 1.6}
+# ACT 4 · flat becomes real (the drop)
+- {type: clip, src: sources/lostintech/src.mp4, in: 350.0, dur: 1.8, focus: 0.5, credit: "🎥 Lost In Tech"}
+- {type: clip, src: sources/iltms/src.mp4, in: 229.3, dur: 1.6, focus: 0.45, credit: "🎥 I Like To Make Stuff"}
+- {type: clip, src: sources/dragon/src.mp4, in: 18.0, dur: 1.2, focus: 0.5, credit: "🎥 Jon Stern"}
+- {type: clip, src: sources/iltms/src.mp4, in: 231.6, dur: 1.3, focus: 0.55, credit: "🎥 I Like To Make Stuff"}
+- {type: clip, src: sources/iltms/src.mp4, in: 357.0, dur: 1.8, focus: 0.45, zoom: [1.0, 1.15], credit: "🎥 I Like To Make Stuff"}
+- {type: clip, src: sources/iltms/src.mp4, in: 375.5, dur: 2.6, focus: 0.8, zoom: [1.05, 1.12], credit: "🎥 I Like To Make Stuff"}
+- {type: clip, src: "../../../Input/DoodleDerby_trailer (1).mp4", in: 33.0, dur: 2.2, focus: 0.5, focus_y: 0.3, zoom: [1.35, 1.45], credit: "🎮 Doodle Derby · Sagar Prema Rajan"}
+- {type: clip, src: "../../../Input/Screen Recording 2026-10-25 at 10.12.46 PM.mov", in: 47.6, dur: 1.3, focus: 0.5, credit: "🎮 Heli Rush"}
+- {type: clip, src: "../../../Input/Screen Recording 2026-10-25 at 10.19.08 PM.mov", in: 17.0, dur: 1.2, focus: 0.5, credit: "🎮 Neon Drift"}
+- {type: clip, src: "../../../Input/Screen Recording 2026-10-25 at 10.29.58 PM.mov", in: 31.0, dur: 1.2, focus: 0.5, credit: "🎮 Street Dodge"}
+- {type: clip, src: "../../../Input/Screen Recording 2026-10-25 at 10.25.35 PM.mov", in: 3.5, dur: 1.2, focus: 0.5, credit: "🎮 Coin Rush"}
+- {type: clip, src: "../../../Input/Screen Recording 2026-10-25 at 10.18.07 PM.mov", in: 0.0, dur: 1.2, focus: 0.5, credit: "🎮 Neon Velocity"}
+- {type: clip, src: "../../../Input/DoodleDerby_trailer (1).mp4", in: 44.0, dur: 1.2, focus: 0.5, focus_y: 0.3, zoom: [1.4, 1.4], credit: "🎮 Doodle Derby · Sagar Prema Rajan"}
+# ACT 5 · manifesto close
+- {type: models, dur: 5.2, glbs: &glbs [assets/robot.glb, ../../shorts/gta-frog/frog.glb, ../../shorts/concrete-cat/cat.glb,
+                                       ../../shorts/playground-serpent/assets/dragon.glb, ../../artist-who-couldnt-create/capture/jet/model.glb]}
+- {type: line, dur: 3.8, glbs: *glbs}
+- {type: logo, dur: 7.1, logo: assets/logo.png, line: 3D in 3 Clicks, url: Vi3W.in, clicks: [0.3, 0.65, 1.0]}
+
+titles:
+- {from: 0, to: 3.3, text: This was a doodle., y: 420, size: 128}
+
+counters:
+- {from: 5.0, to: 10.1, label: "TUTORIAL", a: 1, b: 47}
+
+vo:
+- {at: 3.45, text: Every idea starts flat., accent: [flat]}
+- {at: 5.1, text: For most people, 3D was a wall., accent: [wall]}
+- {at: 8.2, text: Hundreds of hours. Software that fights back.}
+- {at: 11.4, text: So the best ideas stayed on paper., accent: [paper]}
+- {at: 24.2, text: And then… flat became real., accent: [real]}
+- {at: 31.9, text: Holdable., accent: [holdable]}
+- {at: 34.5, text: Playable., accent: [playable]}
+- {at: 36.9, text: Yours., accent: [yours]}
+- {at: 44.3, text: Every idea you never built…}
+- {at: 49.6, text: …is one sketch away., accent: [sketch]}
+- {at: 54.4, text: Vi3W. 3D in three clicks., hide: true}
+
+sfx_library:
+  pencil: ["close-up pencil scratching quickly on paper, a few fast sketch strokes, dry and crisp", 1.6]
+  whoosh: ["fast clean cinematic whoosh transition, airy, short", 0.8]
+  rewind: ["tape stop and quick rewind effect, short, cinematic", 1.2]
+  tick: ["fast ticking clock, tense, steady ticks, close and dry", 5.0]
+  click: ["single crisp computer mouse click, close microphone, very clean, no room", 0.5]
+  scan: ["soft futuristic digital scanning sweep, subtle UI hum", 1.6]
+  riser: ["short cinematic tension riser building fast", 1.8]
+  boom: ["deep cinematic sub boom impact with a long warm tail", 3.0]
+  printer: ["3D printer stepper motors whirring and buzzing rhythmically, close up", 3.0]
+
+sfx:
+- {name: pencil, at: 0.0, volume: 0.7}
+- {name: whoosh, at: 1.55, volume: 0.6}
+- {name: rewind, at: 3.2, volume: 0.6}
+- {name: tick, at: 5.0, volume: 0.45}
+- {name: click, at: 15.8, volume: 1.0}
+- {name: scan, at: 16.6, volume: 0.6}
+- {name: click, at: 19.1, volume: 1.0}
+- {name: click, at: 21.8, volume: 1.0}
+- {name: riser, at: 22.3, volume: 0.7}
+- {name: boom, at: 24.1, volume: 0.9}
+- {name: printer, at: 25.9, volume: 0.45}
+- {name: whoosh, at: 34.3, volume: 0.5}
+- {name: whoosh, at: 43.8, volume: 0.5}
+- {name: click, at: 53.2, volume: 1.0}
+- {name: click, at: 53.55, volume: 1.0}
+- {name: click, at: 53.9, volume: 1.0}
+- {name: boom, at: 53.9, volume: 0.8}
+
+# Free music (no spend): "High Impact" by ArcticFoxMusic, https://youtu.be/cypqGpxAX_0. Free on every platform with
+# credit; the credit goes in the post caption (see RIGHTS.md). Track map: hit 1.0, quiet tension 5-21, hit + build 22-31,
+# drop 34-77. Re-cut to the film; splices sit under the silent beat (15.8), the boom (24.1), a whoosh (43.9) and the
+# logo clicks (53.9). The drop is ~12 dB hotter than the quiet parts, hence the gains.
+music:
+  source: sources/music-highimpact/src.mp3
+  volume: 0.55
+  duck: 0.42
+  edit:
+  - {from: 5.5, to: 20.3, at: 0.0, gain: -6, fade_in: 1.0, fade_out: 0.7}
+  - {from: 21.95, to: 30.25, at: 15.8, gain: -5, fade_in: 0.02}
+  - {from: 33.9, to: 53.7, at: 24.1, gain: -5, fade_in: 0.02, fade_out: 0.8}
+  - {from: 9.0, to: 19.0, at: 43.9, gain: -3, fade_in: 0.4, fade_out: 0.4}
+  - {from: 0.85, to: 6.95, at: 53.9, gain: -8, fade_in: 0.01, fade_out: 2.0}

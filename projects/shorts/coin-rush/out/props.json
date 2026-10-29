@@ -1,0 +1,225 @@
+{
+ "fps": 30,
+ "durationInFrames": 381,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-25-35-pm-213939.mp4",
+   "startFrom": 30,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.1,
+   "gain": 0,
+   "from": 0,
+   "dur": 75
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-25-35-pm-213939.mp4",
+   "startFrom": 105,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.1,
+   "gain": 0,
+   "from": 75,
+   "dur": 84
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-25-35-pm-213939.mp4",
+   "startFrom": 189,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.1,
+   "gain": 0,
+   "from": 159,
+   "dur": 105
+  },
+  {
+   "type": "cta",
+   "line": "Make your own hero at *Vi3W.in*",
+   "button": "Name the robot \ud83d\udc47",
+   "after": "assets/cta.png",
+   "from": 264,
+   "dur": 117
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/615c996e55cd.mp3",
+   "from": 3,
+   "words": [
+    [
+     11,
+     15,
+     "Okay,"
+    ],
+    [
+     16,
+     20,
+     "how"
+    ],
+    [
+     21,
+     25,
+     "long"
+    ],
+    [
+     25,
+     29,
+     "would"
+    ],
+    [
+     31,
+     34,
+     "you"
+    ],
+    [
+     37,
+     51,
+     "last?"
+    ]
+   ]
+  },
+  {
+   "src": "vo/b80cb306773e.mp3",
+   "from": 78,
+   "words": [
+    [
+     78,
+     85,
+     "Coin"
+    ],
+    [
+     88,
+     100,
+     "Rush!"
+    ],
+    [
+     102,
+     114,
+     "This"
+    ],
+    [
+     115,
+     121,
+     "little"
+    ],
+    [
+     124,
+     136,
+     "robot"
+    ],
+    [
+     137,
+     143,
+     "came"
+    ],
+    [
+     144,
+     155,
+     "straight"
+    ],
+    [
+     155,
+     157,
+     "out"
+    ],
+    [
+     158,
+     160,
+     "of"
+    ],
+    [
+     162,
+     179,
+     "Vi3W."
+    ]
+   ]
+  },
+  {
+   "src": "vo/02fa9f49ddf7.mp3",
+   "from": 237,
+   "words": [
+    [
+     260,
+     290,
+     "Crashed."
+    ],
+    [
+     292,
+     316,
+     "Again."
+    ]
+   ]
+  },
+  {
+   "src": "vo/a91f4c16ddf9.mp3",
+   "from": 318,
+   "words": [
+    [
+     318,
+     323,
+     "Give"
+    ],
+    [
+     324,
+     328,
+     "this"
+    ],
+    [
+     329,
+     335,
+     "little"
+    ],
+    [
+     337,
+     342,
+     "guy"
+    ],
+    [
+     343,
+     344,
+     "a"
+    ],
+    [
+     346,
+     354,
+     "name"
+    ],
+    [
+     355,
+     356,
+     "in"
+    ],
+    [
+     357,
+     359,
+     "the"
+    ],
+    [
+     361,
+     380,
+     "comments!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "How long can you *last*? \ud83e\udd16",
+  "until": 69
+ },
+ "credit": "\ud83c\udfae Coin Rush \u00b7 made with Vi3W models",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ }
+}

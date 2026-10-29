@@ -1,0 +1,238 @@
+{
+ "fps": 30,
+ "durationInFrames": 558,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "source",
+   "src": "clips/questioned-af04e7.mp4",
+   "startFrom": 210,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "from": 0,
+   "dur": 180
+  },
+  {
+   "type": "reveal",
+   "before": "assets/subject-card.png",
+   "beforeLabel": "SCREENSHOT",
+   "label": "Real Vi3W output \u00b7 unedited",
+   "after": "clips/turntable-40f5cc.mp4",
+   "from": 180,
+   "dur": 180
+  },
+  {
+   "type": "cta",
+   "line": "See it \u2192 screenshot it \u2192 *3D*",
+   "after": "clips/turntable-cta-67c492.mp4",
+   "from": 360,
+   "dur": 198
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/bbd5829817da.mp3",
+   "from": 12,
+   "words": [
+    [
+     12,
+     22,
+     "Every"
+    ],
+    [
+     23,
+     34,
+     "modder"
+    ],
+    [
+     35,
+     43,
+     "knows"
+    ],
+    [
+     45,
+     50,
+     "this"
+    ],
+    [
+     52,
+     74,
+     "moment."
+    ],
+    [
+     76,
+     82,
+     "You"
+    ],
+    [
+     83,
+     86,
+     "see"
+    ],
+    [
+     88,
+     89,
+     "a"
+    ],
+    [
+     90,
+     118,
+     "character\u2026"
+    ],
+    [
+     119,
+     122,
+     "and"
+    ],
+    [
+     124,
+     127,
+     "you"
+    ],
+    [
+     129,
+     145,
+     "think,"
+    ],
+    [
+     149,
+     154,
+     "I"
+    ],
+    [
+     156,
+     166,
+     "need"
+    ],
+    [
+     167,
+     173,
+     "that"
+    ],
+    [
+     175,
+     197,
+     "model."
+    ]
+   ]
+  },
+  {
+   "src": "vo/334616aa70e9.mp3",
+   "from": 199,
+   "words": [
+    [
+     199,
+     206,
+     "So"
+    ],
+    [
+     208,
+     216,
+     "here's"
+    ],
+    [
+     217,
+     221,
+     "the"
+    ],
+    [
+     222,
+     233,
+     "trick."
+    ],
+    [
+     241,
+     271,
+     "Screenshot."
+    ],
+    [
+     275,
+     293,
+     "Vi3W."
+    ],
+    [
+     295,
+     307,
+     "Three"
+    ],
+    [
+     310,
+     333,
+     "clicks."
+    ]
+   ]
+  },
+  {
+   "src": "vo/70a4bf54ac8e.mp3",
+   "from": 363,
+   "words": [
+    [
+     367,
+     368,
+     "And"
+    ],
+    [
+     369,
+     377,
+     "he's"
+    ],
+    [
+     380,
+     401,
+     "3D!"
+    ],
+    [
+     404,
+     418,
+     "Front,"
+    ],
+    [
+     421,
+     440,
+     "back,"
+    ],
+    [
+     441,
+     459,
+     "everything."
+    ],
+    [
+     462,
+     481,
+     "Comment"
+    ],
+    [
+     482,
+     485,
+     "your"
+    ],
+    [
+     487,
+     493,
+     "mod"
+    ],
+    [
+     495,
+     517,
+     "idea!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "Modders, you need *this* \ud83d\udc38",
+  "until": 72
+ },
+ "credit": "\ud83c\udfa5 @AvunHub",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ }
+}

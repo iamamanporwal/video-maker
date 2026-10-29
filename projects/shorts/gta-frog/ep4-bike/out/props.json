@@ -1,0 +1,238 @@
+{
+ "fps": 30,
+ "durationInFrames": 594,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "source",
+   "src": "clips/bike-815a86.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "from": 0,
+   "dur": 180
+  },
+  {
+   "type": "reveal",
+   "before": "assets/subject-card.png",
+   "beforeLabel": "SIDE VIEW ONLY",
+   "label": "Real Vi3W output \u00b7 unedited",
+   "after": "clips/turntable-de358d.mp4",
+   "from": 180,
+   "dur": 180
+  },
+  {
+   "type": "cta",
+   "line": "It filled in the *rest*",
+   "after": "clips/turntable-cta-back-84a296.mp4",
+   "from": 360,
+   "dur": 234
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/ba70d738168e.mp3",
+   "from": 12,
+   "words": [
+    [
+     12,
+     17,
+     "Our"
+    ],
+    [
+     19,
+     36,
+     "screenshot"
+    ],
+    [
+     38,
+     46,
+     "only"
+    ],
+    [
+     47,
+     53,
+     "showed"
+    ],
+    [
+     54,
+     60,
+     "this"
+    ],
+    [
+     62,
+     70,
+     "frog"
+    ],
+    [
+     71,
+     74,
+     "from"
+    ],
+    [
+     76,
+     82,
+     "one"
+    ],
+    [
+     84,
+     104,
+     "side."
+    ],
+    [
+     106,
+     115,
+     "Watch"
+    ],
+    [
+     116,
+     120,
+     "what"
+    ],
+    [
+     122,
+     134,
+     "happens"
+    ],
+    [
+     137,
+     156,
+     "next."
+    ]
+   ]
+  },
+  {
+   "src": "vo/95cbfc5dd169.mp3",
+   "from": 186,
+   "words": [
+    [
+     186,
+     191,
+     "One"
+    ],
+    [
+     193,
+     200,
+     "side"
+    ],
+    [
+     203,
+     221,
+     "view,"
+    ],
+    [
+     222,
+     229,
+     "into"
+    ],
+    [
+     232,
+     251,
+     "Vi3W\u2026"
+    ]
+   ]
+  },
+  {
+   "src": "vo/8de96f9a24c0.mp3",
+   "from": 363,
+   "words": [
+    [
+     365,
+     380,
+     "\u2026and"
+    ],
+    [
+     382,
+     387,
+     "it"
+    ],
+    [
+     388,
+     394,
+     "built"
+    ],
+    [
+     395,
+     397,
+     "the"
+    ],
+    [
+     399,
+     406,
+     "side"
+    ],
+    [
+     407,
+     411,
+     "the"
+    ],
+    [
+     413,
+     430,
+     "screenshot"
+    ],
+    [
+     431,
+     437,
+     "never"
+    ],
+    [
+     439,
+     452,
+     "showed."
+    ],
+    [
+     457,
+     471,
+     "His"
+    ],
+    [
+     473,
+     490,
+     "back,"
+    ],
+    [
+     492,
+     497,
+     "his"
+    ],
+    [
+     500,
+     520,
+     "feet,"
+    ],
+    [
+     523,
+     531,
+     "all"
+    ],
+    [
+     533,
+     536,
+     "of"
+    ],
+    [
+     539,
+     555,
+     "it."
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "One side view. Watch what *Vi3W* builds",
+  "until": 72
+ },
+ "credit": "\ud83c\udfa5 @AvunHub",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ }
+}

@@ -1,0 +1,243 @@
+{
+ "fps": 30,
+ "durationInFrames": 594,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "source",
+   "src": "clips/stopped-29282a.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "from": 0,
+   "dur": 180
+  },
+  {
+   "type": "reveal",
+   "before": "assets/subject-card.png",
+   "beforeLabel": "SCREENSHOT",
+   "label": "Real Vi3W output \u00b7 unedited",
+   "after": "clips/turntable-5be0f2.mp4",
+   "from": 180,
+   "dur": 180
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "after": "clips/turntable-cta-b89176.mp4",
+   "from": 360,
+   "dur": 234
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/ed544d285940.mp3",
+   "from": 12,
+   "words": [
+    [
+     18,
+     19,
+     "Twenty"
+    ],
+    [
+     21,
+     31,
+     "million"
+    ],
+    [
+     33,
+     43,
+     "people"
+    ],
+    [
+     45,
+     60,
+     "watched"
+    ],
+    [
+     61,
+     67,
+     "this"
+    ],
+    [
+     70,
+     82,
+     "frog"
+    ],
+    [
+     84,
+     94,
+     "save"
+    ],
+    [
+     95,
+     122,
+     "Franklin."
+    ],
+    [
+     125,
+     157,
+     "Modders\u2026"
+    ],
+    [
+     159,
+     170,
+     "watch"
+    ],
+    [
+     173,
+     192,
+     "this."
+    ]
+   ]
+  },
+  {
+   "src": "vo/1951d703e56b.mp3",
+   "from": 194,
+   "words": [
+    [
+     194,
+     196,
+     "I"
+    ],
+    [
+     197,
+     201,
+     "took"
+    ],
+    [
+     203,
+     208,
+     "one"
+    ],
+    [
+     210,
+     225,
+     "screenshot"
+    ],
+    [
+     227,
+     230,
+     "of"
+    ],
+    [
+     231,
+     244,
+     "him,"
+    ],
+    [
+     246,
+     254,
+     "dropped"
+    ],
+    [
+     255,
+     256,
+     "it"
+    ],
+    [
+     258,
+     264,
+     "into"
+    ],
+    [
+     266,
+     290,
+     "Vi3W\u2026"
+    ],
+    [
+     291,
+     297,
+     "three"
+    ],
+    [
+     299,
+     324,
+     "clicks\u2026"
+    ]
+   ]
+  },
+  {
+   "src": "vo/f6ee0f250f50.mp3",
+   "from": 363,
+   "words": [
+    [
+     365,
+     380,
+     "\u2026and"
+    ],
+    [
+     383,
+     399,
+     "boom."
+    ],
+    [
+     404,
+     409,
+     "A"
+    ],
+    [
+     411,
+     428,
+     "textured"
+    ],
+    [
+     430,
+     437,
+     "3D"
+    ],
+    [
+     439,
+     459,
+     "model,"
+    ],
+    [
+     460,
+     469,
+     "already"
+    ],
+    [
+     471,
+     490,
+     "T-posed."
+    ],
+    [
+     494,
+     509,
+     "Make"
+    ],
+    [
+     511,
+     521,
+     "yours"
+    ],
+    [
+     523,
+     526,
+     "at"
+    ],
+    [
+     528,
+     557,
+     "Vi3W.in!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "20M views\u2026 now he's *3D* \ud83d\udc38",
+  "until": 72
+ },
+ "credit": "\ud83c\udfa5 @AvunHub",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ }
+}

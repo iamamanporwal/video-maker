@@ -1,0 +1,202 @@
+{
+ "fps": 30,
+ "durationInFrames": 384,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "source",
+   "src": "clips/source-16af31.mp4",
+   "startFrom": 54,
+   "speed": 1.0,
+   "fit": "frame",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0.8,
+   "from": 0,
+   "dur": 66
+  },
+  {
+   "type": "reveal",
+   "before": "assets/subject.png",
+   "beforeLabel": "SCREENSHOT",
+   "label": "Vi3W output \u00b7 stray pole removed",
+   "after": "clips/turntable-7f2296.mp4",
+   "from": 66,
+   "dur": 180
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "after": "clips/turntable-cta-a9410b.mp4",
+   "from": 246,
+   "dur": 138
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/b20ee80b7293.mp3",
+   "from": 72,
+   "words": [
+    [
+     72,
+     82,
+     "Okay,"
+    ],
+    [
+     83,
+     86,
+     "but"
+    ],
+    [
+     89,
+     98,
+     "what"
+    ],
+    [
+     100,
+     103,
+     "if"
+    ],
+    [
+     104,
+     108,
+     "that"
+    ],
+    [
+     110,
+     120,
+     "slide"
+    ],
+    [
+     121,
+     125,
+     "was"
+    ],
+    [
+     127,
+     130,
+     "a"
+    ],
+    [
+     131,
+     137,
+     "real"
+    ],
+    [
+     142,
+     151,
+     "3D"
+    ],
+    [
+     154,
+     170,
+     "model?"
+    ],
+    [
+     174,
+     185,
+     "One"
+    ],
+    [
+     187,
+     204,
+     "screenshot"
+    ],
+    [
+     206,
+     214,
+     "into"
+    ],
+    [
+     216,
+     230,
+     "Vi3W\u2026"
+    ]
+   ]
+  },
+  {
+   "src": "vo/55104c6b4fae.mp3",
+   "from": 249,
+   "words": [
+    [
+     249,
+     251,
+     "\u2026and"
+    ],
+    [
+     252,
+     256,
+     "it's"
+    ],
+    [
+     259,
+     261,
+     "a"
+    ],
+    [
+     262,
+     268,
+     "full"
+    ],
+    [
+     271,
+     278,
+     "3D"
+    ],
+    [
+     280,
+     298,
+     "model."
+    ],
+    [
+     305,
+     309,
+     "What"
+    ],
+    [
+     310,
+     314,
+     "should"
+    ],
+    [
+     316,
+     319,
+     "we"
+    ],
+    [
+     321,
+     331,
+     "3D"
+    ],
+    [
+     334,
+     356,
+     "next?"
+    ],
+    [
+     357,
+     367,
+     "Comment"
+    ],
+    [
+     368,
+     379,
+     "it!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "Wait\u2026 what if this was *3D*?",
+  "until": 75
+ },
+ "credit": "\ud83c\udfa5 PLAYGROUND \u00b7 @rodrigosousa8853",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ }
+}

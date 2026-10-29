@@ -14,17 +14,20 @@ dist/
 # OS
 .DS_Store
 
-# Raw footage and rendered output (too large for git)
+# Raw screen recordings and exports (hundreds of MB each)
 Input/
 Output/
 *.mov
-*.mp4
-*.webm
 *.mkv
 
-# Nested git repos / generated project workspaces
+# Pipeline-created project workspaces with their own git repo (2.5 GB of captures/renders)
 projects/artist-who-couldnt-create/
 projects/demo/
-projects/shorts/*/public/clips/
-projects/shorts/*/*/public/clips/
-projects/shorts/**/out/
+
+# Footage copied into Remotion public/ and full-length YouTube downloads.
+# Regenerable from Input/ or the source URLs, and many files exceed GitHub's 100 MB limit.
+projects/**/public/clips/
+projects/**/sources/
+
+# Keep every other tracked file under 50 MB (GitHub warns at 50, rejects at 100).
+# Add any new oversized file here by path.

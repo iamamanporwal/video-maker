@@ -1,0 +1,258 @@
+{
+ "fps": 30,
+ "durationInFrames": 477,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-29-58-pm-fd5d2e.mp4",
+   "startFrom": 930,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.25,
+   "gain": 0,
+   "from": 0,
+   "dur": 75
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-29-58-pm-fd5d2e.mp4",
+   "startFrom": 210,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.45,
+   "zoom": 1.25,
+   "gain": 0,
+   "from": 75,
+   "dur": 75
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-29-58-pm-fd5d2e.mp4",
+   "startFrom": 570,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.25,
+   "gain": 0,
+   "from": 150,
+   "dur": 105
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-29-58-pm-fd5d2e.mp4",
+   "startFrom": 1170,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.25,
+   "gain": 0,
+   "from": 255,
+   "dur": 114
+  },
+  {
+   "type": "cta",
+   "line": "Make your own ride at *Vi3W.in*",
+   "button": "Tag that friend \ud83d\ude2d",
+   "after": "assets/cta.png",
+   "from": 369,
+   "dur": 108
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/ed1de5df63e5.mp3",
+   "from": 3,
+   "words": [
+    [
+     23,
+     32,
+     "Nope."
+    ],
+    [
+     34,
+     44,
+     "Nope!"
+    ],
+    [
+     45,
+     51,
+     "That"
+    ],
+    [
+     53,
+     58,
+     "was"
+    ],
+    [
+     61,
+     68,
+     "way"
+    ],
+    [
+     70,
+     75,
+     "too"
+    ],
+    [
+     77,
+     92,
+     "close."
+    ]
+   ]
+  },
+  {
+   "src": "vo/c1530719917c.mp3",
+   "from": 94,
+   "words": [
+    [
+     94,
+     101,
+     "Street"
+    ],
+    [
+     104,
+     120,
+     "Dodge!"
+    ],
+    [
+     123,
+     135,
+     "That"
+    ],
+    [
+     137,
+     155,
+     "truck?"
+    ],
+    [
+     157,
+     164,
+     "Made"
+    ],
+    [
+     165,
+     168,
+     "with"
+    ],
+    [
+     171,
+     190,
+     "Vi3W."
+    ]
+   ]
+  },
+  {
+   "src": "vo/f627566950fe.mp3",
+   "from": 192,
+   "words": [
+    [
+     192,
+     209,
+     "Dodge,"
+    ],
+    [
+     213,
+     240,
+     "boost,"
+    ],
+    [
+     241,
+     247,
+     "grab"
+    ],
+    [
+     248,
+     250,
+     "the"
+    ],
+    [
+     252,
+     271,
+     "coins\u2026"
+    ]
+   ]
+  },
+  {
+   "src": "vo/ed43fb0cf0d4.mp3",
+   "from": 306,
+   "words": [
+    [
+     318,
+     328,
+     "annnd"
+    ],
+    [
+     332,
+     344,
+     "it's"
+    ],
+    [
+     349,
+     368,
+     "gone."
+    ]
+   ]
+  },
+  {
+   "src": "vo/7ab21d3a5dc3.mp3",
+   "from": 372,
+   "words": [
+    [
+     372,
+     377,
+     "Tag"
+    ],
+    [
+     377,
+     379,
+     "the"
+    ],
+    [
+     381,
+     389,
+     "friend"
+    ],
+    [
+     390,
+     394,
+     "who"
+    ],
+    [
+     395,
+     406,
+     "drives"
+    ],
+    [
+     408,
+     422,
+     "exactly"
+    ],
+    [
+     424,
+     430,
+     "like"
+    ],
+    [
+     432,
+     446,
+     "this!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "Near miss at *full boost* \ud83d\ude31",
+  "until": 72
+ },
+ "credit": "\ud83c\udfae Street Dodge \u00b7 made with Vi3W models",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ }
+}

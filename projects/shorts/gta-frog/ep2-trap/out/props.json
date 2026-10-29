@@ -1,0 +1,268 @@
+{
+ "fps": 30,
+ "durationInFrames": 594,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "source",
+   "src": "clips/trap-625659.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "from": 0,
+   "dur": 180
+  },
+  {
+   "type": "reveal",
+   "before": "assets/subject-card.png",
+   "beforeLabel": "SCREENSHOT",
+   "label": "Real Vi3W output \u00b7 unedited",
+   "after": "clips/turntable-27759b.mp4",
+   "from": 180,
+   "dur": 180
+  },
+  {
+   "type": "cta",
+   "line": "Screenshot \u2192 *3D model*",
+   "after": "clips/turntable-cta-48a5cb.mp4",
+   "from": 360,
+   "dur": 234
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/e9f2a38a3d7b.mp3",
+   "from": 12,
+   "words": [
+    [
+     12,
+     17,
+     "This"
+    ],
+    [
+     19,
+     26,
+     "frog"
+    ],
+    [
+     29,
+     36,
+     "mod"
+    ],
+    [
+     38,
+     46,
+     "has"
+    ],
+    [
+     47,
+     60,
+     "thirteen"
+    ],
+    [
+     62,
+     79,
+     "million"
+    ],
+    [
+     82,
+     106,
+     "views."
+    ],
+    [
+     107,
+     110,
+     "What"
+    ],
+    [
+     112,
+     115,
+     "if"
+    ],
+    [
+     117,
+     122,
+     "you"
+    ],
+    [
+     124,
+     132,
+     "needed"
+    ],
+    [
+     134,
+     139,
+     "him"
+    ],
+    [
+     140,
+     142,
+     "in"
+    ],
+    [
+     143,
+     149,
+     "your"
+    ],
+    [
+     151,
+     175,
+     "game\u2026"
+    ],
+    [
+     178,
+     204,
+     "tonight?"
+    ]
+   ]
+  },
+  {
+   "src": "vo/24b8d1e4553c.mp3",
+   "from": 206,
+   "words": [
+    [
+     206,
+     211,
+     "No"
+    ],
+    [
+     213,
+     228,
+     "Blender."
+    ],
+    [
+     232,
+     240,
+     "No"
+    ],
+    [
+     242,
+     261,
+     "sculpting."
+    ],
+    [
+     264,
+     276,
+     "Just"
+    ],
+    [
+     277,
+     283,
+     "this"
+    ],
+    [
+     285,
+     290,
+     "one"
+    ],
+    [
+     292,
+     319,
+     "screenshot,"
+    ],
+    [
+     320,
+     326,
+     "into"
+    ],
+    [
+     328,
+     350,
+     "Vi3W\u2026"
+    ]
+   ]
+  },
+  {
+   "src": "vo/e377c2182dfc.mp3",
+   "from": 363,
+   "words": [
+    [
+     365,
+     377,
+     "\u2026and"
+    ],
+    [
+     379,
+     387,
+     "there"
+    ],
+    [
+     389,
+     394,
+     "he"
+    ],
+    [
+     399,
+     418,
+     "is."
+    ],
+    [
+     420,
+     428,
+     "Full"
+    ],
+    [
+     430,
+     452,
+     "3D,"
+    ],
+    [
+     454,
+     476,
+     "textured,"
+    ],
+    [
+     479,
+     509,
+     "T-posed."
+    ],
+    [
+     511,
+     517,
+     "Which"
+    ],
+    [
+     518,
+     524,
+     "mod"
+    ],
+    [
+     524,
+     529,
+     "should"
+    ],
+    [
+     530,
+     531,
+     "I"
+    ],
+    [
+     533,
+     543,
+     "3D"
+    ],
+    [
+     546,
+     567,
+     "next?"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "No Blender. No sculpting. *One screenshot.*",
+  "until": 72
+ },
+ "credit": "\ud83c\udfa5 @AvunHub",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ }
+}

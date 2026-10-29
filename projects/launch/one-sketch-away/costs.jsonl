@@ -1,0 +1,21 @@
+{"t": "2026-10-29T18:51:38", "provider": "elevenlabs", "what": "tts", "chars": 23}
+{"t": "2026-10-29T18:51:39", "provider": "elevenlabs", "what": "tts", "chars": 15}
+{"t": "2026-10-29T18:51:42", "provider": "elevenlabs", "what": "tts", "chars": 45}
+{"t": "2026-10-29T18:51:44", "provider": "elevenlabs", "what": "tts", "chars": 34}
+{"t": "2026-10-29T18:51:45", "provider": "elevenlabs", "what": "tts", "chars": 27}
+{"t": "2026-10-29T18:51:46", "provider": "elevenlabs", "what": "tts", "chars": 9}
+{"t": "2026-10-29T18:51:48", "provider": "elevenlabs", "what": "tts", "chars": 9}
+{"t": "2026-10-29T18:51:49", "provider": "elevenlabs", "what": "tts", "chars": 6}
+{"t": "2026-10-29T18:51:51", "provider": "elevenlabs", "what": "tts", "chars": 27}
+{"t": "2026-10-29T18:51:52", "provider": "elevenlabs", "what": "tts", "chars": 20}
+{"t": "2026-10-29T18:51:54", "provider": "elevenlabs", "what": "tts", "chars": 25}
+{"t": "2026-10-29T18:51:56", "provider": "elevenlabs", "what": "sfx", "name": "pencil"}
+{"t": "2026-10-29T18:51:58", "provider": "elevenlabs", "what": "sfx", "name": "whoosh"}
+{"t": "2026-10-29T18:51:59", "provider": "elevenlabs", "what": "sfx", "name": "rewind"}
+{"t": "2026-10-29T18:52:01", "provider": "elevenlabs", "what": "sfx", "name": "tick"}
+{"t": "2026-10-29T18:52:03", "provider": "elevenlabs", "what": "sfx", "name": "click"}
+{"t": "2026-10-29T18:52:05", "provider": "elevenlabs", "what": "sfx", "name": "scan"}
+{"t": "2026-10-29T18:52:07", "provider": "elevenlabs", "what": "sfx", "name": "riser"}
+{"t": "2026-10-29T18:52:09", "provider": "elevenlabs", "what": "sfx", "name": "boom"}
+{"t": "2026-10-29T18:52:11", "provider": "elevenlabs", "what": "sfx", "name": "printer"}
+{"t": "2026-10-29T18:54:22", "provider": "fal", "what": "music", "seconds": 60.0, "usd": 0.8}

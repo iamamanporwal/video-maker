@@ -1,0 +1,284 @@
+{
+ "fps": 30,
+ "durationInFrames": 546,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-12-46-pm-35e6d6.mp4",
+   "startFrom": 1428,
+   "speed": 1.0,
+   "fit": "frame",
+   "focus": 0.5,
+   "zoom": 1.12,
+   "gain": 0,
+   "from": 0,
+   "dur": 72
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-12-46-pm-35e6d6.mp4",
+   "startFrom": 60,
+   "speed": 1.0,
+   "fit": "frame",
+   "focus": 0.5,
+   "zoom": 1.12,
+   "gain": 0,
+   "label": "Zone 1 \u00b7 Neon Cavern",
+   "from": 72,
+   "dur": 90
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-12-46-pm-35e6d6.mp4",
+   "startFrom": 828,
+   "speed": 1.0,
+   "fit": "frame",
+   "focus": 0.5,
+   "zoom": 1.12,
+   "gain": 0,
+   "label": "Zone 2 \u00b7 Arctic Abyss",
+   "from": 162,
+   "dur": 84
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-12-46-pm-35e6d6.mp4",
+   "startFrom": 1128,
+   "speed": 1.0,
+   "fit": "frame",
+   "focus": 0.5,
+   "zoom": 1.12,
+   "gain": 0,
+   "label": "Zone 3 \u00b7 Volcanic Core",
+   "from": 246,
+   "dur": 84
+  },
+  {
+   "type": "clip",
+   "src": "clips/screen-recording-2026-10-25-at-10-12-46-pm-35e6d6.mp4",
+   "startFrom": 1680,
+   "speed": 1.0,
+   "fit": "frame",
+   "focus": 0.5,
+   "zoom": 1.12,
+   "gain": 0,
+   "label": "Zone 5 \u00b7 Stellar Void",
+   "from": 330,
+   "dur": 108
+  },
+  {
+   "type": "cta",
+   "line": "Build your own world at *Vi3W.in*",
+   "button": "Comment your zone \ud83d\udc47",
+   "after": "assets/cta.png",
+   "from": 438,
+   "dur": 108
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/c5fe20c0053e.mp3",
+   "from": 3,
+   "words": [
+    [
+     11,
+     20,
+     "Wait,"
+    ],
+    [
+     21,
+     29,
+     "every"
+    ],
+    [
+     31,
+     39,
+     "single"
+    ],
+    [
+     41,
+     49,
+     "zone"
+    ],
+    [
+     49,
+     51,
+     "in"
+    ],
+    [
+     52,
+     56,
+     "this"
+    ],
+    [
+     58,
+     68,
+     "game"
+    ],
+    [
+     69,
+     73,
+     "is"
+    ],
+    [
+     75,
+     77,
+     "a"
+    ],
+    [
+     79,
+     89,
+     "whole"
+    ],
+    [
+     92,
+     99,
+     "new"
+    ],
+    [
+     102,
+     118,
+     "world?"
+    ]
+   ]
+  },
+  {
+   "src": "vo/a3b6e3e09a70.mp3",
+   "from": 120,
+   "words": [
+    [
+     120,
+     130,
+     "Heli"
+    ],
+    [
+     132,
+     144,
+     "Rush!"
+    ],
+    [
+     147,
+     158,
+     "Made"
+    ],
+    [
+     159,
+     163,
+     "with"
+    ],
+    [
+     166,
+     182,
+     "Vi3W."
+    ]
+   ]
+  },
+  {
+   "src": "vo/9bb52bb7ca3e.mp3",
+   "from": 184,
+   "words": [
+    [
+     184,
+     191,
+     "Ice"
+    ],
+    [
+     194,
+     230,
+     "caves\u2026"
+    ],
+    [
+     245,
+     256,
+     "lava\u2026"
+    ]
+   ]
+  },
+  {
+   "src": "vo/0ae30fe1b2ea.mp3",
+   "from": 348,
+   "words": [
+    [
+     348,
+     353,
+     "and"
+    ],
+    [
+     355,
+     380,
+     "then\u2026"
+    ],
+    [
+     383,
+     406,
+     "space?!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/8d3187b277ad.mp3",
+   "from": 441,
+   "words": [
+    [
+     441,
+     446,
+     "Which"
+    ],
+    [
+     447,
+     453,
+     "zone"
+    ],
+    [
+     455,
+     463,
+     "takes"
+    ],
+    [
+     464,
+     467,
+     "you"
+    ],
+    [
+     469,
+     472,
+     "out"
+    ],
+    [
+     475,
+     489,
+     "first?"
+    ],
+    [
+     492,
+     503,
+     "Tell"
+    ],
+    [
+     504,
+     506,
+     "me"
+    ],
+    [
+     508,
+     530,
+     "below!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "Every zone is a *new world* \ud83e\udd2f",
+  "until": 72
+ },
+ "credit": "\ud83c\udfae Heli Rush \u00b7 made with Vi3W models",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ }
+}
