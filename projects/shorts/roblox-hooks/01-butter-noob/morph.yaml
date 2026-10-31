@@ -1,0 +1,14 @@
+# Hook → 3D transition (python -m reelforge.morph projects/shorts/roblox-hooks/01-butter-noob/morph.yaml).
+# Renders: src/reelforge/blender/morph.py assets/model.glb render/morph -15 10 180. Freeze frame 10.0 s: noob on the butter.
+video: ref/hook-CSMTg6j5y7k.mp4
+start: 0.0
+freeze: 10.0
+subject: [60, 120, 430, 760]
+renders: render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+cta_seconds: 4.2
+spin_tail: 90
+gain: 1.0
+spin_zoom: 1.0
+center_y: 900

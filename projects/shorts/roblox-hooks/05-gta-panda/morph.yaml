@@ -1,0 +1,13 @@
+# Hook → 3D transition. Renders: morph.py assets/model.glb render/morph 15 5 180. Plays 11→14 s (after the 0-6 s hook), freeze 14.0 s.
+video: ref/hook-y1twMWcn7RI.mp4
+start: 11.0
+freeze: 14.0
+subject: [20, 360, 270, 1000]
+renders: render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+cta_seconds: 4.2
+spin_tail: 90
+gain: 1.0
+gamma: 1.4
+center_y: 900

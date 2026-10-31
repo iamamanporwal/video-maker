@@ -1,0 +1,155 @@
+{
+ "fps": 30,
+ "durationInFrames": 561,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/hook-y1twmwcn7ri-e8e036.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 0,
+   "dur": 180
+  },
+  {
+   "type": "clip",
+   "src": "clips/morph-04399b.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 180,
+   "dur": 255
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Which GTA mod next? \ud83d\udc47",
+   "backdrop": "clips/cta-full-9e859b.mp4",
+   "from": 435,
+   "dur": 126
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/4e50e4ab5a22.mp3",
+   "from": 282,
+   "words": [
+    [
+     288,
+     311,
+     "Modders!"
+    ],
+    [
+     313,
+     342,
+     "Screenshot!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/4c47986a3b15.mp3",
+   "from": 348,
+   "words": [
+    [
+     361,
+     362,
+     "A"
+    ],
+    [
+     365,
+     377,
+     "real"
+    ],
+    [
+     382,
+     394,
+     "3D"
+    ],
+    [
+     396,
+     425,
+     "model!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/692b03d5e385.mp3",
+   "from": 444,
+   "words": [
+    [
+     444,
+     451,
+     "Which"
+    ],
+    [
+     454,
+     461,
+     "mod"
+    ],
+    [
+     461,
+     466,
+     "should"
+    ],
+    [
+     467,
+     470,
+     "we"
+    ],
+    [
+     473,
+     485,
+     "3D"
+    ],
+    [
+     488,
+     506,
+     "next?"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @GameZyroii",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ },
+ "cues": [
+  {
+   "src": "assets/uhh.mp3",
+   "from": 268,
+   "volume": 1.0
+  },
+  {
+   "src": "assets/charge.mp3",
+   "from": 285,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/gasp.mp3",
+   "from": 321,
+   "volume": 0.8
+  },
+  {
+   "src": "assets/levelup.mp3",
+   "from": 435,
+   "volume": 0.5
+  },
+  {
+   "src": "assets/click.mp3",
+   "from": 531,
+   "volume": 0.8
+  }
+ ]
+}

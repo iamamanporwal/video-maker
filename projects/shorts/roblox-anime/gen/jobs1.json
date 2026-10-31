@@ -1,0 +1,68 @@
+[
+ {
+  "tool": "turbo_mlx_generate_image",
+  "args": {
+   "prompt": "Character turnaround reference, front view, full body, standing, plain light grey background: an original chunky blocky toy-like game avatar character: perfectly square cube head with simple dot eyes and a small mouth, mint-green skin, orange zip hoodie, red cloth headband with long tails, dark blue cargo pants, chunky block hands and feet, brick-built video game style, glossy plastic 3D render",
+   "width": 1024,
+   "height": 1024,
+   "seed": 7,
+   "steps": 8,
+   "output": "projects/shorts/roblox-anime/gen/char-ref.png"
+  }
+ },
+ {
+  "tool": "turbo_mlx_generate_image",
+  "args": {
+   "prompt": "Sad anime-style emotional scene, cinematic: an original chunky blocky toy-like game avatar character: perfectly square cube head with simple dot eyes and a small mouth, mint-green skin, orange zip hoodie, red cloth headband with long tails, dark blue cargo pants, chunky block hands and feet, brick-built video game style, glossy plastic 3D render, sitting alone on a curb at night in heavy rain, head down, wet street reflecting neon lights, blue and purple tones, dramatic rim light, puddles, vertical composition, emotional, lonely",
+   "width": 768,
+   "height": 1344,
+   "seed": 21,
+   "steps": 8,
+   "output": "projects/shorts/roblox-anime/gen/rain.png"
+  }
+ },
+ {
+  "tool": "turbo_mlx_generate_image",
+  "args": {
+   "prompt": "Comedic game-style scene: a smug blocky game avatar in sunglasses and a black suit sitting behind a desk, holding up a giant price sign that reads \"$400\", office, dramatic lighting, glossy plastic 3D render, vertical composition",
+   "width": 768,
+   "height": 1344,
+   "seed": 22,
+   "steps": 8,
+   "output": "projects/shorts/roblox-anime/gen/modeler.png"
+  }
+ },
+ {
+  "tool": "turbo_mlx_generate_image",
+  "args": {
+   "prompt": "Dark bedroom at 3AM, an original chunky blocky toy-like game avatar character: perfectly square cube head with simple dot eyes and a small mouth, mint-green skin, orange zip hoodie, red cloth headband with long tails, dark blue cargo pants, chunky block hands and feet, brick-built video game style, glossy plastic 3D render, sitting at a gaming desk hunched toward a glowing monitor, tired eyes with dark circles, energy drink cans everywhere, only the monitor lights the scene in blue, a clock on the wall shows 3:00, cinematic, vertical composition",
+   "width": 768,
+   "height": 1344,
+   "seed": 23,
+   "steps": 8,
+   "output": "projects/shorts/roblox-anime/gen/3am.png"
+  }
+ },
+ {
+  "tool": "turbo_mlx_generate_image",
+  "args": {
+   "prompt": "Anime power-up moment: an original chunky blocky toy-like game avatar character: perfectly square cube head with simple dot eyes and a small mouth, mint-green skin, orange zip hoodie, red cloth headband with long tails, dark blue cargo pants, chunky block hands and feet, brick-built video game style, glossy plastic 3D render, standing heroically, fists clenched, surrounded by a huge blazing orange and gold energy aura with lightning sparks, wind blowing hoodie and headband tails, debris floating, dramatic low angle, epic anime battle lighting, vertical composition",
+   "width": 768,
+   "height": 1344,
+   "seed": 24,
+   "steps": 8,
+   "output": "projects/shorts/roblox-anime/gen/powerup.png"
+  }
+ },
+ {
+  "tool": "turbo_mlx_generate_image",
+  "args": {
+   "prompt": "Fantasy village square in a blocky brick-built video game world: a friendly old blocky NPC villager with a long white beard and a wizard hat, holding a scroll, a big glowing yellow exclamation mark floating above his head, sunny day, cute glossy plastic 3D render, vertical composition, NPC centered in the upper half",
+   "width": 768,
+   "height": 1344,
+   "seed": 25,
+   "steps": 8,
+   "output": "projects/shorts/roblox-anime/gen/npc.png"
+  }
+ }
+]

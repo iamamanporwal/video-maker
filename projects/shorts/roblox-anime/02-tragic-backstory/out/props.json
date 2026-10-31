@@ -1,0 +1,282 @@
+{
+ "fps": 30,
+ "durationInFrames": 456,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/rain-f784ae.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "from": 0,
+   "dur": 90
+  },
+  {
+   "type": "clip",
+   "src": "clips/modeler-245ab1.mp4",
+   "startFrom": 6,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "label": "the 3D modeler",
+   "from": 90,
+   "dur": 72
+  },
+  {
+   "type": "clip",
+   "src": "clips/robot-drawing-8a86e7.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "label": "so he drew it himself",
+   "from": 162,
+   "dur": 54
+  },
+  {
+   "type": "reveal",
+   "before": "assets/robot-drawing.png",
+   "label": "Real Vi3W output",
+   "after": "assets/robot0.jpeg",
+   "from": 216,
+   "dur": 138
+  },
+  {
+   "type": "cta",
+   "line": "No modeler? *Sketch \u2192 3D*",
+   "button": "Comment what your game needs \ud83d\udc47",
+   "after": "assets/robot0.jpeg",
+   "from": 354,
+   "dur": 102
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/88bbcbdffb45.mp3",
+   "from": 9,
+   "words": [
+    [
+     13,
+     14,
+     "He"
+    ],
+    [
+     15,
+     21,
+     "just"
+    ],
+    [
+     23,
+     35,
+     "wanted"
+    ],
+    [
+     38,
+     45,
+     "one"
+    ],
+    [
+     50,
+     59,
+     "3D"
+    ],
+    [
+     61,
+     71,
+     "model"
+    ],
+    [
+     73,
+     76,
+     "for"
+    ],
+    [
+     77,
+     81,
+     "his"
+    ],
+    [
+     84,
+     103,
+     "game..."
+    ]
+   ]
+  },
+  {
+   "src": "vo/e671234c3b01.mp3",
+   "from": 105,
+   "words": [
+    [
+     132,
+     139,
+     "Four"
+    ],
+    [
+     141,
+     155,
+     "hundred"
+    ],
+    [
+     158,
+     179,
+     "dollars."
+    ]
+   ]
+  },
+  {
+   "src": "vo/252d7d23024c.mp3",
+   "from": 181,
+   "words": [
+    [
+     185,
+     188,
+     "So"
+    ],
+    [
+     190,
+     193,
+     "he"
+    ],
+    [
+     195,
+     205,
+     "drew"
+    ],
+    [
+     207,
+     215,
+     "it."
+    ]
+   ]
+  },
+  {
+   "src": "vo/b1e95883420f.mp3",
+   "from": 241,
+   "words": [
+    [
+     247,
+     248,
+     "And"
+    ],
+    [
+     251,
+     260,
+     "Vi3W"
+    ],
+    [
+     262,
+     270,
+     "made"
+    ],
+    [
+     272,
+     277,
+     "it"
+    ],
+    [
+     282,
+     306,
+     "REAL!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/88c20979756a.mp3",
+   "from": 360,
+   "words": [
+    [
+     360,
+     362,
+     "What"
+    ],
+    [
+     364,
+     370,
+     "does"
+    ],
+    [
+     371,
+     377,
+     "your"
+    ],
+    [
+     379,
+     386,
+     "game"
+    ],
+    [
+     388,
+     396,
+     "need?"
+    ],
+    [
+     399,
+     420,
+     "Comment"
+    ],
+    [
+     422,
+     434,
+     "it!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "every roblox dev's *tragic backstory* \ud83d\udc94",
+  "until": 102
+ },
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ },
+ "cues": [
+  {
+   "src": "assets/rain.mp3",
+   "from": 0,
+   "volume": 0.5
+  },
+  {
+   "src": "assets/sadflute.mp3",
+   "from": 0,
+   "volume": 0.8
+  },
+  {
+   "src": "assets/slam.mp3",
+   "from": 108,
+   "volume": 1.0
+  },
+  {
+   "src": "assets/scratch.mp3",
+   "from": 162,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/aura.mp3",
+   "from": 216,
+   "volume": 0.8
+  },
+  {
+   "src": "assets/gong.mp3",
+   "from": 273,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/drop.mp3",
+   "from": 354,
+   "volume": 0.7
+  }
+ ]
+}

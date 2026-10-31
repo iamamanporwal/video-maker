@@ -1,0 +1,278 @@
+{
+ "fps": 30,
+ "durationInFrames": 504,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/powerup-732435.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "from": 0,
+   "dur": 78
+  },
+  {
+   "type": "clip",
+   "src": "clips/sneaker-sketch-10d199.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "label": "FORM 1 \u00b7 a doodle",
+   "from": 78,
+   "dur": 66
+  },
+  {
+   "type": "reveal",
+   "before": "assets/sneaker-sketch.png",
+   "label": "FORM 2 \u00b7 real Vi3W 3D model",
+   "after": "assets/sneaker-3d.png",
+   "from": 144,
+   "dur": 132
+  },
+  {
+   "type": "clip",
+   "src": "clips/doodlederby-trailer-1-62730b.mp4",
+   "startFrom": 750,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.1,
+   "gain": 0,
+   "label": "FINAL FORM \u00b7 in a real game",
+   "from": 276,
+   "dur": 126
+  },
+  {
+   "type": "cta",
+   "line": "Sketch \u2192 *3D* with Vi3W",
+   "button": "Comment your final form \ud83d\udc47",
+   "after": "assets/sneaker-3d.png",
+   "from": 402,
+   "dur": 102
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/825ae3daba07.mp3",
+   "from": 4,
+   "words": [
+    [
+     18,
+     33,
+     "This..."
+    ],
+    [
+     34,
+     38,
+     "is"
+    ],
+    [
+     42,
+     50,
+     "my"
+    ],
+    [
+     52,
+     62,
+     "FINAL"
+    ],
+    [
+     66,
+     88,
+     "FORM!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/813b85a66040.mp3",
+   "from": 90,
+   "words": [
+    [
+     90,
+     100,
+     "Form"
+    ],
+    [
+     103,
+     125,
+     "one:"
+    ],
+    [
+     131,
+     138,
+     "a"
+    ],
+    [
+     140,
+     162,
+     "doodle."
+    ]
+   ]
+  },
+  {
+   "src": "vo/e41fb943286e.mp3",
+   "from": 171,
+   "words": [
+    [
+     179,
+     181,
+     "Form"
+    ],
+    [
+     184,
+     202,
+     "two:"
+    ],
+    [
+     207,
+     212,
+     "a"
+    ],
+    [
+     215,
+     229,
+     "REAL"
+    ],
+    [
+     233,
+     248,
+     "3D"
+    ],
+    [
+     250,
+     269,
+     "model!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/80c67596a138.mp3",
+   "from": 288,
+   "words": [
+    [
+     300,
+     302,
+     "Final"
+    ],
+    [
+     306,
+     324,
+     "form?"
+    ],
+    [
+     331,
+     346,
+     "It"
+    ],
+    [
+     347,
+     350,
+     "is"
+    ],
+    [
+     352,
+     365,
+     "racing"
+    ],
+    [
+     366,
+     367,
+     "in"
+    ],
+    [
+     368,
+     370,
+     "a"
+    ],
+    [
+     373,
+     389,
+     "game!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/39c38fcba139.mp3",
+   "from": 408,
+   "words": [
+    [
+     408,
+     420,
+     "Comment"
+    ],
+    [
+     421,
+     425,
+     "your"
+    ],
+    [
+     427,
+     437,
+     "final"
+    ],
+    [
+     440,
+     463,
+     "form!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "my sketch unlocked its *FINAL FORM* \ud83d\ude24",
+  "until": 90
+ },
+ "credit": "Game: Doodle Derby by Sagar Prema Rajan",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ },
+ "cues": [
+  {
+   "src": "assets/aura.mp3",
+   "from": 0,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/boom.mp3",
+   "from": 2,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/bubble.mp3",
+   "from": 78,
+   "volume": 0.8
+  },
+  {
+   "src": "assets/charge.mp3",
+   "from": 144,
+   "volume": 0.8
+  },
+  {
+   "src": "assets/shock.mp3",
+   "from": 201,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/drop.mp3",
+   "from": 276,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/levelup.mp3",
+   "from": 402,
+   "volume": 0.6
+  }
+ ]
+}

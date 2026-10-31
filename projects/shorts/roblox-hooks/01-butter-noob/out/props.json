@@ -1,0 +1,143 @@
+{
+ "fps": 30,
+ "durationInFrames": 591,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-228d82.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 0,
+   "dur": 465
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment what to 3D next \ud83d\udc47",
+   "backdrop": "clips/cta-full-04bef8.mp4",
+   "from": 465,
+   "dur": 126
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/8c014b07b7fd.mp3",
+   "from": 312,
+   "words": [
+    [
+     321,
+     358,
+     "Wait..."
+    ],
+    [
+     359,
+     370,
+     "freeze"
+    ],
+    [
+     372,
+     384,
+     "him."
+    ]
+   ]
+  },
+  {
+   "src": "vo/33c1af9935a0.mp3",
+   "from": 386,
+   "words": [
+    [
+     402,
+     405,
+     "He"
+    ],
+    [
+     409,
+     417,
+     "is"
+    ],
+    [
+     420,
+     432,
+     "3D"
+    ],
+    [
+     436,
+     456,
+     "now!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/ae45f4b8d57a.mp3",
+   "from": 474,
+   "words": [
+    [
+     474,
+     479,
+     "What"
+    ],
+    [
+     479,
+     484,
+     "should"
+    ],
+    [
+     486,
+     491,
+     "we"
+    ],
+    [
+     496,
+     510,
+     "3D"
+    ],
+    [
+     513,
+     532,
+     "next?"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @Triangle1388",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ },
+ "cues": [
+  {
+   "src": "assets/uhh.mp3",
+   "from": 298,
+   "volume": 1.0
+  },
+  {
+   "src": "assets/charge.mp3",
+   "from": 315,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/ting.mp3",
+   "from": 351,
+   "volume": 0.8
+  },
+  {
+   "src": "assets/levelup.mp3",
+   "from": 465,
+   "volume": 0.5
+  },
+  {
+   "src": "assets/click.mp3",
+   "from": 561,
+   "volume": 0.8
+  }
+ ]
+}

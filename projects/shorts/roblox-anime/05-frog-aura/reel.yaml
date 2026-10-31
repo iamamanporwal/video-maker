@@ -1,0 +1,33 @@
+# Roblox anime-meme short 5: "this frog has more aura than my whole roblox game". Aura meme → 3D frog.
+# Hook: @AvunHub frog clip (permission: ../../gta-frog/assets/permission.md). Source audio muted, as in the frog series.
+# Payoff: frog.glb, real Vi3W output of one screenshot, unedited (turntables from the gta-frog series).
+title: roblox-frog-aura
+voice: {id: SOYHLrjzK2X1ezoPC6cr, model: eleven_v3, stability: 0.0}   # "Harry": young, rough, animation-style (premade ElevenLabs voice)
+source: {url: 'https://www.youtube.com/shorts/5AM8j4jIJ_I', creator: '@AvunHub', rights: permission, proof: ../../gta-frog/assets/permission.md}
+hook: {text: this frog has more *aura* than my whole roblox game 💀, seconds: 3.6}
+credit: '🎥 @AvunHub'
+segments:
+- {id: hook, type: source, src: ../../gta-frog/assets/stopped.mp4, in: 0.0, out: 3.6, fit: crop, gain: 0}
+- {id: reveal, type: reveal, before: ../../gta-frog/assets/subject-card.png, before_label: SCREENSHOT, after: ../../gta-frog/assets/turntable.mp4, seconds: 5.8, label: 'Real Vi3W output · unedited'}
+- {id: cta, type: cta, seconds: 4.0, after: ../../gta-frog/assets/turntable-cta.mp4, line: '+1000 aura · *Screenshot → 3D*', button: 'Comment who gets 3D next 👇'}
+cues:
+- {at: 0.0, src: ../sfx/aura.mp3, gain: 0.7}
+- {at: 1.2, src: ../sfx/shock.mp3, gain: 0.9}
+- {at: reveal, offset: 0.0, src: ../sfx/scratch.mp3, gain: 0.6}
+- {at: reveal, offset: 0.4, src: ../sfx/charge.mp3, gain: 0.7}
+- {at: reveal, offset: 2.0, src: ../sfx/gong.mp3, gain: 0.6}
+- {at: cta, offset: 0.0, src: ../sfx/levelup.mp3, gain: 0.7}
+vo:
+- {at: 0.3, text: '[shocked] Bro has MAXIMUM aura.'}
+- {at: reveal, offset: 0.3, text: 'One screenshot into Vi3W...'}
+- {at: reveal, offset: 2.6, text: '[shouting] Now he is 3D!'}
+- {at: cta, offset: 0.3, text: '[laughs] Plus one thousand aura!'}
+post:
+  caption: 'bro has more aura than my entire game 🐸
+
+    One screenshot → real 3D model with Vi3W (unedited output). Clip: @AvunHub (used with permission)
+
+    Who gets turned 3D next? 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [roblox, robloxdev, ugc, gamedev, aura, memes, frog, imageto3d, vi3w]

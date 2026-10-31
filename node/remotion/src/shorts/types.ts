@@ -55,4 +55,5 @@ export type ReelProps = {
   hook?: { text: string; until: number };
   credit?: string;
   sfx?: { whoosh?: string; pop?: string; riser?: string };
+  cues?: { src: string; from: number; volume: number }[];  // one-shot SFX from reel.yaml `cues`
 };

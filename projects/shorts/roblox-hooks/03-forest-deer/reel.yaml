@@ -1,0 +1,75 @@
+# 03-forest-deer: viral hook → screenshot → real Vi3W 3D model. DRAFT until assets/permission.md has the creator's yes.
+# No text on the hook (it competed with the clip). assets/morph.mp4 = the hook playing straight into the transition
+# (freeze at 5.8 s into it → scan → wireframe → 3D lifts out and spins), built by
+# `python -m reelforge.morph projects/shorts/roblox-hooks/03-forest-deer/morph.yaml`; the CTA continues the same spin (cta-full.mp4).
+# Voice: Callum: husky trickster. sfx/uhh.mp3 is a stand-in until the Roblox file + allowance are saved.
+title: roblox-forest-deer-DRAFT
+voice:
+  id: N2lVS1w4EtoT3dr4eOWO
+  model: eleven_v3
+  stability: 0.0
+credit: 🎥 @RespawnAnimation
+segments:
+- id: morph
+  type: clip
+  src: assets/morph.mp4
+  in: 0.0
+  out: 11.3
+  fit: crop
+  gain: 1.0
+- id: cta
+  type: cta
+  seconds: 4.2
+  backdrop: assets/cta-full.mp4
+  line: One screenshot → *3D*
+  button: Comment the next monster 👇
+cues:
+- at: morph
+  offset: 5.75
+  src: ../sfx/uhh.mp3
+  gain: 1.0
+- at: morph
+  offset: 6.3
+  src: ../sfx/growl.mp3
+  gain: 0.7
+- at: morph
+  offset: 7.5
+  src: ../sfx/gong.mp3
+  gain: 0.8
+- at: cta
+  offset: 0.0
+  src: ../sfx/levelup.mp3
+  gain: 0.5
+- at: cta
+  offset: 3.2
+  src: ../sfx/click.mp3
+  gain: 0.8
+vo:
+- at: morph
+  offset: 6.2
+  text: '[whispers] Freeze... screenshot him.'
+- at: morph
+  offset: 8.4
+  text: '[laughs] Now he lives in 3D.'
+- at: cta
+  offset: 0.3
+  text: Which monster is next?
+post:
+  caption: 'the deer that scared every noob is now a real 3D model 🦌
+
+
+    One screenshot → 3D with Vi3W (real output, unedited). Clip: @RespawnAnimation
+
+
+    What should we 3D next? 👇 Make yours at Vi3W.in
+
+    '
+  hashtags:
+  - roblox
+  - robloxanimation
+  - robloxhorror
+  - robloxugc
+  - robloxdev
+  - 3d
+  - imageto3d
+  - vi3w

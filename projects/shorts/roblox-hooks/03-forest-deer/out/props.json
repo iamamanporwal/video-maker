@@ -1,0 +1,143 @@
+{
+ "fps": 30,
+ "durationInFrames": 465,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-8edbc9.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 0,
+   "dur": 339
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment the next monster \ud83d\udc47",
+   "backdrop": "clips/cta-full-5655e9.mp4",
+   "from": 339,
+   "dur": 126
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/566bed78462a.mp3",
+   "from": 186,
+   "words": [
+    [
+     209,
+     229,
+     "Freeze..."
+    ],
+    [
+     231,
+     248,
+     "screenshot"
+    ],
+    [
+     251,
+     263,
+     "him."
+    ]
+   ]
+  },
+  {
+   "src": "vo/92d21efc0131.mp3",
+   "from": 265,
+   "words": [
+    [
+     298,
+     325,
+     "Now"
+    ],
+    [
+     327,
+     332,
+     "he"
+    ],
+    [
+     333,
+     339,
+     "lives"
+    ],
+    [
+     342,
+     347,
+     "in"
+    ],
+    [
+     349,
+     383,
+     "3D."
+    ]
+   ]
+  },
+  {
+   "src": "vo/136afa3d5c40.mp3",
+   "from": 385,
+   "words": [
+    [
+     385,
+     392,
+     "Which"
+    ],
+    [
+     394,
+     409,
+     "monster"
+    ],
+    [
+     411,
+     414,
+     "is"
+    ],
+    [
+     417,
+     440,
+     "next?"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @RespawnAnimation",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ },
+ "cues": [
+  {
+   "src": "assets/uhh.mp3",
+   "from": 172,
+   "volume": 1.0
+  },
+  {
+   "src": "assets/growl.mp3",
+   "from": 189,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/gong.mp3",
+   "from": 225,
+   "volume": 0.8
+  },
+  {
+   "src": "assets/levelup.mp3",
+   "from": 339,
+   "volume": 0.5
+  },
+  {
+   "src": "assets/click.mp3",
+   "from": 435,
+   "volume": 0.8
+  }
+ ]
+}

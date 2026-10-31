@@ -1,0 +1,37 @@
+# Roblox anime-meme short 1: "my sketch unlocked its FINAL FORM". Shonen power-up format, three forms.
+# Hook: original character, Turbo MLX (gen/powerup.png → LTX image-to-video gen/powerup.mp4). Rights: ours.
+# Forms: Sagar Prema Rajan's rocket-sneaker sketch → real Vi3W model → his Doodle Derby gameplay (featured with consent).
+# Music (in-app): calm bed until the reveal, hard drop at "FORM 2" (~3.4 s).
+title: roblox-final-form
+voice: {id: SOYHLrjzK2X1ezoPC6cr, model: eleven_v3, stability: 0.0}   # "Harry": young, rough, animation-style (premade ElevenLabs voice)
+hook: {text: my sketch unlocked its *FINAL FORM* 😤, seconds: 3.0}
+credit: 'Game: Doodle Derby by Sagar Prema Rajan'
+segments:
+- {id: hook, type: clip, src: ../gen/powerup.mp4, in: 0.0, out: 2.6, fit: crop, gain: 0}
+- {id: f1, type: clip, src: ../gen/sneaker-sketch.mp4, in: 0.0, out: 2.2, fit: crop, gain: 0, label: 'FORM 1 · a doodle'}
+- {id: reveal, type: reveal, before: ../../../launch/one-sketch-away/assets/sneaker-sketch.png, after: ../../../launch/one-sketch-away/assets/sneaker-3d.png, seconds: 4.4, label: 'FORM 2 · real Vi3W 3D model'}
+- {id: game, type: clip, src: ../../../../Input/DoodleDerby_trailer (1).mp4, in: 25.0, out: 29.2, fit: crop, focus: 0.5, zoom: 1.1, label: 'FINAL FORM · in a real game'}
+- {id: cta, type: cta, seconds: 3.4, after: ../../../launch/one-sketch-away/assets/sneaker-3d.png, line: 'Sketch → *3D* with Vi3W', button: 'Comment your final form 👇'}
+cues:
+- {at: 0.0, src: ../sfx/aura.mp3, gain: 0.9}
+- {at: 0.05, src: ../sfx/boom.mp3, gain: 0.6}
+- {at: f1, offset: 0.0, src: ../sfx/bubble.mp3, gain: 0.8}
+- {at: reveal, offset: 0.0, src: ../sfx/charge.mp3, gain: 0.8}
+- {at: reveal, offset: 1.9, src: ../sfx/shock.mp3, gain: 0.9}
+- {at: game, offset: 0.0, src: ../sfx/drop.mp3, gain: 0.9}
+- {at: cta, offset: 0.0, src: ../sfx/levelup.mp3, gain: 0.6}
+vo:
+- {at: 0.15, text: '[shouting] This... is my FINAL FORM!'}
+- {at: f1, offset: 0.1, text: 'Form one: a doodle.'}
+- {at: reveal, offset: 0.9, text: '[shouting] Form two: a REAL 3D model!'}
+- {at: game, offset: 0.4, text: '[excited] Final form? It is racing in a game!'}
+- {at: cta, offset: 0.2, text: 'Comment your final form!'}
+post:
+  caption: 'my sketch went through 3 forms 😤
+
+    Doodle → real 3D model (Vi3W) → racing in a real game. Game: Doodle Derby by Sagar Prema Rajan (made with Vi3W + Claude)
+
+    What should evolve next? 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [roblox, robloxdev, robloxstudio, ugc, gamedev, anime, memes, sketchto3d, vi3w]

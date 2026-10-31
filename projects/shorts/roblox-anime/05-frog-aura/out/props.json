@@ -1,0 +1,187 @@
+{
+ "fps": 30,
+ "durationInFrames": 402,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "source",
+   "src": "clips/stopped-29282a.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "from": 0,
+   "dur": 108
+  },
+  {
+   "type": "reveal",
+   "before": "assets/subject-card.png",
+   "beforeLabel": "SCREENSHOT",
+   "label": "Real Vi3W output \u00b7 unedited",
+   "after": "clips/turntable-f4c45d.mp4",
+   "from": 108,
+   "dur": 174
+  },
+  {
+   "type": "cta",
+   "line": "+1000 aura \u00b7 *Screenshot \u2192 3D*",
+   "button": "Comment who gets 3D next \ud83d\udc47",
+   "after": "clips/turntable-cta-e9f910.mp4",
+   "from": 282,
+   "dur": 120
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/a4446f40bd25.mp3",
+   "from": 9,
+   "words": [
+    [
+     17,
+     19,
+     "Bro"
+    ],
+    [
+     22,
+     31,
+     "has"
+    ],
+    [
+     35,
+     57,
+     "MAXIMUM"
+    ],
+    [
+     59,
+     71,
+     "aura."
+    ]
+   ]
+  },
+  {
+   "src": "vo/7cea9c7495c0.mp3",
+   "from": 117,
+   "words": [
+    [
+     117,
+     122,
+     "One"
+    ],
+    [
+     124,
+     141,
+     "screenshot"
+    ],
+    [
+     142,
+     148,
+     "into"
+    ],
+    [
+     151,
+     167,
+     "Vi3W..."
+    ]
+   ]
+  },
+  {
+   "src": "vo/c7f23d8ff85d.mp3",
+   "from": 186,
+   "words": [
+    [
+     196,
+     198,
+     "Now"
+    ],
+    [
+     202,
+     210,
+     "he"
+    ],
+    [
+     212,
+     215,
+     "is"
+    ],
+    [
+     220,
+     265,
+     "3D!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/4c39dd6d6c79.mp3",
+   "from": 291,
+   "words": [
+    [
+     309,
+     325,
+     "Plus"
+    ],
+    [
+     326,
+     332,
+     "one"
+    ],
+    [
+     334,
+     349,
+     "thousand"
+    ],
+    [
+     351,
+     365,
+     "aura!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "this frog has more *aura* than my whole roblox game \ud83d\udc80",
+  "until": 108
+ },
+ "credit": "\ud83c\udfa5 @AvunHub",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ },
+ "cues": [
+  {
+   "src": "assets/aura.mp3",
+   "from": 0,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/shock.mp3",
+   "from": 36,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/scratch.mp3",
+   "from": 108,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/charge.mp3",
+   "from": 120,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/gong.mp3",
+   "from": 168,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/levelup.mp3",
+   "from": 282,
+   "volume": 0.7
+  }
+ ]
+}

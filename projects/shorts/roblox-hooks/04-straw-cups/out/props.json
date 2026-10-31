@@ -1,0 +1,160 @@
+{
+ "fps": 30,
+ "durationInFrames": 499,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/hook-7y3hdqaq-8g-ce519a.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 0,
+   "dur": 118
+  },
+  {
+   "type": "clip",
+   "src": "clips/morph-895c33.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 118,
+   "dur": 255
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Water, milk or cola? \ud83d\udc47",
+   "backdrop": "clips/cta-full-f07731.mp4",
+   "from": 373,
+   "dur": 126
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/24241acb99bd.mp3",
+   "from": 220,
+   "words": [
+    [
+     220,
+     230,
+     "Forget"
+    ],
+    [
+     230,
+     232,
+     "the"
+    ],
+    [
+     234,
+     246,
+     "drink."
+    ],
+    [
+     254,
+     285,
+     "Screenshot!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/50b6b8521132.mp3",
+   "from": 287,
+   "words": [
+    [
+     289,
+     289,
+     "The"
+    ],
+    [
+     291,
+     301,
+     "straw"
+    ],
+    [
+     304,
+     318,
+     "maze,"
+    ],
+    [
+     321,
+     325,
+     "in"
+    ],
+    [
+     330,
+     354,
+     "3D!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/dce7e7e75d98.mp3",
+   "from": 382,
+   "words": [
+    [
+     382,
+     401,
+     "Water,"
+    ],
+    [
+     403,
+     411,
+     "milk"
+    ],
+    [
+     414,
+     420,
+     "or"
+    ],
+    [
+     423,
+     440,
+     "cola?"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @ApexViness",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ },
+ "cues": [
+  {
+   "src": "assets/uhh.mp3",
+   "from": 206,
+   "volume": 1.0
+  },
+  {
+   "src": "assets/slurp.mp3",
+   "from": 223,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/ting.mp3",
+   "from": 259,
+   "volume": 0.8
+  },
+  {
+   "src": "assets/levelup.mp3",
+   "from": 373,
+   "volume": 0.5
+  },
+  {
+   "src": "assets/click.mp3",
+   "from": 469,
+   "volume": 0.8
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+# 02-brick-guy: viral hook → screenshot → real Vi3W 3D model. DRAFT until assets/permission.md has the creator's yes.
+# No text on the hook (it competed with the clip). assets/morph.mp4 = the hook playing straight into the transition
+# (freeze at 6.0 s into it → scan → wireframe → 3D lifts out and spins), built by
+# `python -m reelforge.morph projects/shorts/roblox-hooks/02-brick-guy/morph.yaml`; the CTA continues the same spin (cta-full.mp4).
+# Voice: Liam: energetic creator. sfx/uhh.mp3 is a stand-in until the Roblox file + allowance are saved.
+title: roblox-brick-guy-DRAFT
+voice:
+  id: TX3LPaxmHKxFdv7VOQHJ
+  model: eleven_v3
+  stability: 0.0
+credit: 🎥 @Goldfishiess
+segments:
+- id: morph
+  type: clip
+  src: assets/morph.mp4
+  in: 0.0
+  out: 11.5
+  fit: crop
+  gain: 1.0
+- id: cta
+  type: cta
+  seconds: 4.2
+  backdrop: assets/cta-full.mp4
+  line: One screenshot → *3D*
+  button: Comment what to 3D next 👇
+cues:
+- at: morph
+  offset: 5.95
+  src: ../sfx/uhh.mp3
+  gain: 1.0
+- at: morph
+  offset: 6.5
+  src: ../sfx/charge.mp3
+  gain: 0.7
+- at: morph
+  offset: 7.7
+  src: ../sfx/shock.mp3
+  gain: 0.8
+- at: cta
+  offset: 0.0
+  src: ../sfx/levelup.mp3
+  gain: 0.5
+- at: cta
+  offset: 3.2
+  src: ../sfx/click.mp3
+  gain: 0.8
+vo:
+- at: morph
+  offset: 6.4
+  text: '[excited] Hold up. Screenshot!'
+- at: morph
+  offset: 8.6
+  text: '[laughs] Bro turned 3D.'
+- at: cta
+  offset: 0.3
+  text: Who gets moisturized next?
+post:
+  caption: 'the brick got moisturized into 3D 🧱💀
+
+
+    One screenshot → 3D with Vi3W (real output, unedited). Clip: @Goldfishiess
+
+
+    What should we 3D next? 👇 Make yours at Vi3W.in
+
+    '
+  hashtags:
+  - roblox
+  - robloxmemes
+  - robloxfunny
+  - robloxugc
+  - robloxdev
+  - 3d
+  - imageto3d
+  - vi3w

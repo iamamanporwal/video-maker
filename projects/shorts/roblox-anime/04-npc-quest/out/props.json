@@ -1,0 +1,162 @@
+{
+ "fps": 30,
+ "durationInFrames": 402,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/npc-quest-e510d7.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "from": 0,
+   "dur": 108
+  },
+  {
+   "type": "reveal",
+   "before": "assets/subject.png",
+   "beforeLabel": "SCREENSHOT",
+   "label": "Vi3W output \u00b7 stray pole removed",
+   "after": "clips/turntable-b7232a.mp4",
+   "from": 108,
+   "dur": 174
+  },
+  {
+   "type": "cta",
+   "line": "QUEST COMPLETE \u00b7 *Screenshot \u2192 3D*",
+   "button": "Comment your next quest \ud83d\udc47",
+   "after": "clips/turntable-cta-ac2e45.mp4",
+   "from": 282,
+   "dur": 120
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/5eed746b4ff4.mp3",
+   "from": 9,
+   "words": [
+    [
+     9,
+     14,
+     "New"
+    ],
+    [
+     17,
+     43,
+     "quest..."
+    ],
+    [
+     45,
+     59,
+     "reward:"
+    ],
+    [
+     106,
+     127,
+     "zero?!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/248b83a0c226.mp3",
+   "from": 129,
+   "words": [
+    [
+     129,
+     143,
+     "Easy."
+    ],
+    [
+     149,
+     165,
+     "One"
+    ],
+    [
+     167,
+     184,
+     "screenshot"
+    ],
+    [
+     185,
+     189,
+     "into"
+    ],
+    [
+     191,
+     211,
+     "Vi3W..."
+    ]
+   ]
+  },
+  {
+   "src": "vo/83b9574f16e2.mp3",
+   "from": 213,
+   "words": [
+    [
+     222,
+     239,
+     "BOOM!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/c7fdfce954c8.mp3",
+   "from": 291,
+   "words": [
+    [
+     307,
+     310,
+     "Quest"
+    ],
+    [
+     313,
+     337,
+     "complete!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "POV: the NPC gives you an *impossible quest* \ud83d\udc80",
+  "until": 108
+ },
+ "credit": "Sea serpent: PLAYGROUND by @rodrigosousa8853",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ },
+ "cues": [
+  {
+   "src": "assets/quest.mp3",
+   "from": 0,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/bruh.mp3",
+   "from": 72,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/charge.mp3",
+   "from": 120,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/ting.mp3",
+   "from": 168,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/levelup.mp3",
+   "from": 282,
+   "volume": 0.8
+  }
+ ]
+}

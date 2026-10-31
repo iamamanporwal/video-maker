@@ -1,0 +1,243 @@
+{
+ "fps": 30,
+ "durationInFrames": 454,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/3am-8e367f.mp4",
+   "startFrom": 0,
+   "speed": 0.65,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "from": 0,
+   "dur": 88
+  },
+  {
+   "type": "reveal",
+   "before": "assets/sketch.png",
+   "label": "Real Vi3W output \u00b7 all five",
+   "after": "assets/models-3d.png",
+   "from": 88,
+   "dur": 150
+  },
+  {
+   "type": "clip",
+   "src": "clips/doodlederby-trailer-1-62730b.mp4",
+   "startFrom": 1140,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.05,
+   "gain": 0,
+   "from": 238,
+   "dur": 120
+  },
+  {
+   "type": "cta",
+   "line": "Go to sleep. *Sketch \u2192 3D*",
+   "button": "Comment what to 3D next \ud83d\udc47",
+   "after": "assets/models-3d.png",
+   "from": 358,
+   "dur": 96
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/cd7df8f2e70b.mp3",
+   "from": 9,
+   "words": [
+    [
+     17,
+     19,
+     "Three"
+    ],
+    [
+     23,
+     45,
+     "A.M...."
+    ],
+    [
+     53,
+     83,
+     "five"
+    ],
+    [
+     85,
+     93,
+     "more"
+    ],
+    [
+     95,
+     105,
+     "models"
+    ],
+    [
+     106,
+     107,
+     "to"
+    ],
+    [
+     112,
+     160,
+     "go..."
+    ]
+   ]
+  },
+  {
+   "src": "vo/6c17fc875e54.mp3",
+   "from": 162,
+   "words": [
+    [
+     172,
+     176,
+     "OR..."
+    ],
+    [
+     180,
+     200,
+     "sketch"
+    ],
+    [
+     203,
+     212,
+     "all"
+    ],
+    [
+     216,
+     234,
+     "five..."
+    ],
+    [
+     256,
+     258,
+     "and"
+    ],
+    [
+     260,
+     265,
+     "get"
+    ],
+    [
+     268,
+     275,
+     "all"
+    ],
+    [
+     277,
+     287,
+     "five"
+    ],
+    [
+     288,
+     292,
+     "in"
+    ],
+    [
+     294,
+     318,
+     "3D!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/593ae66f324e.mp3",
+   "from": 320,
+   "words": [
+    [
+     338,
+     349,
+     "Now"
+    ],
+    [
+     350,
+     354,
+     "they"
+    ],
+    [
+     354,
+     356,
+     "are"
+    ],
+    [
+     358,
+     385,
+     "racing!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/2c40eac07f21.mp3",
+   "from": 387,
+   "words": [
+    [
+     387,
+     392,
+     "Now"
+    ],
+    [
+     394,
+     399,
+     "go"
+    ],
+    [
+     400,
+     401,
+     "to"
+    ],
+    [
+     404,
+     421,
+     "sleep."
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "roblox devs at 3AM: \"just 5 more models\" \ud83d\udc80",
+  "until": 108
+ },
+ "credit": "Game: Doodle Derby by Sagar Prema Rajan",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ },
+ "cues": [
+  {
+   "src": "assets/tick.mp3",
+   "from": 0,
+   "volume": 0.8
+  },
+  {
+   "src": "assets/scratch.mp3",
+   "from": 88,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/charge.mp3",
+   "from": 97,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/gasp.mp3",
+   "from": 148,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/drop.mp3",
+   "from": 238,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/boom.mp3",
+   "from": 358,
+   "volume": 0.5
+  }
+ ]
+}

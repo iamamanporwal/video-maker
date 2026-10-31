@@ -16,6 +16,7 @@ morph.yaml:
     spin_tail: 156                  # frames of centre-stage spin after the lift
     spin_zoom: 1.0                  # >1 enlarges the centre-stage model; thin parts may brush the edge
     gain: 0.55                      # source audio level under the freeze
+    gamma: 1.0                      # >1 lifts the midtones of dark renders (aligned, spin); alpha untouched
 
 Python does every frame (PIL); nothing here is generated. Deterministic: same inputs, same clip.
 """
@@ -60,6 +61,15 @@ def paste(base: Image.Image, im: Image.Image, k: float, off: tuple[float, float]
     base.paste(r, (round(off[0]), round(off[1])), r)
 
 
+def brighten(im: Image.Image, gamma: float) -> Image.Image:
+    """Brighten an RGBA render's midtones (gamma > 1); blacks stay black, alpha untouched."""
+    if gamma == 1.0:
+        return im
+    lut = [round(255 * (v / 255) ** (1 / gamma)) for v in range(256)]
+    r, g, b, a = im.split()
+    return Image.merge("RGBA", (r.point(lut), g.point(lut), b.point(lut), a))
+
+
 def framed(photo: Image.Image, fs: float, bg: Image.Image, dy: float = 0, alpha: float = 1.0) -> Image.Image:
     """`photo` shrunk to fs about the centre with a white rounded border, like a phone screenshot thumbnail."""
     out = bg.copy()
@@ -98,7 +108,8 @@ def main(spec_path: str) -> int:
 
         F = Image.open(tmp / "freeze.png").convert("RGB")
         Fblur = ImageEnhance.Brightness(F.filter(ImageFilter.GaussianBlur(22))).enhance(0.42)
-        aligned = Image.open(rd / "aligned.png").convert("RGBA")
+        gamma = float(spec.get("gamma", 1.0))
+        aligned = brighten(Image.open(rd / "aligned.png").convert("RGBA"), gamma)
         wire = Image.open(rd / "wire.png").convert("RGBA")
         bb = aligned.getbbox()
 
@@ -122,6 +133,9 @@ def main(spec_path: str) -> int:
         # spin_zoom > 1 trades a thin extremity (a tail tip) briefly crossing the edge for a bigger body.
         kc = min(W * 0.94 / uw, 1050 / uh) * float(spec.get("spin_zoom", 1.0))
         oc = (W / 2 - kc * ucx, float(spec.get("center_y", 930)) - kc * ucy)
+
+        def lift_open(p: Path) -> Image.Image:
+            return brighten(Image.open(p).convert("RGBA"), gamma)
 
         def thumb_xf(k: float, o: tuple[float, float], fs: float, dy: float = 0):
             return k * fs, (W / 2 + fs * (o[0] - W / 2), H / 2 + fs * (o[1] - H / 2) + dy)
@@ -183,13 +197,13 @@ def main(spec_path: str) -> int:
             im.paste(g, (0, 0), g)
             k = k0 + (kc - k0) * t
             o = (o0[0] + (oc[0] - o0[0]) * t, o0[1] + (oc[1] - o0[1]) * t)
-            paste(im, Image.open(spins[i % len(spins)]).convert("RGBA"), k, o)
+            paste(im, lift_open(spins[i % len(spins)]).convert("RGBA"), k, o)
             emit(im)
         # E: centre-stage spin.
         base = bg.copy(); base.paste(glow, (0, 0), glow)
         for i in range(spin_tail):
             im = base.copy()
-            paste(im, Image.open(spins[(LIFT_F + i) % len(spins)]).convert("RGBA"), kc, oc)
+            paste(im, lift_open(spins[(LIFT_F + i) % len(spins)]).convert("RGBA"), kc, oc)
             emit(im)
 
         # Audio: the clip's own sound up to the freeze, a pop on the shutter, a whoosh on the lift.
@@ -214,7 +228,7 @@ def main(spec_path: str) -> int:
             fdir = tmp / "full"; fdir.mkdir()
             for i in range(int(float(spec.get("cta_seconds", 6)) * FPS)):
                 im = base.copy()
-                paste(im, Image.open(spins[(LIFT_F + spin_tail + i) % len(spins)]).convert("RGBA"), kc, oc)
+                paste(im, lift_open(spins[(LIFT_F + spin_tail + i) % len(spins)]).convert("RGBA"), kc, oc)
                 im.save(fdir / f"c_{i:04d}.png", compress_level=1)
             run(["ffmpeg", "-y", "-v", "error", "-framerate", str(FPS), "-i", str(fdir / "c_%04d.png"),
                  "-c:v", "libx264", "-crf", "16", "-pix_fmt", "yuv420p", str(d / spec["cta_full_out"])])
@@ -228,7 +242,7 @@ def main(spec_path: str) -> int:
             first = LIFT_F + spin_tail
             for i in range(len(spins)):
                 im = Image.new("RGB", (cw, ch), CARD)
-                paste(im, Image.open(spins[(first + i) % len(spins)]).convert("RGBA"), kk, ok)
+                paste(im, lift_open(spins[(first + i) % len(spins)]).convert("RGBA"), kk, ok)
                 im.save(cdir / f"c_{i:04d}.png", compress_level=1)
             run(["ffmpeg", "-y", "-v", "error", "-framerate", str(FPS), "-i", str(cdir / "c_%04d.png"),
                  "-c:v", "libx264", "-crf", "16", "-pix_fmt", "yuv420p", str(d / spec["cta_out"])])

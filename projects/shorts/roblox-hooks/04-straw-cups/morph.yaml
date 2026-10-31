@@ -1,0 +1,13 @@
+# Hook → 3D transition. Renders: morph.py assets/model.glb render/morph 0 25 180. Second loop of the Short, freeze 3.0 s.
+video: ref/hook-7y3hdqAq-8g.mp4
+start: 0.0
+freeze: 3.0
+subject: [70, 260, 680, 850]
+renders: render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+cta_seconds: 4.2
+spin_tail: 90
+gain: 1.0
+center_y: 900
+gamma: 1.6

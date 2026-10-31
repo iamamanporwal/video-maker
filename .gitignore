@@ -31,3 +31,8 @@ projects/**/sources/
 
 # Keep every other tracked file under 50 MB (GitHub warns at 50, rejects at 100).
 # Add any new oversized file here by path.
+projects/shorts/blender-vs-vi3w/ref/armor.mp4
+projects/shorts/blender-vs-vi3w/ref/hair.mp4
+
+# Rendered frame sequences in nested short projects (regenerable, ~1 GB per batch)
+projects/**/render/

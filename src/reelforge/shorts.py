@@ -312,12 +312,24 @@ def build(d: Path, render: bool = True, stills: list[int] | None = None) -> dict
                             f"shorten the line or lengthen a segment")
         vo.append({"src": path, "from": f0, "words": [[f0 + round(a * fps), f0 + round(b * fps), w] for a, b, w in words]})
 
+    # Sound cues: one-shot SFX at seconds or at a segment id (+ offset), e.g. a power-up under the reveal.
+    cues = []
+    for i, c in enumerate(spec.get("cues") or []):
+        at = c.get("at", 0)
+        if isinstance(at, str) and at not in ids:
+            if mode == "remix":
+                continue
+            raise ReelError(f"cue {i}: unknown segment id {at!r}")
+        f0 = (ids[at] if isinstance(at, str) else round(float(at) * fps)) + round(float(c.get("offset", 0)) * fps)
+        cues.append({"src": place(d / c["src"], pub), "from": max(0, f0), "volume": float(c.get("gain", 0.8))})
+
     hook = spec.get("hook")
     props = {
         "fps": fps, "durationInFrames": total, "brand": spec["brand"], "segments": segs, "vo": vo,
         "hook": {"text": hook["text"], "until": round(float(hook.get("seconds", 2.5)) * fps)} if hook and mode != "remix" else None,
         "credit": spec.get("credit"),
         "sfx": ensure_sfx(pub) if spec.get("sfx") else None,
+        "cues": cues or None,
     }
     props = {k: v for k, v in props.items() if v is not None}
     out = d / "out"

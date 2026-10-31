@@ -1,0 +1,37 @@
+# Roblox meme short: "8 hours in Blender" split screen → "...or" → sketch → 3D in Vi3W → playing the game.
+# DRAFT: the intro uses third-party clips that are NOT cleared yet (see RIGHTS.md). Don't post until every row there
+# has a yes. assets/intro.mp4 is composited by ffmpeg (see RIGHTS.md "how it was built"):
+#   top    = Blender armor timelapse (Smooth, lkLulcqkq7I) 0:35-9:01 sped up ~72x
+#   bottom = "Sweaty gamer meme" (SK9YpwF7ImM) 0-7 s, then the monkey typing template (sJ3tLYh_s40) 0.6-3.0 s
+#   + generated SFX (assets/sfx, ElevenLabs) and the HOUR counter / "...OR" cards (assets/txt).
+# Vi3W part is real: Sagar Prema Rajan's sketch and Vi3W output plus his Doodle Derby gameplay (featured with consent).
+# Doodle Derby isn't a Roblox game, so nothing here claims it is.
+title: blender-vs-vi3w-DRAFT
+hook: {text: me making ONE roblox item in *blender* 💀, seconds: 6.8}
+segments:
+- {id: intro, type: clip, src: assets/intro.mp4, in: 0.0, out: 10.4, fit: crop, gain: 1.0}
+- {id: reveal, type: reveal, before: ../doodle-derby/assets/sketch.png, after: ../doodle-derby/assets/models-3d.png, seconds: 5.6, label: Real Vi3W output}
+- {id: play, type: clip, src: ../../../Input/DoodleDerby_trailer (1).mp4, in: 18.2, out: 22.0, fit: crop, focus: 0.5, zoom: 1.05}
+- {id: flip, type: clip, src: ../../../Input/DoodleDerby_trailer (1).mp4, in: 38.2, out: 40.4, fit: crop, focus: 0.5}
+- {id: cta, type: cta, seconds: 3.6, after: ../doodle-derby/assets/models-3d.png, line: Skip Blender. *Sketch → 3D*, button: Comment what to 3D next 👇}
+cues:
+- {at: reveal, offset: 0.0, src: assets/sfx/charge.mp3, gain: 0.7}
+- {at: reveal, offset: 2.0, src: assets/sfx/ting.mp3, gain: 0.9}
+- {at: play, offset: 0.0, src: assets/sfx/drop.mp3, gain: 0.9}
+- {at: cta, offset: 0.0, src: assets/sfx/boom.mp3, gain: 0.5}
+vo:
+- {at: reveal, offset: 0.15, text: '[excited] Or… just sketch it. One drawing into Vi3W…'}
+- {at: reveal, offset: 3.3, text: '[gasps] Boom. Real 3D models!'}
+- {at: play, offset: 0.3, text: 'Drop them in your game and… [laughs] just play.'}
+- {at: cta, offset: 0.2, text: '[excited] What should we 3D next? Comment it!'}
+post:
+  caption: 'hour 8 in blender vs one sketch 💀
+
+    Sketch → 3D with Vi3W. Game: Doodle Derby by Sagar Prema Rajan (made with Vi3W + Claude)
+
+    Blender timelapse: Smooth · meme clips: Just Want Life To Be Funny, Bengali Trifling
+
+    What should we 3D next? 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [roblox, robloxdev, robloxstudio, blender, ugc, gamedev, memes, sketchto3d, vi3w]

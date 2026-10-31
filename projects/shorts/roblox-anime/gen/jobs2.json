@@ -1,0 +1,62 @@
+[
+ {
+  "tool": "turbo_mlx_generate_video",
+  "args": {
+   "prompt": "The blocky character screams and powers up, the blazing golden energy aura explodes outward and flickers violently, lightning crackles, debris rises from the ground, hoodie and headband tails whip in the wind, the camera slowly pushes in, epic anime power-up",
+   "image": "projects/shorts/roblox-anime/gen/powerup.png",
+   "width": 512,
+   "height": 896,
+   "frames": 73,
+   "fps": 24,
+   "steps": 8,
+   "seed": 31,
+   "timeout_s": 1800,
+   "output": "projects/shorts/roblox-anime/gen/powerup.mp4"
+  }
+ },
+ {
+  "tool": "turbo_mlx_generate_video",
+  "args": {
+   "prompt": "Heavy rain pours down on the sad blocky character sitting on the curb, he slowly lowers his head, raindrops splash in neon puddles, slow cinematic push-in, melancholic",
+   "image": "projects/shorts/roblox-anime/gen/rain.png",
+   "width": 512,
+   "height": 896,
+   "frames": 73,
+   "fps": 24,
+   "steps": 8,
+   "seed": 32,
+   "timeout_s": 1800,
+   "output": "projects/shorts/roblox-anime/gen/rain.mp4"
+  }
+ },
+ {
+  "tool": "turbo_mlx_generate_video",
+  "args": {
+   "prompt": "The tired blocky character stares at the glowing monitor, his eye twitches, he slowly slumps forward, the monitor light flickers, slow push-in, quiet late night",
+   "image": "projects/shorts/roblox-anime/gen/3am.png",
+   "width": 512,
+   "height": 896,
+   "frames": 73,
+   "fps": 24,
+   "steps": 8,
+   "seed": 33,
+   "timeout_s": 1800,
+   "output": "projects/shorts/roblox-anime/gen/3am.mp4"
+  }
+ },
+ {
+  "tool": "turbo_mlx_generate_video",
+  "args": {
+   "prompt": "The smug blocky businessman slams the $400 sign down on the desk and leans forward, slight camera shake, comedic dramatic",
+   "image": "projects/shorts/roblox-anime/gen/modeler.png",
+   "width": 512,
+   "height": 896,
+   "frames": 73,
+   "fps": 24,
+   "steps": 8,
+   "seed": 34,
+   "timeout_s": 1800,
+   "output": "projects/shorts/roblox-anime/gen/modeler.mp4"
+  }
+ }
+]

@@ -1,0 +1,13 @@
+# Hook → 3D transition. Renders: morph.py assets/model.glb render/morph 0 5 180. Freeze 6.0 s: brick guy centred.
+video: ref/hook-bxubJrfQklM.mp4
+start: 0.0
+freeze: 6.0
+subject: [120, 450, 690, 850]
+renders: render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+cta_seconds: 4.2
+spin_tail: 90
+gain: 1.0
+gamma: 1.3
+center_y: 900

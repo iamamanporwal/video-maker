@@ -1,0 +1,13 @@
+# Hook → 3D transition. Renders: morph.py assets/model.glb render/morph 0 0 180. Freeze 5.8 s: the deer facing camera.
+video: ref/hook-JxpzriGYG2E.mp4
+start: 0.0
+freeze: 5.8
+subject: [10, 80, 710, 1200]
+renders: render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+cta_seconds: 4.2
+spin_tail: 90
+gain: 1.0
+gamma: 1.7
+center_y: 900

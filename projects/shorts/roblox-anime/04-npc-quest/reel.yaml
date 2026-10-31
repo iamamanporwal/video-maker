@@ -1,0 +1,32 @@
+# Roblox anime-meme short 4: "POV: the NPC gives you an impossible quest". Game-UI meme → quest complete.
+# Hook: original NPC, Turbo MLX (gen/npc.png) + our quest panel (gen/make_stills.py). Rights: ours.
+# Payoff: sea-serpent screenshot from PLAYGROUND by @rodrigosousa8853 (permission: ../../playground-serpent/assets/permission.md)
+# → real Vi3W model (stray pole removed, as labelled).
+title: roblox-npc-quest
+voice: {id: SOYHLrjzK2X1ezoPC6cr, model: eleven_v3, stability: 0.0}   # "Harry": young, rough, animation-style (premade ElevenLabs voice)
+hook: {text: 'POV: the NPC gives you an *impossible quest* 💀', seconds: 3.6}
+credit: 'Sea serpent: PLAYGROUND by @rodrigosousa8853'
+segments:
+- {id: hook, type: clip, src: ../gen/npc-quest.mp4, in: 0.0, out: 3.6, fit: crop, gain: 0}
+- {id: reveal, type: reveal, before: ../../playground-serpent/assets/subject.png, before_label: SCREENSHOT, after: ../../playground-serpent/assets/turntable.mp4, seconds: 5.8, label: 'Vi3W output · stray pole removed'}
+- {id: cta, type: cta, seconds: 4.0, after: ../../playground-serpent/assets/turntable-cta.mp4, line: 'QUEST COMPLETE · *Screenshot → 3D*', button: 'Comment your next quest 👇'}
+cues:
+- {at: 0.0, src: ../sfx/quest.mp3, gain: 0.9}
+- {at: 2.4, src: ../sfx/bruh.mp3, gain: 0.7}
+- {at: reveal, offset: 0.4, src: ../sfx/charge.mp3, gain: 0.7}
+- {at: reveal, offset: 2.0, src: ../sfx/ting.mp3, gain: 0.9}
+- {at: cta, offset: 0.0, src: ../sfx/levelup.mp3, gain: 0.8}
+vo:
+- {at: 0.3, text: 'New quest... reward: [sighs] zero?!'}
+- {at: reveal, offset: 0.3, text: 'Easy. One screenshot into Vi3W...'}
+- {at: reveal, offset: 2.8, text: '[shouting] BOOM!'}
+- {at: cta, offset: 0.3, text: '[excited] Quest complete!'}
+post:
+  caption: 'the NPC really said reward: 0 💀
+
+    One screenshot → real 3D model with Vi3W. Sea serpent from PLAYGROUND by @rodrigosousa8853 (shared with permission)
+
+    Comment your next quest 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [roblox, robloxdev, robloxstudio, ugc, gamedev, rpg, memes, imageto3d, vi3w]

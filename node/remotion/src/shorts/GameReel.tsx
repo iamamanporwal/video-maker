@@ -228,10 +228,10 @@ const Captions: React.FC<{ vo: VoLine[]; segments: Seg[]; hookEnd: number; brand
   const enter = tween(f, c.from, 5, 0, 1, "outCubic");
   return (
     <div style={{ position: "absolute", left: SAFE.left, right: SAFE.right, top: y, transform: `translateY(-50%) scale(${0.9 + 0.1 * enter})`,
-                  opacity: enter, display: "flex", flexWrap: "wrap", justifyContent: "center", columnGap: 20, rowGap: 4 }}>
+                  opacity: enter, display: "flex", flexWrap: "wrap", justifyContent: "center", columnGap: 34, rowGap: 4 }}>
       {c.words.map(([a, b, w], i) => {
         const on = f >= a && f < Math.max(b, a + 4);
-        const pop = on ? 1 + 0.14 * (1 - tween(f, a, 6, 0, 1, "outCubic")) : 1;
+        const pop = on ? 1 + 0.1 * (1 - tween(f, a, 6, 0, 1, "outCubic")) : 1;
         return (
           <span key={i} style={{ fontFamily: font(brand), fontWeight: 900, fontSize: 96, lineHeight: 1.05, letterSpacing: "-0.03em",
                                  textTransform: "uppercase", display: "inline-block", transform: `scale(${pop})`,
@@ -260,7 +260,7 @@ const Credit: React.FC<{ text: string; from: number; segments: Seg[]; brand: Bra
 
 // --------------------------------------------------------------------------- reel
 
-export const GameReel: React.FC<ReelProps> = ({ segments, vo, hook, credit, brand, sfx }) => {
+export const GameReel: React.FC<ReelProps> = ({ segments, vo, hook, credit, brand, sfx, cues }) => {
   const reveal = segments.find((s) => s.type === "reveal") as RevealSeg | undefined;
   const hookEnd = hook?.until ?? 0;
   return (
@@ -280,6 +280,7 @@ export const GameReel: React.FC<ReelProps> = ({ segments, vo, hook, credit, bran
       {sfx?.pop && reveal && (
         <Sequence from={reveal.from + Math.round(reveal.dur * 0.38)}><Audio src={src(sfx.pop)} volume={0.7} /></Sequence>
       )}
+      {cues?.map((c, i) => <Sequence key={`c${i}`} from={c.from}><Audio src={src(c.src)} volume={c.volume} /></Sequence>)}
       {vo.map((v, i) => <Sequence key={`v${i}`} from={v.from}><Audio src={src(v.src)} /></Sequence>)}
       {credit && <Credit text={credit} from={hookEnd} segments={segments} brand={brand} />}
       {hook && <Hook text={hook.text} until={hook.until} brand={brand} />}

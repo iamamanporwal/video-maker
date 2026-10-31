@@ -1,0 +1,133 @@
+{
+ "fps": 30,
+ "durationInFrames": 471,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-4e29b1.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 0,
+   "dur": 345
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment what to 3D next \ud83d\udc47",
+   "backdrop": "clips/cta-full-2f9616.mp4",
+   "from": 345,
+   "dur": 126
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/f58a4747978b.mp3",
+   "from": 192,
+   "words": [
+    [
+     198,
+     199,
+     "Hold"
+    ],
+    [
+     201,
+     206,
+     "up."
+    ],
+    [
+     211,
+     238,
+     "Screenshot!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/eeae9a1b1ebd.mp3",
+   "from": 258,
+   "words": [
+    [
+     304,
+     325,
+     "Bro"
+    ],
+    [
+     326,
+     332,
+     "turned"
+    ],
+    [
+     335,
+     352,
+     "3D."
+    ]
+   ]
+  },
+  {
+   "src": "vo/087f5d8f5f6e.mp3",
+   "from": 354,
+   "words": [
+    [
+     354,
+     359,
+     "Who"
+    ],
+    [
+     360,
+     364,
+     "gets"
+    ],
+    [
+     365,
+     380,
+     "moisturized"
+    ],
+    [
+     383,
+     397,
+     "next?"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @Goldfishiess",
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ },
+ "cues": [
+  {
+   "src": "assets/uhh.mp3",
+   "from": 178,
+   "volume": 1.0
+  },
+  {
+   "src": "assets/charge.mp3",
+   "from": 195,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/shock.mp3",
+   "from": 231,
+   "volume": 0.8
+  },
+  {
+   "src": "assets/levelup.mp3",
+   "from": 345,
+   "volume": 0.5
+  },
+  {
+   "src": "assets/click.mp3",
+   "from": 441,
+   "volume": 0.8
+  }
+ ]
+}

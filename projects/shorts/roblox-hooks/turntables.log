@@ -1,0 +1,45 @@
+[in#0 @ 0x7f901c000] Could find no file or sequence with path '/tmp/tt-01-butter-noob roblox/t_%04d.png' and index in the range 0-4
+[in#0 @ 0x7f9018000] Error opening input: No such file or directory
+Error opening input file /tmp/tt-01-butter-noob roblox/t_%04d.png.
+Error opening input files: No such file or directory
+[in#0 @ 0x8f1018000] Error opening input: No such file or directory
+Error opening input file 01-butter-noob roblox/assets/turntable.mp4.
+Error opening input files: No such file or directory
+done 01-butter-noob roblox        0 frames
+done 01-butter-noob      360 frames
+[in#0 @ 0x83901c000] Could find no file or sequence with path '/tmp/tt-02-brick-guy brickguy/t_%04d.png' and index in the range 0-4
+[in#0 @ 0x839018000] Error opening input: No such file or directory
+Error opening input file /tmp/tt-02-brick-guy brickguy/t_%04d.png.
+Error opening input files: No such file or directory
+[in#0 @ 0x761018000] Error opening input: No such file or directory
+Error opening input file 02-brick-guy brickguy/assets/turntable.mp4.
+Error opening input files: No such file or directory
+done 02-brick-guy brickguy        0 frames
+done 02-brick-guy      360 frames
+[in#0 @ 0x82701c000] Could find no file or sequence with path '/tmp/tt-03-forest-deer forest-deer/t_%04d.png' and index in the range 0-4
+[in#0 @ 0x827018000] Error opening input: No such file or directory
+Error opening input file /tmp/tt-03-forest-deer forest-deer/t_%04d.png.
+Error opening input files: No such file or directory
+[in#0 @ 0xb58c14000] Error opening input: No such file or directory
+Error opening input file 03-forest-deer forest-deer/assets/turntable.mp4.
+Error opening input files: No such file or directory
+done 03-forest-deer forest-deer        0 frames
+done 03-forest-deer      360 frames
+[in#0 @ 0x8a8c14000] Could find no file or sequence with path '/tmp/tt-04-straw-cups strawcups/t_%04d.png' and index in the range 0-4
+[in#0 @ 0x8a8c10000] Error opening input: No such file or directory
+Error opening input file /tmp/tt-04-straw-cups strawcups/t_%04d.png.
+Error opening input files: No such file or directory
+[in#0 @ 0xbb9018000] Error opening input: No such file or directory
+Error opening input file 04-straw-cups strawcups/assets/turntable.mp4.
+Error opening input files: No such file or directory
+done 04-straw-cups strawcups        0 frames
+done 04-straw-cups      360 frames
+[in#0 @ 0xb1101c000] Could find no file or sequence with path '/tmp/tt-05-gta-panda panda/t_%04d.png' and index in the range 0-4
+[in#0 @ 0xb11018000] Error opening input: No such file or directory
+Error opening input file /tmp/tt-05-gta-panda panda/t_%04d.png.
+Error opening input files: No such file or directory
+[in#0 @ 0x8eb018000] Error opening input: No such file or directory
+Error opening input file 05-gta-panda panda/assets/turntable.mp4.
+Error opening input files: No such file or directory
+done 05-gta-panda panda        0 frames
+done 05-gta-panda      360 frames

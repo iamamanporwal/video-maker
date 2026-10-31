@@ -1,0 +1,33 @@
+# Roblox anime-meme short 3: "roblox devs at 3AM: just 5 more models". Relatable dev pain → 5 sketches, 5 models.
+# Hook: original character, Turbo MLX (gen/3am.*). Rights: ours.
+# Payoff: Sagar Prema Rajan's 5 vehicle sketches → his real Vi3W models → Doodle Derby (featured with consent).
+title: roblox-3am-dev
+voice: {id: SOYHLrjzK2X1ezoPC6cr, model: eleven_v3, stability: 0.0}   # "Harry": young, rough, animation-style (premade ElevenLabs voice)
+hook: {text: 'roblox devs at 3AM: "just 5 more models" 💀', seconds: 3.6}
+credit: 'Game: Doodle Derby by Sagar Prema Rajan'
+segments:
+- {id: hook, type: clip, src: ../gen/3am.mp4, in: 0.0, out: 1.9, speed: 0.65, fit: crop, gain: 0}
+- {id: reveal, type: reveal, before: ../../doodle-derby/assets/sketch.png, after: ../../doodle-derby/assets/models-3d.png, seconds: 5.0, label: 'Real Vi3W output · all five'}
+- {id: play, type: clip, src: ../../../../Input/DoodleDerby_trailer (1).mp4, in: 38.0, out: 42.0, fit: crop, focus: 0.5, zoom: 1.05}
+- {id: cta, type: cta, seconds: 3.2, after: ../../doodle-derby/assets/models-3d.png, line: 'Go to sleep. *Sketch → 3D*', button: 'Comment what to 3D next 👇'}
+cues:
+- {at: 0.0, src: ../sfx/tick.mp3, gain: 0.8}
+- {at: reveal, offset: 0.0, src: ../sfx/scratch.mp3, gain: 0.7}
+- {at: reveal, offset: 0.3, src: ../sfx/charge.mp3, gain: 0.7}
+- {at: reveal, offset: 2.0, src: ../sfx/gasp.mp3, gain: 0.7}
+- {at: play, offset: 0.0, src: ../sfx/drop.mp3, gain: 0.9}
+- {at: cta, offset: 0.0, src: ../sfx/boom.mp3, gain: 0.5}
+vo:
+- {at: 0.3, text: '[whispers] Three A.M.... five more models to go...'}
+- {at: reveal, offset: 0.2, text: '[excited] OR... sketch all five... [gasps] and get all five in 3D!'}
+- {at: play, offset: 0.3, text: '[laughs] Now they are racing!'}
+- {at: cta, offset: 0.2, text: 'Now go to sleep.'}
+post:
+  caption: 'POV: 3AM, 5 models left 💀
+
+    Or sketch all five and let Vi3W make them 3D. Real outputs from Doodle Derby by Sagar Prema Rajan (made with Vi3W + Claude)
+
+    What should we 3D next? 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [roblox, robloxdev, robloxstudio, ugc, gamedev, devlog, memes, sketchto3d, vi3w]

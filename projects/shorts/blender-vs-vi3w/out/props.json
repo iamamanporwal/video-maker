@@ -1,0 +1,254 @@
+{
+ "fps": 30,
+ "durationInFrames": 768,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/intro-fd1ee7.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 0,
+   "dur": 312
+  },
+  {
+   "type": "reveal",
+   "before": "assets/sketch.png",
+   "label": "Real Vi3W output",
+   "after": "assets/models-3d.png",
+   "from": 312,
+   "dur": 168
+  },
+  {
+   "type": "clip",
+   "src": "clips/doodlederby-trailer-1-62730b.mp4",
+   "startFrom": 546,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1.05,
+   "gain": 0,
+   "from": 480,
+   "dur": 114
+  },
+  {
+   "type": "clip",
+   "src": "clips/doodlederby-trailer-1-62730b.mp4",
+   "startFrom": 1146,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0,
+   "from": 594,
+   "dur": 66
+  },
+  {
+   "type": "cta",
+   "line": "Skip Blender. *Sketch \u2192 3D*",
+   "button": "Comment what to 3D next \ud83d\udc47",
+   "after": "assets/models-3d.png",
+   "from": 660,
+   "dur": 108
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/42544be682d4.mp3",
+   "from": 316,
+   "words": [
+    [
+     322,
+     329,
+     "Or\u2026"
+    ],
+    [
+     330,
+     335,
+     "just"
+    ],
+    [
+     337,
+     347,
+     "sketch"
+    ],
+    [
+     349,
+     354,
+     "it."
+    ],
+    [
+     359,
+     374,
+     "One"
+    ],
+    [
+     375,
+     386,
+     "drawing"
+    ],
+    [
+     388,
+     395,
+     "into"
+    ],
+    [
+     397,
+     414,
+     "Vi3W\u2026"
+    ]
+   ]
+  },
+  {
+   "src": "vo/ccd3cc964aaa.mp3",
+   "from": 416,
+   "words": [
+    [
+     433,
+     447,
+     "Boom."
+    ],
+    [
+     451,
+     466,
+     "Real"
+    ],
+    [
+     471,
+     481,
+     "3D"
+    ],
+    [
+     484,
+     502,
+     "models!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/47037384752a.mp3",
+   "from": 504,
+   "words": [
+    [
+     504,
+     509,
+     "Drop"
+    ],
+    [
+     510,
+     514,
+     "them"
+    ],
+    [
+     514,
+     516,
+     "in"
+    ],
+    [
+     517,
+     521,
+     "your"
+    ],
+    [
+     523,
+     533,
+     "game"
+    ],
+    [
+     537,
+     552,
+     "and\u2026"
+    ],
+    [
+     570,
+     576,
+     "just"
+    ],
+    [
+     578,
+     598,
+     "play."
+    ]
+   ]
+  },
+  {
+   "src": "vo/030147ee871d.mp3",
+   "from": 666,
+   "words": [
+    [
+     672,
+     673,
+     "What"
+    ],
+    [
+     674,
+     678,
+     "should"
+    ],
+    [
+     680,
+     685,
+     "we"
+    ],
+    [
+     688,
+     700,
+     "3D"
+    ],
+    [
+     703,
+     727,
+     "next?"
+    ],
+    [
+     729,
+     738,
+     "Comment"
+    ],
+    [
+     740,
+     750,
+     "it!"
+    ]
+   ]
+  }
+ ],
+ "hook": {
+  "text": "me making ONE roblox item in *blender* \ud83d\udc80",
+  "until": 204
+ },
+ "sfx": {
+  "whoosh": "sfx/whoosh.mp3",
+  "pop": "sfx/pop.mp3"
+ },
+ "cues": [
+  {
+   "src": "assets/charge.mp3",
+   "from": 312,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/ting.mp3",
+   "from": 372,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/drop.mp3",
+   "from": 480,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/boom.mp3",
+   "from": 660,
+   "volume": 0.5
+  }
+ ]
+}

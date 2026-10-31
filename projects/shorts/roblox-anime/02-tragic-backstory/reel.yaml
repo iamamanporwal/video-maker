@@ -1,0 +1,36 @@
+# Roblox anime-meme short 2: "every roblox dev's tragic backstory". Sad anime flashback → power-up payoff.
+# Hook + modeler scene: original character, Turbo MLX (gen/rain.*, gen/modeler.*). Rights: ours.
+# Payoff: the robot drawing and its real Vi3W model from the launch film (ours).
+# Music (in-app): a sad flute/piano track for 0-7 s (sfx/sadflute.mp3 already carries it), hype drop on the reveal.
+title: roblox-tragic-backstory
+voice: {id: SOYHLrjzK2X1ezoPC6cr, model: eleven_v3, stability: 0.0}   # "Harry": young, rough, animation-style (premade ElevenLabs voice)
+hook: {text: every roblox dev's *tragic backstory* 💔, seconds: 3.4}
+segments:
+- {id: hook, type: clip, src: ../gen/rain.mp4, in: 0.0, out: 3.0, fit: crop, gain: 0}
+- {id: price, type: clip, src: ../gen/modeler.mp4, in: 0.2, out: 2.6, fit: crop, gain: 0, label: 'the 3D modeler'}
+- {id: drew, type: clip, src: ../gen/robot-drawing.mp4, in: 0.0, out: 1.8, fit: crop, gain: 0, label: 'so he drew it himself'}
+- {id: reveal, type: reveal, before: ../../../launch/one-sketch-away/assets/robot-drawing.png, after: ../../../launch/one-sketch-away/assets/robot0.jpeg, seconds: 4.6, label: 'Real Vi3W output'}
+- {id: cta, type: cta, seconds: 3.4, after: ../../../launch/one-sketch-away/assets/robot0.jpeg, line: 'No modeler? *Sketch → 3D*', button: 'Comment what your game needs 👇'}
+cues:
+- {at: 0.0, src: ../sfx/rain.mp3, gain: 0.5}
+- {at: 0.0, src: ../sfx/sadflute.mp3, gain: 0.8}
+- {at: price, offset: 0.6, src: ../sfx/slam.mp3, gain: 1.0}
+- {at: drew, offset: 0.0, src: ../sfx/scratch.mp3, gain: 0.7}
+- {at: reveal, offset: 0.0, src: ../sfx/aura.mp3, gain: 0.8}
+- {at: reveal, offset: 1.9, src: ../sfx/gong.mp3, gain: 0.6}
+- {at: cta, offset: 0.0, src: ../sfx/drop.mp3, gain: 0.7}
+vo:
+- {at: 0.3, text: '[sad] He just wanted one 3D model for his game...'}
+- {at: price, offset: 0.5, text: '[sighs] Four hundred dollars.'}
+- {at: drew, offset: 0.05, text: '[determined] So he drew it.'}
+- {at: reveal, offset: 0.7, text: '[shouting] And Vi3W made it REAL!'}
+- {at: cta, offset: 0.2, text: 'What does your game need? Comment it!'}
+post:
+  caption: 'every roblox dev has this backstory 💔
+
+    No budget for a modeler? Draw it. Vi3W turns the drawing into a real 3D model. (Real output, no edits.)
+
+    What does your game need? 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [roblox, robloxdev, robloxstudio, ugc, gamedev, anime, sad, memes, sketchto3d, vi3w]

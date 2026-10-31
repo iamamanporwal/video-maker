@@ -1,0 +1,6 @@
+[turbo-mlx-mcp] engine ready: turbo-engine 0.4 Apple M5
+[turbo-mlx-mcp] engine: [turbo] model loaded in 0.7s: /Users/amanporwal/.cache/huggingface/hub/models--dgrauet--ltx-2.3-mlx-q4/snapshots/56a5866d638ecfe37c54d348e88938235185c2d4 (ltx-2, 4-bit)
+[turbo-mlx-mcp] engine: [turbo] decode 17.3s · denoise 117.2s · encode 4.9s · load 0.7s · save 0.0s
+[turbo-mlx-mcp] engine: [turbo] decode 18.4s · denoise 128.3s · encode 4.9s · save 0.0s
+[turbo-mlx-mcp] engine: [turbo] decode 17.4s · denoise 127.9s · encode 4.6s · save 0.0s
+[turbo-mlx-mcp] engine: [turbo] decode 19.8s · denoise 131.6s · encode 4.7s · save 0.1s
