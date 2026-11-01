@@ -1,0 +1,64 @@
+{
+ "title": "vi3w-more-3d",
+ "seconds": 19.9,
+ "segments": 2,
+ "vo_lines": 1,
+ "rights": "own",
+ "mix": {
+  "vo_median_db": -16.5,
+  "snr_median_db": 32.2,
+  "snr_p10_db": 17.9,
+  "voiced_below_8db_pct": 5.3,
+  "sfx_on_words": [],
+  "gap_bursts_s": [
+   6.9,
+   7.0,
+   7.2,
+   7.3,
+   7.4,
+   7.5,
+   7.6,
+   7.8
+  ]
+ },
+ "master": {
+  "measured": {
+   "input_i": "-15.04",
+   "input_tp": "-2.28",
+   "input_lra": "3.10",
+   "input_thresh": "-25.86",
+   "output_i": "-14.29",
+   "output_tp": "-1.86",
+   "output_lra": "2.90",
+   "output_thresh": "-25.13",
+   "normalization_type": "dynamic",
+   "target_offset": "0.29"
+  },
+  "mode": "loudnorm-linear",
+  "result": {
+   "lufs": -14.0,
+   "true_peak": -1.6,
+   "lra": 4.4
+  }
+ },
+ "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/vi3w-memes/02-more-3d/out/vi3w-more-3d-9x16.mp4",
+ "loudness": {
+  "lufs": -14.0,
+  "true_peak": -1.6,
+  "lra": 4.4
+ },
+ "summary": {
+  "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/vi3w-memes/02-more-3d/out/vi3w-more-3d-9x16.mp4",
+  "duration": 19.9,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "vcodec": "h264",
+  "profile": "High",
+  "pix_fmt": "yuv420p",
+  "nb_frames": 597,
+  "acodec": "aac",
+  "sample_rate": 48000,
+  "channels": 2
+ }
+}

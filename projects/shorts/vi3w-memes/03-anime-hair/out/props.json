@@ -1,0 +1,156 @@
+{
+ "fps": 30,
+ "durationInFrames": 576,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/body-b40e0f.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 0,
+   "dur": 414
+  },
+  {
+   "type": "cta",
+   "line": "Try *Vi3W.in*",
+   "sub": "Turn sketches and images into 3D in seconds.",
+   "button": "Which one's your main? \ud83d\udc47",
+   "after": "clips/tt-chibi-cat-2d555b.mp4",
+   "from": 414,
+   "dur": 162
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/965b07b91bca.mp3",
+   "from": 405,
+   "words": [
+    [
+     411,
+     412,
+     "Try"
+    ],
+    [
+     414,
+     452,
+     "Vi3W.in!"
+    ],
+    [
+     454,
+     463,
+     "Turn"
+    ],
+    [
+     464,
+     479,
+     "sketches"
+    ],
+    [
+     481,
+     484,
+     "and"
+    ],
+    [
+     487,
+     501,
+     "images"
+    ],
+    [
+     502,
+     508,
+     "into"
+    ],
+    [
+     513,
+     527,
+     "3D"
+    ],
+    [
+     530,
+     535,
+     "in"
+    ],
+    [
+     537,
+     566,
+     "seconds!"
+    ]
+   ]
+  }
+ ],
+ "cues": [
+  {
+   "src": "assets/pipe.mp3",
+   "from": 258,
+   "volume": 0.55
+  },
+  {
+   "src": "assets/fahh.mp3",
+   "from": 273,
+   "volume": 0.5
+  },
+  {
+   "src": "assets/wow.mp3",
+   "from": 300,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/fluffing-a-duck.mp3",
+   "from": 302,
+   "volume": 0.22
+  },
+  {
+   "src": "assets/ding.mp3",
+   "from": 327,
+   "volume": 0.45
+  }
+ ],
+ "texts": [
+  {
+   "from": 138,
+   "to": 258,
+   "text": "blender tutorial: \"easy anime hair in 10 minutes\"",
+   "y": 210
+  },
+  {
+   "from": 168,
+   "to": 258,
+   "text": "me, 6 hours in:",
+   "y": 1060,
+   "style": "stroke"
+  },
+  {
+   "from": 258,
+   "to": 300,
+   "text": "it's giving *spaghetti* \ud83c\udf5d",
+   "y": 480,
+   "size": 80,
+   "style": "stroke",
+   "accent": "#FF3B3B"
+  },
+  {
+   "from": 300,
+   "to": 414,
+   "text": "meanwhile Vi3W: one image \u2192",
+   "y": 210
+  },
+  {
+   "from": 327,
+   "to": 414,
+   "text": "full anime figure \ud83d\udc85",
+   "y": 1060,
+   "size": 76,
+   "style": "stroke"
+  }
+ ],
+ "captions": false
+}

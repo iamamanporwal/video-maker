@@ -1,0 +1,20 @@
+# anime-gf-green: same @Tachibana_Sawa video (BBt2xjfpBWk, 137M) as anime-gf, the green-haired chibi's reel.
+# Hook 7.6-14.6 (7.0 s): she flings the fish, the white chibi leaps out of the lake and steals it, cut back to her
+# shouting (14.6 = freeze = assets/subject.png crop 220,340 1040x1300).
+# Vi3W gave her a full body (legs hidden by the table in the source): box matched on ears/eyes/mouth/bowl, so the
+# legs hang below the table edge until the lift (ref/ov.jpg, middle). Renders: yaw 0, elev 10.
+video: assets/source-cut.mp4   # source 6.6-11.9 + 13.5-15.0 (ripple dead air cut)
+start: 0.0
+freeze: 6.4
+subject: [640, 430, 840, 2165]
+renders: render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+center_y: 930
+spin_tail: 150
+gain: 0.55
+gamma: 1.9
+spin_zoom: 1.3
+cta_seconds: 5.5
+cta_settle: 0.6
+cta_sway: 8

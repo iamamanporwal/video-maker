@@ -1,0 +1,42 @@
+# anime-gf: chibi girl jumps out of the lake (@Tachibana_Sawa, 137M) → freeze → real Vi3W 3D → she asks for your DM.
+# morph.mp4: hook 0-7.0 s (source 4.22-11.22), freeze 7.0, then scan → lift → spin (times set once morph renders).
+# User rules: no VO and no added text over the hook (credit waits for the freeze); SFX only in VO gaps (mix: true).
+# Voice: Kawaii Aerisita (library) via fal — our ElevenLabs key is free tier (402 on library voices).
+title: anime-gf
+mix: true
+sfx: false
+voice:
+  id: vGQNBgLaiM3EdZtxIiuY
+  provider: fal
+  model: eleven_v3
+  stability: 0.0
+credit: 🎥 @Tachibana_Sawa
+credit_from: 7.0
+segments:
+- id: morph
+  type: clip
+  src: assets/morph.mp4
+  in: 0.0
+  out: 14.9
+  fit: crop
+  gain: 0.55
+- id: cta
+  type: cta
+  seconds: 4.8
+  backdrop: assets/cta-full.mp4
+  line: One screenshot → *3D*
+  button: Comment your message 💌
+vo:
+- {at: morph, offset: 9.6, text: "[giggles] Wait… I'm 3D now? So I'm basically… real?"}
+- {at: cta, offset: 0.05, text: "If I was your girlfriend… what would you message me? Comment down below!"}
+post:
+  caption: 'she jumped out of the lake for the fish… so we made her real 🫣 one screenshot → a 3D model
+
+
+    If she was your girlfriend, what would you message her? 💌 Comment below
+
+
+    Real Vi3W output, unedited. Clip: @Tachibana_Sawa · Make yours at Vi3W.in
+
+    '
+  hashtags: [anime, chibi, animegirl, arknights, waifu, 3d, imageto3d, vi3w]

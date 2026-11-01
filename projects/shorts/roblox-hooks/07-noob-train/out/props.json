@@ -1,0 +1,190 @@
+{
+ "fps": 30,
+ "durationInFrames": 438,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-6d31aa.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0.9,
+   "from": 0,
+   "dur": 345
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment who jumps next \ud83d\udc47",
+   "backdrop": "clips/cta-full-c96e3b.mp4",
+   "from": 345,
+   "dur": 93
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/89b80f4e9859.mp3",
+   "from": 12,
+   "words": [
+    [
+     12,
+     17,
+     "Don't"
+    ],
+    [
+     19,
+     31,
+     "blink."
+    ],
+    [
+     38,
+     58,
+     "One"
+    ],
+    [
+     60,
+     67,
+     "noob"
+    ],
+    [
+     69,
+     79,
+     "jumps"
+    ],
+    [
+     80,
+     84,
+     "and"
+    ],
+    [
+     85,
+     86,
+     "the"
+    ],
+    [
+     88,
+     96,
+     "whole"
+    ],
+    [
+     98,
+     106,
+     "train"
+    ],
+    [
+     108,
+     132,
+     "follows."
+    ]
+   ]
+  },
+  {
+   "src": "vo/097bba2aa2ae.mp3",
+   "from": 188,
+   "words": [
+    [
+     192,
+     210,
+     "Screenshot"
+    ],
+    [
+     211,
+     224,
+     "him."
+    ]
+   ]
+  },
+  {
+   "src": "vo/e46c7f91e636.mp3",
+   "from": 257,
+   "words": [
+    [
+     267,
+     271,
+     "Boom!"
+    ],
+    [
+     274,
+     286,
+     "Real"
+    ],
+    [
+     291,
+     300,
+     "3D"
+    ],
+    [
+     303,
+     319,
+     "noob!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/b3e53616c0b1.mp3",
+   "from": 355,
+   "words": [
+    [
+     355,
+     360,
+     "Who"
+    ],
+    [
+     361,
+     369,
+     "jumps"
+    ],
+    [
+     371,
+     377,
+     "into"
+    ],
+    [
+     380,
+     386,
+     "3D"
+    ],
+    [
+     389,
+     410,
+     "next?"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @RoxGamers9",
+ "cues": [
+  {
+   "src": "assets/yt-uhh-new.mp3",
+   "from": 174,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/yt-coil.mp3",
+   "from": 232,
+   "volume": 0.28
+  },
+  {
+   "src": "assets/ting.mp3",
+   "from": 249,
+   "volume": 0.55
+  },
+  {
+   "src": "assets/yt-boing.mp3",
+   "from": 328,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/yt-button.mp3",
+   "from": 345,
+   "volume": 0.7
+  }
+ ]
+}

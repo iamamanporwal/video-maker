@@ -1,0 +1,48 @@
+# 07-noob-train: the noob-train wave hook → screenshot → the existing Vi3W noob model (01-butter-noob renders reused).
+# assets/morph.mp4: hook plays 0-5.8 s, freeze 5.8, scan 6.3-7.5, lift 7.5-8.3, spin 8.3-11.5.
+# Audio rule: SFX hit in the gaps between VO lines; `mix: true` ducks the hook + SFX ~10 dB under every word.
+# Voice: Will (young, upbeat). Roblox SFX from YouTube: sfx/yt/SOURCES.md.
+title: roblox-noob-train
+mix: true
+sfx: false   # no auto whoosh at cuts; the morph already carries its pop + whoosh
+voice:
+  id: bIHbv24MWmeRgasZH58o
+  model: eleven_v3
+  stability: 0.0
+credit: 🎥 @RoxGamers9
+segments:
+- id: morph
+  type: clip
+  src: assets/morph.mp4
+  in: 0.0
+  out: 11.5
+  fit: crop
+  gain: 0.9
+- id: cta
+  type: cta
+  seconds: 3.1
+  backdrop: assets/cta-full.mp4
+  line: One screenshot → *3D*
+  button: Comment who jumps next 👇
+cues:
+- {at: morph, offset: 5.8, src: ../sfx/yt-uhh-new.mp3, gain: 0.9}
+- {at: morph, offset: 7.75, src: ../sfx/yt-coil.mp3, gain: 0.28}
+- {at: morph, offset: 8.3, src: ../sfx/ting.mp3, gain: 0.55}
+- {at: morph, offset: 10.95, src: ../sfx/yt-boing.mp3, gain: 0.7}
+- {at: cta, offset: 0.0, src: ../sfx/yt-button.mp3, gain: 0.7}
+vo:
+- {at: morph, offset: 0.4, text: "Don't blink. One noob jumps and the whole train follows."}
+- {at: morph, offset: 6.25, text: "[whispers] Screenshot him."}
+- {at: morph, offset: 8.26, text: "[excited] Boom! Real 3D noob!"}
+- {at: cta, offset: 0.35, text: "Who jumps into 3D next?"}
+post:
+  caption: 'one noob jumped… now he''s a real 3D model 🟨🟦
+
+
+    One screenshot → 3D with Vi3W (real output, unedited). Clip: @RoxGamers9
+
+
+    Comment who jumps into 3D next 👇 Vi3W.in
+
+    '
+  hashtags: [roblox, robloxmemes, noob, robloxshorts, robloxdev, 3d, imageto3d, vi3w]

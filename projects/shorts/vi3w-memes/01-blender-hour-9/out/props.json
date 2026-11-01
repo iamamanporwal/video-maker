@@ -1,0 +1,195 @@
+{
+ "fps": 30,
+ "durationInFrames": 600,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/body-e8b32d.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 0,
+   "dur": 438
+  },
+  {
+   "type": "cta",
+   "line": "Try *Vi3W.in*",
+   "sub": "Turn sketches and images into 3D in seconds.",
+   "button": "Comment your doodle \ud83d\udc47",
+   "after": "clips/tt-robot-d1ef58.mp4",
+   "from": 438,
+   "dur": 162
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/965b07b91bca.mp3",
+   "from": 429,
+   "words": [
+    [
+     437,
+     439,
+     "Try"
+    ],
+    [
+     441,
+     470,
+     "Vi3W.in!"
+    ],
+    [
+     474,
+     489,
+     "Turn"
+    ],
+    [
+     491,
+     506,
+     "sketches"
+    ],
+    [
+     507,
+     511,
+     "and"
+    ],
+    [
+     513,
+     525,
+     "images"
+    ],
+    [
+     527,
+     535,
+     "into"
+    ],
+    [
+     539,
+     554,
+     "3D"
+    ],
+    [
+     556,
+     561,
+     "in"
+    ],
+    [
+     564,
+     595,
+     "seconds!"
+    ]
+   ]
+  }
+ ],
+ "cues": [
+  {
+   "src": "assets/typing.mp3",
+   "from": 0,
+   "volume": 0.35
+  },
+  {
+   "src": "assets/winerror.mp3",
+   "from": 228,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/vineboom.mp3",
+   "from": 229,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/scratch.mp3",
+   "from": 276,
+   "volume": 0.55
+  },
+  {
+   "src": "assets/wow.mp3",
+   "from": 306,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/monkeys-spinning-monkeys.mp3",
+   "from": 279,
+   "volume": 0.22
+  },
+  {
+   "src": "assets/sadflute-short.mp3",
+   "from": 378,
+   "volume": 0.55
+  }
+ ],
+ "texts": [
+  {
+   "from": 138,
+   "to": 276,
+   "text": "me making ONE roblox armor in *blender*",
+   "y": 210
+  },
+  {
+   "from": 138,
+   "to": 174,
+   "text": "HOUR 2",
+   "y": 1060,
+   "style": "stroke"
+  },
+  {
+   "from": 174,
+   "to": 204,
+   "text": "HOUR 5",
+   "y": 1060,
+   "style": "stroke"
+  },
+  {
+   "from": 204,
+   "to": 228,
+   "text": "HOUR 9",
+   "y": 1060,
+   "style": "stroke",
+   "accent": "#FF3B3B"
+  },
+  {
+   "from": 228,
+   "to": 276,
+   "text": "*BLENDER* STOPPED RESPONDING",
+   "y": 520,
+   "size": 76,
+   "style": "stroke",
+   "accent": "#FF3B3B"
+  },
+  {
+   "from": 240,
+   "to": 276,
+   "text": "(didn't save)",
+   "y": 1700,
+   "size": 64,
+   "style": "stroke"
+  },
+  {
+   "from": 278,
+   "to": 378,
+   "text": "meanwhile my lil bro with ONE doodle:",
+   "y": 210
+  },
+  {
+   "from": 306,
+   "to": 378,
+   "text": "real 3D in *Vi3W* \ud83d\udc80",
+   "y": 1060,
+   "size": 72,
+   "style": "stroke"
+  },
+  {
+   "from": 378,
+   "to": 438,
+   "text": "me on hour 10 of my armor",
+   "y": 1060
+  }
+ ],
+ "captions": false
+}

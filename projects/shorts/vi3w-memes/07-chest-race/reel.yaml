@@ -1,0 +1,47 @@
+# 07-chest-race (v2): 0-5 s Blender struggle hook (timelapse + monkey rage-typing, red crash), no text.
+# 5-14.6 s REAL Vi3W flow (Input/Demo 1.mp4) with Keyboard Cat vibing; 14.6-18.2 s finished chest spins; CTA.
+title: vi3w-chest-race
+mix: true
+sfx: false
+captions: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+segments:
+- {id: body, type: clip, src: assets/body.mp4, in: 0.0, out: 18.2, fit: crop, gain: 1.0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  after: assets/chest-cta.mp4
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: Comment what to 3D next 👇
+texts:
+- {at: 5.0, to: 8.6, text: "meanwhile me, using Vi3W:", y: 200}
+- {at: 5.0, to: 8.6, text: "1. sketch it ✏️", y: 890, style: stroke, size: 58, align: right}
+- {at: 8.6, to: 10.6, text: "2. describe it 💬", y: 890, style: stroke, size: 58, align: right}
+- {at: 10.6, to: 12.6, text: "3. image ✅", y: 890, style: stroke, size: 58, align: right}
+- {at: 12.6, to: 14.6, text: "4. real 3D ✅", y: 890, style: stroke, size: 58, align: right}
+- {at: 14.6, to: 18.2, text: "that's it. that's the whole workflow 😮‍💨", y: 330}
+- {at: 15.3, to: 18.2, text: "textured 3D chest, made in *Vi3W*", y: 1520, style: stroke, size: 56}
+cues:
+- {at: 0.0, src: ../sfx/typing.mp3, gain: 0.35}
+- {at: 3.8, src: ../sfx/winerror.mp3, gain: 0.55}
+- {at: 3.83, src: ../sfx/vineboom.mp3, gain: 0.7}
+- {at: 5.0, src: ../sfx/scratch.mp3, gain: 0.45}
+- {at: 5.1, src: ../music/local-forecast---elevator.mp3, gain: 0.34}
+- {at: 10.6, src: ../sfx/ding.mp3, gain: 0.45}
+- {at: 12.6, src: ../sfx/ding.mp3, gain: 0.45}
+- {at: 14.6, src: ../sfx/wow.mp3, gain: 0.55}
+- {at: 15.0, src: ../../roblox-hooks/sfx/aura-short.mp3, gain: 0.35}
+vo:
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    hour 3 in blender vs one sketch in Vi3W 💀 same treasure chest
+
+    Real Vi3W app, real output: sketch → concept image → textured 3D model.
+    Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+    What should we 3D next? 👇
+
+    Music: "Local Forecast - Elevator" Kevin MacLeod (incompetech.com), CC BY 4.0 · Keyboard Cat: Charlie Schmidt
+  hashtags: [blender, b3d, gamedev, indiedev, 3dmodeling, robloxdev, memes, sketchto3d, vi3w]

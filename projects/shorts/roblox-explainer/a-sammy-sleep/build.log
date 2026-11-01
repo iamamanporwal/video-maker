@@ -1,0 +1,68 @@
+{
+ "title": "roblox-made-a-sammy-sleep",
+ "seconds": 56.1,
+ "segments": 3,
+ "vo_lines": 11,
+ "rights": "own",
+ "mix": {
+  "vo_median_db": -16.9,
+  "snr_median_db": 43.1,
+  "snr_p10_db": 33.6,
+  "voiced_below_8db_pct": 0.0,
+  "sfx_on_words": [],
+  "gap_bursts_s": [
+   1.1,
+   2.0,
+   2.1,
+   2.2,
+   2.3,
+   2.4,
+   2.8,
+   4.4,
+   4.5,
+   4.6,
+   4.7,
+   4.8
+  ]
+ },
+ "master": {
+  "measured": {
+   "input_i": "-15.15",
+   "input_tp": "0.00",
+   "input_lra": "3.70",
+   "input_thresh": "-25.40",
+   "output_i": "-14.80",
+   "output_tp": "-1.50",
+   "output_lra": "2.70",
+   "output_thresh": "-25.05",
+   "normalization_type": "dynamic",
+   "target_offset": "0.80"
+  },
+  "mode": "loudnorm-linear",
+  "result": {
+   "lufs": -14.0,
+   "true_peak": -1.5,
+   "lra": 3.0
+  }
+ },
+ "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/roblox-explainer/a-sammy-sleep/out/roblox-made-a-sammy-sleep-9x16.mp4",
+ "loudness": {
+  "lufs": -14.0,
+  "true_peak": -1.5,
+  "lra": 3.0
+ },
+ "summary": {
+  "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/roblox-explainer/a-sammy-sleep/out/roblox-made-a-sammy-sleep-9x16.mp4",
+  "duration": 56.1,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "vcodec": "h264",
+  "profile": "High",
+  "pix_fmt": "yuv420p",
+  "nb_frames": 1683,
+  "acodec": "aac",
+  "sample_rate": 48000,
+  "channels": 2
+ }
+}

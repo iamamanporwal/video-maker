@@ -1,0 +1,59 @@
+{
+ "title": "vi3w-jet-race",
+ "seconds": 22.0,
+ "segments": 2,
+ "vo_lines": 1,
+ "rights": "own",
+ "mix": {
+  "vo_median_db": -16.5,
+  "snr_median_db": 16.7,
+  "snr_p10_db": 10.9,
+  "voiced_below_8db_pct": 8.6,
+  "sfx_on_words": [],
+  "gap_bursts_s": [
+   4.1,
+   4.2,
+   4.4
+  ]
+ },
+ "master": {
+  "measured": {
+   "input_i": "-16.33",
+   "input_tp": "-2.13",
+   "input_lra": "3.90",
+   "input_thresh": "-26.43",
+   "output_i": "-14.10",
+   "output_tp": "-1.50",
+   "output_lra": "3.30",
+   "output_thresh": "-24.18",
+   "normalization_type": "dynamic",
+   "target_offset": "0.10"
+  },
+  "mode": "loudnorm-linear",
+  "result": {
+   "lufs": -14.0,
+   "true_peak": -1.4,
+   "lra": 3.3
+  }
+ },
+ "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/vi3w-memes/09-jet-race/out/vi3w-jet-race-9x16.mp4",
+ "loudness": {
+  "lufs": -14.0,
+  "true_peak": -1.4,
+  "lra": 3.3
+ },
+ "summary": {
+  "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/vi3w-memes/09-jet-race/out/vi3w-jet-race-9x16.mp4",
+  "duration": 22.0,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "vcodec": "h264",
+  "profile": "High",
+  "pix_fmt": "yuv420p",
+  "nb_frames": 660,
+  "acodec": "aac",
+  "sample_rate": 48000,
+  "channels": 2
+ }
+}

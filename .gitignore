@@ -33,6 +33,12 @@ projects/**/sources/
 # Add any new oversized file here by path.
 projects/shorts/blender-vs-vi3w/ref/armor.mp4
 projects/shorts/blender-vs-vi3w/ref/hair.mp4
+projects/shorts/vi3w-memes/ref/bl-jet.mp4
+projects/shorts/vi3w-memes/ref/bl-car.mp4
+projects/shorts/roblox-hooks/06-deer-67/ref/hook-fill.mp4
 
 # Rendered frame sequences in nested short projects (regenerable, ~1 GB per batch)
 projects/**/render/
+
+# Phone upload copies (duplicates of project out/ renders)
+FinalUploads/

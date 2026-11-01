@@ -1,0 +1,179 @@
+{
+ "fps": 30,
+ "durationInFrames": 597,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/body-5664e0.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 0,
+   "dur": 435
+  },
+  {
+   "type": "cta",
+   "line": "Try *Vi3W.in*",
+   "sub": "Turn sketches and images into 3D in seconds.",
+   "button": "Tag the client \ud83d\udc80",
+   "after": "assets/sneaker-3d-clean.png",
+   "from": 435,
+   "dur": 162
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/965b07b91bca.mp3",
+   "from": 426,
+   "words": [
+    [
+     434,
+     436,
+     "Try"
+    ],
+    [
+     438,
+     473,
+     "Vi3W.in!"
+    ],
+    [
+     474,
+     481,
+     "Turn"
+    ],
+    [
+     483,
+     498,
+     "sketches"
+    ],
+    [
+     499,
+     503,
+     "and"
+    ],
+    [
+     505,
+     520,
+     "images"
+    ],
+    [
+     522,
+     529,
+     "into"
+    ],
+    [
+     534,
+     548,
+     "3D"
+    ],
+    [
+     551,
+     556,
+     "in"
+    ],
+    [
+     558,
+     584,
+     "seconds!"
+    ]
+   ]
+  }
+ ],
+ "cues": [
+  {
+   "src": "assets/typing.mp3",
+   "from": 0,
+   "volume": 0.3
+  },
+  {
+   "src": "assets/ding.mp3",
+   "from": 138,
+   "volume": 0.5
+  },
+  {
+   "src": "assets/vineboom.mp3",
+   "from": 210,
+   "volume": 0.75
+  },
+  {
+   "src": "assets/pipe.mp3",
+   "from": 218,
+   "volume": 0.55
+  },
+  {
+   "src": "assets/scratch.mp3",
+   "from": 267,
+   "volume": 0.5
+  },
+  {
+   "src": "assets/sneaky-snitch.mp3",
+   "from": 270,
+   "volume": 0.22
+  },
+  {
+   "src": "assets/wow.mp3",
+   "from": 297,
+   "volume": 0.6
+  }
+ ],
+ "texts": [
+  {
+   "from": 138,
+   "to": 210,
+   "text": "client: \"love it! just ONE small change\"",
+   "y": 210
+  },
+  {
+   "from": 156,
+   "to": 210,
+   "text": "me, revision 14:",
+   "y": 1060,
+   "style": "stroke"
+  },
+  {
+   "from": 210,
+   "to": 267,
+   "text": "\"can you make it\u2026 more *3D*?\"",
+   "y": 480,
+   "size": 80,
+   "style": "stroke",
+   "accent": "#FF3B3B"
+  },
+  {
+   "from": 267,
+   "to": 375,
+   "text": "so I just sketched it into Vi3W:",
+   "y": 210
+  },
+  {
+   "from": 297,
+   "to": 375,
+   "text": "real 3D \ud83d\udd25",
+   "y": 1060,
+   "size": 80,
+   "style": "stroke"
+  },
+  {
+   "from": 375,
+   "to": 435,
+   "text": "client: \"wow that was fast \ud83d\ude33\"",
+   "y": 210
+  },
+  {
+   "from": 375,
+   "to": 435,
+   "text": "me:",
+   "y": 1060,
+   "style": "stroke"
+  }
+ ],
+ "captions": false
+}

@@ -1,0 +1,48 @@
+# 01-blender-hour-9: "me making ONE roblox armor in blender" (timelapse + monkey typing) → crash → lil bro's doodle → real Vi3W 3D.
+# User rules: no on-screen text in the first 4-5 s; meme audio carries the hook; VO only on the CTA (mix ducks under it).
+# Body is built by `python -m reelforge.split` from split.yaml (top half 0-960, bottom 960-1920).
+title: vi3w-blender-hour-9
+mix: true
+sfx: false
+captions: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+segments:
+- {id: body, type: clip, src: assets/body.mp4, in: 0.0, out: 14.6, fit: crop, gain: 1.0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  after: ../assets/tt-robot.mp4
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: Comment your doodle 👇
+texts:
+- {at: 4.6, to: 9.2, text: "me making ONE roblox armor in *blender*", y: 210}
+- {at: 4.6, to: 5.8, text: "HOUR 2", y: 1060, style: stroke}
+- {at: 5.8, to: 6.8, text: "HOUR 5", y: 1060, style: stroke}
+- {at: 6.8, to: 7.6, text: "HOUR 9", y: 1060, style: stroke, accent: "#FF3B3B"}
+- {at: 7.6, to: 9.2, text: "*BLENDER* STOPPED RESPONDING", y: 520, style: stroke, size: 76, accent: "#FF3B3B"}
+- {at: 8.0, to: 9.2, text: "(didn't save)", y: 1700, style: stroke, size: 64}
+- {at: 9.25, to: 12.6, text: "meanwhile my lil bro with ONE doodle:", y: 210}
+- {at: 10.2, to: 12.6, text: "real 3D in *Vi3W* 💀", y: 1060, style: stroke, size: 72}
+- {at: 12.6, to: 14.6, text: "me on hour 10 of my armor", y: 1060}
+cues:
+- {at: 0.0, src: ../sfx/typing.mp3, gain: 0.35}
+- {at: 7.6, src: ../sfx/winerror.mp3, gain: 0.6}
+- {at: 7.62, src: ../sfx/vineboom.mp3, gain: 0.7}
+- {at: 9.2, src: ../sfx/scratch.mp3, gain: 0.55}
+- {at: 10.2, src: ../sfx/wow.mp3, gain: 0.6}
+- {at: 9.3, src: ../music/monkeys-spinning-monkeys.mp3, gain: 0.22}
+- {at: 12.6, src: ../../roblox-hooks/sfx/sadflute-short.mp3, gain: 0.55}
+vo:
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    hour 9 in blender vs my lil bro's doodle 💀
+
+    His robot doodle → real 3D model with Vi3W (actual output, unedited).
+    Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+    Comment your doodle and we'll 3D the best one 👇
+
+    Music: "Monkeys Spinning Monkeys" Kevin MacLeod (incompetech.com), CC BY 4.0
+  hashtags: [blender, roblox, robloxdev, b3d, 3dmodeling, gamedev, memes, sketchto3d, vi3w]

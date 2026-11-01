@@ -1,0 +1,157 @@
+{
+ "fps": 30,
+ "durationInFrames": 582,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-6753b9.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0.55,
+   "from": 0,
+   "dur": 417
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment your message \ud83d\udc8c",
+   "backdrop": "clips/cta-full-5848a2.mp4",
+   "from": 417,
+   "dur": 165
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/c2642e5fee36.mp3",
+   "from": 270,
+   "words": [
+    [
+     274,
+     282,
+     "Hmph!"
+    ],
+    [
+     285,
+     294,
+     "She"
+    ],
+    [
+     296,
+     304,
+     "stole"
+    ],
+    [
+     306,
+     311,
+     "my"
+    ],
+    [
+     313,
+     335,
+     "fish\u2026"
+    ],
+    [
+     351,
+     371,
+     "wait,"
+    ],
+    [
+     372,
+     376,
+     "I'm"
+    ],
+    [
+     380,
+     395,
+     "3D"
+    ],
+    [
+     397,
+     409,
+     "now?!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/5ceda6a27d72.mp3",
+   "from": 419,
+   "words": [
+    [
+     419,
+     424,
+     "If"
+    ],
+    [
+     425,
+     426,
+     "I"
+    ],
+    [
+     427,
+     431,
+     "was"
+    ],
+    [
+     432,
+     436,
+     "your"
+    ],
+    [
+     437,
+     462,
+     "girlfriend\u2026"
+    ],
+    [
+     463,
+     465,
+     "what"
+    ],
+    [
+     465,
+     469,
+     "would"
+    ],
+    [
+     471,
+     474,
+     "you"
+    ],
+    [
+     475,
+     484,
+     "message"
+    ],
+    [
+     486,
+     493,
+     "me?"
+    ],
+    [
+     495,
+     510,
+     "Comment"
+    ],
+    [
+     513,
+     539,
+     "below\u2026"
+    ],
+    [
+     541,
+     563,
+     "baka!"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @Tachibana_Sawa",
+ "creditFrom": 192
+}

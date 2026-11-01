@@ -1,0 +1,134 @@
+{
+ "fps": 30,
+ "durationInFrames": 455,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-5163bd.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0.55,
+   "from": 0,
+   "dur": 341
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment BADDIE \ud83d\udc47",
+   "backdrop": "clips/cta-full-c0793b.mp4",
+   "from": 341,
+   "dur": 114
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/007044c682de.mp3",
+   "from": 222,
+   "words": [
+    [
+     230,
+     236,
+     "Redhead"
+    ],
+    [
+     238,
+     248,
+     "baddie"
+    ],
+    [
+     251,
+     256,
+     "is"
+    ],
+    [
+     258,
+     265,
+     "real"
+    ],
+    [
+     268,
+     280,
+     "3D"
+    ],
+    [
+     283,
+     294,
+     "now!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/12cae3f35a21.mp3",
+   "from": 356,
+   "words": [
+    [
+     362,
+     366,
+     "Steal"
+    ],
+    [
+     367,
+     370,
+     "from"
+    ],
+    [
+     373,
+     391,
+     "her?"
+    ],
+    [
+     394,
+     404,
+     "Minus"
+    ],
+    [
+     406,
+     409,
+     "a"
+    ],
+    [
+     411,
+     423,
+     "million"
+    ],
+    [
+     426,
+     440,
+     "aura!"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @EazyEthan",
+ "creditFrom": 170,
+ "cues": [
+  {
+   "src": "assets/yt-uhh-new.mp3",
+   "from": 170,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/yt-coil.mp3",
+   "from": 201,
+   "volume": 0.28
+  },
+  {
+   "src": "assets/aura-short.mp3",
+   "from": 312,
+   "volume": 0.3
+  },
+  {
+   "src": "assets/yt-button.mp3",
+   "from": 347,
+   "volume": 0.7
+  }
+ ]
+}

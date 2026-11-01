@@ -1,0 +1,42 @@
+# 03-anime-hair: "easy anime hair in 10 minutes" (Blender timelapse) + Keyboard Cat → spaghetti → two real Vi3W chibi figures.
+# Keyboard Cat green screen was released by its creator (Charlie Schmidt) for people to make their own versions.
+# No text in the first 4.6 s; VO only at the CTA.
+title: vi3w-anime-hair
+mix: true
+sfx: false
+captions: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+segments:
+- {id: body, type: clip, src: assets/body.mp4, in: 0.0, out: 13.8, fit: crop, gain: 1.0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  after: ../assets/tt-chibi-cat.mp4
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: Which one's your main? 👇
+texts:
+- {at: 4.6, to: 8.6, text: "blender tutorial: \"easy anime hair in 10 minutes\"", y: 210}
+- {at: 5.6, to: 8.6, text: "me, 6 hours in:", y: 1060, style: stroke}
+- {at: 8.6, to: 10.0, text: "it's giving *spaghetti* 🍝", y: 480, style: stroke, size: 80, accent: "#FF3B3B"}
+- {at: 10.0, to: 13.8, text: "meanwhile Vi3W: one image →", y: 210}
+- {at: 10.9, to: 13.8, text: "full anime figure 💅", y: 1060, style: stroke, size: 76}
+cues:
+- {at: 8.6, src: ../sfx/pipe.mp3, gain: 0.55}
+- {at: 9.1, src: ../sfx/fahh.mp3, gain: 0.5}
+- {at: 10.0, src: ../sfx/wow.mp3, gain: 0.6}
+- {at: 10.05, src: ../music/fluffing-a-duck.mp3, gain: 0.22}
+- {at: 10.9, src: ../sfx/ding.mp3, gain: 0.45}
+vo:
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    "easy anime hair in 10 minutes" they said 🍝
+
+    Both figures are real Vi3W output: one image → 3D model.
+    Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+    Which one's your main? 👇
+
+    Keyboard Cat: Charlie Schmidt (green screen template) · Music: "Fluffing a Duck" Kevin MacLeod (incompetech.com), CC BY 4.0
+  hashtags: [blender, b3d, anime, animefigure, 3dmodeling, keyboardcat, memes, imageto3d, vi3w]

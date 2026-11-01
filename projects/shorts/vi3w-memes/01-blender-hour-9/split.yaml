@@ -1,0 +1,15 @@
+# Body of 01: Blender armor timelapse (top) vs monkey rage-typing (bottom) → crash → a kid's doodle becomes real 3D.
+out: assets/body.mp4
+shots:
+- dur: 7.6      # 0-7.6 grind (no text until 4.6)
+  top:    {src: ../../blender-vs-vi3w/ref/armor.mp4, in: 35, speed: 60, zoom: 1.15, focus: 0.45}
+  bottom: {src: ../../blender-vs-vi3w/ref/monkey.mp4, in: 2.8, gain: 1.0}
+- dur: 1.6      # 7.6-9.2 crash
+  top:    {src: ../../blender-vs-vi3w/ref/armor.mp4, in: 582, freeze: true, zoom: 1.15, focus: 0.45, fx: [red, shake]}
+  bottom: {src: ../../blender-vs-vi3w/ref/monkey.mp4, in: 1.3, gain: 1.0, fx: [shake]}
+- dur: 3.4      # 9.2-12.6 the doodle → 3D
+  top:    {src: ../../../launch/one-sketch-away/assets/robot-drawing.png, fit: contain, bg: "0xE9DFCF"}
+  bottom: {src: ../assets/tt-robot.mp4, in: 0, zoom: 1.0}
+- dur: 2.0      # 12.6-14.6 robot keeps spinning; the monkey, defeated
+  top:    {src: ../assets/tt-robot.mp4, in: 3.4}
+  bottom: {src: ../../blender-vs-vi3w/ref/monkey.mp4, in: 10.4, gain: 0.8, focus: 0.35}

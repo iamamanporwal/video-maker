@@ -1,0 +1,10 @@
+12,000 lines of code and every model is a grey cube 💀
+
+Fixed it: sketches and screenshots → real 3D models with Vi3W (actual outputs).
+Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+What's your game missing? Comment it 👇
+
+Music: "Pixelland" Kevin MacLeod (incompetech.com), CC BY 4.0
+
+#robloxdev #robloxstudio #roblox #gamedev #indiedev #programmermemes #memes #imageto3d #vi3w

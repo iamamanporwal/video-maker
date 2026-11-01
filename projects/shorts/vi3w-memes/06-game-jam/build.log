@@ -1,0 +1,55 @@
+{
+ "title": "vi3w-game-jam",
+ "seconds": 19.5,
+ "segments": 2,
+ "vo_lines": 1,
+ "rights": "own",
+ "mix": {
+  "vo_median_db": -16.4,
+  "snr_median_db": 28.6,
+  "snr_p10_db": 19.1,
+  "voiced_below_8db_pct": 1.1,
+  "sfx_on_words": [],
+  "gap_bursts_s": []
+ },
+ "master": {
+  "measured": {
+   "input_i": "-16.39",
+   "input_tp": "-4.33",
+   "input_lra": "4.00",
+   "input_thresh": "-27.04",
+   "output_i": "-13.81",
+   "output_tp": "-1.50",
+   "output_lra": "3.70",
+   "output_thresh": "-24.31",
+   "normalization_type": "dynamic",
+   "target_offset": "-0.19"
+  },
+  "mode": "loudnorm-linear",
+  "result": {
+   "lufs": -14.1,
+   "true_peak": -2.0,
+   "lra": 6.0
+  }
+ },
+ "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/vi3w-memes/06-game-jam/out/vi3w-game-jam-9x16.mp4",
+ "loudness": {
+  "lufs": -14.1,
+  "true_peak": -2.0,
+  "lra": 6.0
+ },
+ "summary": {
+  "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/vi3w-memes/06-game-jam/out/vi3w-game-jam-9x16.mp4",
+  "duration": 19.5,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "vcodec": "h264",
+  "profile": "High",
+  "pix_fmt": "yuv420p",
+  "nb_frames": 585,
+  "acodec": "aac",
+  "sample_rate": 48000,
+  "channels": 2
+ }
+}

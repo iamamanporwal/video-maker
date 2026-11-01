@@ -1,0 +1,41 @@
+# 06-game-jam: "game jam, 2 hours left — coder: done, 3D artist: 💀" → sketch every car → real Vi3W 3D → Doodle Derby gameplay.
+# Doodle Derby by Sagar Prema Rajan (made with Vi3W + Claude), featured with consent. No text in the first 4.5 s.
+title: vi3w-game-jam
+mix: true
+sfx: false
+captions: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+segments:
+- {id: body, type: clip, src: assets/body.mp4, in: 0.0, out: 14.1, fit: crop, gain: 1.0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  after: ../../doodle-derby/assets/models-3d.png
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: Comment a car to 3D 👇
+texts:
+- {at: 4.5, to: 7.1, text: "game jam, 2 hours left. the coder:", y: 210}
+- {at: 4.5, to: 7.1, text: "the 3D artist:", y: 1060, style: stroke}
+- {at: 7.1, to: 10.5, text: "so we just sketched every car…", y: 210}
+- {at: 8.1, to: 10.5, text: "Vi3W → real 3D ✅", y: 1060, style: stroke, size: 72}
+- {at: 10.5, to: 14.1, text: "and we actually shipped 🏁", y: 210}
+cues:
+- {at: 4.5, src: ../sfx/winerror.mp3, gain: 0.45}
+- {at: 7.1, src: ../sfx/scratch.mp3, gain: 0.45}
+- {at: 7.15, src: ../music/investigations.mp3, gain: 0.32}
+- {at: 8.1, src: ../sfx/wow.mp3, gain: 0.55}
+- {at: 10.5, src: ../sfx/ding.mp3, gain: 0.45}
+vo:
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    game jam, 2 hours left, zero 3D models 💀 so we sketched them
+
+    Sketches → real 3D with Vi3W. Game: Doodle Derby by Sagar Prema Rajan (made with Vi3W + Claude)
+    Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+    Comment a car and we'll 3D it 👇
+
+    Music: "Investigations" Kevin MacLeod (incompetech.com), CC BY 4.0
+  hashtags: [gamejam, gamedev, indiedev, robloxdev, blender, programmermemes, memes, sketchto3d, vi3w]

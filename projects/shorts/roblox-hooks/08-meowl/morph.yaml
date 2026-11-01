@@ -1,0 +1,18 @@
+# Hook → 3D transition (python -m reelforge.morph projects/shorts/roblox-hooks/08-meowl/morph.yaml).
+# ref/hook-edit.mp4: the original 0-3.5 s, then 3.5-4.07 s slowed to 0.35x (the paws slip the cuffs), audio
+# continuous at 1x; upscaled 720 → 1080. Last frame = ref/frame-4.05-clean.png = subject.png (caption inpainted).
+# Renders (after assets/model.glb exists):
+#   Blender -b -P src/reelforge/blender/morph.py -- assets/model.glb render/morph <yaw> <elev> 180
+video: ref/hook-edit.mp4
+start: 0.0
+freeze: 5.0
+subject: [444, 684, 876, 1485]
+renders: render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+cta_seconds: 3.4
+spin_tail: 96
+gain: 1.0
+fx_gain: 0.6
+spin_zoom: 0.82
+center_y: 900

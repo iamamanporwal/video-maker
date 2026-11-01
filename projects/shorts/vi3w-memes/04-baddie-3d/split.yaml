@@ -1,0 +1,15 @@
+# Body of 04: @EazyEthan's Steal-a-Brainrot baddie (top) vs sweaty gamer (bottom) → freeze → real Vi3W morph (full frame).
+# morph.mp4 (09-vip-baddie): hook 0-5.68, freeze 5.68, scan 6.18-7.38, lift 7.38-8.18, spin 8.18-11.38.
+out: assets/body.mp4
+shots:
+- dur: 4.6
+  top:    {src: ../../roblox-hooks/09-vip-baddie/assets/morph.mp4, in: 0, gain: 0.9, focus_y: 0.42}
+  bottom: {src: ../../blender-vs-vi3w/ref/sweaty.mp4, in: 0, gain: 0.35, focus: 0.5}
+- dur: 1.08
+  top:    {src: ../../roblox-hooks/09-vip-baddie/assets/morph.mp4, in: 4.6, gain: 0.9, focus_y: 0.42}
+  bottom: {src: ../../blender-vs-vi3w/ref/sweaty.mp4, in: 4.6, gain: 0.35, focus: 0.5}
+- dur: 1.52
+  top:    {src: ../../roblox-hooks/09-vip-baddie/assets/morph.mp4, in: 5.62, freeze: true, focus_y: 0.42}
+  bottom: {src: ../../blender-vs-vi3w/ref/sweaty.mp4, in: 5.68, gain: 0.35, focus: 0.5, zoom: 1.25}
+- dur: 5.7
+  full:   {src: ../../roblox-hooks/09-vip-baddie/assets/morph.mp4, in: 5.68, gain: 0.0}

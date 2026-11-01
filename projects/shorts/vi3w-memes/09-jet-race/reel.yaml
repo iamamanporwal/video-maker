@@ -1,0 +1,46 @@
+# 09-jet-race (v2): 0-5 s Blender struggle hook (F-22 timelapse + raging streamer, red crash), no text.
+# 5-12.8 s the founder's REAL Vi3W demo (demo1.mp4): app on top, his face cam below; 12.8-16.6 s jet rotates; CTA.
+title: vi3w-jet-race
+mix: true
+sfx: false
+captions: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+segments:
+- {id: body, type: clip, src: assets/body.mp4, in: 0.0, out: 16.6, fit: crop, gain: 1.0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  after: assets/jet-3d.mp4
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: Comment what to 3D next ✈️
+texts:
+- {at: 5.0, to: 8.0, text: "meanwhile the guy who built Vi3W:", y: 200}
+- {at: 5.0, to: 8.0, text: "1. doodle a jet ✏️", y: 890, style: stroke, size: 58, align: right}
+- {at: 8.0, to: 10.4, text: "2. image ✅", y: 890, style: stroke, size: 58, align: right}
+- {at: 10.4, to: 12.8, text: "3. real 3D jet ✅", y: 890, style: stroke, size: 58, align: right}
+- {at: 12.8, to: 16.6, text: "that's it. no wings inside out 😮‍💨", y: 330}
+- {at: 13.5, to: 16.6, text: "fighter jet, made in *Vi3W* ✈️", y: 1560, style: stroke, size: 56}
+cues:
+- {at: 0.0, src: ../sfx/typing.mp3, gain: 0.35}
+- {at: 3.8, src: ../sfx/winerror.mp3, gain: 0.5}
+- {at: 3.83, src: ../sfx/vineboom.mp3, gain: 0.7}
+- {at: 5.0, src: ../sfx/scratch.mp3, gain: 0.45}
+- {at: 5.1, src: ../music/wallpaper.mp3, gain: 0.34}
+- {at: 8.0, src: ../sfx/ding.mp3, gain: 0.45}
+- {at: 10.4, src: ../sfx/ding.mp3, gain: 0.45}
+- {at: 12.8, src: ../sfx/wow.mp3, gain: 0.55}
+- {at: 13.2, src: ../../roblox-hooks/sfx/aura-short.mp3, gain: 0.35}
+vo:
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    day 2 in blender on ONE wing vs one doodle in Vi3W ✈️💀
+
+    A real, unedited Vi3W demo by the guy who built it: jet doodle → image → 3D model.
+    Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+    What should we 3D next? 👇
+
+    Music: "Wallpaper" Kevin MacLeod (incompetech.com), CC BY 4.0
+  hashtags: [blender, b3d, 3dmodeling, fighterjet, gamedev, indiedev, memes, sketchto3d, vi3w]

@@ -1,0 +1,15 @@
+# Hook → 3D transition (python -m reelforge.morph projects/shorts/roblox-hooks/07-noob-train/morph.yaml).
+# Reuses the existing noob renders from 01-butter-noob (same Vi3W model, nothing new generated).
+# Freeze 5.8 s: the lead noob of the train mid-jump above the red circle.
+video: ref/hook-fill.mp4   # bars cropped, content 1.2x over a blurred copy (see REVIEW.md v2)
+start: 0.0
+freeze: 5.8
+subject: [860, 585, 980, 785]
+renders: ../01-butter-noob/render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+cta_seconds: 3.4
+spin_tail: 96
+gain: 1.0
+spin_zoom: 0.78
+center_y: 880

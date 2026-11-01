@@ -1,0 +1,20 @@
+# Body of 05: monkey + hacker rage-typing (code) → the 3D models are one grey cube → rage → real Vi3W models parade.
+out: assets/body.mp4
+shots:
+- dur: 4.6
+  top:    {src: ../../blender-vs-vi3w/ref/monkey.mp4, in: 3.0, gain: 0.9}
+  bottom: {src: ../ref/hacker.mp4, in: 0.0, gain: 0.5, focus: 0.55}
+- dur: 2.2
+  top:    {src: ../../blender-vs-vi3w/ref/monkey.mp4, in: 7.6, gain: 0.9}
+  bottom: {src: ../assets/tt-cube.mp4, in: 0, fit: contain, zoom: 0.55, bg: "0x0d0f14"}
+- dur: 1.6
+  full:   {src: ../ref/korean.mp4, in: 2.2, gain: 0.12, focus: 0.5}
+- dur: 2.0
+  top:    {src: ../../roblox-hooks/01-butter-noob/assets/turntable.mp4, in: 2}
+  bottom: {src: ../../roblox-hooks/03-forest-deer/assets/turntable.mp4, in: 2}
+- dur: 2.0
+  top:    {src: ../../playground-serpent/assets/turntable.mp4, in: 2}
+  bottom: {src: ../assets/tt-robot.mp4, in: 5}
+- dur: 1.6
+  top:    {src: ../assets/tt-chibi-white.mp4, in: 4}
+  bottom: {src: ../../blender-vs-vi3w/ref/monkey.mp4, in: 4.0, gain: 0.9}

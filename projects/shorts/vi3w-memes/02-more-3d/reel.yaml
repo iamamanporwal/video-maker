@@ -1,0 +1,45 @@
+# 02-more-3d: client revision hell ("can you make it more 3D?") → keyboard smash → one sketch → real Vi3W 3D.
+# No text in the first 4.6 s (meme audio carries it); VO only at the CTA; mix ducks everything under the VO.
+title: vi3w-more-3d
+mix: true
+sfx: false
+captions: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+segments:
+- {id: body, type: clip, src: assets/body.mp4, in: 0.0, out: 14.5, fit: crop, gain: 1.0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  after: ../assets/sneaker-3d-clean.png
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: Tag the client 💀
+texts:
+- {at: 4.6, to: 7.0, text: "client: \"love it! just ONE small change\"", y: 210}
+- {at: 5.2, to: 7.0, text: "me, revision 14:", y: 1060, style: stroke}
+- {at: 7.0, to: 8.9, text: "\"can you make it… more *3D*?\"", y: 480, style: stroke, size: 80, accent: "#FF3B3B"}
+- {at: 8.9, to: 12.5, text: "so I just sketched it into Vi3W:", y: 210}
+- {at: 9.9, to: 12.5, text: "real 3D 🔥", y: 1060, style: stroke, size: 80}
+- {at: 12.5, to: 14.5, text: "client: \"wow that was fast 😳\"", y: 210}
+- {at: 12.5, to: 14.5, text: "me:", y: 1060, style: stroke}
+cues:
+- {at: 0.0, src: ../sfx/typing.mp3, gain: 0.3}
+- {at: 4.6, src: ../sfx/ding.mp3, gain: 0.5}
+- {at: 7.0, src: ../sfx/vineboom.mp3, gain: 0.75}
+- {at: 7.25, src: ../sfx/pipe.mp3, gain: 0.55}
+- {at: 8.9, src: ../sfx/scratch.mp3, gain: 0.5}
+- {at: 9.0, src: ../music/sneaky-snitch.mp3, gain: 0.22}
+- {at: 9.9, src: ../sfx/wow.mp3, gain: 0.6}
+vo:
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    "can you make it more 3D?" 💀 every 3D artist has met this client
+
+    Sketch → real 3D model with Vi3W (actual output).
+    Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+    Tag the friend who has this client 👇
+
+    Music: "Sneaky Snitch" Kevin MacLeod (incompetech.com), CC BY 4.0
+  hashtags: [3dartist, blender, b3d, freelance, clientsfromhell, gamedev, memes, sketchto3d, vi3w]

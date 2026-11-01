@@ -1,0 +1,200 @@
+{
+ "fps": 30,
+ "durationInFrames": 414,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-fc3f22.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0.8,
+   "from": 0,
+   "dur": 321
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment 67 for the next one \ud83d\udc47",
+   "backdrop": "clips/cta-full-bcd0ad.mp4",
+   "from": 321,
+   "dur": 93
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/9cba1608ca1e.mp3",
+   "from": 12,
+   "words": [
+    [
+     12,
+     22,
+     "Nobody"
+    ],
+    [
+     24,
+     31,
+     "told"
+    ],
+    [
+     32,
+     36,
+     "you"
+    ],
+    [
+     37,
+     38,
+     "the"
+    ],
+    [
+     40,
+     48,
+     "deer"
+    ],
+    [
+     49,
+     53,
+     "can"
+    ],
+    [
+     55,
+     62,
+     "read"
+    ],
+    [
+     65,
+     97,
+     "67."
+    ],
+    [
+     115,
+     127,
+     "Don't"
+    ],
+    [
+     128,
+     137,
+     "blink."
+    ]
+   ]
+  },
+  {
+   "src": "vo/5f0a62f0420e.mp3",
+   "from": 164,
+   "words": [
+    [
+     164,
+     181,
+     "Screenshot"
+    ],
+    [
+     182,
+     188,
+     "it."
+    ]
+   ]
+  },
+  {
+   "src": "vo/b7613be8081c.mp3",
+   "from": 228,
+   "words": [
+    [
+     228,
+     242,
+     "Boom."
+    ],
+    [
+     247,
+     259,
+     "He's"
+    ],
+    [
+     261,
+     266,
+     "real"
+    ],
+    [
+     269,
+     278,
+     "3D"
+    ],
+    [
+     281,
+     293,
+     "now."
+    ]
+   ]
+  },
+  {
+   "src": "vo/d661b65f5b06.mp3",
+   "from": 336,
+   "words": [
+    [
+     336,
+     346,
+     "Comment"
+    ],
+    [
+     347,
+     362,
+     "67"
+    ],
+    [
+     364,
+     370,
+     "for"
+    ],
+    [
+     370,
+     372,
+     "the"
+    ],
+    [
+     373,
+     379,
+     "next"
+    ],
+    [
+     382,
+     391,
+     "one."
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @StumbleCrafts",
+ "cues": [
+  {
+   "src": "assets/yt-uhh-new.mp3",
+   "from": 150,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/yt-coil.mp3",
+   "from": 200,
+   "volume": 0.28
+  },
+  {
+   "src": "assets/ting.mp3",
+   "from": 219,
+   "volume": 0.55
+  },
+  {
+   "src": "assets/yt-eat.mp3",
+   "from": 303,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/yt-button.mp3",
+   "from": 329,
+   "volume": 0.7
+  }
+ ]
+}

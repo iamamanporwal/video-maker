@@ -5,7 +5,7 @@ import { AbsoluteFill, Audio, Img, OffthreadVideo, Sequence, staticFile, useCurr
 import * as THREE from "three";
 import { tween } from "../lib/anim";
 import { useGLB } from "../three/Stage3D";
-import type { Brand, ClipSeg, CtaSeg, ReelProps, RevealSeg, Seg, VoLine, Word } from "./types";
+import type { Brand, ClipSeg, CtaSeg, ReelProps, RevealSeg, Seg, TextOv, VoLine, Word } from "./types";
 
 const { fontFamily: MONT } = loadFont("normal", { weights: ["700", "800", "900"], subsets: ["latin"] });
 
@@ -170,6 +170,12 @@ const Cta: React.FC<{ s: CtaSeg; brand: Brand }> = ({ s, brand }) => {
                       textShadow: shadow(brand.ink) }}>
           <Accented text={s.line ?? "Sketch → 3D at *Vi3W.in*"} brand={brand} />
         </div>
+        {s.sub && (
+          <div style={{ marginTop: -18, textAlign: "center", color: brand.text, fontFamily: font(brand), fontWeight: 800, fontSize: 46,
+                        lineHeight: 1.12, letterSpacing: "-0.01em", opacity: tween(f, 6, 12, 0, 1), textShadow: shadow(brand.ink, 0.8) }}>
+            <Accented text={s.sub} brand={brand} />
+          </div>
+        )}
         <div style={{ padding: "26px 56px", borderRadius: 999, background: brand.accent, color: brand.ink, fontFamily: font(brand),
                       fontWeight: 900, fontSize: 48, transform: `scale(${a * pulse})`, boxShadow: `0 0 60px ${brand.accent}88`,
                       whiteSpace: "nowrap" }}>{s.button ?? "Make yours at Vi3W.in"}</div>
@@ -193,6 +199,36 @@ const Hook: React.FC<{ text: string; until: number; brand: Brand }> = ({ text, u
                   textShadow: shadow(brand.ink) }}>
       <div><Accented text={text} brand={brand} /></div>
     </div>
+  );
+};
+
+/** Meme captions: pop in, hold, cut out. Frame 0 of each is already legible. */
+const Texts: React.FC<{ texts: TextOv[]; brand: Brand }> = ({ texts, brand }) => {
+  const f = useCurrentFrame();
+  return (
+    <>
+      {texts.filter((t) => f >= t.from && f < t.to).map((t, i) => {
+        const k = tween(f, t.from, 7, 0.7, 1, "outBack");
+        const box = (t.style ?? "box") === "box";
+        const size = t.size ?? (box ? 62 : 84);
+        const b = { ...brand, accent: t.accent ?? (box ? "#FF2D55" : brand.accent) };
+        return (
+          <div key={i} style={{ position: "absolute", left: 40, right: 40, top: t.y, transform: `translateY(-50%) scale(${k})`,
+                                transformOrigin: t.align === "left" ? "left center" : t.align === "right" ? "right center" : "center",
+                                display: "flex", justifyContent: t.align === "left" ? "flex-start" : t.align === "right" ? "flex-end" : "center" }}>
+            <div style={{ textAlign: "center", fontFamily: font(brand), fontWeight: box ? 800 : 900, fontSize: size, lineHeight: 1.12,
+                          letterSpacing: box ? "-0.01em" : "-0.03em", textTransform: box ? "none" : "uppercase",
+                          color: box ? (t.bg ? "#fff" : "#0b0b0b") : brand.text, background: box ? (t.bg ?? "#fff") : "transparent",
+                          padding: box ? "14px 30px 18px" : 0, borderRadius: box ? 22 : 0,
+                          boxShadow: box ? "0 12px 40px #0008" : "none",
+                          WebkitTextStroke: box ? undefined : `${Math.round(size / 9)}px ${brand.ink}`, paintOrder: "stroke fill",
+                          textShadow: box ? "none" : shadow(brand.ink, 0.7) }}>
+              <Accented text={t.text} brand={b} />
+            </div>
+          </div>
+        );
+      })}
+    </>
   );
 };
 
@@ -260,7 +296,7 @@ const Credit: React.FC<{ text: string; from: number; segments: Seg[]; brand: Bra
 
 // --------------------------------------------------------------------------- reel
 
-export const GameReel: React.FC<ReelProps> = ({ segments, vo, hook, credit, brand, sfx, cues }) => {
+export const GameReel: React.FC<ReelProps> = ({ segments, vo, hook, credit, creditFrom, brand, sfx, cues, texts, captions }) => {
   const reveal = segments.find((s) => s.type === "reveal") as RevealSeg | undefined;
   const hookEnd = hook?.until ?? 0;
   return (
@@ -282,9 +318,10 @@ export const GameReel: React.FC<ReelProps> = ({ segments, vo, hook, credit, bran
       )}
       {cues?.map((c, i) => <Sequence key={`c${i}`} from={c.from}><Audio src={src(c.src)} volume={c.volume} /></Sequence>)}
       {vo.map((v, i) => <Sequence key={`v${i}`} from={v.from}><Audio src={src(v.src)} /></Sequence>)}
-      {credit && <Credit text={credit} from={hookEnd} segments={segments} brand={brand} />}
+      {credit && <Credit text={credit} from={creditFrom ?? hookEnd} segments={segments} brand={brand} />}
       {hook && <Hook text={hook.text} until={hook.until} brand={brand} />}
-      <Captions vo={vo} segments={segments} hookEnd={hookEnd} brand={brand} />
+      {texts && <Texts texts={texts} brand={brand} />}
+      {captions !== false && <Captions vo={vo} segments={segments} hookEnd={hookEnd} brand={brand} />}
     </AbsoluteFill>
   );
 };

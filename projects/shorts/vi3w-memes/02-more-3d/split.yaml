@@ -1,0 +1,18 @@
+# Body of 02: hacker typing (top) vs Korean rage meme (bottom) → "make it more 3D" → sketch → real Vi3W 3D.
+out: assets/body.mp4
+shots:
+- dur: 4.6      # 0-4.6 hook: masked dev typing, bottom guy cackling (no text)
+  top:    {src: ../ref/hacker.mp4, in: 0.0, gain: 0.7, focus: 0.55}
+  bottom: {src: ../ref/korean.mp4, in: 1.0, gain: 0.14, focus: 0.5}
+- dur: 2.4      # 4.6-7.0 client message; he goes quiet
+  top:    {src: ../ref/hacker.mp4, in: 4.6, gain: 0.7, focus: 0.55, zoom: 1.1}
+  bottom: {src: ../ref/korean.mp4, in: 5.6, gain: 0.35, focus: 0.5}
+- dur: 1.9      # 7.0-8.9 "more 3D" → he smashes
+  top:    {src: ../ref/hacker.mp4, in: 5.0, freeze: true, focus: 0.55, fx: [red]}
+  bottom: {src: ../ref/korean.mp4, in: 8.0, gain: 0.13, focus: 0.5, fx: [shake]}
+- dur: 3.6      # 8.9-12.5 the doodle → real 3D
+  top:    {src: ../../../launch/one-sketch-away/assets/sneaker-sketch.png, fit: contain}
+  bottom: {src: ../assets/sneaker-3d-clean.png, fit: contain}
+- dur: 2.0      # 12.5-14.5 calm again
+  top:    {src: ../assets/sneaker-3d-clean.png, fit: contain}
+  bottom: {src: ../ref/korean.mp4, in: 0.0, gain: 0.5, focus: 0.5}

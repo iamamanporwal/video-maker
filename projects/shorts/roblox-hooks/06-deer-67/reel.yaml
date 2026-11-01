@@ -1,0 +1,52 @@
+# 06-deer-67: the "67" troll-deer hook → screenshot → the existing Vi3W deer model (03-forest-deer renders reused).
+# assets/morph.mp4: hook plays 0-5.0 s, freeze 5.0, scan 5.5-6.7, lift 6.7-7.5, spin 7.5-10.7.
+# Audio rule: SFX hit in the gaps between VO lines; `mix: true` ducks the hook + SFX ~10 dB under every word.
+# Voice: Sarah (bright, confident). Roblox SFX from YouTube: sfx/yt/SOURCES.md.
+title: roblox-deer-67
+mix: true
+sfx: false   # no auto whoosh at cuts; the morph already carries its pop + whoosh
+voice:
+  id: EXAVITQu4vr4xnSDxMaL
+  model: eleven_v3
+  stability: 0.0
+say:
+  Vi3W: View
+  Vi3W.in: view dot in
+  "67": six seven
+credit: 🎥 @StumbleCrafts
+segments:
+- id: morph
+  type: clip
+  src: assets/morph.mp4
+  in: 0.0
+  out: 10.7
+  fit: crop
+  gain: 0.8
+- id: cta
+  type: cta
+  seconds: 3.1
+  backdrop: assets/cta-full.mp4
+  line: One screenshot → *3D*
+  button: Comment 67 for the next one 👇
+cues:
+- {at: morph, offset: 5.0, src: ../sfx/yt-uhh-new.mp3, gain: 0.9}
+- {at: morph, offset: 6.65, src: ../sfx/yt-coil.mp3, gain: 0.28}
+- {at: morph, offset: 7.3, src: ../sfx/ting.mp3, gain: 0.55}
+- {at: morph, offset: 10.1, src: ../sfx/yt-eat.mp3, gain: 0.7}
+- {at: cta, offset: 0.25, src: ../sfx/yt-button.mp3, gain: 0.7}
+vo:
+- {at: morph, offset: 0.4, text: "Nobody told you the deer can read 67. [gasps] Don't blink."}
+- {at: morph, offset: 5.45, text: "Screenshot it."}
+- {at: morph, offset: 7.6, text: "Boom. He's real 3D now."}
+- {at: cta, offset: 0.5, text: "Comment 67 for the next one."}
+post:
+  caption: 'the deer that eats the 67 is now a real 3D model 🦌
+
+
+    One screenshot → 3D with Vi3W (real output, unedited). Clip: @StumbleCrafts
+
+
+    Comment 67 and tell us what to 3D next 👇 Vi3W.in
+
+    '
+  hashtags: [roblox, 99nightsintheforest, "67", robloxmemes, robloxdev, 3d, imageto3d, vi3w]

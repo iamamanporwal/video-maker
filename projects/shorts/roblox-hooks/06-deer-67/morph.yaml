@@ -1,0 +1,17 @@
+# Hook → 3D transition (python -m reelforge.morph projects/shorts/roblox-hooks/06-deer-67/morph.yaml).
+# Reuses the existing deer renders from 03-forest-deer (same Vi3W model, nothing new generated).
+# Freeze 5.0 s: the deer stands up over the "67" of meat, facing camera.
+video: ref/hook-fill.mp4   # bars cropped, content 1.2x over a blurred copy (see REVIEW.md v2)
+start: 0.0
+freeze: 5.0
+subject: [408, 78, 732, 756]
+renders: ../03-forest-deer/render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+cta_seconds: 3.4
+spin_tail: 96
+gain: 1.0
+gamma: 2.1
+spin_zoom: 0.82
+center_y: 900
+fx_gain: 0.5

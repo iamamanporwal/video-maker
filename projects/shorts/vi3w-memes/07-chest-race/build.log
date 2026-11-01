@@ -1,0 +1,68 @@
+{
+ "title": "vi3w-chest-race",
+ "seconds": 23.6,
+ "segments": 2,
+ "vo_lines": 1,
+ "rights": "own",
+ "mix": {
+  "vo_median_db": -16.4,
+  "snr_median_db": 39.1,
+  "snr_p10_db": 30.3,
+  "voiced_below_8db_pct": 0.0,
+  "sfx_on_words": [],
+  "gap_bursts_s": [
+   0.6,
+   1.1,
+   2.3,
+   2.7,
+   3.4,
+   3.8,
+   3.9,
+   4.0,
+   4.1,
+   4.2,
+   4.4,
+   4.5
+  ]
+ },
+ "master": {
+  "measured": {
+   "input_i": "-14.96",
+   "input_tp": "-0.01",
+   "input_lra": "5.30",
+   "input_thresh": "-25.29",
+   "output_i": "-15.00",
+   "output_tp": "-1.50",
+   "output_lra": "3.50",
+   "output_thresh": "-25.28",
+   "normalization_type": "dynamic",
+   "target_offset": "1.00"
+  },
+  "mode": "loudnorm-linear",
+  "result": {
+   "lufs": -14.0,
+   "true_peak": -1.5,
+   "lra": 3.6
+  }
+ },
+ "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/vi3w-memes/07-chest-race/out/vi3w-chest-race-9x16.mp4",
+ "loudness": {
+  "lufs": -14.0,
+  "true_peak": -1.5,
+  "lra": 3.6
+ },
+ "summary": {
+  "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/vi3w-memes/07-chest-race/out/vi3w-chest-race-9x16.mp4",
+  "duration": 23.6,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "vcodec": "h264",
+  "profile": "High",
+  "pix_fmt": "yuv420p",
+  "nb_frames": 708,
+  "acodec": "aac",
+  "sample_rate": 48000,
+  "channels": 2
+ }
+}

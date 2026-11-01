@@ -1,0 +1,15 @@
+# Body of 03: Blender anime-hair timelapse (top) vs Keyboard Cat jamming (bottom) → spaghetti hair → two real Vi3W anime figures.
+out: assets/body.mp4
+shots:
+- dur: 4.6
+  top:    {src: ../../blender-vs-vi3w/ref/hair.mp4, in: 0, speed: 50, zoom: 1.3, focus: 0.42}
+  bottom: {src: ../ref/kbcat.mp4, in: 0.0, gain: 0.9, focus: 0.4}
+- dur: 4.0
+  top:    {src: ../../blender-vs-vi3w/ref/hair.mp4, in: 230, speed: 50, zoom: 1.3, focus: 0.42}
+  bottom: {src: ../ref/kbcat.mp4, in: 4.6, gain: 0.9, focus: 0.4}
+- dur: 1.4
+  top:    {src: ../../blender-vs-vi3w/ref/hair.mp4, in: 452, freeze: true, zoom: 1.3, focus: 0.42, fx: [red, shake]}
+  bottom: {src: ../ref/kbcat.mp4, in: 13.6, gain: 0.9, focus: 0.4}
+- dur: 3.8
+  top:    {src: ../assets/tt-chibi-white.mp4, in: 0, fx: [bright]}
+  bottom: {src: ../assets/tt-chibi-cat.mp4, in: 2.0, fx: [bright]}

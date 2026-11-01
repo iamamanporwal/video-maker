@@ -1,0 +1,68 @@
+{
+ "title": "vi3w-blender-hour-9",
+ "seconds": 20.0,
+ "segments": 2,
+ "vo_lines": 1,
+ "rights": "own",
+ "mix": {
+  "vo_median_db": -16.5,
+  "snr_median_db": 30.3,
+  "snr_p10_db": 21.8,
+  "voiced_below_8db_pct": 2.1,
+  "sfx_on_words": [],
+  "gap_bursts_s": [
+   0.2,
+   0.6,
+   1.1,
+   2.3,
+   2.7,
+   3.4,
+   3.9,
+   4.0,
+   4.4,
+   4.8,
+   5.0,
+   5.2
+  ]
+ },
+ "master": {
+  "measured": {
+   "input_i": "-13.22",
+   "input_tp": "-0.03",
+   "input_lra": "4.40",
+   "input_thresh": "-23.48",
+   "output_i": "-14.14",
+   "output_tp": "-1.50",
+   "output_lra": "3.60",
+   "output_thresh": "-24.38",
+   "normalization_type": "dynamic",
+   "target_offset": "0.14"
+  },
+  "mode": "loudnorm-linear",
+  "result": {
+   "lufs": -14.0,
+   "true_peak": -1.5,
+   "lra": 4.0
+  }
+ },
+ "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/vi3w-memes/01-blender-hour-9/out/vi3w-blender-hour-9-9x16.mp4",
+ "loudness": {
+  "lufs": -14.0,
+  "true_peak": -1.5,
+  "lra": 4.0
+ },
+ "summary": {
+  "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/vi3w-memes/01-blender-hour-9/out/vi3w-blender-hour-9-9x16.mp4",
+  "duration": 20.0,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "vcodec": "h264",
+  "profile": "High",
+  "pix_fmt": "yuv420p",
+  "nb_frames": 600,
+  "acodec": "aac",
+  "sample_rate": 48000,
+  "channels": 2
+ }
+}

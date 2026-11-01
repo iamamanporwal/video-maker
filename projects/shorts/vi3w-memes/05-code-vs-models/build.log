@@ -1,0 +1,68 @@
+{
+ "title": "vi3w-code-vs-models",
+ "seconds": 19.4,
+ "segments": 2,
+ "vo_lines": 1,
+ "rights": "own",
+ "mix": {
+  "vo_median_db": -16.4,
+  "snr_median_db": 43.2,
+  "snr_p10_db": 35.7,
+  "voiced_below_8db_pct": 2.1,
+  "sfx_on_words": [],
+  "gap_bursts_s": [
+   0.9,
+   1.2,
+   2.1,
+   2.5,
+   2.8,
+   3.2,
+   3.7,
+   3.8,
+   4.6,
+   4.9,
+   5.0,
+   5.1
+  ]
+ },
+ "master": {
+  "measured": {
+   "input_i": "-14.20",
+   "input_tp": "-0.41",
+   "input_lra": "5.20",
+   "input_thresh": "-24.66",
+   "output_i": "-14.65",
+   "output_tp": "-1.50",
+   "output_lra": "4.70",
+   "output_thresh": "-25.07",
+   "normalization_type": "dynamic",
+   "target_offset": "0.65"
+  },
+  "mode": "loudnorm-linear",
+  "result": {
+   "lufs": -14.0,
+   "true_peak": -1.5,
+   "lra": 5.3
+  }
+ },
+ "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/vi3w-memes/05-code-vs-models/out/vi3w-code-vs-models-9x16.mp4",
+ "loudness": {
+  "lufs": -14.0,
+  "true_peak": -1.5,
+  "lra": 5.3
+ },
+ "summary": {
+  "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/vi3w-memes/05-code-vs-models/out/vi3w-code-vs-models-9x16.mp4",
+  "duration": 19.4,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "vcodec": "h264",
+  "profile": "High",
+  "pix_fmt": "yuv420p",
+  "nb_frames": 582,
+  "acodec": "aac",
+  "sample_rate": 48000,
+  "channels": 2
+ }
+}

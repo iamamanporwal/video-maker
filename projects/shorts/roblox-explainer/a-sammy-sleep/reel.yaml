@@ -1,0 +1,50 @@
+# roblox-explainer/a-sammy-sleep: @EazyEthan hook "NO WAY SAMMY DID THIS" (2WXfEP8Pk8E, 0.0-6.0 s, original audio, no added text)
+# → shared 2D+3D explainer (assets/explainer.mp4, Remotion RobloxExplainer) → CTA. VO only after the hook.
+title: roblox-made-a-sammy-sleep
+mix: true
+sfx: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+segments:
+- {id: hook, type: clip, src: ../ref/2WXfEP8Pk8E.mp4, in: 0.0, out: 6.0, fit: crop, gain: 1.0}
+- {id: ex, type: clip, src: ../assets/explainer.mp4, in: 0.0, out: 44.7, fit: crop, gain: 0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  backdrop: ../../roblox-hooks/09-vip-baddie/assets/cta-full.mp4
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: Respect the dev 🫡 Follow
+cues:
+- {at: hook, offset: 5.95, src: ../../vi3w-memes/sfx/scratch.mp3, gain: 0.5}
+- {at: ex, offset: 0.0, src: ../../vi3w-memes/music/pixelland.mp3, gain: 0.3}
+- {at: ex, offset: 2.85, src: ../../../../assets/shorts-sfx/whoosh.mp3, gain: 0.6}
+- {at: ex, offset: 7.35, src: ../../../../assets/shorts-sfx/pop.mp3, gain: 0.7}
+- {at: ex, offset: 10.55, src: ../../vi3w-memes/sfx/wow.mp3, gain: 0.45}
+- {at: ex, offset: 14.85, src: ../../vi3w-memes/sfx/ding.mp3, gain: 0.45}
+- {at: ex, offset: 24.35, src: ../../vi3w-memes/sfx/ding.mp3, gain: 0.4}
+- {at: ex, offset: 28.45, src: ../../../../assets/shorts-sfx/pop.mp3, gain: 0.6}
+- {at: ex, offset: 33.35, src: ../../vi3w-memes/sfx/vineboom.mp3, gain: 0.6}
+- {at: ex, offset: 40.62, src: ../../roblox-hooks/sfx/aura-short.mp3, gain: 0.4}
+vo:
+- {at: ex, offset: 0.15, text: "[excited] Wait… who actually MADE this game?"}
+- {at: ex, offset: 3.05, text: "Every Roblox game starts as an empty baseplate in Roblox Studio."}
+- {at: ex, offset: 7.55, text: "Builders place thousands of parts to make the map."}
+- {at: ex, offset: 10.75, text: "3D artists model every brainrot, pet and item."}
+- {at: ex, offset: 15.05, text: "[excited] Or skip the modeling… and just sketch it in Vi3W!"}
+- {at: ex, offset: 18.55, text: "Scripters code everything in Luau. Every steal, every coin… is code."}
+- {at: ex, offset: 24.55, text: "Servers save your progress, so your brainrots are still there tomorrow."}
+- {at: ex, offset: 28.65, text: "Then test, fix bugs, and update. Every. Single. Week."}
+- {at: ex, offset: 33.55, text: "[excited] Grow a Garden's first version took three days… then twenty-one million people played at once!"}
+- {at: ex, offset: 40.85, text: "[excited] So next time you steal a brainrot… respect the dev."}
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    someone stole the strawberry elephant while he slept 💀 but who actually MADE this game?
+
+    Every Roblox game is built by real devs: Roblox Studio → thousands of parts → 3D models → Luau code → saving data → weekly updates.
+    Grow a Garden's first version took ~3 days; it later peaked at ~21M players at once (AP, June 2025).
+
+    Skip the modeling: try Vi3W.in. Turn sketches and images into 3D in seconds.
+
+    Hook: @EazyEthan · Music: "Pixelland" Kevin MacLeod (incompetech.com), CC BY 4.0
+  hashtags: [roblox, stealabrainrot, brainrot, robloxdev, robloxstudio, gamedev, robloxmemes, howitsmade, vi3w]

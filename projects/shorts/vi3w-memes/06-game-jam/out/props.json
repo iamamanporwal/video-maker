@@ -1,0 +1,153 @@
+{
+ "fps": 30,
+ "durationInFrames": 585,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/body-cd5577.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 0,
+   "dur": 423
+  },
+  {
+   "type": "cta",
+   "line": "Try *Vi3W.in*",
+   "sub": "Turn sketches and images into 3D in seconds.",
+   "button": "Comment a car to 3D \ud83d\udc47",
+   "after": "assets/models-3d.png",
+   "from": 423,
+   "dur": 162
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/965b07b91bca.mp3",
+   "from": 414,
+   "words": [
+    [
+     420,
+     421,
+     "Try"
+    ],
+    [
+     423,
+     456,
+     "Vi3W.in!"
+    ],
+    [
+     458,
+     464,
+     "Turn"
+    ],
+    [
+     466,
+     481,
+     "sketches"
+    ],
+    [
+     482,
+     484,
+     "and"
+    ],
+    [
+     486,
+     500,
+     "images"
+    ],
+    [
+     502,
+     510,
+     "into"
+    ],
+    [
+     512,
+     527,
+     "3D"
+    ],
+    [
+     529,
+     534,
+     "in"
+    ],
+    [
+     536,
+     560,
+     "seconds!"
+    ]
+   ]
+  }
+ ],
+ "cues": [
+  {
+   "src": "assets/winerror.mp3",
+   "from": 135,
+   "volume": 0.45
+  },
+  {
+   "src": "assets/scratch.mp3",
+   "from": 213,
+   "volume": 0.45
+  },
+  {
+   "src": "assets/investigations.mp3",
+   "from": 214,
+   "volume": 0.32
+  },
+  {
+   "src": "assets/wow.mp3",
+   "from": 243,
+   "volume": 0.55
+  },
+  {
+   "src": "assets/ding.mp3",
+   "from": 315,
+   "volume": 0.45
+  }
+ ],
+ "texts": [
+  {
+   "from": 135,
+   "to": 213,
+   "text": "game jam, 2 hours left. the coder:",
+   "y": 210
+  },
+  {
+   "from": 135,
+   "to": 213,
+   "text": "the 3D artist:",
+   "y": 1060,
+   "style": "stroke"
+  },
+  {
+   "from": 213,
+   "to": 315,
+   "text": "so we just sketched every car\u2026",
+   "y": 210
+  },
+  {
+   "from": 243,
+   "to": 315,
+   "text": "Vi3W \u2192 real 3D \u2705",
+   "y": 1060,
+   "size": 72,
+   "style": "stroke"
+  },
+  {
+   "from": 315,
+   "to": 423,
+   "text": "and we actually shipped \ud83c\udfc1",
+   "y": 210
+  }
+ ],
+ "captions": false
+}

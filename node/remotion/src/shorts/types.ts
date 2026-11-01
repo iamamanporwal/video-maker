@@ -35,6 +35,7 @@ export type CtaSeg = {
   from: number;
   dur: number;
   line?: string;
+  sub?: string;           // smaller line under `line` (e.g. the brand promise)
   button?: string;
   after?: string;
   glb?: string;
@@ -46,6 +47,19 @@ export type Seg = ClipSeg | RevealSeg | CtaSeg;
 
 export type VoLine = { src: string; from: number; words: Word[] };
 
+/** Timed meme caption from reel.yaml `texts` (independent of the VO captions). */
+export type TextOv = {
+  from: number;
+  to: number;
+  text: string;
+  y: number;              // centre line, px from the top of the 1080x1920 frame
+  size?: number;
+  style?: "box" | "stroke";  // box: black on a white rounded card (TikTok), stroke: white with a heavy outline
+  accent?: string;        // colour for *word* (default: red in box style, brand accent in stroke style)
+  align?: "left" | "center" | "right";
+  bg?: string;            // box style: card colour (default white); text turns white on dark cards
+};
+
 export type ReelProps = {
   fps: number;
   durationInFrames: number;
@@ -54,6 +68,10 @@ export type ReelProps = {
   vo: VoLine[];
   hook?: { text: string; until: number };
   credit?: string;
+  /** Frame the credit badge may first appear (default: when the hook title ends). Keeps the hook text-free. */
+  creditFrom?: number;
   sfx?: { whoosh?: string; pop?: string; riser?: string };
   cues?: { src: string; from: number; volume: number }[];  // one-shot SFX from reel.yaml `cues`
+  texts?: TextOv[];
+  captions?: boolean;     // false: no karaoke captions for the VO (default true)
 };

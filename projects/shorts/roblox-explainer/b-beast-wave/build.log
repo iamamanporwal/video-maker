@@ -1,0 +1,68 @@
+{
+ "title": "roblox-made-b-beast-wave",
+ "seconds": 56.3,
+ "segments": 3,
+ "vo_lines": 11,
+ "rights": "own",
+ "mix": {
+  "vo_median_db": -16.9,
+  "snr_median_db": 24.7,
+  "snr_p10_db": 13.3,
+  "voiced_below_8db_pct": 3.3,
+  "sfx_on_words": [],
+  "gap_bursts_s": [
+   1.1,
+   1.2,
+   1.4,
+   1.5,
+   1.6,
+   3.9,
+   4.0,
+   4.1,
+   4.2,
+   4.3,
+   4.4,
+   4.5
+  ]
+ },
+ "master": {
+  "measured": {
+   "input_i": "-14.90",
+   "input_tp": "0.01",
+   "input_lra": "4.60",
+   "input_thresh": "-25.19",
+   "output_i": "-15.08",
+   "output_tp": "-1.50",
+   "output_lra": "3.10",
+   "output_thresh": "-25.36",
+   "normalization_type": "dynamic",
+   "target_offset": "1.08"
+  },
+  "mode": "loudnorm-linear",
+  "result": {
+   "lufs": -14.0,
+   "true_peak": -1.5,
+   "lra": 3.2
+  }
+ },
+ "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/roblox-explainer/b-beast-wave/out/roblox-made-b-beast-wave-9x16.mp4",
+ "loudness": {
+  "lufs": -14.0,
+  "true_peak": -1.5,
+  "lra": 3.2
+ },
+ "summary": {
+  "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/roblox-explainer/b-beast-wave/out/roblox-made-b-beast-wave-9x16.mp4",
+  "duration": 56.3,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "vcodec": "h264",
+  "profile": "High",
+  "pix_fmt": "yuv420p",
+  "nb_frames": 1689,
+  "acodec": "aac",
+  "sample_rate": 48000,
+  "channels": 2
+ }
+}

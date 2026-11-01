@@ -1,0 +1,16 @@
+# Body of 06: rage hook → game jam, 2 h left: code done, 3D artist melting → sketch every car → Vi3W 3D → Doodle Derby plays.
+# Doodle Derby (Sagar Prema Rajan) sketches, Vi3W outputs and trailer: featured with consent (doodle-derby reel).
+out: assets/body.mp4
+shots:
+- dur: 4.5
+  top:    {src: ../ref/pcdestroy.mp4, in: 0.0, gain: 0.9, focus: 0.5}
+  bottom: {src: ../ref/asian.mp4, in: 0.0, gain: 0.4, focus: 0.5}
+- dur: 2.6
+  top:    {src: ../ref/hacker.mp4, in: 1.0, gain: 0.5, focus: 0.55}
+  bottom: {src: ../ref/asian.mp4, in: 4.5, gain: 0.4, focus: 0.5}
+- dur: 3.4
+  top:    {src: ../../doodle-derby/assets/sketch.png, fit: contain}
+  bottom: {src: ../../doodle-derby/assets/models-3d.png, fit: contain}
+- dur: 3.6
+  top:    {src: "../../../../Input/DoodleDerby_trailer (1).mp4", in: 18.2, focus: 0.5}
+  bottom: {src: "../../../../Input/DoodleDerby_trailer (1).mp4", in: 38.2, focus: 0.5}

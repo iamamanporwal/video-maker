@@ -1,0 +1,42 @@
+# 04-baddie-3d: "make me a 3D model or I'm leaving" — @EazyEthan's baddie (blanket permission) + sweaty gamer → real Vi3W morph.
+# No text in the first 4.6 s; credit appears with the first text; VO only at the CTA.
+title: vi3w-baddie-3d
+mix: true
+sfx: false
+captions: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+credit: 🎥 @EazyEthan
+credit_from: 7.2
+segments:
+- {id: body, type: clip, src: assets/body.mp4, in: 0.0, out: 12.9, fit: crop, gain: 1.0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  backdrop: ../../roblox-hooks/09-vip-baddie/assets/cta-full.mp4
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: Comment BADDIE 👇
+texts:
+- {at: 4.6, to: 7.2, text: "her: \"make me a 3D model or I'm leaving 💅\"", y: 210}
+- {at: 5.3, to: 7.2, text: "me who's never opened blender:", y: 1060, style: stroke, size: 68}
+- {at: 7.3, to: 9.9, text: "one screenshot into Vi3W…", y: 1450}
+- {at: 9.9, to: 12.9, text: "she's *real 3D* now 😭", y: 1450, style: stroke, size: 80}
+cues:
+- {at: 5.68, src: ../sfx/vineboom.mp3, gain: 0.7}
+- {at: 7.2, src: ../sfx/scratch.mp3, gain: 0.45}
+- {at: 7.3, src: ../music/scheming-weasel-faster.mp3, gain: 0.32}
+- {at: 8.2, src: ../sfx/wow.mp3, gain: 0.6}
+- {at: 9.9, src: ../../roblox-hooks/sfx/aura-short.mp3, gain: 0.35}
+vo:
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    she said make her 3D or she's leaving 💅 so I did
+
+    One screenshot → real 3D model with Vi3W (actual output, unedited). Clip: @EazyEthan
+    Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+    Comment BADDIE 👇
+
+    Music: "Scheming Weasel (faster)" Kevin MacLeod (incompetech.com), CC BY 4.0
+  hashtags: [roblox, stealabrainrot, brainrot, robloxmemes, robloxshorts, baddie, imageto3d, 3d, vi3w]

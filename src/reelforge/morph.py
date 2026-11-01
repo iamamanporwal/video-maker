@@ -16,6 +16,7 @@ morph.yaml:
     spin_tail: 156                  # frames of centre-stage spin after the lift
     spin_zoom: 1.0                  # >1 enlarges the centre-stage model; thin parts may brush the edge
     gain: 0.55                      # source audio level under the freeze
+    fx_gain: 1.0                    # scales the baked shutter pop + lift whoosh
     gamma: 1.0                      # >1 lifts the midtones of dark renders (aligned, spin); alpha untouched
 
 Python does every frame (PIL); nothing here is generated. Deterministic: same inputs, same clip.
@@ -90,6 +91,7 @@ def main(spec_path: str) -> int:
     video, rd = d / spec["video"], d / spec["renders"]
     start, freeze = float(spec["start"]), float(spec["freeze"])
     spin_tail, gain = int(spec.get("spin_tail", 156)), float(spec.get("gain", 0.55))
+    fxg = float(spec.get("fx_gain", 1.0))
     spins = sorted((rd / "spin").glob("s_*.png"))
     if not spins:
         raise SystemExit(f"no spin frames in {rd / 'spin'}")
@@ -217,8 +219,8 @@ def main(spec_path: str) -> int:
              "-i", str(sfx / "pop.mp3"), "-i", str(sfx / "whoosh.mp3"),
              "-filter_complex",
              f"[1:a]volume={gain},afade=t=out:st={t_freeze - 0.35:.3f}:d=0.35[s];"
-             f"[2:a]adelay={round(t_freeze * 1000)}|{round(t_freeze * 1000)},volume=0.8[p];"
-             f"[3:a]adelay={round(t_lift * 1000)}|{round(t_lift * 1000)},volume=0.6[w];"
+             f"[2:a]adelay={round(t_freeze * 1000)}|{round(t_freeze * 1000)},volume={0.8 * fxg:.3f}[p];"
+             f"[3:a]adelay={round(t_lift * 1000)}|{round(t_lift * 1000)},volume={0.6 * fxg:.3f}[w];"
              f"[s][p][w]amix=inputs=3:normalize=0:duration=longest,apad,atrim=0:{dur:.3f}[a]",
              "-map", "0:v", "-map", "[a]", "-c:v", "libx264", "-crf", "16", "-pix_fmt", "yuv420p",
              "-c:a", "aac", "-b:a", "192k", "-t", f"{dur:.3f}", str(out)])
@@ -226,9 +228,20 @@ def main(spec_path: str) -> int:
         # Full-frame CTA backdrop: the same centre-stage spin, continuing from where the clip ends.
         if spec.get("cta_full_out"):
             fdir = tmp / "full"; fdir.mkdir()
+            # cta_settle: whip the remaining turn round to the front in that many seconds, then sway ±cta_sway
+            # frames around it, so the model faces the viewer while the CTA line is spoken.
+            settle = round(float(spec.get("cta_settle", 0)) * FPS)
+            sway = float(spec.get("cta_sway", 8))
+            k0 = (LIFT_F + spin_tail) % len(spins)
             for i in range(int(float(spec.get("cta_seconds", 6)) * FPS)):
+                if not settle:
+                    idx = (k0 + i) % len(spins)
+                elif i < settle:
+                    idx = round(k0 + (len(spins) - k0) * ease(i / settle)) % len(spins)
+                else:
+                    idx = round(sway * math.sin(2 * math.pi * (i - settle) / (3 * FPS))) % len(spins)
                 im = base.copy()
-                paste(im, lift_open(spins[(LIFT_F + spin_tail + i) % len(spins)]).convert("RGBA"), kc, oc)
+                paste(im, lift_open(spins[idx]).convert("RGBA"), kc, oc)
                 im.save(fdir / f"c_{i:04d}.png", compress_level=1)
             run(["ffmpeg", "-y", "-v", "error", "-framerate", str(FPS), "-i", str(fdir / "c_%04d.png"),
                  "-c:v", "libx264", "-crf", "16", "-pix_fmt", "yuv420p", str(d / spec["cta_full_out"])])

@@ -1,0 +1,46 @@
+# 08-car-race (v2): 0-5 s Blender struggle hook (Audi timelapse + Korean rage, red crash), no text.
+# 5-12.6 s REAL Vi3W flow (Input/demo3.mp4) with Keyboard Dog vibing; 12.6-16.6 s finished car rotates; CTA.
+title: vi3w-car-race
+mix: true
+sfx: false
+captions: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+segments:
+- {id: body, type: clip, src: assets/body.mp4, in: 0.0, out: 16.6, fit: crop, gain: 1.0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  after: assets/car-3d.mp4
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: Comment your dream car 👇
+texts:
+- {at: 5.0, to: 8.0, text: "meanwhile me, using Vi3W:", y: 200}
+- {at: 5.0, to: 8.0, text: "1. scribble a car ✏️", y: 890, style: stroke, size: 58, align: right}
+- {at: 8.0, to: 10.4, text: "2. image ✅", y: 890, style: stroke, size: 58, align: right}
+- {at: 10.4, to: 12.6, text: "3. real 3D car ✅", y: 890, style: stroke, size: 58, align: right}
+- {at: 12.6, to: 16.6, text: "that's it. no Ctrl+Z needed 😮‍💨", y: 330}
+- {at: 13.3, to: 16.6, text: "made in *Vi3W* from one scribble", y: 1520, style: stroke, size: 56}
+cues:
+- {at: 0.0, src: ../sfx/typing.mp3, gain: 0.35}
+- {at: 3.8, src: ../sfx/winerror.mp3, gain: 0.5}
+- {at: 3.83, src: ../sfx/vineboom.mp3, gain: 0.7}
+- {at: 5.0, src: ../sfx/scratch.mp3, gain: 0.45}
+- {at: 5.1, src: ../music/carefree.mp3, gain: 0.34}
+- {at: 8.0, src: ../sfx/ding.mp3, gain: 0.45}
+- {at: 10.4, src: ../sfx/ding.mp3, gain: 0.45}
+- {at: 12.6, src: ../sfx/wow.mp3, gain: 0.55}
+- {at: 13.0, src: ../../roblox-hooks/sfx/aura-short.mp3, gain: 0.35}
+vo:
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    9 hours in blender vs one scribble in Vi3W 💀 same car
+
+    Real Vi3W app, real output: sketch → image → 3D car.
+    Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+    Comment your dream car and we'll 3D it 👇
+
+    Music: "Carefree" Kevin MacLeod (incompetech.com), CC BY 4.0
+  hashtags: [blender, b3d, 3dmodeling, carmodel, gamedev, 3dartist, memes, sketchto3d, vi3w]

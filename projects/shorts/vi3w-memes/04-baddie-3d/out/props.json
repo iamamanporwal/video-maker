@@ -1,0 +1,150 @@
+{
+ "fps": 30,
+ "durationInFrames": 549,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/body-e7e141.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 0,
+   "dur": 387
+  },
+  {
+   "type": "cta",
+   "line": "Try *Vi3W.in*",
+   "sub": "Turn sketches and images into 3D in seconds.",
+   "button": "Comment BADDIE \ud83d\udc47",
+   "backdrop": "clips/cta-full-1f36d5.mp4",
+   "from": 387,
+   "dur": 162
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/965b07b91bca.mp3",
+   "from": 378,
+   "words": [
+    [
+     386,
+     388,
+     "Try"
+    ],
+    [
+     390,
+     430,
+     "Vi3W.in!"
+    ],
+    [
+     431,
+     438,
+     "Turn"
+    ],
+    [
+     440,
+     452,
+     "sketches"
+    ],
+    [
+     454,
+     457,
+     "and"
+    ],
+    [
+     460,
+     474,
+     "images"
+    ],
+    [
+     476,
+     484,
+     "into"
+    ],
+    [
+     488,
+     505,
+     "3D"
+    ],
+    [
+     508,
+     512,
+     "in"
+    ],
+    [
+     515,
+     541,
+     "seconds!"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @EazyEthan",
+ "creditFrom": 216,
+ "cues": [
+  {
+   "src": "assets/vineboom.mp3",
+   "from": 170,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/scratch.mp3",
+   "from": 216,
+   "volume": 0.45
+  },
+  {
+   "src": "assets/scheming-weasel-faster.mp3",
+   "from": 219,
+   "volume": 0.32
+  },
+  {
+   "src": "assets/wow.mp3",
+   "from": 246,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/aura-short.mp3",
+   "from": 297,
+   "volume": 0.35
+  }
+ ],
+ "texts": [
+  {
+   "from": 138,
+   "to": 216,
+   "text": "her: \"make me a 3D model or I'm leaving \ud83d\udc85\"",
+   "y": 210
+  },
+  {
+   "from": 159,
+   "to": 216,
+   "text": "me who's never opened blender:",
+   "y": 1060,
+   "size": 68,
+   "style": "stroke"
+  },
+  {
+   "from": 219,
+   "to": 297,
+   "text": "one screenshot into Vi3W\u2026",
+   "y": 1450
+  },
+  {
+   "from": 297,
+   "to": 387,
+   "text": "she's *real 3D* now \ud83d\ude2d",
+   "y": 1450,
+   "size": 80,
+   "style": "stroke"
+  }
+ ],
+ "captions": false
+}

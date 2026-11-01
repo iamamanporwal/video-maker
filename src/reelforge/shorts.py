@@ -197,6 +197,24 @@ def tts(d: Path, pub: Path, voice: dict, text: str, say: dict, prev: str = "", n
         prev = nxt = ""  # v3 takes no request stitching
     h = hashlib.sha1(json.dumps([voice, spoken, prev, nxt], sort_keys=True).encode()).hexdigest()[:12]
     mp3, meta = pub / "vo" / f"{h}.mp3", pub / "vo" / f"{h}.json"
+    if not (mp3.exists() and meta.exists()) and voice.get("provider") == "fal":
+        # fal's paid ElevenLabs v3 seat: library voices work here while our own key is on the free tier.
+        key = os.environ.get("FAL_KEY")
+        if not key:
+            raise ReelError("FAL_KEY is not set (.env)")
+        r = httpx.post("https://fal.run/fal-ai/elevenlabs/tts/eleven-v3", timeout=180,
+                       headers={"Authorization": f"Key {key}"},
+                       json={"text": spoken, "voice": voice["id"], "stability": voice.get("stability", 0.0),
+                             "timestamps": True})
+        if r.status_code >= 400:
+            raise ReelError(f"fal tts {r.status_code}: {r.text[:300]}")
+        res = r.json()
+        mp3.parent.mkdir(parents=True, exist_ok=True)
+        mp3.write_bytes(httpx.get(res["audio"]["url"], timeout=120).content)
+        keys3 = ("characters", "character_start_times_seconds", "character_end_times_seconds")
+        al = {k: [x for c in res["timestamps"] for x in c[k]] for k in keys3}  # chunks carry absolute times
+        meta.write_text(json.dumps({"text": text, "spoken": spoken, "words": caption_words(_words(al), plan)}))
+        _log_cost(d, provider="fal", what="tts", chars=len(spoken))
     if not (mp3.exists() and meta.exists()):
         mp3.parent.mkdir(parents=True, exist_ok=True)
         keys = ("stability",) if v3 else ("stability", "similarity_boost", "style")
@@ -275,7 +293,7 @@ def build(d: Path, render: bool = True, stills: list[int] | None = None) -> dict
                     seg[k] = place(d / s[k], pub)
         elif kind == "cta":
             secs = float(s.get("seconds", 2.5))
-            seg = {"type": "cta", "line": s.get("line"), "button": s.get("button")}
+            seg = {"type": "cta", "line": s.get("line"), "sub": s.get("sub"), "button": s.get("button")}
             for k in ("after", "glb", "logo", "backdrop"):
                 if s.get(k):
                     seg[k] = place(d / s[k], pub)
@@ -323,13 +341,31 @@ def build(d: Path, render: bool = True, stills: list[int] | None = None) -> dict
         f0 = (ids[at] if isinstance(at, str) else round(float(at) * fps)) + round(float(c.get("offset", 0)) * fps)
         cues.append({"src": place(d / c["src"], pub), "from": max(0, f0), "volume": float(c.get("gain", 0.8))})
 
+    # Meme captions: {at, to, text, y, size, style, accent}; at/to in seconds or segment id + offset.
+    def frame(at: Any, off: float = 0) -> int:
+        base = ids[at] if isinstance(at, str) else round(float(at) * fps)
+        return base + round(float(off) * fps)
+
+    texts = []
+    for i, tx in enumerate(spec.get("texts") or []):
+        f0, f1 = frame(tx["at"], tx.get("offset", 0)), frame(tx["to"], tx.get("to_offset", 0))
+        if f1 <= f0:
+            raise ReelError(f"text {i}: ends before it starts")
+        texts.append({k: v for k, v in {"from": f0, "to": min(f1, total), "text": tx["text"], "y": tx.get("y", 300),
+                                         "size": tx.get("size"), "style": tx.get("style"), "accent": tx.get("accent"),
+                                         "align": tx.get("align"), "bg": tx.get("bg")}.items()
+                      if v is not None})
+
     hook = spec.get("hook")
     props = {
         "fps": fps, "durationInFrames": total, "brand": spec["brand"], "segments": segs, "vo": vo,
         "hook": {"text": hook["text"], "until": round(float(hook.get("seconds", 2.5)) * fps)} if hook and mode != "remix" else None,
         "credit": spec.get("credit"),
+        "creditFrom": round(float(spec["credit_from"]) * fps) if spec.get("credit_from") is not None else None,
         "sfx": ensure_sfx(pub) if spec.get("sfx") else None,
         "cues": cues or None,
+        "texts": texts or None,
+        "captions": False if spec.get("captions") is False else None,
     }
     props = {k: v for k, v in props.items() if v is not None}
     out = d / "out"
@@ -349,7 +385,10 @@ def build(d: Path, render: bool = True, stills: list[int] | None = None) -> dict
     if render:
         raw = out / f"{name}.raw.mp4"
         _run(base + ["render", "src/shorts/index.ts", "GameReel", str(raw), "--codec", "h264", "--crf", "16",
-                     "--pixel-format", "yuv420p", "--image-format", "png"] + common, cwd=REMOTION)
+                     "--pixel-format", "yuv420p", "--image-format", "png", "--timeout", "120000"] + common, cwd=REMOTION)
+        if spec.get("mix"):
+            from . import mix
+            report["mix"] = mix.apply(out / "props.json", pub, raw)
         final = out / f"{name}-9x16.mp4"
         report["master"] = media.master(raw, final)
         raw.unlink(missing_ok=True)

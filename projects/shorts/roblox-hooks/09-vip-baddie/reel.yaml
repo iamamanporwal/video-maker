@@ -1,0 +1,46 @@
+# 09-vip-baddie: Steal a Brainrot "BRO SAID NOT TODAY" (@EazyEthan, 27M) → screenshot → a real Vi3W VIP baddie.
+# morph.mp4: hook 0-5.68 s (source 2.117-7.80), freeze 5.68, scan 6.18-7.38, lift 7.38-8.18, spin 8.18-11.38.
+# Audio rule (REVIEW.md): SFX only in VO gaps; `mix: true` dips hook + SFX -15 dB under every word.
+# Voice: Matilda (upbeat). User rules: no VO in the first half and NO on-screen text over the hook (credit waits for the freeze).
+title: vip-baddie
+mix: true
+sfx: false
+voice:
+  id: XrExE9yKIg1WjnnlVkGX
+  model: eleven_v3
+  stability: 0.0
+credit: 🎥 @EazyEthan
+credit_from: 5.68
+segments:
+- id: morph
+  type: clip
+  src: assets/morph.mp4
+  in: 0.0
+  out: 11.38
+  fit: crop
+  gain: 0.55
+- id: cta
+  type: cta
+  seconds: 3.8
+  backdrop: assets/cta-full.mp4
+  line: One screenshot → *3D*
+  button: Comment BADDIE 👇
+cues:
+- {at: morph, offset: 5.68, src: ../sfx/yt-uhh-new.mp3, gain: 0.9}
+- {at: morph, offset: 6.7, src: ../sfx/yt-coil.mp3, gain: 0.28}
+- {at: morph, offset: 10.4, src: ../sfx/aura-short.mp3, gain: 0.3}
+- {at: cta, offset: 0.2, src: ../sfx/yt-button.mp3, gain: 0.7}
+vo:
+- {at: morph, offset: 7.4, text: "[excited] Redhead baddie is real 3D now!"}
+- {at: cta, offset: 0.5, text: "[excited] Steal from her? Minus a million aura!"}
+post:
+  caption: 'tried to steal from the redhead baddie… minus one million aura 💅 now she''s a real 3D model
+
+
+    One screenshot → 3D with Vi3W (real output, unedited). Clip: @EazyEthan
+
+
+    Comment BADDIE 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [roblox, redheadbaddie, stealabrainrot, brainrot, robloxmemes, robloxshorts, 3d, imageto3d, vi3w]

@@ -1,0 +1,152 @@
+{
+ "fps": 30,
+ "durationInFrames": 591,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-2be306.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0.55,
+   "from": 0,
+   "dur": 447
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment your message \ud83d\udc8c",
+   "backdrop": "clips/cta-full-42f6d8.mp4",
+   "from": 447,
+   "dur": 144
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/32d6eb6079b2.mp3",
+   "from": 288,
+   "words": [
+    [
+     303,
+     326,
+     "Wait\u2026"
+    ],
+    [
+     328,
+     334,
+     "I'm"
+    ],
+    [
+     341,
+     353,
+     "3D"
+    ],
+    [
+     355,
+     362,
+     "now?"
+    ],
+    [
+     369,
+     382,
+     "So"
+    ],
+    [
+     383,
+     386,
+     "I'm"
+    ],
+    [
+     389,
+     422,
+     "basically\u2026"
+    ],
+    [
+     424,
+     437,
+     "real?"
+    ]
+   ]
+  },
+  {
+   "src": "vo/cf09f6d2f5a0.mp3",
+   "from": 449,
+   "words": [
+    [
+     449,
+     454,
+     "If"
+    ],
+    [
+     456,
+     459,
+     "I"
+    ],
+    [
+     460,
+     463,
+     "was"
+    ],
+    [
+     464,
+     466,
+     "your"
+    ],
+    [
+     467,
+     492,
+     "girlfriend\u2026"
+    ],
+    [
+     493,
+     495,
+     "what"
+    ],
+    [
+     495,
+     499,
+     "would"
+    ],
+    [
+     500,
+     502,
+     "you"
+    ],
+    [
+     503,
+     514,
+     "message"
+    ],
+    [
+     515,
+     521,
+     "me?"
+    ],
+    [
+     523,
+     538,
+     "Comment"
+    ],
+    [
+     539,
+     543,
+     "down"
+    ],
+    [
+     545,
+     557,
+     "below!"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @Tachibana_Sawa",
+ "creditFrom": 210
+}

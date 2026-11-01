@@ -1,0 +1,46 @@
+# 05-code-vs-models: "my roblox game's code: 12,000 lines / my 3D models: one grey cube" → rage → real Vi3W model parade.
+# Models: Vi3W output (butter noob + forest deer from the roblox-hooks series, Playground Serpent dragon, robot, chibi).
+# The grey cube is a plain Blender cube we rendered (it's the joke, not a Vi3W output). No text in the first 4.6 s.
+title: vi3w-code-vs-models
+mix: true
+sfx: false
+captions: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+segments:
+- {id: body, type: clip, src: assets/body.mp4, in: 0.0, out: 14.0, fit: crop, gain: 1.0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  after: ../../roblox-hooks/01-butter-noob/assets/turntable-cta.mp4
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: What's your game missing? 👇
+texts:
+- {at: 4.6, to: 6.8, text: "my roblox game's code: 12,000 lines 🔥", y: 210}
+- {at: 4.85, to: 6.8, text: "my roblox game's 3D models:", y: 1060, style: stroke, size: 66}
+- {at: 6.8, to: 8.4, text: "players: \"why is everything a cube 😭\"", y: 300}
+- {at: 8.4, to: 12.4, text: "fixed it: sketches + screenshots → Vi3W", y: 210}
+- {at: 8.4, to: 12.4, text: "real 3D ✅", y: 1060, style: stroke, size: 72}
+- {at: 12.4, to: 14.0, text: "back to coding 🐒", y: 1060, style: stroke, size: 72}
+cues:
+- {at: 0.0, src: ../sfx/typing.mp3, gain: 0.3}
+- {at: 4.85, src: ../sfx/vineboom.mp3, gain: 0.75}
+- {at: 6.85, src: ../sfx/pipe.mp3, gain: 0.5}
+- {at: 8.4, src: ../sfx/scratch.mp3, gain: 0.45}
+- {at: 8.45, src: ../music/pixelland.mp3, gain: 0.32}
+- {at: 8.5, src: ../sfx/ding.mp3, gain: 0.45}
+- {at: 10.4, src: ../sfx/ding.mp3, gain: 0.45}
+- {at: 12.4, src: ../sfx/wow.mp3, gain: 0.5}
+vo:
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    12,000 lines of code and every model is a grey cube 💀
+
+    Fixed it: sketches and screenshots → real 3D models with Vi3W (actual outputs).
+    Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+    What's your game missing? Comment it 👇
+
+    Music: "Pixelland" Kevin MacLeod (incompetech.com), CC BY 4.0
+  hashtags: [robloxdev, robloxstudio, roblox, gamedev, indiedev, programmermemes, memes, imageto3d, vi3w]

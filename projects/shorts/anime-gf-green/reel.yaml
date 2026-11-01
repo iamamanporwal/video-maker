@@ -1,0 +1,42 @@
+# anime-gf-green: green chibi flings her fish, the lake girl steals it, she shouts → freeze → real Vi3W 3D → tsundere CTA.
+# morph.mp4: hook 0-6.4 s (source-cut: 6.6-11.9 + 13.5-15.0), freeze 6.4, scan → lift → spin, CTA settles front-on.
+# User rules: no VO and no added text over the hook (credit waits for the freeze); SFX only in VO gaps (mix: true).
+# Voice: Kawaii Aerisita (library) via fal; our ElevenLabs key is free tier.
+title: anime-gf-green
+mix: true
+sfx: false
+voice:
+  id: vGQNBgLaiM3EdZtxIiuY
+  provider: fal
+  model: eleven_v3
+  stability: 0.0
+credit: 🎥 @Tachibana_Sawa
+credit_from: 6.4
+segments:
+- id: morph
+  type: clip
+  src: assets/morph.mp4
+  in: 0.0
+  out: 13.9
+  fit: crop
+  gain: 0.55
+- id: cta
+  type: cta
+  seconds: 5.5
+  backdrop: assets/cta-full.mp4
+  line: One screenshot → *3D*
+  button: Comment your message 💌
+vo:
+- {at: morph, offset: 9.0, text: "[angry] Hmph! She stole my fish… [gasps] wait, I'm 3D now?!"}
+- {at: cta, offset: 0.05, text: "If I was your girlfriend… what would you message me? Comment below… baka!"}
+post:
+  caption: 'she threw her fish… the lake girl stole it… so we made her 3D and she''s STILL mad 😤
+
+
+    If she was your girlfriend, what would you message her? 💌 Comment below
+
+
+    Real Vi3W output, unedited. Clip: @Tachibana_Sawa · Make yours at Vi3W.in
+
+    '
+  hashtags: [anime, chibi, animegirl, arknights, tsundere, 3d, imageto3d, vi3w]
