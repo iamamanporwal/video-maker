@@ -1,0 +1,42 @@
+# anime-duo: Kal'tsit flings her fish, Mon3tr leaps out of the lake and catches it (@Tachibana_Sawa, 138M, 4.22-11.22)
+# → freeze → Mon3tr lifts into 3D → Kal'tsit's 3D slides in beside her → "green or white?" CTA (comment bait).
+# morph.mp4: hook 0-7.0, freeze 7.0, scan, lift ~9.5, Kal'tsit enters ~10.0, spin to 15.0.
+# User rules: no VO and no added text over the hook (credit waits for the freeze); SFX only in VO gaps (mix: true).
+title: anime-duo
+mix: true
+sfx: false
+voice:
+  id: vGQNBgLaiM3EdZtxIiuY
+  provider: fal
+  model: eleven_v3
+  stability: 0.0
+credit: 🎥 @Tachibana_Sawa
+credit_from: 7.0
+segments:
+- id: morph
+  type: clip
+  src: assets/morph.mp4
+  in: 0.0
+  out: 15.2
+  fit: crop
+  gain: 0.55
+- id: cta
+  type: cta
+  seconds: 5.5
+  backdrop: assets/cta-full.mp4
+  line: One screenshot → *3D*
+  button: Comment green or white 💚🤍
+vo:
+- {at: morph, offset: 10.0, text: "[giggles] Got your fish! [gasps] Wait… we're BOTH 3D now?!"}
+- {at: cta, offset: 0.05, text: "Green or white… who's your type? Comment below!"}
+post:
+  caption: 'she threw the fish, the lake girl caught it… so we made BOTH of them 3D 🫣
+
+
+    Green or white? Comment your pick 💚🤍
+
+
+    Real Vi3W output, unedited. Clip: @Tachibana_Sawa · Make yours at Vi3W.in
+
+    '
+  hashtags: [arknights, kaltsit, mon3tr, chibi, anime, waifu, 3d, imageto3d, vi3w]

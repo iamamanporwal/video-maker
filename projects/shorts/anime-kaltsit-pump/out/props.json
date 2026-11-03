@@ -1,0 +1,127 @@
+{
+ "fps": 30,
+ "durationInFrames": 729,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-a01196.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0.55,
+   "from": 0,
+   "dur": 579
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment what I drain next \ud83d\udca7",
+   "backdrop": "clips/cta-full-4f44c3.mp4",
+   "from": 579,
+   "dur": 150
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/2a4888edbe3f.mp3",
+   "from": 396,
+   "words": [
+    [
+     398,
+     422,
+     "Hmph."
+    ],
+    [
+     424,
+     437,
+     "Nobody"
+    ],
+    [
+     438,
+     444,
+     "makes"
+    ],
+    [
+     447,
+     458,
+     "Amiya"
+    ],
+    [
+     462,
+     488,
+     "cry."
+    ],
+    [
+     492,
+     518,
+     "Wait\u2026"
+    ],
+    [
+     520,
+     526,
+     "I'm"
+    ],
+    [
+     530,
+     554,
+     "3D?!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/2bd10d3d1f07.mp3",
+   "from": 581,
+   "words": [
+    [
+     581,
+     600,
+     "Doctor\u2026"
+    ],
+    [
+     601,
+     603,
+     "what"
+    ],
+    [
+     603,
+     607,
+     "should"
+    ],
+    [
+     610,
+     612,
+     "I"
+    ],
+    [
+     613,
+     619,
+     "drain"
+    ],
+    [
+     621,
+     631,
+     "next?"
+    ],
+    [
+     633,
+     643,
+     "Comment"
+    ],
+    [
+     645,
+     663,
+     "below!"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @Tachibana_Sawa",
+ "creditFrom": 306
+}

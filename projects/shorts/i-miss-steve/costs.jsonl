@@ -19,3 +19,21 @@
 {"provider": "fal", "what": "sfx", "name": "shutter", "secs": 0.8}
 {"provider": "fal", "what": "sfx", "name": "burn", "secs": 1.4}
 {"provider": "fal", "what": "sfx", "name": "riser", "secs": 3.0}
+{"provider": "fal", "what": "tts-voicetest", "chars": 714}
+{"t": "2026-11-01T23:08:57", "provider": "fal", "what": "tts", "chars": 58}
+{"t": "2026-11-01T23:09:01", "provider": "fal", "what": "tts", "chars": 60}
+{"t": "2026-11-01T23:09:05", "provider": "fal", "what": "tts", "chars": 58}
+{"t": "2026-11-01T23:09:10", "provider": "fal", "what": "tts", "chars": 76}
+{"t": "2026-11-01T23:09:15", "provider": "fal", "what": "tts", "chars": 67}
+{"t": "2026-11-01T23:09:20", "provider": "fal", "what": "tts", "chars": 57}
+{"t": "2026-11-01T23:09:24", "provider": "fal", "what": "tts", "chars": 27}
+{"t": "2026-11-01T23:09:29", "provider": "fal", "what": "tts", "chars": 56}
+{"t": "2026-11-01T23:09:33", "provider": "fal", "what": "tts", "chars": 41}
+{"t": "2026-11-01T23:09:38", "provider": "fal", "what": "tts", "chars": 75}
+{"t": "2026-11-01T23:09:42", "provider": "fal", "what": "tts", "chars": 76}
+{"t": "2026-11-01T23:09:48", "provider": "fal", "what": "tts", "chars": 96}
+{"t": "2026-11-01T23:09:53", "provider": "fal", "what": "tts", "chars": 104}
+{"t": "2026-11-01T23:09:58", "provider": "fal", "what": "tts", "chars": 105}
+{"t": "2026-11-01T23:10:02", "provider": "fal", "what": "tts", "chars": 49}
+{"t": "2026-11-01T23:10:31", "provider": "fal", "what": "tts", "chars": 59}
+{"t": "2026-11-01T23:10:36", "provider": "fal", "what": "tts", "chars": 98}

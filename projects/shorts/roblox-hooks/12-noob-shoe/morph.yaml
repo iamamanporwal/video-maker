@@ -1,0 +1,16 @@
+# Hook → 3D transition (python -m reelforge.morph projects/shorts/roblox-hooks/12-noob-shoe/morph.yaml).
+# Reuses the existing Vi3W noob model renders from 01-butter-noob (nothing new generated).
+# Freeze 7.0: the smug AR noob holding the wrong (blue) shoe.
+video: ref/hook-hr-h9RUUZUk.mp4
+start: 0.0
+freeze: 7.0
+subject: [200, 820, 860, 1580]
+renders: ../01-butter-noob/render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+cta_seconds: 3.6
+spin_tail: 132
+gain: 1.0
+fx_gain: 0.6
+spin_zoom: 0.78
+center_y: 880

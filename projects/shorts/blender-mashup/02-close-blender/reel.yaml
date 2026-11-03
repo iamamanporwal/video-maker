@@ -1,0 +1,55 @@
+# 02-close-blender: "even my 3D character rage-quit Blender" (Ito's 3.7M Short) → real Vi3W sketch → 3D car → CTA.
+# 0-6 s hook: save-dialog fight, no text until 4.6. 6-17.3 s she escapes Blender. 17.3-27.5 s demo3 car flow. CTA.
+# Cleared: all three creators gave blanket permission (2026-11-02, see ../RIGHTS.md).
+title: vi3w-close-blender
+mix: true
+sfx: false
+captions: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+segments:
+- {id: body, type: clip, src: assets/body.mp4, in: 0.0, out: 27.5, fit: crop, gain: 1.0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  after: assets/car-cta.mp4
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: Comment what to 3D next 👇
+texts:
+- {at: 4.6, to: 6.0, text: "even my 3D character rage-quit *blender* 💀", y: 300}
+- {at: 6.0, to: 11.3, text: "she did NOT save that file", y: 300}
+- {at: 11.3, to: 14.3, text: "escaping to literally any other app", y: 300}
+- {at: 14.3, to: 17.3, text: "posting \"I quit 3D\" on X", y: 300}
+- {at: 17.3, to: 21.5, text: "what she should've used: *Vi3W*", y: 300}
+- {at: 17.3, to: 19.5, text: "1. sketch it ✏️", y: 1560, style: stroke, size: 64}
+- {at: 19.5, to: 21.5, text: "2. image ✅", y: 1560, style: stroke, size: 64}
+- {at: 21.5, to: 23.5, text: "3. real 3D ✅", y: 1560, style: stroke, size: 64}
+- {at: 21.5, to: 27.5, text: "1 sketch → textured 3D car. no blender. 😮‍💨", y: 300}
+- {at: 23.5, to: 27.5, text: "4. textured ✅", y: 1560, style: stroke, size: 64}
+cues:
+- {at: 0.0, src: ../music/weasel-17s.mp3, gain: 0.3}
+- {at: 1.6, src: ../../roblox-hooks/sfx/click.mp3, gain: 0.5}
+- {at: 2.6, src: ../../vi3w-memes/sfx/winerror.mp3, gain: 0.4}
+- {at: 6.0, src: ../../vi3w-memes/sfx/fahh.mp3, gain: 0.45}
+- {at: 11.3, src: ../../roblox-hooks/sfx/yt-boing.mp3, gain: 0.4}
+- {at: 14.3, src: ../../roblox-hooks/sfx/bruh.mp3, gain: 0.5}
+- {at: 17.3, src: ../../vi3w-memes/sfx/scratch.mp3, gain: 0.45}
+- {at: 17.4, src: ../../vi3w-memes/music/carefree.mp3, gain: 0.3}
+- {at: 19.5, src: ../../vi3w-memes/sfx/ding.mp3, gain: 0.45}
+- {at: 21.5, src: ../../vi3w-memes/sfx/ding.mp3, gain: 0.45}
+- {at: 23.5, src: ../../vi3w-memes/sfx/wow.mp3, gain: 0.55}
+- {at: 23.8, src: ../../roblox-hooks/sfx/aura-short.mp3, gain: 0.35}
+vo:
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    even my 3D character rage-quit blender 💀
+
+    Then one sketch → textured 3D car in Vi3W (real app, real output).
+    Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+    What should we 3D next? 👇
+
+    Clip: (ｲﾄｳ / Ito) @kensyouen_Y "Um… I kinda wanna close Blender" (used with permission)
+    Music: "Scheming Weasel (faster)" + "Carefree" Kevin MacLeod (incompetech.com), CC BY 4.0
+  hashtags: [blender, b3d, 3dmodeling, gamedev, indiedev, blendermemes, anime, sketchto3d, vi3w]

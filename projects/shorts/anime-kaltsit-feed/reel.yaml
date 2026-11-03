@@ -1,0 +1,42 @@
+# anime-kaltsit-feed: Doctor feeds chibi Kal'tsit the lake fish, she beams, turns purple and spits it out
+# (@Tachibana_Sawa, 138M, source 0-6.4) → freeze on "bleh" → real Vi3W 3D → "what should I eat next?" CTA.
+# morph.mp4: hook 0-6.4, freeze 6.4, scan, lift ~8.9, spin to 13.9.
+# User rules: no VO and no added text over the hook (credit waits for the freeze); SFX only in VO gaps (mix: true).
+title: anime-kaltsit-feed
+mix: true
+sfx: false
+voice:
+  id: vGQNBgLaiM3EdZtxIiuY
+  provider: fal
+  model: eleven_v3
+  stability: 0.0
+credit: 🎥 @Tachibana_Sawa
+credit_from: 6.4
+segments:
+- id: morph
+  type: clip
+  src: assets/morph.mp4
+  in: 0.0
+  out: 15.2
+  fit: crop
+  gain: 0.55
+- id: cta
+  type: cta
+  seconds: 5.6
+  backdrop: assets/cta-full.mp4
+  line: One screenshot → *3D*
+  button: Comment my next meal 🍜
+vo:
+- {at: morph, offset: 9.4, text: "[disgusted] Bleh! Who cooked that fish?! [gasps] Wait… I'm 3D?"}
+- {at: cta, offset: 0.05, text: "Okay Doctor, what are you feeding me next? Comment below… and no fish!"}
+post:
+  caption: 'she trusted the Doctor with ONE bite 💀 so we turned her into a 3D model to cheer her up
+
+
+    What should she eat next? Comment below 🍜
+
+
+    Real Vi3W output, unedited. Clip: @Tachibana_Sawa · Make yours at Vi3W.in
+
+    '
+  hashtags: [arknights, kaltsit, chibi, anime, animegirl, 3d, imageto3d, vi3w]

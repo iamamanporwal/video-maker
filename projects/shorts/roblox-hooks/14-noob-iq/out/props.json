@@ -1,0 +1,124 @@
+{
+ "fps": 30,
+ "durationInFrames": 541,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-214247.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0.6,
+   "from": 0,
+   "dur": 424
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment your IQ \ud83d\udc47",
+   "backdrop": "clips/cta-full-f9c805.mp4",
+   "from": 424,
+   "dur": 117
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/179bead80767.mp3",
+   "from": 277,
+   "words": [
+    [
+     290,
+     318,
+     "+911"
+    ],
+    [
+     325,
+     349,
+     "IQ."
+    ],
+    [
+     351,
+     359,
+     "Real"
+    ],
+    [
+     361,
+     371,
+     "3D"
+    ],
+    [
+     374,
+     397,
+     "noob!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/5dbca4c9f433.mp3",
+   "from": 439,
+   "words": [
+    [
+     451,
+     453,
+     "Nokia"
+    ],
+    [
+     455,
+     465,
+     "never"
+    ],
+    [
+     467,
+     482,
+     "misses."
+    ],
+    [
+     484,
+     494,
+     "Comment"
+    ],
+    [
+     495,
+     499,
+     "your"
+    ],
+    [
+     505,
+     523,
+     "IQ!"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @PiAnimation01",
+ "creditFrom": 225,
+ "cues": [
+  {
+   "src": "assets/yt-uhh-new.mp3",
+   "from": 225,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/yt-coil.mp3",
+   "from": 255,
+   "volume": 0.28
+  },
+  {
+   "src": "assets/yt-boing.mp3",
+   "from": 403,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/yt-button.mp3",
+   "from": 427,
+   "volume": 0.7
+  }
+ ]
+}

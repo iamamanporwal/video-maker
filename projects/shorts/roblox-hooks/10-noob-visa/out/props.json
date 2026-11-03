@@ -1,0 +1,109 @@
+{
+ "fps": 30,
+ "durationInFrames": 522,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-06ff9b.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0.6,
+   "from": 0,
+   "dur": 414
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment RICH NOOB \ud83d\udc47",
+   "backdrop": "clips/cta-full-bd19a2.mp4",
+   "from": 414,
+   "dur": 108
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/ab6b8eed4d4e.mp3",
+   "from": 262,
+   "words": [
+    [
+     278,
+     281,
+     "Transaction"
+    ],
+    [
+     284,
+     321,
+     "successful!"
+    ],
+    [
+     323,
+     334,
+     "Real"
+    ],
+    [
+     339,
+     351,
+     "3D"
+    ],
+    [
+     353,
+     387,
+     "noob!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/3c1fc7349c1c.mp3",
+   "from": 429,
+   "words": [
+    [
+     434,
+     443,
+     "Rich"
+    ],
+    [
+     448,
+     465,
+     "noob"
+    ],
+    [
+     470,
+     489,
+     "era!"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @GameAnimania",
+ "creditFrom": 210,
+ "cues": [
+  {
+   "src": "assets/yt-uhh-new.mp3",
+   "from": 210,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/yt-coil.mp3",
+   "from": 240,
+   "volume": 0.28
+  },
+  {
+   "src": "assets/yt-boing.mp3",
+   "from": 393,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/yt-button.mp3",
+   "from": 417,
+   "volume": 0.7
+  }
+ ]
+}

@@ -1,0 +1,306 @@
+{
+ "fps": 30,
+ "durationInFrames": 1203,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/body-7fd8d9.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 1.0,
+   "from": 0,
+   "dur": 1041
+  },
+  {
+   "type": "cta",
+   "line": "Try *Vi3W.in*",
+   "sub": "Turn sketches and images into 3D in seconds.",
+   "button": "Comment your Blender fail \ud83d\udc47",
+   "after": "clips/chest-cta-b5edee.mp4",
+   "from": 1041,
+   "dur": 162
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/965b07b91bca.mp3",
+   "from": 1032,
+   "words": [
+    [
+     1040,
+     1042,
+     "Try"
+    ],
+    [
+     1044,
+     1073,
+     "Vi3W.in!"
+    ],
+    [
+     1076,
+     1090,
+     "Turn"
+    ],
+    [
+     1092,
+     1109,
+     "sketches"
+    ],
+    [
+     1110,
+     1114,
+     "and"
+    ],
+    [
+     1116,
+     1130,
+     "images"
+    ],
+    [
+     1132,
+     1140,
+     "into"
+    ],
+    [
+     1145,
+     1162,
+     "3D"
+    ],
+    [
+     1163,
+     1166,
+     "in"
+    ],
+    [
+     1169,
+     1193,
+     "seconds!"
+    ]
+   ]
+  }
+ ],
+ "cues": [
+  {
+   "src": "assets/snitch-16s.mp3",
+   "from": 0,
+   "volume": 0.3
+  },
+  {
+   "src": "assets/click.mp3",
+   "from": 48,
+   "volume": 0.5
+  },
+  {
+   "src": "assets/winerror.mp3",
+   "from": 78,
+   "volume": 0.4
+  },
+  {
+   "src": "assets/winerror.mp3",
+   "from": 480,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/vineboom.mp3",
+   "from": 481,
+   "volume": 0.7
+  },
+  {
+   "src": "assets/scratch.mp3",
+   "from": 516,
+   "volume": 0.5
+  },
+  {
+   "src": "assets/sadflute-short.mp3",
+   "from": 522,
+   "volume": 0.5
+  },
+  {
+   "src": "assets/local-forecast---elevator.mp3",
+   "from": 645,
+   "volume": 0.32
+  },
+  {
+   "src": "assets/ding.mp3",
+   "from": 813,
+   "volume": 0.45
+  },
+  {
+   "src": "assets/ding.mp3",
+   "from": 873,
+   "volume": 0.45
+  },
+  {
+   "src": "assets/wow.mp3",
+   "from": 933,
+   "volume": 0.55
+  },
+  {
+   "src": "assets/aura-short.mp3",
+   "from": 942,
+   "volume": 0.35
+  }
+ ],
+ "texts": [
+  {
+   "from": 138,
+   "to": 180,
+   "text": "trying to close *blender* after 9 hours:",
+   "y": 140
+  },
+  {
+   "from": 138,
+   "to": 180,
+   "text": "50 min picking Eevee or Cycles \ud83d\udc80",
+   "y": 1080,
+   "size": 58,
+   "style": "stroke"
+  },
+  {
+   "from": 180,
+   "to": 285,
+   "text": "DAY 1: \"just follow the donut tutorial\"",
+   "y": 140
+  },
+  {
+   "from": 192,
+   "to": 285,
+   "text": "my first circle: 28,958 vertices",
+   "y": 1640,
+   "size": 58,
+   "style": "stroke"
+  },
+  {
+   "from": 285,
+   "to": 390,
+   "text": "DAY 30: my \"character\"",
+   "y": 140
+  },
+  {
+   "from": 297,
+   "to": 390,
+   "text": "my Suzanne after ONE modifier",
+   "y": 1640,
+   "size": 58,
+   "style": "stroke"
+  },
+  {
+   "from": 390,
+   "to": 480,
+   "text": "DAY 90: rigging \ud83e\udee0",
+   "y": 140
+  },
+  {
+   "from": 402,
+   "to": 480,
+   "text": "imported it into my game:",
+   "y": 1080,
+   "size": 58,
+   "style": "stroke"
+  },
+  {
+   "from": 480,
+   "to": 516,
+   "text": "*BLENDER* STOPPED RESPONDING",
+   "y": 520,
+   "size": 76,
+   "style": "stroke",
+   "accent": "#FF3B3B"
+  },
+  {
+   "from": 489,
+   "to": 516,
+   "text": "(didn't save)",
+   "y": 1640,
+   "size": 64,
+   "style": "stroke"
+  },
+  {
+   "from": 516,
+   "to": 645,
+   "text": "me, leaving *blender* forever:",
+   "y": 140
+  },
+  {
+   "from": 645,
+   "to": 753,
+   "text": "then I tried *Vi3W*:",
+   "y": 140
+  },
+  {
+   "from": 645,
+   "to": 753,
+   "text": "1. sketch it \u270f\ufe0f",
+   "y": 890,
+   "size": 58,
+   "style": "stroke",
+   "align": "right"
+  },
+  {
+   "from": 753,
+   "to": 813,
+   "text": "2. describe it \ud83d\udcac",
+   "y": 890,
+   "size": 58,
+   "style": "stroke",
+   "align": "right"
+  },
+  {
+   "from": 813,
+   "to": 873,
+   "text": "3. image \u2705",
+   "y": 890,
+   "size": 58,
+   "style": "stroke",
+   "align": "right"
+  },
+  {
+   "from": 873,
+   "to": 933,
+   "text": "4. real 3D \u2705",
+   "y": 890,
+   "size": 58,
+   "style": "stroke",
+   "align": "right"
+  },
+  {
+   "from": 657,
+   "to": 813,
+   "text": "me, scrolling while it makes the 3D",
+   "y": 1080,
+   "size": 46,
+   "style": "stroke"
+  },
+  {
+   "from": 813,
+   "to": 933,
+   "text": "my blender now \ud83e\udd64",
+   "y": 1640,
+   "size": 64,
+   "style": "stroke"
+  },
+  {
+   "from": 933,
+   "to": 1041,
+   "text": "1 sketch. no blender. \ud83d\ude2e\u200d\ud83d\udca8",
+   "y": 330
+  },
+  {
+   "from": 954,
+   "to": 1041,
+   "text": "textured 3D chest, made in *Vi3W*",
+   "y": 1520,
+   "size": 56,
+   "style": "stroke"
+  }
+ ],
+ "captions": false
+}

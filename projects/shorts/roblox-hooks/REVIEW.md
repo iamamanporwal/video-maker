@@ -124,3 +124,37 @@ Brief: **no text on screen over the hook**, use "redhead baddie" (a known meme t
 - Caption leads with "redhead baddie", and #redheadbaddie is added.
 
 Audit: SNR median 43.7 / p10 33.3 dB, 1.1% of voiced frames under 8 dB, 0 SFX on words, 0 gap bursts, -14.0 LUFS / -2.5 dBFS.
+
+---
+
+# 10-14: noob series (2026-11-02)
+
+Five 10M+ noob hooks → the existing Vi3W noob model (01-butter-noob renders, nothing new generated). The 09 rules
+apply: no VO and no added text before the freeze, the credit appears at the freeze, and the CTA lands a joke.
+Voices go through fal (premade Lily, Charlotte, Alice and River, plus Kawaii Aerisita).
+
+| # | Hook | Views | Freeze |
+|---|---|---|---|
+| 10 visa | @GameAnimania deer-vs-noob PT2 | 240M | 10.0 s: smirking noob after paying with the NOOB ROBLOX Visa |
+| 11 team | @GameAnimania "When a noob is looking for a team" | 45M | 5.25 s: noob begging the blue-haired player (0/4) |
+| 12 shoe | @RoblotopiaRoblox wrong-shoe AR noob | 42M | 7.0 s: smug noob holding the wrong shoe |
+| 13 tsunami | @ShapeDudesPlus sponge noob vs tsunami | 36M | 8.0 s: sponge noob next to the green sponge face |
+| 14 iq | @PiAnimation01 different-IQ noobs vs train | 15M | 9.5 s: +911 IQ noob with the Nokia (box sized so the model's head sits on his) |
+
+## v1: 7.5-8.5/10
+1. **fal takes run long.** The fal lines last 3-3.8 s. In 10, line 1 crossed the CTA cut and the button landed on "noob!".
+2. **Boing on a word.** The boing landed on a word in all five.
+3. **Tsunami opens slow.** It opened on 1.5 s of a still noob in water.
+4. **IQ caption.** It read "NINE HUNDRED ELEVEN".
+5. **Visa CTA too long.** "Rich noob era. Who's next?" ran past the end.
+
+## v2-v3 (shipped): 8.5/10
+- spin_tail 96 → 132. Each cut now lands about 0.9 s after line 1, with the boing 0.2 s after its last word.
+- The tsunami hook starts at source 1.5 s. The IQ caption shows "+911" (`say:` map, spoken "nine hundred eleven"). The visa CTA is "Rich noob era!".
+- Audit, all five: 0 SFX on words, SNR p10 ≥ 29.7 dB, 0% of voiced frames under 8 dB. The only gap bursts are inside the hooks (the creators' own audio, nothing to fight).
+
+**What still keeps it from 10**
+1. **Credit badge clutter.** At the freeze the credit badge touches burned-in creator text (11's caption, 14's IQ label).
+2. **Model mismatch.** The model doesn't match the clip noob's pose or style (the 10 smirk, the 14 car). The scan sells it, but it isn't a perfect overlay.
+3. **CTA spin jump.** cta-full continues from the morph's last frame, not the cut, so the spin jumps 3-10 frames at the CTA cut.
+4. **Nobody has listened.** As before, these are measurements; play them on a phone.

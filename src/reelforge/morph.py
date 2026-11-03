@@ -18,6 +18,16 @@ morph.yaml:
     gain: 0.55                      # source audio level under the freeze
     fx_gain: 1.0                    # scales the baked shutter pop + lift whoosh
     gamma: 1.0                      # >1 lifts the midtones of dark renders (aligned, spin); alpha untouched
+    spin_turn: 2.2                  # optional: one eased full turn (s), then sway front-on (cta_sway) for the VO
+    front: 0                        # spin index that faces the viewer (renders start at the aligned yaw)
+    companion:                      # optional second model: the main one lands in the left slot, this one slides
+      renders: ../other/render/morph    # in on the right during the spin (only spin/ is used)
+      enter: 0.4                    # seconds into the centre-stage spin when it starts sliding in
+      height: 800                   # both models scaled to this height (× spin_zoom / zoom), feet on one floor
+      main_x: 0.3                   # slot centres as a share of the width
+      x: 0.75
+      gamma: 1.0
+      zoom: 1.0
 
 Python does every frame (PIL); nothing here is generated. Deterministic: same inputs, same clip.
 """
@@ -133,8 +143,35 @@ def main(spec_path: str) -> int:
         U = (min(b[0] for b in boxes), min(b[1] for b in boxes), max(b[2] for b in boxes), max(b[3] for b in boxes))
         ucx, ucy, uw, uh = (U[0] + U[2]) / 2, (U[1] + U[3]) / 2, U[2] - U[0], U[3] - U[1]
         # spin_zoom > 1 trades a thin extremity (a tail tip) briefly crossing the edge for a bigger body.
+        comp = spec.get("companion")
         kc = min(W * 0.94 / uw, 1050 / uh) * float(spec.get("spin_zoom", 1.0))
         oc = (W / 2 - kc * ucx, float(spec.get("center_y", 930)) - kc * ucy)
+        if comp:
+            # Duo: both models the same height (comp.height px, before zooms), feet on one floor line, side by side.
+            # Widths aren't capped: a wide extremity (a splash ring) may briefly cross the neighbour or the edge.
+            cspins = sorted((d / comp["renders"] / "spin").glob("s_*.png"))
+            if not cspins:
+                raise SystemExit(f"no companion spin frames in {d / comp['renders'] / 'spin'}")
+            cgamma = float(comp.get("gamma", 1.0))
+            cb = [Image.open(p).getchannel("A").getbbox() for p in cspins]
+            CU = (min(b[0] for b in cb), min(b[1] for b in cb), max(b[2] for b in cb), max(b[3] for b in cb))
+            hh = float(comp.get("height", 800))
+            floor = float(spec.get("center_y", 930)) + hh / 2
+            kc = hh / uh * float(spec.get("spin_zoom", 1.0))
+            oc = (float(comp.get("main_x", 0.3)) * W - kc * ucx, floor - kc * U[3])
+            kcc = hh / (CU[3] - CU[1]) * float(comp.get("zoom", 1.0))
+            occ = (float(comp.get("x", 0.75)) * W - kcc * (CU[0] + CU[2]) / 2, floor - kcc * CU[3])
+            enter_f, slide_f = round(float(comp.get("enter", 0.4)) * FPS), 14
+
+        def companion(im: Image.Image, idx: int, i: int) -> None:
+            """Slide the companion in from the right edge from spin frame `enter_f`, turning in step with the main."""
+            if not comp or i < enter_f:
+                return
+            t = ease((i - enter_f) / slide_f)
+            dx = (1 - t) * (W * 0.75)
+            cg = glow_c.copy(); cg.putalpha(cg.getchannel("A").point(lambda a: round(a * t)))
+            im.paste(cg, (round(dx), 0), cg)
+            paste(im, brighten(Image.open(cspins[idx % len(cspins)]).convert("RGBA"), cgamma), kcc, (occ[0] + dx, occ[1]))
 
         def lift_open(p: Path) -> Image.Image:
             return brighten(Image.open(p).convert("RGBA"), gamma)
@@ -147,10 +184,17 @@ def main(spec_path: str) -> int:
         lift = Image.new("L", (W, H), 0)
         ImageDraw.Draw(lift).ellipse((-200, 300, W + 200, 1500), fill=70)
         bg.paste(Image.new("RGB", (W, H), (26, 31, 46)), (0, 0), lift.filter(ImageFilter.GaussianBlur(160)))
-        glow = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        def floor_glow(cx: float, fy: float, rx: float) -> Image.Image:
+            g = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+            ImageDraw.Draw(g).ellipse((cx - rx, fy - 50, cx + rx, fy + 50), fill=ACCENT + (95,))
+            return g.filter(ImageFilter.GaussianBlur(40))
+
         floor_y = oc[1] + kc * bb[3] - 10          # under the paws in the aligned pose, not the swinging tail
-        ImageDraw.Draw(glow).ellipse((W / 2 - 330, floor_y - 50, W / 2 + 330, floor_y + 50), fill=ACCENT + (95,))
-        glow = glow.filter(ImageFilter.GaussianBlur(40))
+        if comp:
+            glow = floor_glow(float(comp.get("main_x", 0.3)) * W, floor - 10, 240)
+            glow_c = floor_glow(float(comp.get("x", 0.75)) * W, floor - 10, 200)
+        else:
+            glow = floor_glow(W / 2, floor_y, 330)
         line = Image.new("RGBA", (W, 90), (0, 0, 0, 0))
         ImageDraw.Draw(line).rectangle((0, 40, W, 50), fill=ACCENT + (255,))
         line = line.filter(ImageFilter.GaussianBlur(9))
@@ -201,11 +245,25 @@ def main(spec_path: str) -> int:
             o = (o0[0] + (oc[0] - o0[0]) * t, o0[1] + (oc[1] - o0[1]) * t)
             paste(im, lift_open(spins[i % len(spins)]).convert("RGBA"), k, o)
             emit(im)
-        # E: centre-stage spin.
+        # E: centre-stage spin. spin_turn: one eased full turn in that many seconds, then sway ±cta_sway frames
+        # around `front` (the spin index facing the viewer), so the first VO line isn't spoken to the model's back.
         base = bg.copy(); base.paste(glow, (0, 0), glow)
+        ns, front = len(spins), int(spec.get("front", 0)) % len(spins)
+        turn, sway = round(float(spec.get("spin_turn", 0)) * FPS), float(spec.get("cta_sway", 8))
+
+        def sway_idx(j: int) -> int:
+            return round(front + sway * math.sin(2 * math.pi * j / (3 * FPS))) % ns
+
         for i in range(spin_tail):
+            if not turn:
+                idx = (LIFT_F + i) % ns
+            elif i < turn:
+                idx = round(LIFT_F + ((front - LIFT_F) % ns or ns) * ease(i / turn)) % ns
+            else:
+                idx = sway_idx(i - turn)
             im = base.copy()
-            paste(im, lift_open(spins[(LIFT_F + i) % len(spins)]).convert("RGBA"), kc, oc)
+            paste(im, lift_open(spins[idx]).convert("RGBA"), kc, oc)
+            companion(im, idx, i)
             emit(im)
 
         # Audio: the clip's own sound up to the freeze, a pop on the shutter, a whoosh on the lift.
@@ -230,18 +288,21 @@ def main(spec_path: str) -> int:
             fdir = tmp / "full"; fdir.mkdir()
             # cta_settle: whip the remaining turn round to the front in that many seconds, then sway ±cta_sway
             # frames around it, so the model faces the viewer while the CTA line is spoken.
+            # With spin_turn the model is already swaying front-on: keep swaying in phase.
             settle = round(float(spec.get("cta_settle", 0)) * FPS)
-            sway = float(spec.get("cta_sway", 8))
-            k0 = (LIFT_F + spin_tail) % len(spins)
+            k0 = (LIFT_F + spin_tail) % ns
             for i in range(int(float(spec.get("cta_seconds", 6)) * FPS)):
-                if not settle:
-                    idx = (k0 + i) % len(spins)
+                if turn:
+                    idx = sway_idx(spin_tail - turn + i)
+                elif not settle:
+                    idx = (k0 + i) % ns
                 elif i < settle:
-                    idx = round(k0 + (len(spins) - k0) * ease(i / settle)) % len(spins)
+                    idx = round(k0 + ((front - k0) % ns) * ease(i / settle)) % ns
                 else:
-                    idx = round(sway * math.sin(2 * math.pi * (i - settle) / (3 * FPS))) % len(spins)
+                    idx = sway_idx(i - settle)
                 im = base.copy()
                 paste(im, lift_open(spins[idx]).convert("RGBA"), kc, oc)
+                companion(im, idx, spin_tail + i)
                 im.save(fdir / f"c_{i:04d}.png", compress_level=1)
             run(["ffmpeg", "-y", "-v", "error", "-framerate", str(FPS), "-i", str(fdir / "c_%04d.png"),
                  "-c:v", "libx264", "-crf", "16", "-pix_fmt", "yuv420p", str(d / spec["cta_full_out"])])

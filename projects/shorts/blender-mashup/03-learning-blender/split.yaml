@@ -1,0 +1,23 @@
+# Body of 03-learning-blender: Mults' "Learning Blender Be Like" (r0VXb1hOGjo, 2.3M, muted) as the struggle hook, then a
+# split race: Blender journey (top) vs the real Vi3W jet flow with the founder's face cam (bottom, Input/demo1.mp4).
+out: assets/body.mp4
+shots:
+# --- hook: default cube, "how do I move", tutorial hell (their baked text only, ours from 4.6) ---
+- dur: 5.5
+  full: {src: ../ref/r0VXb1hOGjo.mp4, in: 0.0, crop: [0.2, 0, 0.6, 1], fit: contain}
+# --- race ---
+- dur: 3.5
+  top:    {src: ../ref/r0VXb1hOGjo.mp4, in: 10.0}
+  bottom: {src: ../../../../Input/demo1.mp4, in: 21.0, zoom: 1.2, focus: 0.0}
+- dur: 3.5
+  top:    {src: ../ref/r0VXb1hOGjo.mp4, in: 20.0}
+  bottom: {src: ../../../../Input/demo1.mp4, in: 12.0, zoom: 1.2, focus: 1.0}
+- dur: 3.5
+  top:    {src: ../ref/r0VXb1hOGjo.mp4, in: 36.0}
+  bottom: {src: ../../../../Input/demo1.mp4, in: 33.0, speed: 0.5, focus: 0.3}
+- dur: 3.5
+  top:    {src: ../ref/r0VXb1hOGjo.mp4, in: 52.3}
+  bottom: {src: ../../../../Input/demo1.mp4, in: 36.0, speed: 0.5, focus: 0.3}
+# --- closer: the founder, sketch on the left, the 3D jet turning on the right ---
+- dur: 3.0
+  full: {src: ../../../../Input/demo1.mp4, in: 3.0, fit: contain, bg: "0x090b0d"}

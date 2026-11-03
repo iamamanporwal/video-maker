@@ -1,0 +1,66 @@
+# 01-learning-3d: "learning 3D be like" mashup of three 1M+ Blender-pain Shorts → real Vi3W flow → CTA.
+# 0-6 s hook: anime girl fights Blender's save dialog (no text until 4.6). 6-17 s DAY 1/30/90 escalation + crash.
+# 17-21 s she escapes Blender. 21.5-31 s REAL Vi3W flow (Input/Demo 1.mp4). 31-35 s chest spins. CTA.
+# Cleared: all three creators gave blanket permission (2026-11-02, see ../RIGHTS.md).
+title: vi3w-learning-3d
+mix: true
+sfx: false
+captions: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+segments:
+- {id: body, type: clip, src: assets/body.mp4, in: 0.0, out: 34.7, fit: crop, gain: 1.0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  after: ../../vi3w-memes/07-chest-race/assets/chest-cta.mp4
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: Comment your Blender fail 👇
+texts:
+- {at: 4.6, to: 6.0, text: "trying to close *blender* after 9 hours:", y: 140}
+- {at: 4.6, to: 6.0, text: "50 min picking Eevee or Cycles 💀", y: 1080, style: stroke, size: 58}
+- {at: 6.0, to: 9.5, text: "DAY 1: \"just follow the donut tutorial\"", y: 140}
+- {at: 6.4, to: 9.5, text: "my first circle: 28,958 vertices", y: 1640, style: stroke, size: 58}
+- {at: 9.5, to: 13.0, text: "DAY 30: my \"character\"", y: 140}
+- {at: 9.9, to: 13.0, text: "my Suzanne after ONE modifier", y: 1640, style: stroke, size: 58}
+- {at: 13.0, to: 16.0, text: "DAY 90: rigging 🫠", y: 140}
+- {at: 13.4, to: 16.0, text: "imported it into my game:", y: 1080, style: stroke, size: 58}
+- {at: 16.0, to: 17.2, text: "*BLENDER* STOPPED RESPONDING", y: 520, style: stroke, size: 76, accent: "#FF3B3B"}
+- {at: 16.3, to: 17.2, text: "(didn't save)", y: 1640, style: stroke, size: 64}
+- {at: 17.2, to: 21.5, text: "me, leaving *blender* forever:", y: 140}
+- {at: 21.5, to: 25.1, text: "then I tried *Vi3W*:", y: 140}
+- {at: 21.5, to: 25.1, text: "1. sketch it ✏️", y: 890, style: stroke, size: 58, align: right}
+- {at: 25.1, to: 27.1, text: "2. describe it 💬", y: 890, style: stroke, size: 58, align: right}
+- {at: 27.1, to: 29.1, text: "3. image ✅", y: 890, style: stroke, size: 58, align: right}
+- {at: 29.1, to: 31.1, text: "4. real 3D ✅", y: 890, style: stroke, size: 58, align: right}
+- {at: 21.9, to: 27.1, text: "me, scrolling while it makes the 3D", y: 1080, style: stroke, size: 46}
+- {at: 27.1, to: 31.1, text: "my blender now 🥤", y: 1640, style: stroke, size: 64}
+- {at: 31.1, to: 34.7, text: "1 sketch. no blender. 😮‍💨", y: 330}
+- {at: 31.8, to: 34.7, text: "textured 3D chest, made in *Vi3W*", y: 1520, style: stroke, size: 56}
+cues:
+- {at: 0.0, src: ../music/snitch-16s.mp3, gain: 0.3}
+- {at: 1.6, src: ../../roblox-hooks/sfx/click.mp3, gain: 0.5}
+- {at: 2.6, src: ../../vi3w-memes/sfx/winerror.mp3, gain: 0.4}
+- {at: 16.0, src: ../../vi3w-memes/sfx/winerror.mp3, gain: 0.6}
+- {at: 16.03, src: ../../vi3w-memes/sfx/vineboom.mp3, gain: 0.7}
+- {at: 17.2, src: ../../vi3w-memes/sfx/scratch.mp3, gain: 0.5}
+- {at: 17.4, src: ../../roblox-hooks/sfx/sadflute-short.mp3, gain: 0.5}
+- {at: 21.5, src: ../../vi3w-memes/music/local-forecast---elevator.mp3, gain: 0.32}
+- {at: 27.1, src: ../../vi3w-memes/sfx/ding.mp3, gain: 0.45}
+- {at: 29.1, src: ../../vi3w-memes/sfx/ding.mp3, gain: 0.45}
+- {at: 31.1, src: ../../vi3w-memes/sfx/wow.mp3, gain: 0.55}
+- {at: 31.4, src: ../../roblox-hooks/sfx/aura-short.mp3, gain: 0.35}
+vo:
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    learning 3D be like 💀 day 1 vs day 90
+
+    Then one sketch → textured 3D model in Vi3W (real app, real output).
+    Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+    Comment your worst Blender moment 👇
+
+    Clips: @kensyouen_Y "Um… I kinda wanna close Blender" · Mults "Learning Blender Be Like" · Ryan Dick "Blender Cursed Images" (all used with permission)
+    Music: "Sneaky Snitch" + "Local Forecast - Elevator" Kevin MacLeod (incompetech.com), CC BY 4.0
+  hashtags: [blender, b3d, 3dmodeling, gamedev, indiedev, blendermemes, memes, sketchto3d, vi3w]

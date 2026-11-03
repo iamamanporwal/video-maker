@@ -1,0 +1,502 @@
+{
+ "fps": 30,
+ "durationInFrames": 828,
+ "tag": "GAME DEV FACT \ud83d\udc38",
+ "credit": "\ud83c\udfa5 @AvunHub",
+ "shots": [
+  {
+   "src": "clips/fr.mp4",
+   "from": 0,
+   "dur": 50,
+   "at": 0,
+   "y0": 365,
+   "kind": "tall",
+   "x0": 365,
+   "volume": 0
+  },
+  {
+   "src": "clips/fr.mp4",
+   "from": 50,
+   "dur": 78,
+   "at": 696,
+   "y0": 365,
+   "kind": "tall",
+   "x0": 365,
+   "volume": 0
+  },
+  {
+   "src": "clips/fr.mp4",
+   "from": 128,
+   "dur": 30,
+   "at": 750,
+   "y0": 365,
+   "kind": "tall",
+   "x0": 365,
+   "volume": 0
+  },
+  {
+   "src": "clips/fr.mp4",
+   "from": 158,
+   "dur": 82,
+   "at": 270,
+   "y0": 365,
+   "kind": "tall",
+   "x0": 365,
+   "volume": 0
+  },
+  {
+   "src": "clips/fr.mp4",
+   "from": 240,
+   "dur": 40,
+   "at": 90,
+   "y0": 365,
+   "kind": "tall",
+   "x0": 365,
+   "volume": 0
+  },
+  {
+   "src": "clips/fr.mp4",
+   "from": 280,
+   "dur": 62,
+   "at": 450,
+   "y0": 365,
+   "kind": "tall",
+   "x0": 365,
+   "volume": 0
+  }
+ ],
+ "stat": {
+  "header": "VIEWS \u00b7 ONE GTA 5 SHORT",
+  "label": "FROG SAVES FRANKLIN \ud83d\udc38",
+  "value": 23393513,
+  "rival": "its next biggest: 13M",
+  "rivalValue": 13000000,
+  "note": "YOUTUBE \u00b7 NOV 2026",
+  "from": 125,
+  "dur": 113
+ },
+ "freeze": {
+  "from": 342,
+  "dur": 173,
+  "chip": "\ud83d\udc38 THE FROG = A 3D MODEL",
+  "items": [
+   {
+    "img": "img/f02_0.png",
+    "wire": "img/f02_0_wire.png",
+    "tag": "3D MODEL \u2713",
+    "at": 0
+   },
+   {
+    "img": "img/f02_1.png",
+    "wire": "img/f02_1_wire.png",
+    "tag": "3D MODEL \u2713",
+    "at": 19
+   }
+  ]
+ },
+ "reveal": {
+  "from": 515,
+  "dur": 313,
+  "pop": 87,
+  "baitAt": 160,
+  "sketch": "",
+  "model": "",
+  "name": "GTA Frog \ud83d\udc38",
+  "rate": "",
+  "line": "",
+  "bait": "what should we turn 3D next? \ud83d\udc47",
+  "demo": {
+   "src": "clips/demo_02.mp4",
+   "w": 1000,
+   "h": 1000,
+   "label": "HOOK SCREENSHOT \u2192 Vi3W",
+   "first": "SCREENSHOT \ud83d\udcf8"
+  }
+ },
+ "outro": {
+  "from": 858,
+  "src": ""
+ },
+ "words": [
+  [
+   9,
+   10,
+   "This"
+  ],
+  [
+   14,
+   27,
+   "GTA"
+  ],
+  [
+   29,
+   37,
+   "5"
+  ],
+  [
+   39,
+   49,
+   "frog"
+  ],
+  [
+   50,
+   58,
+   "Short"
+  ],
+  [
+   60,
+   65,
+   "got"
+  ],
+  [
+   68,
+   85,
+   "23"
+  ],
+  [
+   87,
+   104,
+   "MILLION"
+  ],
+  [
+   107,
+   123,
+   "views."
+  ],
+  [
+   128,
+   147,
+   "Twenty-three"
+  ],
+  [
+   150,
+   181,
+   "million..."
+  ],
+  [
+   182,
+   186,
+   "for"
+  ],
+  [
+   188,
+   190,
+   "a"
+  ],
+  [
+   193,
+   205,
+   "frog"
+  ],
+  [
+   206,
+   214,
+   "saving"
+  ],
+  [
+   217,
+   236,
+   "Franklin."
+  ],
+  [
+   240,
+   242,
+   "And"
+  ],
+  [
+   244,
+   250,
+   "that"
+  ],
+  [
+   252,
+   264,
+   "frog?"
+  ],
+  [
+   268,
+   278,
+   "It's"
+  ],
+  [
+   280,
+   283,
+   "not"
+  ],
+  [
+   284,
+   288,
+   "from"
+  ],
+  [
+   290,
+   307,
+   "Rockstar."
+  ],
+  [
+   311,
+   319,
+   "It's"
+  ],
+  [
+   320,
+   322,
+   "a"
+  ],
+  [
+   325,
+   341,
+   "mod."
+  ],
+  [
+   349,
+   352,
+   "A"
+  ],
+  [
+   353,
+   364,
+   "custom"
+  ],
+  [
+   365,
+   376,
+   "3D"
+  ],
+  [
+   378,
+   399,
+   "model,"
+  ],
+  [
+   400,
+   407,
+   "dropped"
+  ],
+  [
+   408,
+   414,
+   "into"
+  ],
+  [
+   415,
+   419,
+   "the"
+  ],
+  [
+   421,
+   441,
+   "game."
+  ],
+  [
+   444,
+   453,
+   "And"
+  ],
+  [
+   453,
+   455,
+   "the"
+  ],
+  [
+   457,
+   467,
+   "model"
+  ],
+  [
+   469,
+   474,
+   "is"
+  ],
+  [
+   475,
+   477,
+   "the"
+  ],
+  [
+   479,
+   486,
+   "hard"
+  ],
+  [
+   488,
+   508,
+   "part."
+  ],
+  [
+   518,
+   528,
+   "So"
+  ],
+  [
+   530,
+   535,
+   "we"
+  ],
+  [
+   536,
+   540,
+   "took"
+  ],
+  [
+   542,
+   549,
+   "one"
+  ],
+  [
+   551,
+   566,
+   "screenshot"
+  ],
+  [
+   567,
+   569,
+   "of"
+  ],
+  [
+   569,
+   571,
+   "the"
+  ],
+  [
+   574,
+   593,
+   "frog..."
+  ],
+  [
+   620,
+   621,
+   "and"
+  ],
+  [
+   623,
+   630,
+   "Vi3W"
+  ],
+  [
+   632,
+   640,
+   "made"
+  ],
+  [
+   642,
+   645,
+   "it"
+  ],
+  [
+   646,
+   674,
+   "3D!"
+  ],
+  [
+   690,
+   699,
+   "Comment"
+  ],
+  [
+   700,
+   704,
+   "what"
+  ],
+  [
+   706,
+   709,
+   "we"
+  ],
+  [
+   710,
+   714,
+   "should"
+  ],
+  [
+   716,
+   723,
+   "turn"
+  ],
+  [
+   725,
+   735,
+   "3D"
+  ],
+  [
+   738,
+   752,
+   "next!"
+  ],
+  [
+   755,
+   791,
+   "Vi3W.in"
+  ]
+ ],
+ "emphasis": [
+  "frog",
+  "23",
+  "million",
+  "mod",
+  "3d",
+  "screenshot"
+ ],
+ "vo": [
+  {
+   "src": "vo/62f77ad9d0d8-n.mp3",
+   "from": 3
+  },
+  {
+   "src": "vo/20f89ff28ed4-n.mp3",
+   "from": 128
+  },
+  {
+   "src": "vo/790bd4f32bc0-n.mp3",
+   "from": 240
+  },
+  {
+   "src": "vo/f05b731b7069-n.mp3",
+   "from": 349
+  },
+  {
+   "src": "vo/a4d578f86c13-n.mp3",
+   "from": 518
+  },
+  {
+   "src": "vo/d02ca0c03d16-n.mp3",
+   "from": 616
+  },
+  {
+   "src": "vo/f31636a4d8d9-n.mp3",
+   "from": 690
+  }
+ ],
+ "cues": [
+  {
+   "src": "music/pixelland.mp3",
+   "from": 0,
+   "volume": 0.1
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 121,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 217,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 342,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 509,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 602,
+   "volume": 0.55
+  }
+ ]
+}

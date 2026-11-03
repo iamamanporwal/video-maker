@@ -1,0 +1,129 @@
+{
+ "fps": 30,
+ "durationInFrames": 480,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-271523.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0.6,
+   "from": 0,
+   "dur": 372
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment who's next \ud83d\udc47",
+   "backdrop": "clips/cta-full-d22a5d.mp4",
+   "from": 372,
+   "dur": 108
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/e75efbf1f59a.mp3",
+   "from": 247,
+   "words": [
+    [
+     251,
+     252,
+     "He"
+    ],
+    [
+     254,
+     271,
+     "survived"
+    ],
+    [
+     272,
+     273,
+     "the"
+    ],
+    [
+     276,
+     297,
+     "tsunami."
+    ],
+    [
+     301,
+     317,
+     "Real"
+    ],
+    [
+     319,
+     331,
+     "3D"
+    ],
+    [
+     333,
+     345,
+     "noob!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/518497011492.mp3",
+   "from": 387,
+   "words": [
+    [
+     391,
+     392,
+     "Who"
+    ],
+    [
+     393,
+     399,
+     "should"
+    ],
+    [
+     400,
+     401,
+     "we"
+    ],
+    [
+     403,
+     411,
+     "save"
+    ],
+    [
+     413,
+     425,
+     "next?"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @ShapeDudesPlus",
+ "creditFrom": 195,
+ "cues": [
+  {
+   "src": "assets/yt-uhh-new.mp3",
+   "from": 195,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/yt-coil.mp3",
+   "from": 225,
+   "volume": 0.28
+  },
+  {
+   "src": "assets/yt-boing.mp3",
+   "from": 351,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/yt-button.mp3",
+   "from": 375,
+   "volume": 0.7
+  }
+ ]
+}

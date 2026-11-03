@@ -1,0 +1,3 @@
+- husky.glb: "Husky" by Quaternius, CC0, https://poly.pizza/m/y4wdQpg767 (not made in Vi3W)
+- Xbot.glb: three.js example (Mixamo), stand-in for "you" and the landlord (not made in Vi3W)
+- bread.glb, panda.glb, robot.glb: generated in Vi3W (Input/)

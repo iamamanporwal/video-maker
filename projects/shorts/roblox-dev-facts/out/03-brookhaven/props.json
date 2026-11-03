@@ -1,0 +1,471 @@
+{
+ "fps": 30,
+ "durationInFrames": 1028,
+ "tag": "ROBLOX DEV FACT #3 \ud83c\udfe1",
+ "credit": "\ud83c\udfa5 @EazyEthan",
+ "shots": [
+  {
+   "src": "clips/bh_c5.mp4",
+   "from": 0,
+   "dur": 55,
+   "at": 156,
+   "y0": 0,
+   "kind": "wide",
+   "x0": 349,
+   "volume": 0.12
+  },
+  {
+   "src": "clips/bh_c5.mp4",
+   "from": 55,
+   "dur": 65,
+   "at": 840,
+   "y0": 0,
+   "kind": "wide",
+   "x0": 349,
+   "volume": 0.12
+  },
+  {
+   "src": "clips/bh_c5.mp4",
+   "from": 120,
+   "dur": 68,
+   "at": 240,
+   "y0": 0,
+   "kind": "wide",
+   "x0": 698,
+   "volume": 0.12
+  },
+  {
+   "src": "clips/bh_c5.mp4",
+   "from": 188,
+   "dur": 93,
+   "at": 480,
+   "y0": 0,
+   "kind": "wide",
+   "x0": 698,
+   "volume": 0.12
+  },
+  {
+   "src": "clips/bh_un.mp4",
+   "from": 281,
+   "dur": 48,
+   "at": 1740,
+   "y0": 0,
+   "kind": "wide",
+   "x0": 349,
+   "volume": 0.12
+  },
+  {
+   "src": "clips/bh_un.mp4",
+   "from": 329,
+   "dur": 44,
+   "at": 3195,
+   "y0": 0,
+   "kind": "wide",
+   "x0": 698,
+   "volume": 0.12
+  }
+ ],
+ "stat": {
+  "header": "ALL-TIME VISITS (29 SEP 2023)",
+  "label": "BROOKHAVEN \ud83c\udfe1RP",
+  "value": 37200000000,
+  "rival": "people on Earth: ~8B",
+  "rivalValue": 8000000000,
+  "note": "GUINNESS WORLD RECORD",
+  "from": 117,
+  "dur": 162
+ },
+ "freeze": {
+  "from": 373,
+  "dur": 221,
+  "chip": "\ud83c\udfe0 EVERY HOUSE = A 3D MODEL",
+  "items": [
+   {
+    "img": "img/f03_0.png",
+    "wire": "img/f03_0_wire.png",
+    "tag": "3D MODEL \u2713",
+    "at": 0
+   },
+   {
+    "img": "img/f03_1.png",
+    "wire": "img/f03_1_wire.png",
+    "tag": "3D MODEL \u2713",
+    "at": 103
+   }
+  ]
+ },
+ "reveal": {
+  "from": 594,
+  "dur": 170,
+  "pop": 49,
+  "baitAt": 131,
+  "sketch": "",
+  "model": "",
+  "name": "Sketch Car \ud83c\udfce\ufe0f",
+  "rate": "",
+  "line": "",
+  "bait": "what should we sketch next? \ud83d\udc47",
+  "demo": {
+   "src": "clips/demo_03.mp4",
+   "w": 1000,
+   "h": 842
+  }
+ },
+ "outro": {
+  "from": 764,
+  "src": "clips/outro.mp4"
+ },
+ "words": [
+  [
+   5,
+   5,
+   "The"
+  ],
+  [
+   7,
+   13,
+   "most"
+  ],
+  [
+   14,
+   27,
+   "visited"
+  ],
+  [
+   29,
+   44,
+   "Roblox"
+  ],
+  [
+   45,
+   51,
+   "game"
+  ],
+  [
+   53,
+   56,
+   "of"
+  ],
+  [
+   58,
+   63,
+   "all"
+  ],
+  [
+   66,
+   92,
+   "time?"
+  ],
+  [
+   93,
+   116,
+   "Brookhaven."
+  ],
+  [
+   120,
+   130,
+   "Guinness"
+  ],
+  [
+   131,
+   142,
+   "counted"
+  ],
+  [
+   143,
+   163,
+   "37"
+  ],
+  [
+   166,
+   185,
+   "BILLION"
+  ],
+  [
+   188,
+   214,
+   "visits..."
+  ],
+  [
+   215,
+   219,
+   "and"
+  ],
+  [
+   220,
+   223,
+   "that"
+  ],
+  [
+   225,
+   228,
+   "was"
+  ],
+  [
+   230,
+   235,
+   "back"
+  ],
+  [
+   237,
+   240,
+   "in"
+  ],
+  [
+   243,
+   276,
+   "2023."
+  ],
+  [
+   281,
+   288,
+   "That's"
+  ],
+  [
+   290,
+   300,
+   "over"
+  ],
+  [
+   302,
+   310,
+   "four"
+  ],
+  [
+   311,
+   322,
+   "visits"
+  ],
+  [
+   323,
+   329,
+   "for"
+  ],
+  [
+   330,
+   338,
+   "every"
+  ],
+  [
+   340,
+   350,
+   "human"
+  ],
+  [
+   352,
+   355,
+   "on"
+  ],
+  [
+   357,
+   372,
+   "Earth."
+  ],
+  [
+   381,
+   386,
+   "And"
+  ],
+  [
+   387,
+   395,
+   "every"
+  ],
+  [
+   398,
+   412,
+   "house"
+  ],
+  [
+   414,
+   419,
+   "and"
+  ],
+  [
+   421,
+   429,
+   "every"
+  ],
+  [
+   431,
+   438,
+   "car"
+  ],
+  [
+   440,
+   443,
+   "in"
+  ],
+  [
+   445,
+   453,
+   "it?"
+  ],
+  [
+   457,
+   477,
+   "That's"
+  ],
+  [
+   478,
+   479,
+   "a"
+  ],
+  [
+   480,
+   494,
+   "3D"
+  ],
+  [
+   496,
+   508,
+   "model."
+  ],
+  [
+   512,
+   525,
+   "And"
+  ],
+  [
+   527,
+   542,
+   "modeling"
+  ],
+  [
+   543,
+   551,
+   "them"
+  ],
+  [
+   553,
+   561,
+   "takes"
+  ],
+  [
+   563,
+   587,
+   "forever."
+  ],
+  [
+   597,
+   602,
+   "So"
+  ],
+  [
+   604,
+   607,
+   "we"
+  ],
+  [
+   608,
+   617,
+   "sketched"
+  ],
+  [
+   618,
+   619,
+   "a"
+  ],
+  [
+   622,
+   633,
+   "car..."
+  ],
+  [
+   663,
+   664,
+   "and"
+  ],
+  [
+   667,
+   678,
+   "Vi3W"
+  ],
+  [
+   680,
+   688,
+   "made"
+  ],
+  [
+   690,
+   693,
+   "it"
+  ],
+  [
+   694,
+   724,
+   "3D!"
+  ]
+ ],
+ "emphasis": [
+  "brookhaven",
+  "37",
+  "billion",
+  "four",
+  "3d",
+  "car"
+ ],
+ "vo": [
+  {
+   "src": "vo/6612d608e5be-n.mp3",
+   "from": 3
+  },
+  {
+   "src": "vo/34540767f10b-n.mp3",
+   "from": 120
+  },
+  {
+   "src": "vo/acefdc365570-n.mp3",
+   "from": 281
+  },
+  {
+   "src": "vo/446528c50b2b-n.mp3",
+   "from": 381
+  },
+  {
+   "src": "vo/5734f6c57ffc-n.mp3",
+   "from": 597
+  },
+  {
+   "src": "vo/d02ca0c03d16-n.mp3",
+   "from": 657
+  }
+ ],
+ "cues": [
+  {
+   "src": "music/pixelland.mp3",
+   "from": 0,
+   "volume": 0.1
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 113,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 243,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 373,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 588,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 643,
+   "volume": 0.55
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 758,
+   "volume": 0.4
+  }
+ ]
+}

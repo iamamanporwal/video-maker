@@ -3,18 +3,13 @@ import { loadFont as loadMono } from "@remotion/google-fonts/IBMPlexMono";
 import { loadFont as loadVT } from "@remotion/google-fonts/VT323";
 import { loadFont as loadUrbanist } from "@remotion/google-fonts/Urbanist";
 import { noise2D } from "@remotion/noise";
-import { ThreeCanvas } from "@remotion/three";
-import { useThree } from "@react-three/fiber";
-import React, { createContext, useContext, useLayoutEffect, useMemo } from "react";
+import React, { createContext, useContext, useMemo } from "react";
 import {
   AbsoluteFill, Audio, Img, interpolate, Loop, OffthreadVideo, Sequence, staticFile, useCurrentFrame, useVideoConfig,
 } from "remotion";
-import * as THREE from "three";
-import { RoomEnvironment } from "three/examples/jsm/environments/RoomEnvironment.js";
-import { TeapotGeometry } from "three/examples/jsm/geometries/TeapotGeometry.js";
 import { ease, tween } from "../lib/anim";
 
-/** "I miss Steve": a 89 s vertical mini-documentary. Archival stills in letterbox bars that start as white paper
+/** "I miss Steve" (v2): a 90 s vertical mini-documentary. Archival video and stills in letterbox bars that start as white paper
  *  and turn black; the picture starts black-and-white and colours in as the story moves to the present.
  *  Every cut is keyed to the narrator's real word times (props.json from projects/shorts/i-miss-steve/timeline.py).
  *  Audio (VO, music with ducking, period foley) is mixed here; the master is loudness-normalised afterwards. */
@@ -30,7 +25,7 @@ type Line = { src: string; start: number; dur: number; text: string; words: Word
 export type SteveProps = { fps: number; durationInFrames: number; lines: Line[]; music: { src: string; trackStart: number } };
 
 const W = 1080, BAR = 300, WIN_H = 1920 - 2 * BAR;
-const PAPER = "#ECE7DC", INK = "#0A0A0A", CREAM = "#F3EBDD", LIME = "#D4F77C";
+const INK = "#0A0A0A", CREAM = "#F3EBDD", LIME = "#D4F77C";
 
 // --------------------------------------------------------------------------- timing
 const Ctx = createContext<{ p: SteveProps; A: Record<string, number> }>(null as any);
@@ -44,11 +39,11 @@ const anchors = (p: SteveProps) => {
   const Wd = (i: number, j: number) => p.lines[i].words[j][0];
   const E = (i: number) => p.lines[i].start + p.lines[i].dur;
   return {
-    from1: Wd(0, 5), l2: L(1), finished: Wd(1, 11), l2end: E(1), l3: L(2), next: Wd(2, 9), l4: L(3), pixar: Wd(3, 13),
+    steve: Wd(0, 1), fired: Wd(0, 4), from1: Wd(0, 5), and2: Wd(1, 5), called: Wd(2, 8), computer5: Wd(4, 8), l2: L(1), finished: Wd(1, 11), l2end: E(1), l3: L(2), next: Wd(2, 9), l4: L(3), pixar: Wd(3, 13),
     l5: L(4), betting: Wd(4, 6), l6: L(5), y1995: Wd(6, 2), toy: Wd(6, 3), l7end: E(6), l8: L(7), l9: L(8), form: Wd(8, 5),
     l10: L(9), thirty: Wd(9, 2), d3: Wd(9, 5), l11: L(10), steep: Wd(10, 2), ideas: Wd(10, 5), trapped: Wd(10, 6),
     l12: L(11), design: Wd(11, 3), design2: Wd(11, 14), l12end: E(11), l13: L(12), vi3w: Wd(12, 1), building: Wd(12, 2),
-    sketch: Wd(12, 7), watch: Wd(12, 10), right: Wd(12, 14), l13end: E(12), l14: L(13), anyone: Wd(13, 11),
+    sketch: Wd(12, 7), watch: Wd(12, 10), right: Wd(12, 15), l13end: E(12), l14: L(13), anyone: Wd(13, 13),
     l15: L(14), one: Wd(14, 4), l15end: E(14), end: p.durationInFrames / 30,
   };
 };
@@ -113,17 +108,57 @@ const Photo: React.FC<{ src: string; s0?: number; s1?: number; ox?: number; oy?:
   );
 };
 
-/** Dymo-style paper label, typed on. Sits top-left of the window. */
-const Stamp: React.FC<{ text: string; at: number; until: number }> = ({ text, at, until }) => {
-  const t = useSec();
-  if (t < at || t > until + 0.4) return null;
-  const n = Math.floor(Math.min(text.length, (t - at) * 26));
-  const o = t > until ? 1 - (t - until) / 0.4 : 1;
+/** Archival video: a pre-cut 30 fps clip from public/clips/arch, with a slow push. Clips are cut longer than their shots. */
+const Clip: React.FC<{ name: string; s0?: number; s1?: number; ox?: number; oy?: number; pos?: string; rate?: number; dim?: number }> = (
+  { name, s0 = 1.02, s1 = 1.1, ox = 50, oy = 45, pos = "50% 50%", rate = 1, dim = 0 }) => {
+  const f = useCurrentFrame();
+  const { durationInFrames } = useVideoConfig();
+  const p = ease("calm")(Math.min(1, f / durationInFrames));
   return (
-    <div style={{ position: "absolute", left: 56, top: BAR + 64, opacity: o, transform: `rotate(-1.2deg)` }}>
-      <div style={{ background: PAPER, color: INK, fontFamily: MONO, fontWeight: 500, fontSize: 30, letterSpacing: "0.22em",
-                    padding: "12px 20px 10px", boxShadow: "0 6px 24px #0007", textTransform: "uppercase" }}>
-        {text.slice(0, n)}<span style={{ opacity: n < text.length ? 1 : 0 }}>▌</span>
+    <AbsoluteFill style={{ background: INK, overflow: "hidden" }}>
+      <OffthreadVideo src={staticFile(`clips/arch/${name}.mp4`)} muted playbackRate={rate}
+                      style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: pos,
+                               transform: `scale(${s0 + (s1 - s0) * p})`, transformOrigin: `${ox}% ${oy}%` }} />
+      {dim > 0 && <AbsoluteFill style={{ background: INK, opacity: dim }} />}
+    </AbsoluteFill>
+  );
+};
+
+/** Archive source line, top-left of the window: a gold kicker over a cream mono credit, wiped on from the left. */
+const Source: React.FC<{ kicker?: string; text: string; at: number; until: number }> = ({ kicker = "ARCHIVE", text, at, until }) => {
+  const t = useSec();
+  if (t < at || t > until + 0.3) return null;
+  const k = tween(t * 30, at * 30, 14, 0, 1, "outExpo");
+  const o = t > until ? 1 - (t - until) / 0.3 : 1;
+  return (
+    <div style={{ position: "absolute", left: 44, top: BAR + 40, opacity: o, clipPath: `inset(0 ${100 - 100 * k}% 0 0)`,
+                  borderLeft: `3px solid ${CREAM}`, padding: "10px 20px 11px 16px",
+                  background: "linear-gradient(90deg, #000000b8 0%, #00000080 75%, transparent 100%)" }}>
+      <div style={{ fontFamily: MONO, fontWeight: 500, fontSize: 20, letterSpacing: "0.34em", color: "#E9C78F" }}>{kicker}</div>
+      <div style={{ fontFamily: MONO, fontWeight: 500, fontSize: 27, letterSpacing: "0.14em", color: CREAM, marginTop: 4 }}>{text}</div>
+    </div>
+  );
+};
+
+/** Kinetic serif callout: letters rise out of a blur, staggered 1 frame apart. y is a fraction of the window height. */
+const Callout: React.FC<{ text: string; at: number; until: number; size?: number; italic?: boolean; y?: number; scrim?: boolean }> = (
+  { text, at, until, size = 210, italic = true, y = 0.45, scrim = true }) => {
+  const t = useSec();
+  if (t < at - 0.05 || t > until + 0.3) return null;
+  const o = t > until ? 1 - (t - until) / 0.3 : 1;
+  return (
+    <div style={{ position: "absolute", left: 0, right: 0, top: BAR, height: WIN_H, opacity: o }}>
+      {scrim && <AbsoluteFill style={{ background: "radial-gradient(ellipse 70% 30% at 50% 45%, #000a 0%, transparent 100%)",
+                                       opacity: tween(t * 30, at * 30, 10, 0, 1) }} />}
+      <div style={{ position: "absolute", left: 30, right: 30, top: WIN_H * y, transform: "translateY(-50%)", textAlign: "center",
+                    lineHeight: 0.95 }}>
+        {text.split("").map((ch, i) => {
+          const k = tween(t * 30, at * 30 + i * 1.0, 14, 0, 1, "outExpo");
+          return <span key={i} style={{ display: "inline-block", whiteSpace: "pre", fontFamily: italic ? SERIF_I : SERIF,
+                                        fontWeight: italic ? 600 : 800, fontSize: size, color: CREAM, letterSpacing: "-0.025em",
+                                        opacity: k, transform: `translateY(${(1 - k) * 0.3 * size}px)`, filter: `blur(${(1 - k) * 10}px)`,
+                                        textShadow: "0 12px 70px #000" }}>{ch}</span>;
+        })}
       </div>
     </div>
   );
@@ -192,104 +227,26 @@ const VHSFilter: React.FC<{ g: number }> = ({ g }) => {
   );
 };
 
-// --------------------------------------------------------------------------- 3D
-const Env: React.FC = () => {
-  const { gl, scene } = useThree();
-  useLayoutEffect(() => {
-    const pm = new THREE.PMREMGenerator(gl);
-    scene.environment = pm.fromScene(new RoomEnvironment(), 0.04).texture;
-    pm.dispose();
-  }, [gl, scene]);
-  return null;
-};
-
-const Cam: React.FC<{ pos: [number, number, number]; look?: [number, number, number]; fov?: number }> = (
-  { pos, look = [0, 0, 0], fov = 32 }) => {
-  const { camera } = useThree();
-  useLayoutEffect(() => {
-    camera.position.set(...pos);
-    (camera as THREE.PerspectiveCamera).fov = fov;
-    camera.lookAt(...look);
-    camera.updateProjectionMatrix();
-  });
-  return null;
-};
-
-/** Green-phosphor wireframe teapot on a CRT: "computer cartoons". */
-const CRTTeapot: React.FC = () => {
+// --------------------------------------------------------------------------- CRT
+/** Early Toy Story test footage on a CRT: "computer cartoons?" */
+const CRTClip: React.FC<{ name: string }> = ({ name }) => {
   const f = useCurrentFrame();
-  const wire = useMemo(() => new THREE.WireframeGeometry(new TeapotGeometry(1, 6)), []);
-  const draw = Math.min(1, f / 24);
   return (
-    <AbsoluteFill style={{ background: "#020402" }}>
-      <AbsoluteFill style={{ inset: 70, top: 170, bottom: 170, borderRadius: 60, overflow: "hidden",
-                             background: "radial-gradient(ellipse at 50% 45%, #0c1a0e 0%, #020402 75%)",
-                             boxShadow: "inset 0 0 120px #000, 0 0 0 10px #151515, 0 0 0 22px #0b0b0b" }}>
-        <ThreeCanvas width={W - 140} height={WIN_H - 340} gl={{ antialias: true }}>
-          <Cam pos={[0, 1.1, 5.4 - f * 0.006]} look={[0, 0.25, 0]} fov={34} />
-          <lineSegments geometry={wire} rotation={[0.1, f * 0.035, 0]} scale={draw}>
-            <lineBasicMaterial color="#7CFF8A" transparent opacity={0.85} />
-          </lineSegments>
-        </ThreeCanvas>
-        <div style={{ position: "absolute", left: 40, top: 34, fontFamily: VCR, fontSize: 44, color: "#7CFF8A",
-                      textShadow: "0 0 12px #7CFF8A" }}>RENDER 01 / FRAME {String(1 + Math.floor(f / 2)).padStart(4, "0")}</div>
-        <Scanlines o={0.8} />
-        <AbsoluteFill style={{ background: "radial-gradient(ellipse at 50% 50%, transparent 50%, #000c 100%)" }} />
+    <AbsoluteFill style={{ background: "#060606" }}>
+      <AbsoluteFill style={{ inset: 60, top: 190, bottom: 250, borderRadius: 56, overflow: "hidden",
+                             boxShadow: "inset 0 0 140px #000, 0 0 0 10px #161616, 0 0 0 24px #0b0b0b, 0 30px 80px #000" }}>
+        <Clip name={name} s0={1.0} s1={1.08} />
+        <div style={{ position: "absolute", left: 34, top: 26, fontFamily: VCR, fontSize: 46, color: "#fff",
+                      textShadow: "0 0 12px #fff8" }}>TEST {String(1 + Math.floor(f / 3)).padStart(3, "0")}</div>
+        <Scanlines o={0.75} />
+        <AbsoluteFill style={{ background: "radial-gradient(ellipse at 50% 50%, transparent 55%, #000b 100%)" }} />
       </AbsoluteFill>
     </AbsoluteFill>
   );
 };
 
-const checker = () => {
-  const c = document.createElement("canvas");
-  c.width = c.height = 2;
-  const g = c.getContext("2d")!;
-  g.fillStyle = "#E9E1D2"; g.fillRect(0, 0, 2, 2);
-  g.fillStyle = "#2B2622"; g.fillRect(0, 0, 1, 1); g.fillRect(1, 1, 1, 1);
-  const t = new THREE.CanvasTexture(c);
-  t.magFilter = THREE.NearestFilter;
-  t.wrapS = t.wrapT = THREE.RepeatWrapping;
-  t.repeat.set(14, 14);
-  t.colorSpace = THREE.SRGBColorSpace;
-  return t;
-};
-
-/** The same teapot, fully rendered: glossy red on the classic checkerboard. "Made entirely on a computer." */
-const RenderedTeapot: React.FC = () => {
-  const f = useCurrentFrame();
-  const geo = useMemo(() => new TeapotGeometry(1, 24), []);
-  const wire = useMemo(() => new THREE.WireframeGeometry(new TeapotGeometry(1, 6)), []);
-  const tex = useMemo(checker, []);
-  const solid = tween(f, 4, 22, 0, 1, "inOutCubic");
-  const rot = 0.5 + f * 0.012;
-  return (
-    <AbsoluteFill style={{ background: "radial-gradient(ellipse at 50% 30%, #3a2a20 0%, #0d0a08 70%)" }}>
-      <ThreeCanvas width={W} height={WIN_H} gl={{ antialias: true, toneMapping: THREE.ACESFilmicToneMapping }} shadows>
-        <Env />
-        <Cam pos={[0, 1.9 - f * 0.002, 6.2 - f * 0.009]} look={[0, 0.45, 0]} fov={30} />
-        <ambientLight intensity={0.25} />
-        <spotLight position={[3, 6, 3]} angle={0.5} penumbra={0.6} intensity={140} color="#FFE6C8" castShadow
-                   shadow-mapSize-width={1024} shadow-mapSize-height={1024} />
-        <pointLight position={[-4, 2, -2]} intensity={30} color="#9EC9FF" />
-        <mesh geometry={geo} position={[0, 0.78, 0]} rotation={[0, rot, 0]} castShadow>
-          <meshPhysicalMaterial color="#B3121E" roughness={0.18} clearcoat={1} clearcoatRoughness={0.05}
-                                transparent opacity={solid} />
-        </mesh>
-        <lineSegments geometry={wire} position={[0, 0.78, 0]} rotation={[0, rot, 0]}>
-          <lineBasicMaterial color="#7CFF8A" transparent opacity={1 - solid} />
-        </lineSegments>
-        <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, -0.22, 0]} receiveShadow>
-          <planeGeometry args={[30, 30]} />
-          <meshStandardMaterial map={tex} roughness={0.35} metalness={0} transparent opacity={0.25 + 0.75 * solid} />
-        </mesh>
-      </ThreeCanvas>
-      <AbsoluteFill style={{ background: "linear-gradient(180deg, #0d0a08 0%, transparent 22%, transparent 70%, #0d0a08 100%)" }} />
-    </AbsoluteFill>
-  );
-};
-
 // --------------------------------------------------------------------------- scenes
-const Years: React.FC<{ t0: number; land: number }> = ({ t0, land }) => {
+const Years: React.FC<{ t0: number; land: number; bg?: React.ReactNode }> = ({ t0, land, bg }) => {
   const t = useSec();
   const p = interpolate(t, [t0 + 0.2, land], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: ease("outCubic") });
   const yr = 1986 + Math.round(p * 9);
@@ -298,6 +255,8 @@ const Years: React.FC<{ t0: number; land: number }> = ({ t0, land }) => {
   const k = landed ? tween(t * 30, land * 30, 12, 1.12, 1, "outExpo") : 1;
   return (
     <AbsoluteFill style={{ background: `radial-gradient(ellipse at 50% 45%, #2a2622 0%, ${INK} 75%)`, alignItems: "center", justifyContent: "center" }}>
+      {bg && <AbsoluteFill style={{ opacity: 0.32, filter: "blur(2px)" }}>{bg}</AbsoluteFill>}
+      <AbsoluteFill style={{ background: `radial-gradient(ellipse at 50% 48%, ${INK}cc 0%, transparent 70%)` }} />
       <AbsoluteFill style={{ opacity: 0.18, background: "repeating-linear-gradient(180deg, transparent 0 58px, #d9cdb5 58px 60px)" }} />
       <div style={{ fontFamily: SERIF, fontWeight: 800, fontSize: 290, color: CREAM, letterSpacing: "-0.02em",
                     transform: `translateY(${landed ? 0 : (tick < 0.15 ? 18 * (1 - tick / 0.15) : 0)}px) scale(${k})`,
@@ -309,33 +268,26 @@ const Years: React.FC<{ t0: number; land: number }> = ({ t0, land }) => {
   );
 };
 
-const TitleCard: React.FC = () => {
+/** Toy Story: the trailer montage, with the title rising out of the colour bloom, then cleared for the footage. */
+const ToyStory: React.FC = () => {
   const f = useCurrentFrame();
   const title = "Toy Story";
+  const o = 1 - tween(f, 50, 12, 0, 1, "inOutCubic");
   return (
-    <AbsoluteFill style={{ background: "radial-gradient(ellipse at 50% 0%, #4a2f12 0%, #120b05 55%, #050302 100%)" }}>
-      {/* projector beam */}
-      <AbsoluteFill style={{ clipPath: "polygon(44% 0, 56% 0, 100% 100%, 0 100%)", filter: "blur(18px)",
-                             background: "linear-gradient(180deg, #FFE7B866 0%, #FFD08A22 55%, transparent 100%)",
-                             opacity: 0.6 + 0.08 * Math.sin(f * 0.9) }} />
-      {Array.from({ length: 40 }, (_, i) => {
-        const y = (rnd(i) * WIN_H + f * (0.6 + rnd(i + 9))) % WIN_H;
-        const spread = 0.12 + 0.88 * (y / WIN_H);
-        const x = W / 2 + (rnd(i + 3) - 0.5) * W * spread + Math.sin(f * 0.05 + i) * 8;
-        return <div key={i} style={{ position: "absolute", left: x, top: y, width: 3, height: 3, borderRadius: 3,
-                                     background: "#FFE9C4", opacity: 0.25 + 0.4 * rnd(i + 5) }} />;
-      })}
-      <AbsoluteFill style={{ alignItems: "center", justifyContent: "center" }}>
+    <AbsoluteFill>
+      <Clip name="toystory" s0={1.0} s1={1.06} />
+      <AbsoluteFill style={{ background: "radial-gradient(ellipse 80% 40% at 50% 47%, #000c 0%, transparent 100%)", opacity: o }} />
+      <AbsoluteFill style={{ alignItems: "center", justifyContent: "center", opacity: o }}>
         <div style={{ display: "flex" }}>
           {title.split("").map((ch, i) => {
-            const k = tween(f, 2 + i * 2, 18, 0, 1, "outExpo");
-            return <span key={i} style={{ fontFamily: SERIF_I, fontWeight: 600, fontSize: 168, color: CREAM, whiteSpace: "pre",
-                                          opacity: k, filter: `blur(${(1 - k) * 12}px)`, transform: `translateY(${(1 - k) * 30}px)`,
-                                          textShadow: "0 0 50px #FFB24D66" }}>{ch}</span>;
+            const k = tween(f, 2 + i * 1.6, 16, 0, 1, "outExpo");
+            return <span key={i} style={{ fontFamily: SERIF_I, fontWeight: 600, fontSize: 176, color: CREAM, whiteSpace: "pre",
+                                          opacity: k, filter: `blur(${(1 - k) * 12}px)`, transform: `translateY(${(1 - k) * 34}px)`,
+                                          textShadow: "0 0 60px #000, 0 8px 30px #000" }}>{ch}</span>;
           })}
         </div>
-        <div style={{ marginTop: 18, fontFamily: MONO, fontSize: 30, letterSpacing: "0.45em", color: "#E9C78F",
-                      opacity: tween(f, 26, 16, 0, 1, "outCubic") }}>NOVEMBER 22, 1995</div>
+        <div style={{ marginTop: 14, fontFamily: MONO, fontWeight: 500, fontSize: 28, letterSpacing: "0.5em", color: "#F1D39E",
+                      textShadow: "0 2px 14px #000", opacity: tween(f, 20, 14, 0, 1, "outCubic") }}>NOVEMBER 22, 1995</div>
       </AbsoluteFill>
     </AbsoluteFill>
   );
@@ -409,12 +361,12 @@ const Quote: React.FC = () => {
   const words = p.lines[11].words;
   const first = words.slice(3, 14), second = words.slice(14);
   const W2 = (w: Word, i: number, size: number, italic = true) => (
-    <span key={i} style={{ fontFamily: italic ? SERIF_I : SERIF, fontSize: size, color: CREAM, whiteSpace: "pre",
-                           opacity: tween(t * 30, (w[0] - 0.05) * 30, 7, 0, 1, "outCubic") }}>{w[2].replace(/\.+$/, "")}{" "}</span>
+    <span key={i} style={{ fontFamily: italic ? SERIF_I : SERIF, fontSize: size, color: CREAM, display: "inline-block",
+                           marginRight: "0.26em", opacity: tween(t * 30, (w[0] - 0.05) * 30, 7, 0, 1, "outCubic") }}>{w[2].replace(/\.+$/, "")}</span>
   );
   return (
     <AbsoluteFill>
-      <Photo src="jobs2010" s0={1.08} s1={1.2} ox={42} oy={22} pos="35% 30%" />
+      <Photo src="jobs2010" s0={1.0} s1={1.1} ox={42} oy={25} pos="40% 25%" />
       <AbsoluteFill style={{ background: "linear-gradient(180deg, transparent 30%, #000000d9 64%, #000 100%)" }} />
       <div style={{ position: "absolute", left: 70, right: 70, top: WIN_H - 560 }}>
         <div style={{ fontFamily: SERIF, fontSize: 120, color: "#E9C78F", lineHeight: 0.6, opacity: t >= A.design - 0.1 ? 1 : 0 }}>“</div>
@@ -428,7 +380,8 @@ const Quote: React.FC = () => {
 };
 
 const Logo: React.FC<{ size: number }> = ({ size }) => (
-  <Img src={staticFile("img/vi3w-logo.png")} style={{ width: size, height: size, mixBlendMode: "screen" }} />
+  <Img src={staticFile("img/vi3w-logo.png")} style={{ width: size, height: size, mixBlendMode: "screen",
+    WebkitMaskImage: "radial-gradient(circle, #000 52%, transparent 66%)", maskImage: "radial-gradient(circle, #000 52%, transparent 66%)" }} />
 );
 
 const Vi3W: React.FC = () => {
@@ -437,7 +390,6 @@ const Vi3W: React.FC = () => {
   const s0 = Math.round(useContext(ShotStart) * 30);
   const cardIn = tween(t * 30, A.building * 30, 22, 0, 1, "outExpo");
   const logoK = tween(t * 30, (A.vi3w - 0.15) * 30, 18, 0.6, 1, "outBack");
-  const segs: [number, number, number][] = [[A.building, A.watch, 0], [A.watch, A.right, 12.6], [A.right, A.l13end + 1.2, 22.0]];
   return (
     <AbsoluteFill style={{ background: "radial-gradient(ellipse at 50% 40%, #12161c 0%, #050607 70%)" }}>
       <div style={{ position: "absolute", left: 0, right: 0, top: interpolate(cardIn, [0, 1], [WIN_H / 2 - 230, 70]),
@@ -451,25 +403,24 @@ const Vi3W: React.FC = () => {
         <div style={{ position: "absolute", left: 30, width: W - 60, top: 400 + (1 - cardIn) * 500, height: 640, borderRadius: 28,
                       overflow: "hidden", opacity: cardIn, border: "1px solid #ffffff24",
                       boxShadow: `0 30px 90px #000, 0 0 60px ${LIME}22` }}>
-          {segs.map(([a, b, src], i) => {
-            const fa = Math.round(a * 30), fb = Math.round(b * 30);
-            const local = t * 30 - fa;
-            return (
-              <Sequence key={i} from={fa - s0} durationInFrames={fb - fa} layout="none">
-                <AbsoluteFill style={{ transform: `scale(${1.02 + 0.0016 * local})` }}>
-                  <OffthreadVideo src={staticFile("clips/demo3.mp4")} startFrom={Math.round(src * 30)} muted
-                                  style={{ width: "100%", height: "100%", objectFit: "cover" }} />
-                </AbsoluteFill>
-              </Sequence>
-            );
-          })}
+          {/* clips/demo-cut.mp4 is pre-cut by timeline.py: sketch from "we're", 3D from "and watch", browser from "right" */}
+          <Sequence from={Math.round(A.building * 30) - s0} layout="none">
+            <AbsoluteFill style={{ transform: `scale(${1.02 + 0.0012 * (t - A.building) * 30})` }}>
+              <OffthreadVideo src={staticFile("clips/demo-cut.mp4")} muted style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+            </AbsoluteFill>
+          </Sequence>
         </div>
+      )}
+      {cardIn > 0 && (
+        <div style={{ position: "absolute", left: 0, right: 0, top: 1062 + (1 - cardIn) * 500, textAlign: "center", opacity: cardIn,
+                      fontFamily: MONO, fontWeight: 500, fontSize: 22, letterSpacing: "0.34em", color: "#E9C78F" }}>
+          REAL SCREEN CAPTURE · NO EDITS</div>
       )}
     </AbsoluteFill>
   );
 };
 
-const MODELS = ["robot", "panda", "dragon", "anime", "frog", "jet", "deer", "cat", "baddie", "brickguy", "cups", "noob"];
+const MODELS = ["robot", "anime", "dragon", "panda", "frog", "baddie", "deer", "noob", "cat"];
 
 const Gallery: React.FC = () => {
   const f = useCurrentFrame();
@@ -481,7 +432,7 @@ const Gallery: React.FC = () => {
           const col = i % 3, row = Math.floor(i / 3);
           const k = tween(f, 4 + i * 3, 14, 0, 1, "outBack");
           return (
-            <div key={m} style={{ position: "absolute", left: 10 + col * 353, top: 40 + row * 300, width: 360, height: 360,
+            <div key={m} style={{ position: "absolute", left: 10 + col * 353, top: 30 + row * 340, width: 360, height: 360,
                                   transform: `scale(${k})`, opacity: Math.min(1, k) }}>
               <Loop durationInFrames={120}>
                 <OffthreadVideo src={staticFile(`tt/${m}.webm`)} transparent muted startFrom={(i * 37) % 120}
@@ -491,8 +442,6 @@ const Gallery: React.FC = () => {
           );
         })}
       </AbsoluteFill>
-      <div style={{ position: "absolute", bottom: 150, left: 0, right: 0, textAlign: "center", fontFamily: MONO, fontSize: 26,
-                    letterSpacing: "0.32em", color: "#E9C78F", opacity: tween(f, 50, 20, 0, 1) }}>EVERY MODEL HERE WAS MADE IN Vi3W</div>
     </AbsoluteFill>
   );
 };
@@ -501,7 +450,7 @@ const EndCard: React.FC = () => {
   const f = useCurrentFrame();
   return (
     <AbsoluteFill style={{ background: INK, alignItems: "center", justifyContent: "center" }}>
-      <div style={{ opacity: tween(f, 0, 16, 0, 1), transform: `scale(${tween(f, 0, 30, 0.9, 1, "outExpo")})`,
+      <div style={{ opacity: tween(f, 0, 16, 0, 1), transform: `scale(${tween(f, 0, 30, 0.9, 1, "outExpo") * (1 + f * 0.0004)})`,
                     display: "flex", flexDirection: "column", alignItems: "center" }}>
         <Logo size={260} />
         <div style={{ fontFamily: URB, fontWeight: 800, fontSize: 120, color: "#fff", letterSpacing: "-0.035em", marginTop: -6 }}>Vi3W</div>
@@ -517,55 +466,79 @@ const EndCard: React.FC = () => {
 };
 
 // --------------------------------------------------------------------------- subtitles
-type Chunk = { a: number; b: number; text: string };
+type Chunk = { a: number; b: number; words: Word[] };
 const chunks = (lines: Line[]): Chunk[] => {
   const out: Chunk[] = [];
   for (const l of lines) {
     let cur: Word[] = [];
-    const push = () => { if (cur.length) out.push({ a: cur[0][0], b: cur[cur.length - 1][1], text: cur.map((w) => w[2]).join(" ") }); cur = []; };
+    const push = () => { if (cur.length) out.push({ a: cur[0][0], b: cur[cur.length - 1][1], words: cur }); cur = []; };
     for (const w of l.words) {
       cur.push(w);
-      if (/[.,?!…]$/.test(w[2]) || cur.length >= 6) push();
+      if (/[.,?!…]$/.test(w[2]) || cur.length >= 5) push();
     }
     push();
   }
   return out;
 };
 
+/** Documentary subtitles: the phrase sits at 40 %, each word lights up as it is spoken. */
 const Subtitles: React.FC = () => {
   const t = useSec();
   const { p, A } = useT();
   const cs = useMemo(() => chunks(p.lines), [p]);
-  const hidden = t < 4.5 || (t >= A.toy - 0.05 && t < A.l8) || (t >= A.l11 && t < A.l12) || (t >= A.design - 0.1 && t < A.l13);
+  const hidden = t < 4.5 || (t >= A.fired - 0.05 && t < A.from1) || (t >= A.computer5 - 0.05 && t < A.l6) ||
+    (t >= A.toy - 0.05 && t < A.l8) || (t >= A.l11 && t < A.l12) || (t >= A.design - 0.1 && t < A.l13);
   const c = cs.find((x) => t >= x.a - 0.05 && t < x.b + 0.3);
   if (hidden || !c) return null;
   const o = Math.min(tween(t * 30, (c.a - 0.05) * 30, 4, 0, 1), 1 - tween(t * 30, (c.b + 0.15) * 30, 4, 0, 1));
   return (
-    <div style={{ position: "absolute", left: 70, right: 70, top: BAR + WIN_H - 210, textAlign: "center", opacity: o,
-                  fontFamily: SERIF, fontWeight: 600, fontSize: 46, lineHeight: 1.2, color: "#fff",
-                  textShadow: "0 2px 4px #000, 0 0 24px #000, 0 0 40px #000c" }}>
-      {c.text.replace(/\.\.\.$/, "…").replace(/\.$/, "")}
+    <div style={{ position: "absolute", left: 70, right: 70, top: BAR + WIN_H - 215, textAlign: "center", opacity: o,
+                  fontFamily: SERIF, fontWeight: 600, fontSize: 54, lineHeight: 1.18, letterSpacing: "-0.01em",
+                  textShadow: "0 2px 4px #000, 0 0 26px #000, 0 0 44px #000c" }}>
+      {c.words.map((w, i) => (
+        <span key={i} style={{ color: "#fff", opacity: t >= w[0] - 0.03 ? 1 : 0.4 }}>
+          {w[2].replace(/\.\.\.$/, "…").replace(/\.$/, "")}{i < c.words.length - 1 ? " " : ""}</span>
+      ))}
     </div>
   );
 };
 
 // --------------------------------------------------------------------------- bars
-const CHAPTERS: [string, string][] = [["l0", "I  ·  THE FALL"], ["l3", "II  ·  THE BET"], ["toy", "III  ·  THE PROOF"],
-  ["l10", "IV  ·  THE GAP"], ["l12", "V  ·  THE BELIEF"], ["l13", "VI  ·  THE NEXT CHAPTER"]];
+const CHAPTERS: [string, string, string, string][] = [["l0", "I", "The Fall", "1985"], ["l3", "II", "The Bet", "1986"],
+  ["toy", "III", "The Proof", "1995"], ["l10", "IV", "The Gap", "Today"], ["l12", "V", "The Belief", "2003"],
+  ["l13", "VI", "The Next Chapter", "2026"]];
 
+/** Letterbox bars: warm paper that turns black at the payoff. The top bar carries an editorial chapter header. */
 const Bars: React.FC<{ k: number }> = ({ k }) => {
   const t = useSec();
   const { A } = useT();
   const bg = `rgb(${interpolate(k, [0, 1], [236, 8])},${interpolate(k, [0, 1], [231, 8])},${interpolate(k, [0, 1], [220, 8])})`;
-  const fg = k < 0.5 ? "#3d3a34" : "#9b968c";
-  const idx = CHAPTERS.reduce((acc, [key], i) => (t >= (key === "l0" ? 4.5 : A[key]) ? i : acc), -1);
-  const at = idx >= 0 ? (CHAPTERS[idx][0] === "l0" ? 4.5 : A[CHAPTERS[idx][0]]) : 0;
-  const o = idx >= 0 && t < A.l15end ? tween(t * 30, at * 30, 14, 0, 1) : 0;
+  const ink = k < 0.5 ? "#1d1b17" : CREAM, soft = k < 0.5 ? "#6d665a" : "#a39b8d", gold = k < 0.5 ? "#8a6a2c" : "#E9C78F";
+  const startOf = (key: string) => (key === "l0" ? 4.5 : A[key]);
+  const idx = CHAPTERS.reduce((acc, [key], i) => (t >= startOf(key) ? i : acc), -1);
+  const show = idx >= 0 && t < A.l15end + 0.2;
+  const at = idx >= 0 ? startOf(CHAPTERS[idx][0]) : 0;
+  const r = tween(t * 30, at * 30, 18, 0, 1, "outExpo");
+  const ch = idx >= 0 ? CHAPTERS[idx] : null;
   return (
     <>
       <div style={{ position: "absolute", left: 0, top: 0, width: W, height: BAR, background: bg }}>
-        <div style={{ position: "absolute", bottom: 26, width: "100%", textAlign: "center", fontFamily: MONO, fontWeight: 500,
-                      fontSize: 24, letterSpacing: "0.42em", color: fg, opacity: o }}>{idx >= 0 ? CHAPTERS[idx][1] : ""}</div>
+        {show && ch && (
+          <>
+            <div style={{ position: "absolute", left: 56, bottom: 40, overflow: "hidden" }}>
+              <div style={{ fontFamily: MONO, fontWeight: 500, fontSize: 20, letterSpacing: "0.42em", color: gold,
+                            transform: `translateY(${(1 - r) * 30}px)`, opacity: r }}>CHAPTER {ch[1]}</div>
+              <div style={{ fontFamily: SERIF_I, fontWeight: 400, fontSize: 66, lineHeight: 1.05, color: ink, letterSpacing: "-0.015em",
+                            transform: `translateY(${(1 - r) * 80}px)`, opacity: r }}>{ch[2]}</div>
+            </div>
+            <div style={{ position: "absolute", right: 56, bottom: 40, overflow: "hidden", textAlign: "right" }}>
+              <div style={{ fontFamily: SERIF, fontWeight: 400, fontSize: 66, lineHeight: 1.05, color: ink, fontVariantNumeric: "lining-nums",
+                            transform: `translateY(${(1 - r) * 80}px)`, opacity: r }}>{ch[3]}</div>
+            </div>
+            <div style={{ position: "absolute", left: 56, right: 56, bottom: 22, height: 1, background: soft, opacity: 0.6,
+                          transform: `scaleX(${r})`, transformOrigin: "0 50%" }} />
+          </>
+        )}
       </div>
       <div style={{ position: "absolute", left: 0, top: BAR + WIN_H, width: W, height: BAR, background: bg }} />
     </>
@@ -593,7 +566,7 @@ const Mix: React.FC = () => {
     let d = Infinity;
     for (const [a, b] of speech) d = Math.min(d, t < a ? a - t : t > b ? t - b : 0);
     const duck = Math.min(1, Math.max(0, (d - 0.05) / 0.4));
-    const base = 0.17 + (0.5 - 0.17) * duck;
+    const base = 0.12 + (0.4 - 0.12) * duck;
     const fadeIn = interpolate(t, [0.8, 2.5], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
     const fadeOut = interpolate(t, [A.end - 3, A.end - 0.2], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
     return base * fadeIn * fadeOut;
@@ -614,7 +587,7 @@ const Mix: React.FC = () => {
 };
 
 // --------------------------------------------------------------------------- film
-const GLITCH: [string, number, number][] = [["0.55", 0.75, 1], ["l2end-0.05", 0.5, 0.8], ["pixar-0.05", 0.22, 0.35],
+const GLITCH: [string, number, number][] = [["0.55", 0.75, 1], ["fired-0.06", 0.3, 0.7], ["l2end-0.05", 0.5, 0.8], ["pixar-0.05", 0.22, 0.35],
   ["betting-0.12", 0.3, 0.6], ["l10-0.3", 0.55, 1], ["l13-0.3", 0.35, 0.5]];
 
 export const IMissSteve: React.FC<SteveProps> = (p) => {
@@ -644,21 +617,26 @@ export const IMissSteve: React.FC<SteveProps> = (p) => {
           <AbsoluteFill style={{ filter: glitch > 0.01 ? "url(#vhs)" : undefined }}>
             <AbsoluteFill style={{ transform: `translate(${wx}px, ${wy + roll}px)`, filter: `${gradeFilter(g, cool)} brightness(${flicker})`,
                                    opacity: t < 0.75 ? 0 : 1 }}>
-              <Shot from={0.7} to={A.from1} xf={0}><Photo src="jobs1984b" s0={1.06} s1={1.2} ox={50} oy={35} pos="50% 30%" /></Shot>
-              <Shot from={A.from1} to={A.l2} xf={0}><Photo src="jobs1984" s0={1.0} s1={1.12} ox={50} oy={62} pos="50% 50%" /></Shot>
-              <Shot from={A.l2 - 0.4} to={A.l2end + 0.3} xf={10}>
-                <Photo src="reagan1985" s0={1.25} s1={1.45} ox={66} oy={30} pos="68% 30%" dim={keys(t, [[A.finished, 0], [A.l2end + 0.3, 0.85]])} />
+              <Shot from={0.7} to={A.steve} xf={0}><Clip name="bowtie" s0={1.08} s1={1.22} oy={30} pos="58% 30%" /></Shot>
+              <Shot from={A.steve} to={A.fired} xf={0}><Clip name="shine" s0={1.0} s1={1.12} pos="50% 40%" /></Shot>
+              <Shot from={A.fired} to={A.from1} xf={0}><Clip name="stage85" s0={1.1} s1={1.18} pos="42% 30%" dim={0.35} /></Shot>
+              <Shot from={A.from1} to={A.l2} xf={0}><Clip name="ovation" s0={1.0} s1={1.1} pos="40% 50%" /></Shot>
+              <Shot from={A.l2 - 0.1} to={A.and2} xf={6}><Clip name="close85" s0={1.05} s1={1.12} pos="45% 35%" /></Shot>
+              <Shot from={A.and2} to={A.l2end + 0.3} xf={0}>
+                <Clip name="forehead" rate={0.9} s0={1.05} s1={1.2} oy={35} pos="40% 35%" />
+                <AbsoluteFill style={{ background: INK, opacity: keys(t, [[A.finished, 0], [A.l2end + 0.3, 0.8]]) }} />
               </Shot>
-              <Shot from={A.l3 - 0.1} to={A.next} xf={10}><Photo src="nextoffice" s0={1.05} s1={1.22} ox={55} oy={50} /></Shot>
-              <Shot from={A.next} to={A.l4} xf={0}><Photo src="nextcube2" fit="contain" bg="#f4f4f2" s0={0.92} s1={1.02} oy={50} /></Shot>
+              <Shot from={A.l3 - 0.1} to={A.called} xf={10}><Photo src="nextoffice" s0={1.05} s1={1.22} ox={55} oy={50} /></Shot>
+              <Shot from={A.called} to={A.l4} xf={0}><Clip name="nextlogo" s0={1.15} s1={1.3} pos="62% 45%" /></Shot>
               <Shot from={A.l4 - 0.1} to={A.pixar} xf={8}><Photo src="pixarcomputer" s0={1.1} s1={1.3} ox={40} oy={50} dx={-40} /></Shot>
               <Shot from={A.pixar} to={A.l5} xf={0}><Photo src="pixarhq" s0={1.15} s1={1.3} ox={50} oy={40} pos="50% 40%" /></Shot>
-              <Shot from={A.l5 - 0.1} to={A.betting} xf={8}><Photo src="jobsloc" s0={1.3} s1={1.5} ox={50} oy={22} pos="50% 20%" /></Shot>
-              <Shot from={A.betting} to={A.l6} xf={0}><CRTTeapot /></Shot>
-              <Shot from={A.l6 - 0.15} to={A.toy} xf={8}><Years t0={A.l6} land={A.y1995} /></Shot>
-              <Shot from={A.toy} to={A.l8} xf={0}><TitleCard /></Shot>
-              <Shot from={A.l8 - 0.2} to={A.l9} xf={10}><RenderedTeapot /></Shot>
-              <Shot from={A.l9 - 0.1} to={A.form} xf={8}><Photo src="pixarhq" s0={1.0} s1={1.12} oy={45} pos="50% 40%" /></Shot>
+              <Shot from={A.l5 - 0.1} to={A.betting} xf={8}><Photo src="jobs1984b" s0={1.7} s1={1.95} ox={50} oy={34} pos="50% 30%" /></Shot>
+              <Shot from={A.betting} to={A.l6} xf={0}><CRTClip name="tstest" /></Shot>
+              <Shot from={A.l6 - 0.15} to={A.toy} xf={8}>
+                <Years t0={A.l6} land={A.y1995} bg={<Clip name="rose2" rate={0.6} s0={1.1} s1={1.18} />} />
+              </Shot>
+              <Shot from={A.toy} to={A.l9} xf={0}><ToyStory /></Shot>
+              <Shot from={A.l9 - 0.05} to={A.form} xf={6}><Clip name="rose1" rate={0.7} s0={1.05} s1={1.12} pos="35% 40%" /></Shot>
               <Shot from={A.form} to={A.l10} xf={6}><Photo src="jobs2005" s0={1.05} s1={1.18} ox={58} oy={40} pos="58% 40%" /></Shot>
               <Shot from={A.l10 - 0.2} to={A.l12} xf={6}><Complexity /></Shot>
               <Shot from={A.l12 - 0.3} to={A.l13} xf={12}><Quote /></Shot>
@@ -689,11 +667,18 @@ export const IMissSteve: React.FC<SteveProps> = (p) => {
                           textShadow: "3px 0 #f004, -3px 0 #0ff4, 0 0 10px #fff8", opacity: Math.floor(t * 2) % 2 === 0 || t > 1.3 ? 1 : 0.4 }}>
               PLAY ►</div>
           )}
-          <Stamp text="Cupertino · 1985" at={4.6} until={A.l2end} />
-          <Stamp text="NeXT · 1985" at={A.next + 0.05} until={A.l4 - 0.2} />
-          <Stamp text="San Rafael · 1986" at={A.l4 + 0.3} until={A.pixar - 0.1} />
-          <Stamp text="Today" at={A.thirty} until={A.l11 - 0.2} />
+          <Source text="MACINTOSH LAUNCH · 1984" at={A.from1 + 0.1} until={A.l2 - 0.1} />
+          <Source text="MACNEIL/LEHRER NEWSHOUR · 1985" at={A.l2} until={A.l2end} />
+          <Source kicker="NeXT COMPUTER" text="FOUNDED 1985" at={A.l3 + 0.2} until={A.l4 - 0.2} />
+          <Source kicker="LUCASFILM → PIXAR" text="SAN RAFAEL · 1986" at={A.l4 + 0.2} until={A.l5 - 0.2} />
+          <Source text="EARLY TOY STORY TEST" at={A.betting + 0.3} until={A.l6 - 0.2} />
+          <Source kicker="DISNEY · PIXAR" text="TOY STORY · 1995" at={A.l8} until={A.l9 - 0.2} />
+          <Source text="CHARLIE ROSE · 1996" at={A.l9 + 0.1} until={A.form - 0.1} />
+          <Source text="MACWORLD · 2005" at={A.form + 0.1} until={A.l10 - 0.2} />
+          <Source kicker="BERNARD GOTFRYD" text="CUPERTINO · 1984" at={A.l14 + 0.4} until={A.anyone - 0.3} />
         </div>
+        <Callout text="Fired." at={A.fired} until={A.from1 - 0.12} size={230} />
+        <Callout text="“computer cartoons?”" at={A.computer5} until={A.l6 - 0.15} size={92} y={0.86} scrim={false} />
         <Bars k={g.bars} />
         <Subtitles />
         <Mix />

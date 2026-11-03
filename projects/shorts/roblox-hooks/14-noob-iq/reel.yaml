@@ -1,0 +1,44 @@
+# 14-noob-iq: the different-IQ noobs vs train hook (15M) → screenshot → the existing Vi3W noob model (01-butter-noob renders).
+# morph.mp4: hook plays 0-7.5 s, freeze 7.5, scan 8.0-9.2, lift 9.2-10.0, spin to 13.2.
+# Rules: no VO and no added text before the freeze (credit waits for it); SFX only in VO gaps; mix dips hook/SFX under words.
+# Voice: Kawaii Aerisita (premade, via fal).
+title: roblox-noob-iq
+mix: true
+sfx: false
+say: {"Vi3W": "View", "Vi3W.in": "view dot in", "911": "nine hundred eleven"}
+voice: {id: vGQNBgLaiM3EdZtxIiuY, provider: fal, model: eleven_v3, stability: 0.0}
+credit: 🎥 @PiAnimation01
+credit_from: 7.5
+segments:
+- id: morph
+  type: clip
+  src: assets/morph.mp4
+  in: 0.0
+  out: 14.13
+  fit: crop
+  gain: 0.6
+- id: cta
+  type: cta
+  seconds: 3.9
+  backdrop: assets/cta-full.mp4
+  line: One screenshot → *3D*
+  button: Comment your IQ 👇
+cues:
+- {at: morph, offset: 7.5, src: ../sfx/yt-uhh-new.mp3, gain: 0.9}
+- {at: morph, offset: 8.5, src: ../sfx/yt-coil.mp3, gain: 0.28}
+- {at: morph, offset: 13.43, src: ../sfx/yt-boing.mp3, gain: 0.6}
+- {at: cta, offset: 0.1, src: ../sfx/yt-button.mp3, gain: 0.7}
+vo:
+- {at: morph, offset: 9.22, text: "[excited] +911 IQ. Real 3D noob!"}
+- {at: cta, offset: 0.5, text: "[excited] Nokia never misses. Comment your IQ!"}
+post:
+  caption: '+911 IQ noob used a Nokia to stop a train 📱 now he''s a real 3D model
+
+
+    One screenshot → 3D with Vi3W (real output, unedited). Clip: @PiAnimation01
+
+
+    Comment your IQ 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [roblox, robloxmemes, noob, iq, robloxshorts, 3d, imageto3d, vi3w]

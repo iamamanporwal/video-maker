@@ -1,0 +1,86 @@
+# Clips from NakeyJakey "How Mods Changed Video Games Forever" (vkYu3seV9FI), creator permission obtained.
+# ranges: [start, end] seconds in the source, played in this order (jump cuts between them).
+# Hooks were picked from YouTube's most-replayed heatmap + transcript; see HOOKS.md.
+source: sources/nj.mp4
+words: sources/w.json
+credit: "@NakeyJakey"
+cta:
+  line: "Make your own *mod models*"
+  sub: "Sketch or image → 3D model in seconds"
+  button: "Try Vi3W.in →"
+music_credit: 'Music: "Pixelland" Kevin MacLeod (incompetech.com), CC BY 4.0'
+
+shorts:
+- id: 01-among-us-before-among-us
+  ranges: [[386.15, 419.75]]
+  headline: "Among Us existed *before* Among Us 🤯"
+  emphasis: [before, imposter]
+  cta_line: "Your idea could be *the next big mod*"
+  vo: "[excited] Your idea could be the next big game! Sketch it, and Vi3W turns it into 3D in seconds. Try Vi3W.in!"
+  caption: |
+    Among Us existed years before Among Us 🤯 and it was a mod.
+
+    Trouble in Terrorist Town → Garry's Mod → Half-Life 2. Modders invent the genres, studios ship them later.
+    Clip: @NakeyJakey, "How Mods Changed Video Games Forever" (used with permission, go watch the full video).
+
+    Got a mod idea? Sketch it and Vi3W.in turns it into a 3D model in seconds. What would you mod in? 👇
+  hashtags: [amongus, garrysmod, gaming, mods, gamedev, nakeyjakey, vi3w]
+
+- id: 02-fortnite-only-exists
+  ranges: [[499.55, 536.25]]
+  headline: "Fortnite only exists because of *a mod*"
+  emphasis: [fortnite, pubg, dayz, minecraft, nicki, minaj]
+  vo: "[excited] The next big game could start as your sketch! Vi3W turns it into 3D in seconds. Try Vi3W.in!"
+  caption: |
+    Fortnite only exists because of… a chain of mods 💀
+
+    PUBG → H1Z1 → DayZ (an Arma 2 mod) → Minecraft Survival Games → Hunger Games → Nicki Minaj skin.
+    Clip: @NakeyJakey, "How Mods Changed Video Games Forever" (used with permission, go watch the full video).
+
+    The next one starts with a sketch: Vi3W.in turns sketches and images into 3D models in seconds. Tag a modder 👇
+  hashtags: [fortnite, pubg, battleroyale, gaming, mods, gamedev, vi3w]
+
+- id: 03-zero-coding-first-mod
+  ranges: [[689.6, 693.85], [680.45, 689.25], [694.2, 719.45]]
+  headline: "Zero coding experience → his *first mod*"
+  emphasis: [zero, worked]
+  cta_line: "No code. No Blender. *Just sketch.*"
+  vo: "[excited] No code, no Blender! Just sketch it, and Vi3W turns it into a 3D model in seconds. Try Vi3W.in!"
+  caption: |
+    Zero coding experience → first mod actually works 😭
+
+    That "oh my god it worked" feeling is why people mod.
+    Clip: @NakeyJakey, "How Mods Changed Video Games Forever" (used with permission, go watch the full video).
+
+    Want to make the 3D side of a mod without learning Blender? Sketch it, Vi3W.in makes the model in seconds. What's your first mod? 👇
+  hashtags: [modding, falloutnewvegas, gamedev, indiedev, mods, nakeyjakey, vi3w]
+
+- id: 04-parry-a-mini-nuke
+  ranges: [[839.65, 845.45], [816.05, 839.45], [845.65, 851.6]]
+  headline: "He modded Fallout to *parry a nuke* ☢️"
+  emphasis: [bullets, missile, nuke, balanced]
+  cta_line: "Got a *crazy mod idea?*"
+  vo: "[excited] Got a crazy mod idea? Sketch it, and Vi3W turns it into a 3D model in seconds. Try Vi3W.in!"
+  caption: |
+    Parrying a mini nuke in Fallout: New Vegas ☢️ (is it balanced? probably not)
+
+    Two brothers, one script, way too many 6am nights.
+    Clip: @NakeyJakey, "How Mods Changed Video Games Forever" (used with permission, go watch the full video).
+
+    Crazy mod idea? Sketch it and Vi3W.in turns it into a 3D model in seconds. What should be parryable next? 👇
+  hashtags: [falloutnewvegas, fallout, modding, gaming, gamedev, nakeyjakey, vi3w]
+
+- id: 05-thomas-the-tank-mod
+  ranges: [[94.05, 110.25], [44.15, 49.35], [51.0, 55.2]]
+  headline: "Every game is better with *Thomas the Tank* 🚂"
+  emphasis: [thomas, shrek, change]
+  cta_line: "Mod in *anything you want*"
+  vo: "[excited] Want your own Thomas mod? Sketch it, and Vi3W turns it into 3D in seconds. Try Vi3W.in!"
+  caption: |
+    Gamers when they discover mods: everything is Thomas the Tank now 🚂
+
+    "Mods are the power to say: I don't like how that guy looks and I'm gonna change it."
+    Clip: @NakeyJakey, "How Mods Changed Video Games Forever" (used with permission, go watch the full video).
+
+    What would YOU swap into a game? Sketch it, Vi3W.in turns it into a 3D model in seconds 👇
+  hashtags: [mods, thomasthetankengine, residentevil, shrek, gaming, nakeyjakey, vi3w]

@@ -1,0 +1,54 @@
+# 04-cursed-images: Ryan Dick's "Blender Cursed Images" (1M) as a 3 AM countdown on its own stings → twist: the real Vi3W
+# chest flow → CTA. 0-4 s: the 28,958-vertex circle, no text until 4.6.
+title: vi3w-cursed-images
+mix: true
+sfx: false
+captions: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+segments:
+- {id: body, type: clip, src: assets/body.mp4, in: 0.0, out: 31.7, fit: crop, gain: 1.0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  after: ../../vi3w-memes/07-chest-race/assets/chest-cta.mp4
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: Comment the most cursed 👇
+texts:
+- {at: 4.6, to: 18.5, text: "cursed *blender* images at 3 AM 😨", y: 300}
+- {at: 4.6, to: 6.5, text: "retopology? never heard of her", y: 1560, style: stroke, size: 60}
+- {at: 6.5, to: 9.0, text: "Suzanne after ONE modifier", y: 1560, style: stroke, size: 60}
+- {at: 9.0, to: 11.5, text: "blender… but it says Maya 💀", y: 1560, style: stroke, size: 60}
+- {at: 11.5, to: 14.0, text: "my \"simple\" material", y: 1560, style: stroke, size: 60}
+- {at: 14.0, to: 16.0, text: "rigging at 3 AM", y: 1560, style: stroke, size: 60}
+- {at: 16.0, to: 18.5, text: "I said BLENDER 🥤", y: 1560, style: stroke, size: 64}
+- {at: 18.5, to: 28.1, text: "the most cursed one: this took 1 sketch 👇", y: 140}
+- {at: 18.5, to: 22.1, text: "1. sketch it ✏️", y: 890, style: stroke, size: 58, align: right}
+- {at: 22.1, to: 24.1, text: "2. describe it 💬", y: 890, style: stroke, size: 58, align: right}
+- {at: 24.1, to: 26.1, text: "3. image ✅", y: 890, style: stroke, size: 58, align: right}
+- {at: 26.1, to: 28.1, text: "4. real 3D ✅", y: 890, style: stroke, size: 58, align: right}
+- {at: 18.9, to: 28.1, text: "meanwhile my blender folder:", y: 1080, style: stroke, size: 54}
+- {at: 28.1, to: 31.7, text: "no blender. no 3 AM. 😮‍💨", y: 330}
+- {at: 28.8, to: 31.7, text: "textured 3D chest, made in *Vi3W*", y: 1520, style: stroke, size: 56}
+cues:
+- {at: 0.0, src: ../music/investigations-18s.mp3, gain: 0.2}
+- {at: 18.5, src: ../../vi3w-memes/sfx/scratch.mp3, gain: 0.45}
+- {at: 18.6, src: ../../vi3w-memes/music/easy-lemon.mp3, gain: 0.3}
+- {at: 24.1, src: ../../vi3w-memes/sfx/ding.mp3, gain: 0.45}
+- {at: 26.1, src: ../../vi3w-memes/sfx/ding.mp3, gain: 0.45}
+- {at: 28.1, src: ../../vi3w-memes/sfx/wow.mp3, gain: 0.55}
+- {at: 28.4, src: ../../roblox-hooks/sfx/aura-short.mp3, gain: 0.35}
+vo:
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    cursed blender images at 3 AM 😨 the last one is the most cursed
+
+    One sketch → textured 3D chest in Vi3W (real app, real output).
+    Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+    Which one is the most cursed? 👇
+
+    Clip: Ryan Dick @ryandick7264 "Blender Cursed Images (DO NOT DELETE DEFAULT CUBE AT 3 AM)" (used with permission)
+    Music: "Investigations" + "Easy Lemon" Kevin MacLeod (incompetech.com), CC BY 4.0
+  hashtags: [blender, b3d, 3dmodeling, gamedev, blendermemes, cursed, memes, sketchto3d, vi3w]

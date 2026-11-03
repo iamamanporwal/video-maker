@@ -42,3 +42,6 @@ projects/**/render/
 
 # Phone upload copies (duplicates of project out/ renders)
 FinalUploads/
+
+# Poly Haven CC0 cache (re-download: python -m reelforge.polyhaven kit)
+assets/polyhaven/

@@ -1,0 +1,497 @@
+{
+ "fps": 30,
+ "durationInFrames": 1151,
+ "tag": "ROBLOX DEV FACT #4 \ud83c\udf31",
+ "credit": "\ud83c\udfa8 illustration",
+ "shots": [
+  {
+   "src": "img/g_teen.png",
+   "from": 0,
+   "dur": 87,
+   "at": 0,
+   "y0": 0,
+   "kind": "img",
+   "x0": 60,
+   "volume": 0.12
+  },
+  {
+   "src": "img/g_garden1.png",
+   "from": 87,
+   "dur": 87,
+   "at": 0,
+   "y0": 0,
+   "kind": "img",
+   "x0": 30,
+   "volume": 0.12
+  },
+  {
+   "src": "img/g_crowd.png",
+   "from": 174,
+   "dur": 188,
+   "at": 0,
+   "y0": 0,
+   "kind": "img",
+   "x0": 60,
+   "volume": 0.12
+  },
+  {
+   "src": "img/g_money.png",
+   "from": 362,
+   "dur": 136,
+   "at": 0,
+   "y0": 0,
+   "kind": "img",
+   "x0": 40,
+   "volume": 0.12
+  }
+ ],
+ "stat": {
+  "header": "PLAYERS AT THE SAME TIME",
+  "label": "GROW A GARDEN \ud83c\udf31",
+  "value": 21600000,
+  "rival": "Fortnite's record: 15.3M",
+  "rivalValue": 15300000,
+  "note": "AP \u00b7 JUNE 2025",
+  "from": 171,
+  "dur": 190
+ },
+ "freeze": {
+  "from": 498,
+  "dur": 178,
+  "chip": "\ud83c\udf31 EVERY SEED = A 3D MODEL",
+  "items": [
+   {
+    "img": "img/f04_0.png",
+    "wire": "img/f04_0_wire.png",
+    "tag": "3D MODEL \u2713",
+    "at": 0
+   },
+   {
+    "img": "img/f04_1.png",
+    "wire": "img/f04_1_wire.png",
+    "tag": "3D MODEL \u2713",
+    "at": 125
+   }
+  ]
+ },
+ "reveal": {
+  "from": 676,
+  "dur": 211,
+  "pop": 73,
+  "baitAt": 172,
+  "sketch": "",
+  "model": "",
+  "name": "Treasure Chest \ud83e\ude99",
+  "rate": "",
+  "line": "",
+  "bait": "what should we sketch next? \ud83d\udc47",
+  "demo": {
+   "src": "clips/demo_04.mp4",
+   "w": 1000,
+   "h": 1000
+  }
+ },
+ "outro": {
+  "from": 887,
+  "src": "clips/outro.mp4"
+ },
+ "words": [
+  [
+   7,
+   8,
+   "A"
+  ],
+  [
+   10,
+   37,
+   "16-year-old"
+  ],
+  [
+   38,
+   44,
+   "built"
+  ],
+  [
+   46,
+   49,
+   "a"
+  ],
+  [
+   50,
+   65,
+   "Roblox"
+  ],
+  [
+   67,
+   73,
+   "game"
+  ],
+  [
+   74,
+   85,
+   "called"
+  ],
+  [
+   87,
+   97,
+   "Grow"
+  ],
+  [
+   98,
+   99,
+   "a"
+  ],
+  [
+   101,
+   130,
+   "Garden..."
+  ],
+  [
+   132,
+   135,
+   "in"
+  ],
+  [
+   137,
+   147,
+   "about"
+  ],
+  [
+   148,
+   154,
+   "three"
+  ],
+  [
+   157,
+   169,
+   "days."
+  ],
+  [
+   174,
+   183,
+   "Months"
+  ],
+  [
+   185,
+   202,
+   "later,"
+  ],
+  [
+   204,
+   241,
+   "21.6"
+  ],
+  [
+   243,
+   258,
+   "MILLION"
+  ],
+  [
+   259,
+   270,
+   "people"
+  ],
+  [
+   271,
+   279,
+   "played"
+  ],
+  [
+   280,
+   282,
+   "it"
+  ],
+  [
+   283,
+   286,
+   "at"
+  ],
+  [
+   289,
+   307,
+   "once."
+  ],
+  [
+   308,
+   315,
+   "More"
+  ],
+  [
+   316,
+   320,
+   "than"
+  ],
+  [
+   322,
+   339,
+   "Fortnite's"
+  ],
+  [
+   341,
+   358,
+   "record."
+  ],
+  [
+   362,
+   367,
+   "And"
+  ],
+  [
+   369,
+   384,
+   "players"
+  ],
+  [
+   385,
+   393,
+   "spent"
+  ],
+  [
+   402,
+   410,
+   "12"
+  ],
+  [
+   412,
+   425,
+   "million"
+  ],
+  [
+   427,
+   441,
+   "dollars"
+  ],
+  [
+   443,
+   446,
+   "on"
+  ],
+  [
+   448,
+   465,
+   "it..."
+  ],
+  [
+   467,
+   470,
+   "in"
+  ],
+  [
+   473,
+   480,
+   "one"
+  ],
+  [
+   482,
+   497,
+   "month."
+  ],
+  [
+   505,
+   513,
+   "Every"
+  ],
+  [
+   515,
+   534,
+   "seed,"
+  ],
+  [
+   535,
+   541,
+   "every"
+  ],
+  [
+   545,
+   563,
+   "pet,"
+  ],
+  [
+   564,
+   570,
+   "every"
+  ],
+  [
+   573,
+   587,
+   "crate"
+  ],
+  [
+   589,
+   592,
+   "in"
+  ],
+  [
+   594,
+   604,
+   "it?"
+  ],
+  [
+   607,
+   623,
+   "That's"
+  ],
+  [
+   624,
+   625,
+   "a"
+  ],
+  [
+   627,
+   642,
+   "3D"
+  ],
+  [
+   644,
+   669,
+   "model."
+  ],
+  [
+   679,
+   681,
+   "So"
+  ],
+  [
+   684,
+   688,
+   "we"
+  ],
+  [
+   690,
+   703,
+   "sketched"
+  ],
+  [
+   705,
+   708,
+   "a"
+  ],
+  [
+   709,
+   720,
+   "treasure"
+  ],
+  [
+   722,
+   739,
+   "chest..."
+  ],
+  [
+   765,
+   765,
+   "and"
+  ],
+  [
+   767,
+   777,
+   "Vi3W"
+  ],
+  [
+   779,
+   787,
+   "made"
+  ],
+  [
+   788,
+   791,
+   "it"
+  ],
+  [
+   793,
+   811,
+   "3D"
+  ],
+  [
+   812,
+   815,
+   "in"
+  ],
+  [
+   817,
+   827,
+   "about"
+  ],
+  [
+   829,
+   830,
+   "a"
+  ],
+  [
+   832,
+   847,
+   "minute!"
+  ]
+ ],
+ "emphasis": [
+  "16-year-old",
+  "three",
+  "21.6",
+  "million",
+  "12",
+  "3d",
+  "minute"
+ ],
+ "vo": [
+  {
+   "src": "vo/61c97a343d39-n.mp3",
+   "from": 3
+  },
+  {
+   "src": "vo/380f039b24c2-n.mp3",
+   "from": 174
+  },
+  {
+   "src": "vo/2ebe4e96bc9f-n.mp3",
+   "from": 362
+  },
+  {
+   "src": "vo/be7d63cb2c70-n.mp3",
+   "from": 505
+  },
+  {
+   "src": "vo/45905a340db9-n.mp3",
+   "from": 679
+  },
+  {
+   "src": "vo/8eb519e070c7-n.mp3",
+   "from": 763
+  }
+ ],
+ "cues": [
+  {
+   "src": "music/pixelland.mp3",
+   "from": 0,
+   "volume": 0.1
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 167,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 341,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 498,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 670,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 749,
+   "volume": 0.55
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 881,
+   "volume": 0.4
+  }
+ ]
+}

@@ -1,0 +1,592 @@
+{
+ "fps": 30,
+ "durationInFrames": 996,
+ "tag": "GAME DEV FACT \ud83e\uddf1",
+ "credit": "\ud83c\udfa5 ArchiveOP (@abhasop)",
+ "shots": [
+  {
+   "src": "clips/ao.mp4",
+   "from": 0,
+   "dur": 62,
+   "at": 150,
+   "y0": 0,
+   "kind": "wide",
+   "x0": 349,
+   "volume": 0
+  },
+  {
+   "src": "clips/ao.mp4",
+   "from": 62,
+   "dur": 135,
+   "at": 18180,
+   "y0": 0,
+   "kind": "wide",
+   "x0": 349,
+   "volume": 0
+  },
+  {
+   "src": "clips/ao.mp4",
+   "from": 197,
+   "dur": 75,
+   "at": 18270,
+   "y0": 0,
+   "kind": "wide",
+   "x0": 349,
+   "volume": 0
+  },
+  {
+   "src": "clips/ao.mp4",
+   "from": 272,
+   "dur": 34,
+   "at": 18390,
+   "y0": 0,
+   "kind": "wide",
+   "x0": 349,
+   "volume": 0
+  },
+  {
+   "src": "clips/ao.mp4",
+   "from": 306,
+   "dur": 54,
+   "at": 18585,
+   "y0": 0,
+   "kind": "wide",
+   "x0": 349,
+   "volume": 0
+  },
+  {
+   "src": "clips/ao.mp4",
+   "from": 360,
+   "dur": 81,
+   "at": 18510,
+   "y0": 0,
+   "kind": "wide",
+   "x0": 349,
+   "volume": 0
+  },
+  {
+   "src": "clips/ao.mp4",
+   "from": 441,
+   "dur": 46,
+   "at": 18330,
+   "y0": 0,
+   "kind": "wide",
+   "x0": 349,
+   "volume": 0
+  }
+ ],
+ "stat": {
+  "header": "COPIES SOLD \u00b7 ALL TIME",
+  "label": "MINECRAFT \u26cf\ufe0f",
+  "value": 350000000,
+  "rival": "GTA V: 225M",
+  "rivalValue": 225000000,
+  "note": "MOJANG \u00b7 TAKE-TWO (FEB 2026)",
+  "from": 194,
+  "dur": 111
+ },
+ "freeze": {
+  "from": 487,
+  "dur": 212,
+  "chip": "\ud83e\uddf1 EVERY BLOCK = A 3D MODEL",
+  "items": [
+   {
+    "img": "img/f01_0.png",
+    "wire": "img/f01_0_wire.png",
+    "tag": "3D MODEL \u2713",
+    "at": 0
+   },
+   {
+    "img": "img/f01_1.png",
+    "wire": "img/f01_1_wire.png",
+    "tag": "3D MODEL \u2713",
+    "at": 130
+   }
+  ]
+ },
+ "reveal": {
+  "from": 699,
+  "dur": 297,
+  "pop": 61,
+  "baitAt": 142,
+  "sketch": "",
+  "model": "",
+  "name": "Sketch Car \ud83c\udfce\ufe0f",
+  "rate": "",
+  "line": "",
+  "bait": "what should we mod into GTA next? \ud83d\udc47",
+  "demo": {
+   "src": "clips/demo_01.mp4",
+   "w": 1000,
+   "h": 842
+  }
+ },
+ "outro": {
+  "from": 1026,
+  "src": ""
+ },
+ "words": [
+  [
+   5,
+   5,
+   "A"
+  ],
+  [
+   8,
+   20,
+   "video"
+  ],
+  [
+   22,
+   26,
+   "of"
+  ],
+  [
+   28,
+   59,
+   "Minecraft..."
+  ],
+  [
+   62,
+   76,
+   "inside"
+  ],
+  [
+   80,
+   93,
+   "GTA"
+  ],
+  [
+   97,
+   107,
+   "5"
+  ],
+  [
+   111,
+   122,
+   "got"
+  ],
+  [
+   126,
+   145,
+   "17"
+  ],
+  [
+   148,
+   168,
+   "MILLION"
+  ],
+  [
+   171,
+   193,
+   "views."
+  ],
+  [
+   197,
+   202,
+   "Two"
+  ],
+  [
+   204,
+   208,
+   "of"
+  ],
+  [
+   208,
+   210,
+   "the"
+  ],
+  [
+   212,
+   231,
+   "best-selling"
+  ],
+  [
+   233,
+   243,
+   "games"
+  ],
+  [
+   247,
+   270,
+   "EVER..."
+  ],
+  [
+   272,
+   283,
+   "smashed"
+  ],
+  [
+   284,
+   289,
+   "into"
+  ],
+  [
+   291,
+   306,
+   "one."
+  ],
+  [
+   306,
+   310,
+   "But"
+  ],
+  [
+   313,
+   325,
+   "Steve"
+  ],
+  [
+   327,
+   335,
+   "isn't"
+  ],
+  [
+   337,
+   339,
+   "in"
+  ],
+  [
+   343,
+   356,
+   "GTA."
+  ],
+  [
+   360,
+   379,
+   "Modders"
+  ],
+  [
+   381,
+   392,
+   "rebuild"
+  ],
+  [
+   393,
+   398,
+   "him"
+  ],
+  [
+   399,
+   402,
+   "as"
+  ],
+  [
+   403,
+   404,
+   "a"
+  ],
+  [
+   405,
+   417,
+   "3D"
+  ],
+  [
+   418,
+   435,
+   "model..."
+  ],
+  [
+   436,
+   440,
+   "and"
+  ],
+  [
+   441,
+   446,
+   "drop"
+  ],
+  [
+   447,
+   450,
+   "him"
+  ],
+  [
+   451,
+   454,
+   "into"
+  ],
+  [
+   455,
+   456,
+   "the"
+  ],
+  [
+   458,
+   463,
+   "game"
+  ],
+  [
+   465,
+   486,
+   "files."
+  ],
+  [
+   494,
+   500,
+   "Every"
+  ],
+  [
+   503,
+   521,
+   "Steve,"
+  ],
+  [
+   522,
+   527,
+   "every"
+  ],
+  [
+   529,
+   544,
+   "creeper,"
+  ],
+  [
+   547,
+   559,
+   "every"
+  ],
+  [
+   561,
+   571,
+   "block"
+  ],
+  [
+   572,
+   573,
+   "in"
+  ],
+  [
+   574,
+   580,
+   "these"
+  ],
+  [
+   582,
+   604,
+   "videos?"
+  ],
+  [
+   606,
+   617,
+   "That's"
+  ],
+  [
+   618,
+   619,
+   "a"
+  ],
+  [
+   621,
+   634,
+   "3D"
+  ],
+  [
+   636,
+   646,
+   "model."
+  ],
+  [
+   649,
+   657,
+   "And"
+  ],
+  [
+   658,
+   663,
+   "that's"
+  ],
+  [
+   664,
+   667,
+   "the"
+  ],
+  [
+   669,
+   676,
+   "slow"
+  ],
+  [
+   677,
+   692,
+   "part."
+  ],
+  [
+   702,
+   708,
+   "So"
+  ],
+  [
+   712,
+   719,
+   "we"
+  ],
+  [
+   721,
+   733,
+   "sketched"
+  ],
+  [
+   734,
+   735,
+   "a"
+  ],
+  [
+   738,
+   750,
+   "car..."
+  ],
+  [
+   777,
+   778,
+   "and"
+  ],
+  [
+   780,
+   788,
+   "Vi3W"
+  ],
+  [
+   790,
+   795,
+   "made"
+  ],
+  [
+   795,
+   797,
+   "it"
+  ],
+  [
+   798,
+   817,
+   "3D"
+  ],
+  [
+   820,
+   824,
+   "in"
+  ],
+  [
+   826,
+   840,
+   "minutes!"
+  ],
+  [
+   856,
+   864,
+   "Comment"
+  ],
+  [
+   866,
+   871,
+   "what"
+  ],
+  [
+   871,
+   873,
+   "we"
+  ],
+  [
+   874,
+   879,
+   "should"
+  ],
+  [
+   881,
+   885,
+   "mod"
+  ],
+  [
+   887,
+   892,
+   "into"
+  ],
+  [
+   895,
+   904,
+   "GTA"
+  ],
+  [
+   907,
+   919,
+   "next!"
+  ],
+  [
+   922,
+   958,
+   "Vi3W.in"
+  ]
+ ],
+ "emphasis": [
+  "minecraft",
+  "gta",
+  "17",
+  "million",
+  "ever",
+  "3d",
+  "car",
+  "minutes"
+ ],
+ "vo": [
+  {
+   "src": "vo/a24de250ca80-n1.15.mp3",
+   "from": 3
+  },
+  {
+   "src": "vo/53df2d7fda0c-n1.15.mp3",
+   "from": 197
+  },
+  {
+   "src": "vo/38db093f27f5-n1.15.mp3",
+   "from": 306
+  },
+  {
+   "src": "vo/2b147331b7ad-n1.15.mp3",
+   "from": 494
+  },
+  {
+   "src": "vo/5734f6c57ffc-n1.15.mp3",
+   "from": 702
+  },
+  {
+   "src": "vo/7f79ff861c66-n1.15.mp3",
+   "from": 774
+  },
+  {
+   "src": "vo/9b65fedba346-n1.15.mp3",
+   "from": 856
+  }
+ ],
+ "cues": [
+  {
+   "src": "music/pixelland.mp3",
+   "from": 0,
+   "volume": 0.1
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 190,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 291,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 487,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 693,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 760,
+   "volume": 0.55
+  }
+ ]
+}

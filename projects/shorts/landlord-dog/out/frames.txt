@@ -1,0 +1,1440 @@
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0001.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0002.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0003.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0004.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0005.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0006.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0007.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0008.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0009.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0010.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0011.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0012.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0013.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0014.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0015.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0016.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0017.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0018.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0019.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0020.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0021.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0022.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0023.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0024.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0025.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0026.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0027.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0028.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0029.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0030.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0031.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0032.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0033.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0034.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0035.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0036.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0037.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0038.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0039.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0040.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0041.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0042.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0043.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0044.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0045.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0046.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0047.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0048.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0049.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0050.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0051.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0052.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0053.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0054.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0055.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0056.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0057.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0058.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0059.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0060.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0061.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0062.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0063.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0064.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0065.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0066.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0067.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0068.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0069.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0070.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0071.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0072.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0073.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0074.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0075.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0076.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0077.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0078.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0079.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0080.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0081.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0082.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0083.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0084.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0085.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0086.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0087.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0088.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0089.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0090.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0091.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0092.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0093.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0094.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0095.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0096.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0097.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0098.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0099.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0100.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0101.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0102.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0103.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0104.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0105.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0106.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0107.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0108.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0109.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0110.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0111.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0112.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0113.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0114.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0115.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0116.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0117.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0118.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0119.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0120.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0121.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0122.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0123.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0124.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0125.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0126.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0127.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0128.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0129.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0130.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0131.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0132.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0133.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0134.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0135.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0136.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0137.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0138.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0139.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0140.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0141.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0142.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0143.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0144.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0145.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0146.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0147.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0148.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0149.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0150.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0151.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0152.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0153.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0154.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0155.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0156.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0157.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0158.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0159.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0160.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0161.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0162.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0163.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0164.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0165.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0166.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0167.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0168.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0169.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0170.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0171.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0172.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0173.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0174.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0175.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0176.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0177.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0178.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0179.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0180.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0181.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0182.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0183.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0184.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0185.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0186.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0187.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0188.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0189.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0190.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0191.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0192.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0193.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0194.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0195.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0196.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0197.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0198.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0199.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0200.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0201.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0202.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0203.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0204.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0205.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0206.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0207.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0208.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0209.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0210.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0211.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0212.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0213.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0214.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0215.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0216.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0217.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0218.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0219.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0220.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0221.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0222.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0223.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0224.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0225.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0226.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0227.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0228.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0229.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0230.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0231.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0232.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0233.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0234.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0235.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0236.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0237.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0238.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0239.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0240.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0241.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0242.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0243.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0244.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0245.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0246.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0247.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0248.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0249.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0250.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0251.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0252.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0253.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0254.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0255.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0256.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0257.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0258.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0259.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0260.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0261.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0262.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0263.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0264.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0265.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0266.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0267.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0268.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0269.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0270.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0271.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0272.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0273.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0274.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0275.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0276.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0277.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0278.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0279.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0280.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0281.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0282.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0283.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0284.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0285.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0286.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0287.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0288.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0289.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0290.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0291.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0292.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0293.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0294.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0295.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0296.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0297.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0298.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0299.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0300.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0301.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0302.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0303.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0304.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0305.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0306.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0307.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0308.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0309.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0310.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0311.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0312.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0313.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0314.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0315.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0316.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0317.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0318.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0319.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0320.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0321.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0322.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0323.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0324.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0325.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0326.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0327.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0328.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0329.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0330.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0331.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0332.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0333.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0334.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0335.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0336.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0337.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0338.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0339.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0340.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0341.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0342.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0343.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0344.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0345.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0346.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0347.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0348.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0349.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0350.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0351.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0352.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0353.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0354.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0355.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0356.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0357.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0358.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0359.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0360.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0361.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0362.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0363.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0364.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0365.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0366.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0367.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0368.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0369.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0370.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0371.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0372.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0373.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0374.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0375.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0376.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0377.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0378.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0379.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0380.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0381.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0382.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0383.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0384.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0385.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0386.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0387.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0388.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0389.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0390.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0391.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0392.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0393.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0394.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0395.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0396.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0397.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0398.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0399.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0400.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0401.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0402.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0403.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0404.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0405.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0406.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0407.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0408.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0409.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0410.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0411.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0412.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0413.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0414.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0415.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0416.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0417.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0418.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0419.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0420.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0421.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0422.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0423.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0424.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0425.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0426.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0427.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0428.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0429.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0430.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0431.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0432.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0433.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0434.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0435.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0436.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0437.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0438.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0439.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0440.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0441.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0442.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0443.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0444.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0445.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0446.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0447.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0448.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0449.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0450.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0451.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0452.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0453.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0454.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0455.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0456.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0457.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0458.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0459.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0460.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0461.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0462.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0463.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0464.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0465.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0466.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0467.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0468.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0469.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0470.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0471.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0472.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0473.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0474.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0475.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0476.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0477.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0478.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0479.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0480.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0481.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0482.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0483.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0484.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0485.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0486.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0487.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0488.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0489.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0490.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0491.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0492.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0493.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0494.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0495.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0496.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0497.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0498.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0499.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0500.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0501.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0502.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0503.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0504.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0505.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0506.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0507.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0508.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0509.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0510.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0511.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0512.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0513.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0514.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0515.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0516.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0517.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0518.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0519.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0520.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0521.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0522.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0523.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0524.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0525.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0526.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0527.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0528.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0529.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0530.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0531.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0532.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0533.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0534.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0535.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0536.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0537.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0538.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0539.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0540.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0541.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0542.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0543.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0544.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0545.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0546.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0547.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0548.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0549.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0550.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0551.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0552.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0553.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0554.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0555.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0556.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0557.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0558.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0559.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0560.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0561.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0562.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0563.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0564.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0565.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0566.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0567.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0568.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0569.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0570.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0571.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0572.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0573.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0574.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0575.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0576.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0577.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0578.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0579.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0580.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0581.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0582.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0583.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0584.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0585.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0586.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0587.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0588.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0589.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0590.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0591.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0592.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0593.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0594.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0595.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0596.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0597.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0598.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0599.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0600.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0601.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0602.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0603.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0604.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0605.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0606.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0607.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0608.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0609.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0610.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0611.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0612.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0613.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0614.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0615.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0616.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0617.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0618.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0619.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0620.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0621.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0622.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0623.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0624.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0625.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0626.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0627.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0628.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0629.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0630.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0631.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0632.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0633.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0634.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0635.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0636.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0637.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0638.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0639.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0640.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0641.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0642.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0643.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0644.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0645.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0646.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0647.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0648.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0649.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0650.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0651.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0652.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0653.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0654.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0655.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0656.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0657.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0658.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0659.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0660.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0661.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0662.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0663.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0664.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0665.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0666.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0667.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0668.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0669.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0670.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0671.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0672.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0673.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0674.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0675.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0676.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0677.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0678.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0679.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0680.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0681.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0682.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0683.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0684.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0685.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0686.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0687.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0688.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0689.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0690.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0691.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0692.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0693.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0694.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0695.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0696.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0697.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0698.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0699.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0700.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0701.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0702.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0703.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0704.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0705.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0706.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0707.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0708.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0709.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0710.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0711.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0712.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0713.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0714.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0715.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0716.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0717.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0718.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0719.jpg'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/landlord-dog/out/frames/f_0720.jpg'
+duration 0.033333

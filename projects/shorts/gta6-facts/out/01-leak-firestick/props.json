@@ -1,0 +1,811 @@
+{
+ "fps": 30,
+ "durationInFrames": 1041,
+ "tag": "GTA 6 DEV FACT #1 \ud83d\udd75\ufe0f",
+ "credit": "\ud83c\udfa5 Rockstar Games \u00b7 official trailers",
+ "shots": [
+  {
+   "src": "clips/t1.mp4",
+   "from": 0,
+   "dur": 35,
+   "at": 1446,
+   "x": 0.5,
+   "glitch": true
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 35,
+   "dur": 36,
+   "at": 405,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/rz.mp4",
+   "from": 71,
+   "dur": 40,
+   "at": 1080,
+   "x": 0.55,
+   "glitch": false
+  },
+  {
+   "src": "clips/rz.mp4",
+   "from": 111,
+   "dur": 68,
+   "at": 870,
+   "x": 0.45,
+   "glitch": false
+  },
+  {
+   "src": "clips/t2.mp4",
+   "from": 179,
+   "dur": 45,
+   "at": 1509,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 224,
+   "dur": 33,
+   "at": 246,
+   "x": 0.4,
+   "glitch": false
+  },
+  {
+   "src": "clips/t2.mp4",
+   "from": 257,
+   "dur": 55,
+   "at": 3870,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/rz.mp4",
+   "from": 312,
+   "dur": 12,
+   "at": 1572,
+   "x": 0.5,
+   "glitch": true
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 324,
+   "dur": 12,
+   "at": 1920,
+   "x": 0.5,
+   "glitch": true
+  },
+  {
+   "src": "clips/rz.mp4",
+   "from": 336,
+   "dur": 12,
+   "at": 2160,
+   "x": 0.45,
+   "glitch": true
+  },
+  {
+   "src": "clips/rz.mp4",
+   "from": 348,
+   "dur": 12,
+   "at": 1800,
+   "x": 0.5,
+   "glitch": true
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 360,
+   "dur": 25,
+   "at": 2310,
+   "x": 0.5,
+   "glitch": true
+  },
+  {
+   "src": "clips/t2.mp4",
+   "from": 385,
+   "dur": 84,
+   "at": 2280,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 469,
+   "dur": 81,
+   "at": 165,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/rz.mp4",
+   "from": 550,
+   "dur": 90,
+   "at": 2445,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/rz.mp4",
+   "from": 640,
+   "dur": 41,
+   "at": 1398,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 681,
+   "dur": 24,
+   "at": 2109,
+   "x": 0.55,
+   "glitch": false
+  },
+  {
+   "src": "clips/t2.mp4",
+   "from": 705,
+   "dur": 40,
+   "at": 810,
+   "x": 0.5,
+   "glitch": false
+  }
+ ],
+ "cards": [
+  {
+   "kind": "list",
+   "title": "THE HACK SETUP \ud83e\udd2f",
+   "items": [
+    {
+     "icon": "\ud83d\udd25",
+     "text": "FIRE STICK",
+     "at": 16
+    },
+    {
+     "icon": "\ud83d\udcfa",
+     "text": "HOTEL TV",
+     "at": 131
+    },
+    {
+     "icon": "\ud83d\udcf1",
+     "text": "PHONE",
+     "at": 155
+    }
+   ],
+   "from": 131,
+   "dur": 181
+  },
+  {
+   "kind": "stamp",
+   "text": "LEAKED",
+   "sub": "90 SECRET VIDEOS",
+   "from": 324,
+   "dur": 61
+  },
+  {
+   "kind": "counter",
+   "prefix": "$",
+   "value": 5000000,
+   "label": "WHAT THE LEAK COST ROCKSTAR",
+   "note": "+ THOUSANDS OF STAFF HOURS",
+   "from": 385,
+   "dur": 84
+  },
+  {
+   "kind": "stamp",
+   "text": "NOV 9",
+   "sub": "BACK IN COURT \u2696\ufe0f",
+   "color": "#FFE14D",
+   "from": 510,
+   "dur": 46
+  },
+  {
+   "kind": "list",
+   "title": "HOW ROCKSTAR BUILDS IT",
+   "items": [
+    {
+     "icon": "\ud83e\uddd1\u200d\ud83d\udcbb",
+     "text": "1000s OF DEVS",
+     "at": 23
+    },
+    {
+     "icon": "\u23f3",
+     "text": "YEARS OF WORK",
+     "at": 65
+    }
+   ],
+   "from": 640,
+   "dur": 105
+  }
+ ],
+ "plug": {
+  "from": 745,
+  "pop": 78,
+  "end": 133,
+  "sketch": "img/sketch.png",
+  "render": "img/render.png",
+  "model": "clips/car3d_b.mp4",
+  "logo": "img/logo.png",
+  "url": "Vi3W.in",
+  "bait": "comment the GTA car we should 3D next \ud83d\udc47"
+ },
+ "words": [
+  [
+   5,
+   5,
+   "The"
+  ],
+  [
+   8,
+   16,
+   "guy"
+  ],
+  [
+   17,
+   22,
+   "who"
+  ],
+  [
+   23,
+   32,
+   "leaked"
+  ],
+  [
+   35,
+   49,
+   "GTA"
+  ],
+  [
+   53,
+   70,
+   "6..."
+  ],
+  [
+   71,
+   74,
+   "did"
+  ],
+  [
+   75,
+   78,
+   "it"
+  ],
+  [
+   79,
+   84,
+   "from"
+  ],
+  [
+   85,
+   86,
+   "a"
+  ],
+  [
+   88,
+   97,
+   "hotel"
+  ],
+  [
+   99,
+   107,
+   "room."
+  ],
+  [
+   111,
+   126,
+   "With"
+  ],
+  [
+   127,
+   128,
+   "an"
+  ],
+  [
+   131,
+   145,
+   "Amazon"
+  ],
+  [
+   147,
+   155,
+   "Fire"
+  ],
+  [
+   157,
+   172,
+   "Stick."
+  ],
+  [
+   179,
+   187,
+   "Police"
+  ],
+  [
+   188,
+   191,
+   "had"
+  ],
+  [
+   192,
+   198,
+   "taken"
+  ],
+  [
+   199,
+   202,
+   "his"
+  ],
+  [
+   204,
+   223,
+   "laptop..."
+  ],
+  [
+   224,
+   227,
+   "so"
+  ],
+  [
+   228,
+   229,
+   "a"
+  ],
+  [
+   230,
+   237,
+   "court"
+  ],
+  [
+   238,
+   243,
+   "heard"
+  ],
+  [
+   245,
+   248,
+   "he"
+  ],
+  [
+   249,
+   256,
+   "used"
+  ],
+  [
+   257,
+   260,
+   "the"
+  ],
+  [
+   262,
+   271,
+   "hotel"
+  ],
+  [
+   275,
+   283,
+   "TV"
+  ],
+  [
+   284,
+   285,
+   "and"
+  ],
+  [
+   286,
+   289,
+   "his"
+  ],
+  [
+   291,
+   306,
+   "phone."
+  ],
+  [
+   312,
+   316,
+   "He"
+  ],
+  [
+   318,
+   323,
+   "got"
+  ],
+  [
+   324,
+   333,
+   "90"
+  ],
+  [
+   335,
+   346,
+   "secret"
+  ],
+  [
+   347,
+   358,
+   "videos"
+  ],
+  [
+   359,
+   360,
+   "of"
+  ],
+  [
+   361,
+   362,
+   "the"
+  ],
+  [
+   364,
+   383,
+   "game."
+  ],
+  [
+   385,
+   398,
+   "Rockstar"
+  ],
+  [
+   399,
+   404,
+   "said"
+  ],
+  [
+   405,
+   408,
+   "it"
+  ],
+  [
+   410,
+   417,
+   "cost"
+  ],
+  [
+   418,
+   423,
+   "them"
+  ],
+  [
+   425,
+   431,
+   "five"
+  ],
+  [
+   433,
+   444,
+   "million"
+  ],
+  [
+   446,
+   463,
+   "dollars."
+  ],
+  [
+   469,
+   473,
+   "And"
+  ],
+  [
+   475,
+   481,
+   "he's"
+  ],
+  [
+   483,
+   488,
+   "due"
+  ],
+  [
+   489,
+   494,
+   "back"
+  ],
+  [
+   495,
+   498,
+   "in"
+  ],
+  [
+   500,
+   509,
+   "court"
+  ],
+  [
+   510,
+   521,
+   "November"
+  ],
+  [
+   523,
+   548,
+   "9th..."
+  ],
+  [
+   550,
+   557,
+   "ten"
+  ],
+  [
+   559,
+   567,
+   "days"
+  ],
+  [
+   569,
+   577,
+   "before"
+  ],
+  [
+   581,
+   592,
+   "GTA"
+  ],
+  [
+   594,
+   600,
+   "6"
+  ],
+  [
+   602,
+   609,
+   "comes"
+  ],
+  [
+   610,
+   621,
+   "out."
+  ],
+  [
+   640,
+   654,
+   "Rockstar"
+  ],
+  [
+   656,
+   661,
+   "has"
+  ],
+  [
+   663,
+   676,
+   "thousands"
+  ],
+  [
+   677,
+   678,
+   "of"
+  ],
+  [
+   681,
+   693,
+   "devs"
+  ],
+  [
+   694,
+   702,
+   "making"
+  ],
+  [
+   705,
+   717,
+   "cars"
+  ],
+  [
+   718,
+   726,
+   "like"
+  ],
+  [
+   729,
+   743,
+   "these."
+  ],
+  [
+   748,
+   757,
+   "We"
+  ],
+  [
+   759,
+   765,
+   "just"
+  ],
+  [
+   766,
+   772,
+   "drew"
+  ],
+  [
+   774,
+   791,
+   "one..."
+  ],
+  [
+   812,
+   813,
+   "and"
+  ],
+  [
+   815,
+   823,
+   "Vi3W"
+  ],
+  [
+   825,
+   832,
+   "made"
+  ],
+  [
+   833,
+   835,
+   "it"
+  ],
+  [
+   837,
+   866,
+   "3D!"
+  ],
+  [
+   878,
+   887,
+   "Comment"
+  ],
+  [
+   888,
+   892,
+   "the"
+  ],
+  [
+   896,
+   909,
+   "GTA"
+  ],
+  [
+   911,
+   916,
+   "car"
+  ],
+  [
+   918,
+   921,
+   "we"
+  ],
+  [
+   922,
+   928,
+   "should"
+  ],
+  [
+   929,
+   935,
+   "build"
+  ],
+  [
+   938,
+   950,
+   "next!"
+  ],
+  [
+   953,
+   993,
+   "Vi3W.in"
+  ]
+ ],
+ "emphasis": [
+  "amazon",
+  "fire",
+  "stick",
+  "hotel",
+  "tv",
+  "phone",
+  "90",
+  "secret",
+  "five",
+  "million",
+  "november",
+  "9th",
+  "3d!",
+  "vi3w.in"
+ ],
+ "vo": [
+  {
+   "src": "vo/deb8d29039e0-n1.15.mp3",
+   "from": 3
+  },
+  {
+   "src": "vo/5bfc4a5ee937-n1.15.mp3",
+   "from": 179
+  },
+  {
+   "src": "vo/3be45ea617d7-n1.15.mp3",
+   "from": 312
+  },
+  {
+   "src": "vo/cb254fa1617d-n1.15.mp3",
+   "from": 469
+  },
+  {
+   "src": "vo/1ab4747831ce-n.mp3",
+   "from": 640
+  },
+  {
+   "src": "vo/d02ca0c03d16-n.mp3",
+   "from": 808
+  },
+  {
+   "src": "vo/f552d91e19af-n.mp3",
+   "from": 878
+  }
+ ],
+ "cues": [
+  {
+   "src": "music/investigations.mp3",
+   "from": 0,
+   "volume": 0.11,
+   "dur": 1041
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 739,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 823,
+   "volume": 0.55
+  },
+  {
+   "src": "sfx/ding.mp3",
+   "from": 878,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 127,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 381,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 636,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 324,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 510,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 147,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 262,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 286,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 663,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 705,
+   "volume": 0.35
+  }
+ ]
+}

@@ -11,10 +11,10 @@ import { useGLB } from "../three/Stage3D";
  *  Audio (VO, SFX, music) and karaoke captions are added by GameReel (reel.yaml), so this keeps the caption band
  *  (y ~1320-1520) and the bottom platform UI (y > 1540) clear. Every beat is keyed to the VO word times. */
 
-const { fontFamily: MONT } = loadFont("normal", { weights: ["700", "800", "900"], subsets: ["latin"] });
+export const { fontFamily: MONT } = loadFont("normal", { weights: ["700", "800", "900"], subsets: ["latin"] });
 
 const W = 1080, H = 1920;
-const C = {
+export const C = {
   green: "#4B974B", stud: "#5DAE5D", sky1: "#5EC8FF", sky2: "#D9F3FF", ink: "#07080C", accent: "#7CFF6B",
   yellow: "#F5CD30", blue: "#0D69AC", leg: "#A4BD47", red: "#C4281C", grey: "#A3A2A5", dark: "#1B2A35", gold: "#FFC93C",
 };
@@ -23,12 +23,12 @@ export const SCENES = [87, 135, 96, 129, 105, 180, 123, 147, 219, 120];
 export const EXPLAINER_FRAMES = SCENES.reduce((a, b) => a + b, 0);
 
 // --------------------------------------------------------------------------- deterministic helpers
-const rnd = (i: number) => {
+export const rnd = (i: number) => {
   const x = Math.sin(i * 127.1 + 311.7) * 43758.5453;
   return x - Math.floor(x);
 };
 
-const shadow = (k = 1) => `0 0 ${4 * k}px ${C.ink}, 0 ${6 * k}px ${26 * k}px ${C.ink}, 0 0 ${40 * k}px ${C.ink}AA`;
+export const shadow = (k = 1) => `0 0 ${4 * k}px ${C.ink}, 0 ${6 * k}px ${26 * k}px ${C.ink}, 0 0 ${40 * k}px ${C.ink}AA`;
 
 // --------------------------------------------------------------------------- 2D pieces
 const Tag: React.FC<{ step?: string; label: string; from?: number; color?: string }> = ({ step, label, from = 0, color = C.accent }) => {
@@ -46,7 +46,7 @@ const Tag: React.FC<{ step?: string; label: string; from?: number; color?: strin
   );
 };
 
-const Big: React.FC<{ text: React.ReactNode; y: number; from: number; size?: number; color?: string; shake?: boolean; until?: number }> = (
+export const Big: React.FC<{ text: React.ReactNode; y: number; from: number; size?: number; color?: string; shake?: boolean; until?: number }> = (
   { text, y, from, size = 110, color = "#fff", shake, until }) => {
   const f = useCurrentFrame();
   if (f < from || (until !== undefined && f >= until)) return null;
@@ -80,7 +80,7 @@ const Counter: React.FC<{ label: string; to: number; from: number; dur: number; 
   );
 };
 
-const Sky: React.FC<{ top?: string; bottom?: string }> = ({ top = C.sky1, bottom = C.sky2 }) => (
+export const Sky: React.FC<{ top?: string; bottom?: string }> = ({ top = C.sky1, bottom = C.sky2 }) => (
   <AbsoluteFill style={{ background: `linear-gradient(180deg, ${top} 0%, ${bottom} 72%)` }} />
 );
 
@@ -101,7 +101,7 @@ const studTexture = () => {
   return t;
 };
 
-const Baseplate: React.FC<{ size?: number }> = ({ size = 48 }) => {
+export const Baseplate: React.FC<{ size?: number }> = ({ size = 48 }) => {
   const tex = useMemo(studTexture, []);
   return (
     <mesh position={[0, -0.5, 0]} receiveShadow>
@@ -129,7 +129,7 @@ const Block: React.FC<{ p: [number, number, number]; s: [number, number, number]
 };
 
 /** Classic blocky avatar (generic box figure). */
-const Noob: React.FC<{ p: [number, number, number]; ry?: number; walk?: number; scale?: number }> = ({ p, ry = 0, walk = 0, scale = 1 }) => {
+export const Noob: React.FC<{ p: [number, number, number]; ry?: number; walk?: number; scale?: number }> = ({ p, ry = 0, walk = 0, scale = 1 }) => {
   const sw = Math.sin(walk) * 0.6;
   return (
     <group position={p} rotation={[0, ry, 0]} scale={scale}>
@@ -143,7 +143,7 @@ const Noob: React.FC<{ p: [number, number, number]; ry?: number; walk?: number; 
   );
 };
 
-const Cam: React.FC<{ fn: (f: number) => { p: [number, number, number]; t: [number, number, number]; fov?: number } }> = ({ fn }) => {
+export const Cam: React.FC<{ fn: (f: number) => { p: [number, number, number]; t: [number, number, number]; fov?: number } }> = ({ fn }) => {
   const f = useCurrentFrame();
   const { camera } = useThree();
   useLayoutEffect(() => {
@@ -156,7 +156,7 @@ const Cam: React.FC<{ fn: (f: number) => { p: [number, number, number]; t: [numb
   return null;
 };
 
-const Lights: React.FC = () => (
+export const Lights: React.FC = () => (
   <>
     <hemisphereLight args={["#E8F6FF", "#4B974B", 1.1]} />
     <directionalLight position={[18, 30, 12]} intensity={2.4} castShadow shadow-mapSize-width={2048} shadow-mapSize-height={2048}
@@ -172,7 +172,7 @@ const Stage: React.FC<{ children: React.ReactNode }> = ({ children }) => (
 );
 
 /** A real Vi3W GLB, normalised to `size` units tall, standing on y=0. Optional wireframe look. */
-const Model: React.FC<{ raw: THREE.Group; size?: number; wire?: boolean; ry?: number; y?: number }> = ({ raw, size = 6, wire, ry = 0, y = 0 }) => {
+export const Model: React.FC<{ raw: THREE.Group; size?: number; wire?: boolean; ry?: number; y?: number }> = ({ raw, size = 6, wire, ry = 0, y = 0 }) => {
   const pair = useMemo(() => {
     const make = (wf: boolean) => {
       const m = raw.clone(true);

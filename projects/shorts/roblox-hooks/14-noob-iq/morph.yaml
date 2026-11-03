@@ -1,0 +1,16 @@
+# Hook → 3D transition (python -m reelforge.morph projects/shorts/roblox-hooks/14-noob-iq/morph.yaml).
+# Reuses the existing Vi3W noob model renders from 01-butter-noob (nothing new generated).
+# Freeze 9.5: +911 IQ noob in the car with the Nokia. Box sized so the model's head sits on his head (body is hidden by the car).
+video: ref/hook-K8gqKT9x-uk.mp4
+start: 2.0
+freeze: 9.5
+subject: [160, 590, 700, 1640]
+renders: ../01-butter-noob/render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+cta_seconds: 3.9
+spin_tail: 132
+gain: 1.0
+fx_gain: 0.6
+spin_zoom: 0.78
+center_y: 880

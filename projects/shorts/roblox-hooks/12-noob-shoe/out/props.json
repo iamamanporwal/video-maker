@@ -1,0 +1,134 @@
+{
+ "fps": 30,
+ "durationInFrames": 489,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-5a8a46.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0.6,
+   "from": 0,
+   "dur": 381
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment WRONG SHOE \ud83d\udc47",
+   "backdrop": "clips/cta-full-eb3aed.mp4",
+   "from": 381,
+   "dur": 108
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/78ef279c7106.mp3",
+   "from": 262,
+   "words": [
+    [
+     268,
+     269,
+     "Wrong"
+    ],
+    [
+     273,
+     288,
+     "shoe\u2026"
+    ],
+    [
+     291,
+     300,
+     "but"
+    ],
+    [
+     303,
+     312,
+     "real"
+    ],
+    [
+     317,
+     334,
+     "3D"
+    ],
+    [
+     337,
+     353,
+     "noob!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/07eaf81fbcc2.mp3",
+   "from": 396,
+   "words": [
+    [
+     400,
+     401,
+     "Would"
+    ],
+    [
+     402,
+     406,
+     "you"
+    ],
+    [
+     408,
+     420,
+     "trust"
+    ],
+    [
+     422,
+     427,
+     "him"
+    ],
+    [
+     429,
+     434,
+     "with"
+    ],
+    [
+     435,
+     439,
+     "your"
+    ],
+    [
+     443,
+     461,
+     "shoe?"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @RoblotopiaRoblox",
+ "creditFrom": 210,
+ "cues": [
+  {
+   "src": "assets/yt-uhh-new.mp3",
+   "from": 210,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/yt-coil.mp3",
+   "from": 240,
+   "volume": 0.28
+  },
+  {
+   "src": "assets/yt-boing.mp3",
+   "from": 360,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/yt-button.mp3",
+   "from": 384,
+   "volume": 0.7
+  }
+ ]
+}

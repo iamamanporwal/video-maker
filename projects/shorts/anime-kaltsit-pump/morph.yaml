@@ -1,0 +1,22 @@
+# anime-kaltsit-pump: @Tachibana_Sawa 6p8worPo_bw "But Amiya worked so hard to catch it… 🥹" (21M).
+# Hook = assets/source-cut.mp4 (10.25 s): source 1.0-6.2 (Amiya proudly brings a salmon, Doctor throws it back,
+# splash) + 8.4-9.8 (she cries) + 16.3-19.95 (Kal'tsit hooks a pump to the river, water geysers) → freeze 10.2
+# (= source 19.9). Kal'tsit's 3D = the anime-gf-green model (real Vi3W), re-rendered at yaw 30 / elev 12 to match her
+# 3/4 turn toward the pump. Box on ear tip → boot soles.
+video: assets/source-cut.mp4
+start: 0.0
+freeze: 10.2
+subject: [500, 718, 820, 1252]
+renders: render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+center_y: 930
+spin_tail: 200
+gain: 0.55
+gamma: 1.9
+spin_zoom: 1.3
+cta_seconds: 5.0
+cta_settle: 0.6
+cta_sway: 8
+spin_turn: 2.2
+front: 165

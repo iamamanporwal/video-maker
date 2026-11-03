@@ -1,0 +1,43 @@
+# 11-noob-team: the noob-looking-for-a-team hook (45M) → screenshot → the existing Vi3W noob model (01-butter-noob renders).
+# morph.mp4: hook plays 0-5.27 s, freeze 5.27, scan 5.77-6.97, lift 6.97-7.77, spin to 10.97.
+# Rules: no VO and no added text before the freeze (credit waits for it); SFX only in VO gaps; mix dips hook/SFX under words.
+# Voice: Charlotte (premade, via fal).
+title: roblox-noob-team
+mix: true
+sfx: false
+voice: {id: XB0fDUnXU5powFXDhCwa, provider: fal, model: eleven_v3, stability: 0.0}
+credit: 🎥 @GameAnimania
+credit_from: 5.27
+segments:
+- id: morph
+  type: clip
+  src: assets/morph.mp4
+  in: 0.0
+  out: 11.83
+  fit: crop
+  gain: 0.6
+- id: cta
+  type: cta
+  seconds: 3.6
+  backdrop: assets/cta-full.mp4
+  line: One screenshot → *3D*
+  button: Comment PICK HIM 👇
+cues:
+- {at: morph, offset: 5.27, src: ../sfx/yt-uhh-new.mp3, gain: 0.9}
+- {at: morph, offset: 6.27, src: ../sfx/yt-coil.mp3, gain: 0.28}
+- {at: morph, offset: 11.13, src: ../sfx/yt-boing.mp3, gain: 0.6}
+- {at: cta, offset: 0.1, src: ../sfx/yt-button.mp3, gain: 0.7}
+vo:
+- {at: morph, offset: 6.99, text: "[excited] Nobody picked him? We did. Real 3D!"}
+- {at: cta, offset: 0.5, text: "[excited] Would you pick him for your team?"}
+post:
+  caption: 'nobody picked the noob… so we made him real 3D 🟨🟦
+
+
+    One screenshot → 3D with Vi3W (real output, unedited). Clip: @GameAnimania
+
+
+    Comment PICK HIM 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [roblox, robloxmemes, noob, robloxshorts, robloxanimation, 3d, imageto3d, vi3w]

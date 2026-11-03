@@ -1,0 +1,53 @@
+# 03-learning-blender: Mults' "Learning Blender Be Like" (2.3M) hook → split race, Blender months vs Vi3W steps (real jet
+# capture with founder face cam) → CTA. Source audio muted (likely licensed music).
+title: vi3w-learning-blender
+mix: true
+sfx: false
+captions: false
+voice: {id: FGY2WhTYpPnrIDTdsKH5, provider: fal, model: eleven_v3, stability: 0.0}
+segments:
+- {id: body, type: clip, src: assets/body.mp4, in: 0.0, out: 22.5, fit: crop, gain: 1.0}
+- id: cta
+  type: cta
+  seconds: 5.4
+  after: assets/jet-cta.mp4
+  line: Try *Vi3W.in*
+  sub: Turn sketches and images into 3D in seconds.
+  button: Comment your Blender fail 👇
+texts:
+- {at: 4.6, to: 5.5, text: "learning *blender* vs learning *Vi3W* 👇", y: 300}
+- {at: 5.5, to: 9.0, text: "BLENDER, week 1: the donut 🍩", y: 140}
+- {at: 5.5, to: 9.0, text: "VI3W, step 1: sketch it ✏️", y: 1060, style: stroke, size: 58}
+- {at: 9.0, to: 12.5, text: "week 3: still picking a render engine", y: 140}
+- {at: 9.0, to: 12.5, text: "step 2: image ✅", y: 1060, style: stroke, size: 58}
+- {at: 12.5, to: 16.0, text: "month 2: my \"character\"", y: 140}
+- {at: 12.5, to: 16.0, text: "step 3: real 3D ✅", y: 1060, style: stroke, size: 58}
+- {at: 16.0, to: 19.5, text: "month 6: imported it into my game", y: 140}
+- {at: 16.0, to: 19.5, text: "step 4: textured jet ✅", y: 1060, style: stroke, size: 58}
+- {at: 19.5, to: 22.5, text: "sketch on the left. real 3D on the right. 😮‍💨", y: 330}
+- {at: 19.8, to: 22.5, text: "made in *Vi3W*", y: 1520, style: stroke, size: 60}
+cues:
+- {at: 0.0, src: ../../vi3w-memes/sfx/typing.mp3, gain: 0.3}
+- {at: 0.0, src: ../../vi3w-memes/music/pixelland.mp3, gain: 0.28}
+- {at: 3.0, src: ../../vi3w-memes/sfx/winerror.mp3, gain: 0.4}
+- {at: 5.5, src: ../../vi3w-memes/sfx/scratch.mp3, gain: 0.45}
+- {at: 9.0, src: ../../vi3w-memes/sfx/ding.mp3, gain: 0.45}
+- {at: 12.5, src: ../../vi3w-memes/sfx/ding.mp3, gain: 0.45}
+- {at: 16.0, src: ../../vi3w-memes/sfx/vineboom.mp3, gain: 0.55}
+- {at: 16.05, src: ../../vi3w-memes/sfx/ding.mp3, gain: 0.45}
+- {at: 19.5, src: ../../vi3w-memes/sfx/wow.mp3, gain: 0.55}
+- {at: 19.8, src: ../../roblox-hooks/sfx/aura-short.mp3, gain: 0.35}
+vo:
+- {at: cta, offset: -0.3, text: "[excited] Try Vi3W.in! Turn sketches and images into 3D in seconds!"}
+post:
+  caption: |
+    learning blender: 6 months 💀 learning Vi3W: 4 steps
+
+    Real Vi3W app, real output: my jet sketch → textured 3D model.
+    Try Vi3W.in: turn sketches and images into 3D in seconds.
+
+    Comment your worst Blender fail 👇
+
+    Clip: Mults @MultsElMesco "Learning Blender Be Like" (used with permission)
+    Music: "Pixelland" Kevin MacLeod (incompetech.com), CC BY 4.0
+  hashtags: [blender, b3d, 3dmodeling, gamedev, indiedev, blendermemes, memes, sketchto3d, vi3w]

@@ -1,0 +1,45 @@
+# Body of 01-learning-3d: three 1M+ Blender-pain Shorts cut into one escalating "learning 3D" story → real Vi3W flow.
+# Sources (ref/): CI1GnF5H568 = anime girl living in Blender (3.7M, near-silent), r0VXb1hOGjo = "Learning Blender Be
+# Like" (2.3M, muted: its music is likely licensed), ZfAfQXOcImg = Blender cursed images (1M, its stings kept).
+out: assets/body.mp4
+shots:
+# --- hook: she tries to close Blender, the save dialog fights back (no text until 4.6) ---
+- dur: 6.0
+  top:    {src: ../ref/CI1GnF5H568.mp4, in: 19.5, zoom: 1.2, focus: 0.35, gain: 1.0}
+  bottom: {src: ../ref/r0VXb1hOGjo.mp4, in: 18.5}
+# --- DAY 1: donut tutorial / a 28,958-vertex circle ---
+- dur: 3.5
+  top:    {src: ../ref/r0VXb1hOGjo.mp4, in: 10.0}
+  bottom: {src: ../ref/ZfAfQXOcImg.mp4, in: 0.9, crop: [0.2, 0, 0.6, 1], gain: 0.9}
+# --- DAY 30: the "character" / melted Suzannes ---
+- dur: 3.5
+  top:    {src: ../ref/r0VXb1hOGjo.mp4, in: 36.0}
+  bottom: {src: ../ref/ZfAfQXOcImg.mp4, in: 19.9, fit: contain, gain: 0.9}
+# --- DAY 90: rigging spaghetti / it explodes in the game ---
+- dur: 3.0
+  top:    {src: ../ref/ZfAfQXOcImg.mp4, in: 36.9, zoom: 1.15, gain: 0.9}
+  bottom: {src: ../ref/r0VXb1hOGjo.mp4, in: 52.3}
+# --- crash ---
+- dur: 1.2
+  top:    {src: ../ref/ZfAfQXOcImg.mp4, in: 39.0, freeze: true, zoom: 1.15, fx: [red, shake]}
+  bottom: {src: ../ref/r0VXb1hOGjo.mp4, in: 55.0, freeze: true, fx: [red, shake]}
+# --- she climbs out of Blender and escapes to the desktop ---
+- dur: 4.3
+  top:    {src: ../ref/CI1GnF5H568.mp4, in: 29.5, zoom: 1.15, focus: 0.4, gain: 1.0}
+  bottom: {src: ../ref/CI1GnF5H568.mp4, in: 36.0}
+# --- the real Vi3W flow (Input/Demo 1.mp4, same windows as vi3w-memes/07) ---
+- dur: 3.6
+  top:    {src: "../../../../Input/Demo 1.mp4", in: 0.3, speed: 0.8, zoom: 1.35, focus: 0.85}
+  bottom: {src: ../ref/CI1GnF5H568.mp4, in: 42.0}
+- dur: 2.0
+  top:    {src: "../../../../Input/Demo 1.mp4", in: 4.8, zoom: 1.1, focus: 0.0, focus_y: 0.55}
+  bottom: {src: ../ref/CI1GnF5H568.mp4, in: 45.6}
+- dur: 2.0
+  top:    {src: "../../../../Input/Demo 1.mp4", in: 9.4, zoom: 1.1, focus: 1.0, focus_y: 0.55}
+  bottom: {src: ../ref/ZfAfQXOcImg.mp4, in: 48.9, crop: [0.2, 0, 0.6, 1], gain: 0.9}
+- dur: 2.0
+  top:    {src: "../../../../Input/Demo 1.mp4", in: 12.2, zoom: 1.1, focus: 0.15, focus_y: 0.5}
+  bottom: {src: ../ref/ZfAfQXOcImg.mp4, in: 50.9, crop: [0.2, 0, 0.6, 1]}
+# --- result: the chest spinning full screen ---
+- dur: 3.6
+  full:   {src: "../../../../Input/Demo 1.mp4", in: 19.8, speed: 0.4, crop: [0.22, 0.04, 0.62, 0.92], fit: contain, bg: "0x090b0d"}

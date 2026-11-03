@@ -1,0 +1,35 @@
+# Body of 04-cursed-images: Ryan Dick's "Blender Cursed Images" (ZfAfQXOcImg, 1M) as a countdown, cut on its own stings,
+# then the twist: the real Vi3W chest flow (Input/Demo 1.mp4, same windows as vi3w-memes/07) with cursed bones below.
+out: assets/body.mp4
+shots:
+# --- countdown (each shot starts on the source's sting) ---
+- dur: 4.0
+  full: {src: ../ref/ZfAfQXOcImg.mp4, in: 0.9, crop: [0.2, 0, 0.6, 1], fit: contain, gain: 0.9}
+- dur: 2.5
+  full: {src: ../ref/ZfAfQXOcImg.mp4, in: 4.9, crop: [0.2, 0, 0.6, 1], fit: contain, gain: 0.9}
+- dur: 2.5
+  full: {src: ../ref/ZfAfQXOcImg.mp4, in: 19.9, fit: contain, gain: 0.9}
+- dur: 2.5
+  full: {src: ../ref/ZfAfQXOcImg.mp4, in: 26.4, fit: contain, gain: 0.9}
+- dur: 2.5
+  full: {src: ../ref/ZfAfQXOcImg.mp4, in: 36.9, crop: [0.1, 0, 0.8, 1], fit: contain, gain: 0.9}
+- dur: 2.0
+  full: {src: ../ref/ZfAfQXOcImg.mp4, in: 42.9, crop: [0.2, 0, 0.6, 1], fit: contain, gain: 0.9}
+- dur: 2.5
+  full: {src: ../ref/ZfAfQXOcImg.mp4, in: 48.9, crop: [0.2, 0, 0.6, 1], fit: contain, gain: 0.9}
+# --- twist: the real Vi3W flow (top) vs my blender folder (bottom) ---
+- dur: 3.6
+  top:    {src: "../../../../Input/Demo 1.mp4", in: 0.3, speed: 0.8, zoom: 1.35, focus: 0.85}
+  bottom: {src: ../ref/ZfAfQXOcImg.mp4, in: 12.5, crop: [0.2, 0, 0.6, 1]}
+- dur: 2.0
+  top:    {src: "../../../../Input/Demo 1.mp4", in: 4.8, zoom: 1.1, focus: 0.0, focus_y: 0.55}
+  bottom: {src: ../ref/ZfAfQXOcImg.mp4, in: 16.1, crop: [0.2, 0, 0.6, 1]}
+- dur: 2.0
+  top:    {src: "../../../../Input/Demo 1.mp4", in: 9.4, zoom: 1.1, focus: 1.0, focus_y: 0.55}
+  bottom: {src: ../ref/ZfAfQXOcImg.mp4, in: 44.5, crop: [0.2, 0, 0.6, 1]}
+- dur: 2.0
+  top:    {src: "../../../../Input/Demo 1.mp4", in: 12.2, zoom: 1.1, focus: 0.15, focus_y: 0.5}
+  bottom: {src: ../ref/ZfAfQXOcImg.mp4, in: 46.5, crop: [0.2, 0, 0.6, 1]}
+# --- result: the chest spinning full screen ---
+- dur: 3.6
+  full:   {src: "../../../../Input/Demo 1.mp4", in: 19.8, speed: 0.4, crop: [0.22, 0.04, 0.62, 0.92], fit: contain, bg: "0x090b0d"}

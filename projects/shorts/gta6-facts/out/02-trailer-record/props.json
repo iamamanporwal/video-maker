@@ -1,0 +1,623 @@
+{
+ "fps": 30,
+ "durationInFrames": 968,
+ "tag": "GTA 6 DEV FACT #2 \ud83d\udcc8",
+ "credit": "\ud83c\udfa5 Rockstar Games \u00b7 official trailers",
+ "shots": [
+  {
+   "src": "clips/t1.mp4",
+   "from": 0,
+   "dur": 53,
+   "at": 96,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 53,
+   "dur": 52,
+   "at": 1446,
+   "x": 0.5,
+   "glitch": true
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 105,
+   "dur": 39,
+   "at": 390,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 144,
+   "dur": 50,
+   "at": 660,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 194,
+   "dur": 19,
+   "at": 765,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 213,
+   "dur": 93,
+   "at": 1020,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 306,
+   "dur": 58,
+   "at": 1080,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 364,
+   "dur": 59,
+   "at": 1200,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 423,
+   "dur": 67,
+   "at": 1980,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 490,
+   "dur": 32,
+   "at": 930,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 522,
+   "dur": 44,
+   "at": 2310,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/rz.mp4",
+   "from": 566,
+   "dur": 42,
+   "at": 1398,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 608,
+   "dur": 24,
+   "at": 2109,
+   "x": 0.55,
+   "glitch": false
+  },
+  {
+   "src": "clips/t2.mp4",
+   "from": 632,
+   "dur": 39,
+   "at": 810,
+   "x": 0.5,
+   "glitch": false
+  }
+ ],
+ "cards": [
+  {
+   "kind": "stamp",
+   "text": "LEAKED",
+   "sub": "THE NIGHT BEFORE \ud83d\ude33",
+   "from": 53,
+   "dur": 52
+  },
+  {
+   "kind": "stamp",
+   "text": "12 HRS",
+   "sub": "EARLY DROP \ud83d\udea8",
+   "color": "#FFE14D",
+   "from": 144,
+   "dur": 50
+  },
+  {
+   "kind": "counter",
+   "value": 90421491,
+   "label": "VIEWS IN 24 HOURS",
+   "rival": {
+    "label": "MrBeast's record: 59.4M",
+    "value": 59400000
+   },
+   "note": "GUINNESS WORLD RECORD",
+   "from": 204,
+   "dur": 219
+  },
+  {
+   "kind": "list",
+   "title": "HOW ROCKSTAR BUILDS IT",
+   "items": [
+    {
+     "icon": "\ud83e\uddd1\u200d\ud83d\udcbb",
+     "text": "1000s OF DEVS",
+     "at": 23
+    },
+    {
+     "icon": "\u23f3",
+     "text": "YEARS OF WORK",
+     "at": 66
+    }
+   ],
+   "from": 566,
+   "dur": 105
+  }
+ ],
+ "plug": {
+  "from": 671,
+  "pop": 79,
+  "end": 133,
+  "sketch": "img/sketch.png",
+  "render": "img/render.png",
+  "model": "clips/car3d_b.mp4",
+  "logo": "img/logo.png",
+  "url": "Vi3W.in",
+  "bait": "comment the GTA car we should 3D next \ud83d\udc47"
+ },
+ "words": [
+  [
+   9,
+   10,
+   "This"
+  ],
+  [
+   14,
+   29,
+   "GTA"
+  ],
+  [
+   32,
+   39,
+   "6"
+  ],
+  [
+   40,
+   51,
+   "trailer"
+  ],
+  [
+   53,
+   63,
+   "leaked"
+  ],
+  [
+   64,
+   65,
+   "the"
+  ],
+  [
+   67,
+   75,
+   "night"
+  ],
+  [
+   77,
+   101,
+   "before..."
+  ],
+  [
+   105,
+   111,
+   "so"
+  ],
+  [
+   113,
+   128,
+   "Rockstar"
+  ],
+  [
+   129,
+   137,
+   "dropped"
+  ],
+  [
+   139,
+   142,
+   "it"
+  ],
+  [
+   144,
+   152,
+   "12"
+  ],
+  [
+   153,
+   161,
+   "hours"
+  ],
+  [
+   163,
+   188,
+   "early."
+  ],
+  [
+   194,
+   197,
+   "Then"
+  ],
+  [
+   198,
+   201,
+   "it"
+  ],
+  [
+   204,
+   211,
+   "got"
+  ],
+  [
+   213,
+   225,
+   "90"
+  ],
+  [
+   228,
+   247,
+   "MILLION"
+  ],
+  [
+   249,
+   259,
+   "views"
+  ],
+  [
+   261,
+   266,
+   "in"
+  ],
+  [
+   267,
+   281,
+   "24"
+  ],
+  [
+   283,
+   300,
+   "hours."
+  ],
+  [
+   306,
+   313,
+   "That"
+  ],
+  [
+   315,
+   321,
+   "beat"
+  ],
+  [
+   322,
+   345,
+   "MrBeast's"
+  ],
+  [
+   347,
+   361,
+   "record."
+  ],
+  [
+   364,
+   383,
+   "Guinness"
+  ],
+  [
+   384,
+   388,
+   "made"
+  ],
+  [
+   389,
+   390,
+   "it"
+  ],
+  [
+   392,
+   417,
+   "official."
+  ],
+  [
+   423,
+   437,
+   "90"
+  ],
+  [
+   439,
+   454,
+   "million"
+  ],
+  [
+   457,
+   483,
+   "views..."
+  ],
+  [
+   483,
+   485,
+   "for"
+  ],
+  [
+   486,
+   488,
+   "a"
+  ],
+  [
+   490,
+   500,
+   "game"
+  ],
+  [
+   502,
+   509,
+   "that"
+  ],
+  [
+   511,
+   521,
+   "wasn't"
+  ],
+  [
+   522,
+   526,
+   "even"
+  ],
+  [
+   528,
+   533,
+   "out"
+  ],
+  [
+   535,
+   548,
+   "yet."
+  ],
+  [
+   566,
+   581,
+   "Rockstar"
+  ],
+  [
+   583,
+   588,
+   "has"
+  ],
+  [
+   589,
+   602,
+   "thousands"
+  ],
+  [
+   603,
+   605,
+   "of"
+  ],
+  [
+   608,
+   619,
+   "devs"
+  ],
+  [
+   621,
+   629,
+   "making"
+  ],
+  [
+   632,
+   643,
+   "cars"
+  ],
+  [
+   645,
+   653,
+   "like"
+  ],
+  [
+   655,
+   670,
+   "these."
+  ],
+  [
+   674,
+   684,
+   "We"
+  ],
+  [
+   685,
+   691,
+   "just"
+  ],
+  [
+   693,
+   698,
+   "drew"
+  ],
+  [
+   700,
+   718,
+   "one..."
+  ],
+  [
+   739,
+   740,
+   "and"
+  ],
+  [
+   742,
+   749,
+   "Vi3W"
+  ],
+  [
+   751,
+   759,
+   "made"
+  ],
+  [
+   760,
+   761,
+   "it"
+  ],
+  [
+   763,
+   793,
+   "3D!"
+  ],
+  [
+   804,
+   814,
+   "Comment"
+  ],
+  [
+   815,
+   819,
+   "the"
+  ],
+  [
+   822,
+   835,
+   "GTA"
+  ],
+  [
+   837,
+   843,
+   "car"
+  ],
+  [
+   844,
+   847,
+   "we"
+  ],
+  [
+   848,
+   855,
+   "should"
+  ],
+  [
+   856,
+   862,
+   "build"
+  ],
+  [
+   864,
+   876,
+   "next!"
+  ],
+  [
+   880,
+   919,
+   "Vi3W.in"
+  ]
+ ],
+ "emphasis": [
+  "12",
+  "90",
+  "million",
+  "mrbeast's",
+  "guinness",
+  "official",
+  "3d!",
+  "vi3w.in"
+ ],
+ "vo": [
+  {
+   "src": "vo/9262cd2686bb-n.mp3",
+   "from": 3
+  },
+  {
+   "src": "vo/897c0b8f7d5c-n.mp3",
+   "from": 194
+  },
+  {
+   "src": "vo/ef5390befc73-n.mp3",
+   "from": 306
+  },
+  {
+   "src": "vo/a6197fd7a1ca-n.mp3",
+   "from": 423
+  },
+  {
+   "src": "vo/1ab4747831ce-n.mp3",
+   "from": 566
+  },
+  {
+   "src": "vo/d02ca0c03d16-n.mp3",
+   "from": 735
+  },
+  {
+   "src": "vo/f552d91e19af-n.mp3",
+   "from": 804
+  }
+ ],
+ "cues": [
+  {
+   "src": "music/hitman.mp3",
+   "from": 0,
+   "volume": 0.11,
+   "dur": 968
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 665,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 750,
+   "volume": 0.55
+  },
+  {
+   "src": "sfx/ding.mp3",
+   "from": 804,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 200,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 562,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 53,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 144,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 589,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 632,
+   "volume": 0.35
+  }
+ ]
+}

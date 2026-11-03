@@ -1,0 +1,43 @@
+# 12-noob-shoe: the noob-returns-the-wrong-shoe hook (42M) → screenshot → the existing Vi3W noob model (01-butter-noob renders).
+# morph.mp4: hook plays 0-7.0 s, freeze 7.0, scan 7.5-8.7, lift 8.7-9.5, spin to 12.7.
+# Rules: no VO and no added text before the freeze (credit waits for it); SFX only in VO gaps; mix dips hook/SFX under words.
+# Voice: Alice (premade, via fal).
+title: roblox-noob-shoe
+mix: true
+sfx: false
+voice: {id: Xb7hH8MSUJpSbSDYk0k2, provider: fal, model: eleven_v3, stability: 0.0}
+credit: 🎥 @RoblotopiaRoblox
+credit_from: 7.0
+segments:
+- id: morph
+  type: clip
+  src: assets/morph.mp4
+  in: 0.0
+  out: 12.7
+  fit: crop
+  gain: 0.6
+- id: cta
+  type: cta
+  seconds: 3.6
+  backdrop: assets/cta-full.mp4
+  line: One screenshot → *3D*
+  button: Comment WRONG SHOE 👇
+cues:
+- {at: morph, offset: 7.0, src: ../sfx/yt-uhh-new.mp3, gain: 0.9}
+- {at: morph, offset: 8.0, src: ../sfx/yt-coil.mp3, gain: 0.28}
+- {at: morph, offset: 12.0, src: ../sfx/yt-boing.mp3, gain: 0.6}
+- {at: cta, offset: 0.1, src: ../sfx/yt-button.mp3, gain: 0.7}
+vo:
+- {at: morph, offset: 8.72, text: "[excited] Wrong shoe… but real 3D noob!"}
+- {at: cta, offset: 0.5, text: "[excited] Would you trust him with your shoe?"}
+post:
+  caption: 'he brought back the wrong shoe 💀 now he''s a real 3D model
+
+
+    One screenshot → 3D with Vi3W (real output, unedited). Clip: @RoblotopiaRoblox
+
+
+    Comment WRONG SHOE 👇 Make yours at Vi3W.in
+
+    '
+  hashtags: [roblox, robloxmemes, noob, robloxirl, robloxshorts, 3d, imageto3d, vi3w]

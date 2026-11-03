@@ -1,0 +1,152 @@
+{
+ "fps": 30,
+ "durationInFrames": 624,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-233018.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0.55,
+   "from": 0,
+   "dur": 456
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment my next meal \ud83c\udf5c",
+   "backdrop": "clips/cta-full-9f63dc.mp4",
+   "from": 456,
+   "dur": 168
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/9d0befc20ff7.mp3",
+   "from": 282,
+   "words": [
+    [
+     295,
+     304,
+     "Bleh!"
+    ],
+    [
+     307,
+     316,
+     "Who"
+    ],
+    [
+     317,
+     328,
+     "cooked"
+    ],
+    [
+     329,
+     332,
+     "that"
+    ],
+    [
+     336,
+     354,
+     "fish?!"
+    ],
+    [
+     384,
+     409,
+     "Wait\u2026"
+    ],
+    [
+     413,
+     421,
+     "I'm"
+    ],
+    [
+     428,
+     450,
+     "3D?"
+    ]
+   ]
+  },
+  {
+   "src": "vo/8aa227395923.mp3",
+   "from": 458,
+   "words": [
+    [
+     458,
+     465,
+     "Okay"
+    ],
+    [
+     467,
+     480,
+     "Doctor,"
+    ],
+    [
+     481,
+     487,
+     "what"
+    ],
+    [
+     488,
+     492,
+     "are"
+    ],
+    [
+     493,
+     496,
+     "you"
+    ],
+    [
+     497,
+     504,
+     "feeding"
+    ],
+    [
+     505,
+     508,
+     "me"
+    ],
+    [
+     512,
+     528,
+     "next?"
+    ],
+    [
+     530,
+     544,
+     "Comment"
+    ],
+    [
+     546,
+     568,
+     "below\u2026"
+    ],
+    [
+     570,
+     573,
+     "and"
+    ],
+    [
+     576,
+     583,
+     "no"
+    ],
+    [
+     586,
+     604,
+     "fish!"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @Tachibana_Sawa",
+ "creditFrom": 192
+}

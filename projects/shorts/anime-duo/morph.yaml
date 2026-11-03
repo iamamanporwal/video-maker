@@ -1,0 +1,21 @@
+# anime-duo: @Tachibana_Sawa BBt2xjfpBWk (138M). Same proven hook as anime-gf (4.22-11.22: Kal'tsit flings the fish,
+# Mon3tr leaps out of the lake and catches it, freeze 11.22) → Mon3tr lifts into 3D (left slot) → Kal'tsit's 3D
+# model slides in beside her → both settle front-on for "green or white?".
+video: assets/source.mp4
+start: 4.22
+freeze: 11.22
+subject: [575, 770, 1045, 1480]
+renders: ../anime-gf/render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+center_y: 930
+spin_tail: 171
+gain: 0.55
+cta_seconds: 5.5
+cta_settle: 0.6
+cta_sway: 8
+companion:
+  renders: ../anime-gf-green/render/morph
+  enter: 0.5
+  gamma: 1.9
+spin_turn: 2.2

@@ -1,0 +1,139 @@
+{
+ "fps": 30,
+ "durationInFrames": 463,
+ "brand": {
+  "accent": "#7CFF6B",
+  "ink": "#07080C",
+  "text": "#FFFFFF"
+ },
+ "segments": [
+  {
+   "type": "clip",
+   "src": "clips/morph-3e47ef.mp4",
+   "startFrom": 0,
+   "speed": 1.0,
+   "fit": "crop",
+   "focus": 0.5,
+   "zoom": 1,
+   "gain": 0.6,
+   "from": 0,
+   "dur": 355
+  },
+  {
+   "type": "cta",
+   "line": "One screenshot \u2192 *3D*",
+   "button": "Comment PICK HIM \ud83d\udc47",
+   "backdrop": "clips/cta-full-0f9883.mp4",
+   "from": 355,
+   "dur": 108
+  }
+ ],
+ "vo": [
+  {
+   "src": "vo/68d4a373fdb6.mp3",
+   "from": 210,
+   "words": [
+    [
+     214,
+     224,
+     "Nobody"
+    ],
+    [
+     226,
+     234,
+     "picked"
+    ],
+    [
+     236,
+     248,
+     "him?"
+    ],
+    [
+     251,
+     256,
+     "We"
+    ],
+    [
+     258,
+     278,
+     "did."
+    ],
+    [
+     281,
+     292,
+     "Real"
+    ],
+    [
+     299,
+     328,
+     "3D!"
+    ]
+   ]
+  },
+  {
+   "src": "vo/804a837d68f0.mp3",
+   "from": 370,
+   "words": [
+    [
+     373,
+     377,
+     "Would"
+    ],
+    [
+     378,
+     382,
+     "you"
+    ],
+    [
+     383,
+     389,
+     "pick"
+    ],
+    [
+     390,
+     394,
+     "him"
+    ],
+    [
+     395,
+     399,
+     "for"
+    ],
+    [
+     400,
+     406,
+     "your"
+    ],
+    [
+     409,
+     425,
+     "team?"
+    ]
+   ]
+  }
+ ],
+ "credit": "\ud83c\udfa5 @GameAnimania",
+ "creditFrom": 158,
+ "cues": [
+  {
+   "src": "assets/yt-uhh-new.mp3",
+   "from": 158,
+   "volume": 0.9
+  },
+  {
+   "src": "assets/yt-coil.mp3",
+   "from": 188,
+   "volume": 0.28
+  },
+  {
+   "src": "assets/yt-boing.mp3",
+   "from": 334,
+   "volume": 0.6
+  },
+  {
+   "src": "assets/yt-button.mp3",
+   "from": 358,
+   "volume": 0.7
+  }
+ ]
+}

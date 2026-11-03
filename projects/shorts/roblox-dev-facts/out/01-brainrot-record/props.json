@@ -1,0 +1,423 @@
+{
+ "fps": 30,
+ "durationInFrames": 971,
+ "tag": "ROBLOX DEV FACT #1 \ud83e\udde0",
+ "credit": "\ud83c\udfa5 @EazyEthan",
+ "shots": [
+  {
+   "src": "clips/yy.mp4",
+   "from": 0,
+   "dur": 39,
+   "at": 405,
+   "y0": 800,
+   "volume": 0.2
+  },
+  {
+   "src": "clips/yy.mp4",
+   "from": 39,
+   "dur": 18,
+   "at": 237,
+   "y0": 760,
+   "volume": 0.2
+  },
+  {
+   "src": "clips/yy.mp4",
+   "from": 57,
+   "dur": 25,
+   "at": 426,
+   "y0": 800,
+   "volume": 0.2
+  },
+  {
+   "src": "clips/b3.mp4",
+   "from": 82,
+   "dur": 29,
+   "at": 468,
+   "y0": 760,
+   "volume": 0.2
+  },
+  {
+   "src": "clips/b3.mp4",
+   "from": 111,
+   "dur": 117,
+   "at": 402,
+   "y0": 760,
+   "volume": 0.2
+  },
+  {
+   "src": "clips/yy.mp4",
+   "from": 228,
+   "dur": 48,
+   "at": 102,
+   "y0": 780,
+   "volume": 0.2
+  },
+  {
+   "src": "clips/b3.mp4",
+   "from": 276,
+   "dur": 64,
+   "at": 9,
+   "y0": 760,
+   "volume": 0.2
+  }
+ ],
+ "stat": {
+  "from": 111,
+  "dur": 117,
+  "label": "STEAL A BRAINROT",
+  "value": 25868678,
+  "rival": "Fortnite's record: 15.3M",
+  "rivalValue": 15300000,
+  "note": "GUINNESS WORLD RECORD"
+ },
+ "freeze": {
+  "from": 340,
+  "dur": 194,
+  "chip": "\u23f3 HOURS PER MODEL \ud83d\udc80",
+  "items": [
+   {
+    "img": "img/game_13.8.png",
+    "wire": "img/wire_13.8.png",
+    "tag": "3D MODEL \u2713",
+    "at": 0
+   },
+   {
+    "img": "img/game_8.3.png",
+    "wire": "img/wire_8.3.png",
+    "tag": "3D MODEL \u2713",
+    "at": 123
+   }
+  ]
+ },
+ "reveal": {
+  "from": 534,
+  "dur": 173,
+  "pop": 61,
+  "baitAt": 134,
+  "sketch": "img/sketch.png",
+  "model": "models/bread-tt-b.webm",
+  "name": "Tostino Squalino",
+  "rate": "\ud83d\udcb5 $999K/s",
+  "line": "so we drew a new one \u270f\ufe0f",
+  "bait": "name a better one \ud83d\udc47"
+ },
+ "outro": {
+  "from": 707,
+  "src": "clips/outro.mp4"
+ },
+ "words": [
+  [
+   9,
+   10,
+   "This"
+  ],
+  [
+   13,
+   27,
+   "Roblox"
+  ],
+  [
+   29,
+   37,
+   "game"
+  ],
+  [
+   38,
+   46,
+   "broke"
+  ],
+  [
+   48,
+   68,
+   "Fortnite's"
+  ],
+  [
+   69,
+   85,
+   "all-time"
+  ],
+  [
+   86,
+   94,
+   "player"
+  ],
+  [
+   96,
+   111,
+   "record."
+  ],
+  [
+   114,
+   145,
+   "25.8"
+  ],
+  [
+   148,
+   167,
+   "MILLION"
+  ],
+  [
+   169,
+   179,
+   "people..."
+  ],
+  [
+   180,
+   188,
+   "playing"
+  ],
+  [
+   189,
+   191,
+   "at"
+  ],
+  [
+   191,
+   193,
+   "the"
+  ],
+  [
+   195,
+   200,
+   "same"
+  ],
+  [
+   203,
+   220,
+   "time."
+  ],
+  [
+   228,
+   230,
+   "And"
+  ],
+  [
+   231,
+   233,
+   "the"
+  ],
+  [
+   234,
+   240,
+   "whole"
+  ],
+  [
+   242,
+   252,
+   "game"
+  ],
+  [
+   254,
+   259,
+   "is"
+  ],
+  [
+   262,
+   300,
+   "literally..."
+  ],
+  [
+   302,
+   314,
+   "stealing"
+  ],
+  [
+   317,
+   334,
+   "memes."
+  ],
+  [
+   348,
+   353,
+   "But"
+  ],
+  [
+   354,
+   362,
+   "every"
+  ],
+  [
+   364,
+   382,
+   "brainrot"
+  ],
+  [
+   383,
+   386,
+   "in"
+  ],
+  [
+   388,
+   394,
+   "it?"
+  ],
+  [
+   397,
+   413,
+   "That's"
+  ],
+  [
+   414,
+   415,
+   "a"
+  ],
+  [
+   416,
+   430,
+   "3D"
+  ],
+  [
+   432,
+   451,
+   "model."
+  ],
+  [
+   455,
+   466,
+   "And"
+  ],
+  [
+   467,
+   480,
+   "modeling"
+  ],
+  [
+   481,
+   487,
+   "them"
+  ],
+  [
+   489,
+   499,
+   "takes"
+  ],
+  [
+   502,
+   528,
+   "forever."
+  ],
+  [
+   537,
+   542,
+   "So"
+  ],
+  [
+   543,
+   547,
+   "we"
+  ],
+  [
+   548,
+   559,
+   "sketched"
+  ],
+  [
+   560,
+   561,
+   "a"
+  ],
+  [
+   562,
+   568,
+   "brand"
+  ],
+  [
+   569,
+   571,
+   "new"
+  ],
+  [
+   573,
+   585,
+   "one..."
+  ],
+  [
+   615,
+   616,
+   "Meet"
+  ],
+  [
+   618,
+   640,
+   "Tostino"
+  ],
+  [
+   642,
+   666,
+   "Squalino!"
+  ]
+ ],
+ "emphasis": [
+  "fortnite's",
+  "25.8",
+  "million",
+  "stealing",
+  "3d",
+  "forever",
+  "tostino",
+  "squalino"
+ ],
+ "vo": [
+  {
+   "src": "vo/8ee8c8113e50-n.mp3",
+   "from": 3
+  },
+  {
+   "src": "vo/ec3558d51412-n.mp3",
+   "from": 114
+  },
+  {
+   "src": "vo/ad96c9ac69dc-n.mp3",
+   "from": 228
+  },
+  {
+   "src": "vo/483a78f8920d-n.mp3",
+   "from": 348
+  },
+  {
+   "src": "vo/6da50716fe62-n.mp3",
+   "from": 537
+  },
+  {
+   "src": "vo/7ad7a6c0b8a1-n.mp3",
+   "from": 609
+  }
+ ],
+ "cues": [
+  {
+   "src": "music/pixelland.mp3",
+   "from": 0,
+   "volume": 0.05
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 107,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 336,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 340,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 528,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 595,
+   "volume": 0.55
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 701,
+   "volume": 0.4
+  }
+ ]
+}

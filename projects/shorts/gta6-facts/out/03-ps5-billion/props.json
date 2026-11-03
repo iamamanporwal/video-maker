@@ -1,0 +1,650 @@
+{
+ "fps": 30,
+ "durationInFrames": 1017,
+ "tag": "GTA 6 DEV FACT #3 \ud83c\udfae",
+ "credit": "\ud83c\udfa5 Rockstar Games \u00b7 official trailers",
+ "shots": [
+  {
+   "src": "clips/t2.mp4",
+   "from": 0,
+   "dur": 49,
+   "at": 240,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t2.mp4",
+   "from": 49,
+   "dur": 49,
+   "at": 270,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t2.mp4",
+   "from": 98,
+   "dur": 70,
+   "at": 1155,
+   "x": 0.45,
+   "glitch": false
+  },
+  {
+   "src": "clips/t2.mp4",
+   "from": 168,
+   "dur": 43,
+   "at": 765,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t2.mp4",
+   "from": 211,
+   "dur": 45,
+   "at": 1080,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t2.mp4",
+   "from": 256,
+   "dur": 96,
+   "at": 4215,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t2.mp4",
+   "from": 352,
+   "dur": 24,
+   "at": 4275,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t2.mp4",
+   "from": 376,
+   "dur": 38,
+   "at": 345,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/rz.mp4",
+   "from": 414,
+   "dur": 39,
+   "at": 1470,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/rz.mp4",
+   "from": 453,
+   "dur": 34,
+   "at": 1800,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/rz.mp4",
+   "from": 487,
+   "dur": 54,
+   "at": 2160,
+   "x": 0.45,
+   "glitch": false
+  },
+  {
+   "src": "clips/rz.mp4",
+   "from": 541,
+   "dur": 74,
+   "at": 2445,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/rz.mp4",
+   "from": 615,
+   "dur": 41,
+   "at": 1398,
+   "x": 0.5,
+   "glitch": false
+  },
+  {
+   "src": "clips/t1.mp4",
+   "from": 656,
+   "dur": 24,
+   "at": 2109,
+   "x": 0.55,
+   "glitch": false
+  },
+  {
+   "src": "clips/t2.mp4",
+   "from": 680,
+   "dur": 40,
+   "at": 810,
+   "x": 0.5,
+   "glitch": false
+  }
+ ],
+ "cards": [
+  {
+   "kind": "stamp",
+   "text": "PS5 \u2713",
+   "sub": "CAPTURED IN-GAME",
+   "color": "#4FA3FF",
+   "from": 124,
+   "dur": 53
+  },
+  {
+   "kind": "counter",
+   "prefix": "$",
+   "value": 1000000000,
+   "suffix": "+",
+   "label": "ANALYST BUDGET ESTIMATE",
+   "note": "MOST EXPENSIVE GAME EVER?",
+   "from": 453,
+   "dur": 88
+  },
+  {
+   "kind": "stamp",
+   "text": "NOV 19",
+   "sub": "2026 \ud83d\udd25",
+   "color": "#FFE14D",
+   "from": 562,
+   "dur": 42
+  },
+  {
+   "kind": "list",
+   "title": "HOW ROCKSTAR BUILDS IT",
+   "items": [
+    {
+     "icon": "\ud83e\uddd1\u200d\ud83d\udcbb",
+     "text": "1000s OF DEVS",
+     "at": 23
+    },
+    {
+     "icon": "\u23f3",
+     "text": "YEARS OF WORK",
+     "at": 65
+    }
+   ],
+   "from": 615,
+   "dur": 105
+  }
+ ],
+ "plug": {
+  "from": 720,
+  "pop": 78,
+  "end": 133,
+  "sketch": "img/sketch.png",
+  "render": "img/render.png",
+  "model": "clips/car3d_b.mp4",
+  "logo": "img/logo.png",
+  "url": "Vi3W.in",
+  "bait": "comment the GTA car we should 3D next \ud83d\udc47"
+ },
+ "words": [
+  [
+   9,
+   17,
+   "Rockstar"
+  ],
+  [
+   20,
+   29,
+   "says"
+  ],
+  [
+   30,
+   34,
+   "this"
+  ],
+  [
+   36,
+   44,
+   "whole"
+  ],
+  [
+   49,
+   73,
+   "GTA"
+  ],
+  [
+   75,
+   82,
+   "6"
+  ],
+  [
+   84,
+   94,
+   "trailer"
+  ],
+  [
+   98,
+   111,
+   "ran"
+  ],
+  [
+   113,
+   116,
+   "on"
+  ],
+  [
+   118,
+   121,
+   "a"
+  ],
+  [
+   124,
+   161,
+   "PS5."
+  ],
+  [
+   168,
+   175,
+   "Not"
+  ],
+  [
+   177,
+   178,
+   "a"
+  ],
+  [
+   180,
+   190,
+   "gaming"
+  ],
+  [
+   195,
+   207,
+   "PC."
+  ],
+  [
+   211,
+   223,
+   "Not"
+  ],
+  [
+   226,
+   228,
+   "a"
+  ],
+  [
+   230,
+   238,
+   "render"
+  ],
+  [
+   240,
+   252,
+   "farm."
+  ],
+  [
+   256,
+   276,
+   "Captured"
+  ],
+  [
+   279,
+   298,
+   "in-game,"
+  ],
+  [
+   302,
+   310,
+   "on"
+  ],
+  [
+   311,
+   312,
+   "a"
+  ],
+  [
+   314,
+   346,
+   "PlayStation."
+  ],
+  [
+   352,
+   357,
+   "Half"
+  ],
+  [
+   359,
+   362,
+   "of"
+  ],
+  [
+   364,
+   367,
+   "it"
+  ],
+  [
+   369,
+   374,
+   "is"
+  ],
+  [
+   376,
+   386,
+   "actual"
+  ],
+  [
+   388,
+   412,
+   "gameplay."
+  ],
+  [
+   414,
+   420,
+   "And"
+  ],
+  [
+   421,
+   434,
+   "analysts"
+  ],
+  [
+   436,
+   444,
+   "think"
+  ],
+  [
+   445,
+   451,
+   "the"
+  ],
+  [
+   453,
+   460,
+   "game"
+  ],
+  [
+   462,
+   470,
+   "cost"
+  ],
+  [
+   472,
+   480,
+   "over"
+  ],
+  [
+   482,
+   484,
+   "a"
+  ],
+  [
+   487,
+   501,
+   "BILLION"
+  ],
+  [
+   503,
+   516,
+   "dollars"
+  ],
+  [
+   516,
+   518,
+   "to"
+  ],
+  [
+   520,
+   535,
+   "make."
+  ],
+  [
+   541,
+   544,
+   "It"
+  ],
+  [
+   545,
+   553,
+   "comes"
+  ],
+  [
+   555,
+   560,
+   "out"
+  ],
+  [
+   562,
+   572,
+   "November"
+  ],
+  [
+   574,
+   596,
+   "19th."
+  ],
+  [
+   615,
+   629,
+   "Rockstar"
+  ],
+  [
+   631,
+   637,
+   "has"
+  ],
+  [
+   638,
+   651,
+   "thousands"
+  ],
+  [
+   652,
+   653,
+   "of"
+  ],
+  [
+   656,
+   668,
+   "devs"
+  ],
+  [
+   669,
+   677,
+   "making"
+  ],
+  [
+   680,
+   692,
+   "cars"
+  ],
+  [
+   694,
+   701,
+   "like"
+  ],
+  [
+   704,
+   718,
+   "these."
+  ],
+  [
+   723,
+   733,
+   "We"
+  ],
+  [
+   734,
+   740,
+   "just"
+  ],
+  [
+   741,
+   747,
+   "drew"
+  ],
+  [
+   749,
+   766,
+   "one..."
+  ],
+  [
+   788,
+   788,
+   "and"
+  ],
+  [
+   790,
+   798,
+   "Vi3W"
+  ],
+  [
+   800,
+   808,
+   "made"
+  ],
+  [
+   808,
+   810,
+   "it"
+  ],
+  [
+   812,
+   841,
+   "3D!"
+  ],
+  [
+   853,
+   862,
+   "Comment"
+  ],
+  [
+   864,
+   867,
+   "the"
+  ],
+  [
+   871,
+   884,
+   "GTA"
+  ],
+  [
+   886,
+   891,
+   "car"
+  ],
+  [
+   893,
+   896,
+   "we"
+  ],
+  [
+   897,
+   903,
+   "should"
+  ],
+  [
+   904,
+   910,
+   "build"
+  ],
+  [
+   913,
+   925,
+   "next!"
+  ],
+  [
+   928,
+   968,
+   "Vi3W.in"
+  ]
+ ],
+ "emphasis": [
+  "ps5",
+  "playstation",
+  "gameplay",
+  "billion",
+  "november",
+  "19th",
+  "3d!",
+  "vi3w.in"
+ ],
+ "vo": [
+  {
+   "src": "vo/1352dd4a7791-n.mp3",
+   "from": 3
+  },
+  {
+   "src": "vo/76822b480fa5-n.mp3",
+   "from": 168
+  },
+  {
+   "src": "vo/ecfc1f42c71c-n.mp3",
+   "from": 352
+  },
+  {
+   "src": "vo/1e8e92e798fc-n.mp3",
+   "from": 541
+  },
+  {
+   "src": "vo/1ab4747831ce-n.mp3",
+   "from": 615
+  },
+  {
+   "src": "vo/d02ca0c03d16-n.mp3",
+   "from": 784
+  },
+  {
+   "src": "vo/f552d91e19af-n.mp3",
+   "from": 853
+  }
+ ],
+ "cues": [
+  {
+   "src": "music/hitman.mp3",
+   "from": 0,
+   "volume": 0.11,
+   "dur": 1017
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 714,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 798,
+   "volume": 0.55
+  },
+  {
+   "src": "sfx/ding.mp3",
+   "from": 853,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 449,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 611,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 124,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 562,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 638,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 680,
+   "volume": 0.35
+  }
+ ]
+}

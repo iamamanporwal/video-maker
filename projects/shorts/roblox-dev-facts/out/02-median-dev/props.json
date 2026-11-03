@@ -1,0 +1,488 @@
+{
+ "fps": 30,
+ "durationInFrames": 1119,
+ "tag": "ROBLOX DEV FACT #2 \ud83d\udcb8",
+ "credit": "\ud83c\udfa5 @EazyEthan",
+ "shots": [
+  {
+   "src": "clips/b3.mp4",
+   "from": 0,
+   "dur": 39,
+   "at": 420,
+   "y0": 470,
+   "kind": "tall",
+   "x0": 470,
+   "volume": 0.2
+  },
+  {
+   "src": "clips/fb.mp4",
+   "from": 39,
+   "dur": 62,
+   "at": 9,
+   "y0": 460,
+   "kind": "tall",
+   "x0": 460,
+   "volume": 0.2
+  },
+  {
+   "src": "clips/b3.mp4",
+   "from": 101,
+   "dur": 46,
+   "at": 66,
+   "y0": 460,
+   "kind": "tall",
+   "x0": 460,
+   "volume": 0.2
+  },
+  {
+   "src": "clips/b3.mp4",
+   "from": 147,
+   "dur": 66,
+   "at": 450,
+   "y0": 780,
+   "kind": "tall",
+   "x0": 780,
+   "volume": 0.2
+  },
+  {
+   "src": "clips/fb.mp4",
+   "from": 213,
+   "dur": 118,
+   "at": 240,
+   "y0": 780,
+   "kind": "tall",
+   "x0": 780,
+   "volume": 0.2
+  },
+  {
+   "src": "clips/fb.mp4",
+   "from": 331,
+   "dur": 114,
+   "at": 510,
+   "y0": 780,
+   "kind": "tall",
+   "x0": 780,
+   "volume": 0.2
+  }
+ ],
+ "stat": {
+  "header": "WHAT ROBLOX DEVS MADE (2024)",
+  "prefix": "$",
+  "label": "",
+  "value": 33900000,
+  "rival": "TOP 10 DEVS (AVERAGE)",
+  "rivalValue": 33900000,
+  "note": "ROBLOX ECONOMIC IMPACT REPORT \u00b7 DEVEX",
+  "from": 144,
+  "dur": 301,
+  "twist": {
+   "at": 231,
+   "label": "THE MEDIAN DEV",
+   "value": 1440
+  }
+ },
+ "freeze": {
+  "from": 445,
+  "dur": 189,
+  "chip": "\ud83d\udce6 EVERY ITEM = A 3D MODEL",
+  "items": [
+   {
+    "img": "img/f02_0.png",
+    "wire": "img/f02_0_wire.png",
+    "tag": "3D MODEL \u2713",
+    "at": 0
+   },
+   {
+    "img": "img/f02_1.png",
+    "wire": "img/f02_1_wire.png",
+    "tag": "3D MODEL \u2713",
+    "at": 148
+   }
+  ]
+ },
+ "reveal": {
+  "from": 634,
+  "dur": 221,
+  "pop": 83,
+  "baitAt": 182,
+  "sketch": "",
+  "model": "",
+  "name": "Fighter Jet \u2708\ufe0f",
+  "rate": "",
+  "line": "",
+  "bait": "what should we sketch next? \ud83d\udc47",
+  "demo": {
+   "src": "clips/demo_02.mp4",
+   "w": 1000,
+   "h": 750
+  }
+ },
+ "outro": {
+  "from": 855,
+  "src": "clips/outro.mp4"
+ },
+ "words": [
+  [
+   7,
+   22,
+   "Roblox"
+  ],
+  [
+   24,
+   29,
+   "paid"
+  ],
+  [
+   31,
+   37,
+   "its"
+  ],
+  [
+   39,
+   49,
+   "devs"
+  ],
+  [
+   51,
+   61,
+   "over"
+  ],
+  [
+   62,
+   68,
+   "one"
+  ],
+  [
+   70,
+   85,
+   "billion"
+  ],
+  [
+   87,
+   101,
+   "dollars"
+  ],
+  [
+   104,
+   109,
+   "in"
+  ],
+  [
+   110,
+   111,
+   "a"
+  ],
+  [
+   113,
+   128,
+   "single"
+  ],
+  [
+   130,
+   142,
+   "year."
+  ],
+  [
+   147,
+   149,
+   "The"
+  ],
+  [
+   151,
+   156,
+   "top"
+  ],
+  [
+   158,
+   164,
+   "ten"
+  ],
+  [
+   167,
+   180,
+   "devs?"
+  ],
+  [
+   183,
+   195,
+   "They"
+  ],
+  [
+   197,
+   212,
+   "averaged"
+  ],
+  [
+   213,
+   245,
+   "33.9"
+  ],
+  [
+   249,
+   272,
+   "MILLION"
+  ],
+  [
+   274,
+   305,
+   "dollars."
+  ],
+  [
+   308,
+   327,
+   "Each."
+  ],
+  [
+   331,
+   333,
+   "And"
+  ],
+  [
+   334,
+   336,
+   "the"
+  ],
+  [
+   337,
+   348,
+   "median"
+  ],
+  [
+   351,
+   376,
+   "dev?..."
+  ],
+  [
+   378,
+   422,
+   "1,440"
+  ],
+  [
+   424,
+   444,
+   "dollars."
+  ],
+  [
+   452,
+   454,
+   "The"
+  ],
+  [
+   456,
+   480,
+   "difference?"
+  ],
+  [
+   482,
+   488,
+   "Top"
+  ],
+  [
+   490,
+   500,
+   "games"
+  ],
+  [
+   502,
+   512,
+   "keep"
+  ],
+  [
+   513,
+   524,
+   "shipping"
+  ],
+  [
+   525,
+   529,
+   "new"
+  ],
+  [
+   531,
+   555,
+   "stuff."
+  ],
+  [
+   556,
+   558,
+   "And"
+  ],
+  [
+   559,
+   567,
+   "every"
+  ],
+  [
+   569,
+   574,
+   "new"
+  ],
+  [
+   577,
+   586,
+   "item"
+  ],
+  [
+   589,
+   594,
+   "is"
+  ],
+  [
+   595,
+   596,
+   "a"
+  ],
+  [
+   597,
+   608,
+   "3D"
+  ],
+  [
+   610,
+   627,
+   "model."
+  ],
+  [
+   637,
+   645,
+   "So"
+  ],
+  [
+   647,
+   654,
+   "our"
+  ],
+  [
+   656,
+   666,
+   "founder"
+  ],
+  [
+   669,
+   681,
+   "sketched"
+  ],
+  [
+   682,
+   683,
+   "a"
+  ],
+  [
+   684,
+   693,
+   "fighter"
+  ],
+  [
+   695,
+   707,
+   "jet..."
+  ],
+  [
+   734,
+   735,
+   "and"
+  ],
+  [
+   738,
+   747,
+   "Vi3W"
+  ],
+  [
+   749,
+   757,
+   "turned"
+  ],
+  [
+   758,
+   762,
+   "it"
+  ],
+  [
+   764,
+   786,
+   "3D"
+  ],
+  [
+   788,
+   793,
+   "in"
+  ],
+  [
+   795,
+   814,
+   "minutes!"
+  ]
+ ],
+ "emphasis": [
+  "billion",
+  "33.9",
+  "million",
+  "1,440",
+  "3d",
+  "jet",
+  "minutes"
+ ],
+ "vo": [
+  {
+   "src": "vo/46d4829d2511-n.mp3",
+   "from": 3
+  },
+  {
+   "src": "vo/61baf32af711-n.mp3",
+   "from": 147
+  },
+  {
+   "src": "vo/ebfafe57d116-n.mp3",
+   "from": 331
+  },
+  {
+   "src": "vo/301de481c40a-n.mp3",
+   "from": 452
+  },
+  {
+   "src": "vo/f5daa0b995e1-n.mp3",
+   "from": 637
+  },
+  {
+   "src": "vo/659675d86440-n.mp3",
+   "from": 730
+  }
+ ],
+ "cues": [
+  {
+   "src": "music/pixelland.mp3",
+   "from": 0,
+   "volume": 0.05
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 140,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 375,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 445,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 628,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 717,
+   "volume": 0.55
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 849,
+   "volume": 0.4
+  }
+ ]
+}

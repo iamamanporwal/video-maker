@@ -1,0 +1,16 @@
+# Hook → 3D transition (python -m reelforge.morph projects/shorts/roblox-hooks/13-noob-tsunami/morph.yaml).
+# Reuses the existing Vi3W noob model renders from 01-butter-noob (nothing new generated).
+# Freeze 8.0: the sponge noob held up next to the green sponge-face tsunami.
+video: ref/hook-LfUn_NtmY6k.mp4
+start: 1.5
+freeze: 8.0
+subject: [470, 630, 1080, 1260]
+renders: ../01-butter-noob/render/morph
+out: assets/morph.mp4
+cta_full_out: assets/cta-full.mp4
+cta_seconds: 3.6
+spin_tail: 132
+gain: 1.0
+fx_gain: 0.6
+spin_zoom: 0.78
+center_y: 880

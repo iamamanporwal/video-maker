@@ -1,0 +1,10 @@
+{
+ "vo_median_db": -15.8,
+ "snr_median_db": 44.2,
+ "snr_p10_db": 32.3,
+ "voiced_below_8db_pct": 0.0,
+ "sfx_on_words": [],
+ "gap_bursts_s": [
+  5.2
+ ]
+}
