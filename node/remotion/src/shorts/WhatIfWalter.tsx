@@ -734,7 +734,7 @@ export const WhatIfWalter: React.FC<WalterProps> = (p) => {
       )}
       <Captions lines={p.lines} skip={[11, 15, 17]} />
       <Vignette v={0.55} />
-      <Grain o={0.1} />
+      {/* film grain is added at mux time (ffmpeg noise): an SVG turbulence layer per frame renders ~10x slower */}
       {/* fade from black at the start, to black at the very end */}
       <AbsoluteFill style={{ background: "#000", opacity: Math.max(1 - k(t, 0, 0.5, "linear"), k(t, A.end - 0.6, 0.6, "linear")), pointerEvents: "none" }} />
     </AbsoluteFill>

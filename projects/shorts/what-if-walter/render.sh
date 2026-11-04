@@ -11,7 +11,8 @@ cd "$R"
 npx remotion render src/shorts/index.ts WhatIfWalter "$D/out/picture.mp4" --props="$D/out/props.json" --muted \
   --browser-executable="$CHROME" --gl=swangle --concurrency=4 --codec=h264 --crf=17 --pixel-format=yuv420p --timeout=240000
 cd "$D/out"
-ffmpeg -v error -y -i picture.mp4 -i ../public/mix.wav -map 0:v -map 1:a -c:v copy -c:a pcm_s16le -shortest raw.mkv
+ffmpeg -v error -y -i picture.mp4 -i ../public/mix.wav -map 0:v -map 1:a -vf "noise=alls=7:allf=t+u,format=yuv420p" \
+  -c:v libx264 -preset slow -crf 18 -c:a pcm_s16le -shortest raw.mkv
 # two-pass loudnorm to -14 LUFS integrated, -1.5 dBTP
 J=$(ffmpeg -hide_banner -i raw.mkv -af loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json -f null - 2>&1 | sed -n '/^{/,/^}/p')
 g() { echo "$J" | python3 -c "import json,sys;print(json.load(sys.stdin)['$1'])"; }
