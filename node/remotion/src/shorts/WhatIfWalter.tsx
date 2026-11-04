@@ -249,7 +249,7 @@ const Heisenberg: React.FC<{ A: Record<string, number> }> = ({ A }) => {
   const strike = k(t, A.pride, 0.5, "inOutCubic");
   return (
     <AbsoluteFill style={{ background: `radial-gradient(circle at 50% 42%, ${hot > 0 ? "#f7b84a" : "#3a2c1a"} 0%, #b4431c ${30 + 10 * hot}%, #1a0b06 78%)` }}>
-      <AbsoluteFill style={{ background: INK, opacity: 1 - hot * 0.98 }} />
+      <AbsoluteFill style={{ background: INK, opacity: 0.72 * (1 - hot) }} />
       <div style={{ position: "absolute", left: 0, right: 0, top: 340, textAlign: "center" }}>
         <span style={{ position: "relative", fontFamily: MONO, fontWeight: 700, fontSize: 54, letterSpacing: "0.18em", color: hot > 0.5 ? INK : BONE,
                        opacity: 1 - 0.5 * hot }}>
