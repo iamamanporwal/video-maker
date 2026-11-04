@@ -5,6 +5,7 @@ import { GameReel } from "./GameReel";
 import { GtaFact } from "./GtaFact";
 import { IMissSteve } from "./IMissSteve";
 import { ModClip } from "./ModClip";
+import { WhatIfWalter } from "./WhatIfWalter";
 import { EXPLAINER_FRAMES, RobloxExplainer } from "./RobloxExplainer";
 import type { ReelProps } from "./types";
 import { OUTRO_FRAMES, Vi3WOutro } from "./Vi3WOutro";
@@ -21,6 +22,16 @@ const EMPTY: ReelProps = {
 /** Vertical shorts. Python writes props.json; duration and fps come from it. */
 export const ShortsRoot: React.FC = () => (
   <>
+  <Composition
+    id="WhatIfWalter"
+    component={WhatIfWalter as any}
+    width={1080}
+    height={1920}
+    fps={30}
+    durationInFrames={2924}
+    defaultProps={{}}
+    calculateMetadata={({ props }) => ({ durationInFrames: (props as any).durationInFrames ?? 2924, fps: 30 })}
+  />
   <Composition
     id="IMissSteve"
     component={IMissSteve as any}

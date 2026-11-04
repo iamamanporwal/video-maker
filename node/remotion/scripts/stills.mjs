@@ -1,6 +1,6 @@
 // Render many stills from one bundle, reusing one browser (renderStill + puppeteerInstance).
 //   node scripts/stills.mjs job.json
-// job: { props: path, out: dir, scale, port, jobs: [{ comp, frames: [..] }] }
+// job: { props: path, out: dir, scale, port, jobs: [{ comp, frames: [..] }], entry?: "src/shorts/index.ts", browser?: chrome path }
 import { bundle } from "@remotion/bundler";
 import { openBrowser, renderStill, selectComposition } from "@remotion/renderer";
 import fs from "node:fs";
@@ -12,8 +12,8 @@ const job = JSON.parse(fs.readFileSync(process.argv[2], "utf8"));
 const inputProps = JSON.parse(fs.readFileSync(job.props, "utf8"));
 fs.mkdirSync(job.out, { recursive: true });
 
-const serveUrl = await bundle({ entryPoint: path.join(here, "..", "src", "index.ts") });
-const browser = await openBrowser("chrome", { chromiumOptions: { gl: job.gl ?? "angle" } });
+const serveUrl = await bundle({ entryPoint: path.join(here, "..", job.entry ?? "src/index.ts") });
+const browser = await openBrowser("chrome", { chromiumOptions: { gl: job.gl ?? "angle" }, browserExecutable: job.browser ?? null });
 const written = [];
 try {
   for (const j of job.jobs) {
