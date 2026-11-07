@@ -1,0 +1,55 @@
+{
+ "title": "vi3w-cursed-images",
+ "seconds": 37.1,
+ "segments": 2,
+ "vo_lines": 1,
+ "rights": "own",
+ "mix": {
+  "vo_median_db": -16.8,
+  "snr_median_db": 25.7,
+  "snr_p10_db": 16.4,
+  "voiced_below_8db_pct": 2.3,
+  "sfx_on_words": [],
+  "gap_bursts_s": []
+ },
+ "master": {
+  "measured": {
+   "input_i": "-19.30",
+   "input_tp": "-2.09",
+   "input_lra": "11.30",
+   "input_thresh": "-30.03",
+   "output_i": "-12.59",
+   "output_tp": "-1.50",
+   "output_lra": "5.60",
+   "output_thresh": "-22.74",
+   "normalization_type": "dynamic",
+   "target_offset": "-1.41"
+  },
+  "mode": "gain+limiter",
+  "result": {
+   "lufs": -14.2,
+   "true_peak": -2.0,
+   "lra": 11.0
+  }
+ },
+ "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/blender-mashup/04-cursed-images/out/vi3w-cursed-images-9x16.mp4",
+ "loudness": {
+  "lufs": -14.2,
+  "true_peak": -2.0,
+  "lra": 11.0
+ },
+ "summary": {
+  "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/blender-mashup/04-cursed-images/out/vi3w-cursed-images-9x16.mp4",
+  "duration": 37.1,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "vcodec": "h264",
+  "profile": "High",
+  "pix_fmt": "yuv420p",
+  "nb_frames": 1113,
+  "acodec": "aac",
+  "sample_rate": 48000,
+  "channels": 2
+ }
+}

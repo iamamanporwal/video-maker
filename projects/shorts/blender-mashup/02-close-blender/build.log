@@ -1,0 +1,55 @@
+{
+ "title": "vi3w-close-blender",
+ "seconds": 32.9,
+ "segments": 2,
+ "vo_lines": 1,
+ "rights": "own",
+ "mix": {
+  "vo_median_db": -16.7,
+  "snr_median_db": 28.9,
+  "snr_p10_db": 22.0,
+  "voiced_below_8db_pct": 0.0,
+  "sfx_on_words": [],
+  "gap_bursts_s": []
+ },
+ "master": {
+  "measured": {
+   "input_i": "-17.31",
+   "input_tp": "-2.98",
+   "input_lra": "18.90",
+   "input_thresh": "-29.59",
+   "output_i": "-13.73",
+   "output_tp": "-1.50",
+   "output_lra": "9.50",
+   "output_thresh": "-24.62",
+   "normalization_type": "dynamic",
+   "target_offset": "-0.27"
+  },
+  "mode": "loudnorm-linear",
+  "result": {
+   "lufs": -13.8,
+   "true_peak": -1.4,
+   "lra": 16.7
+  }
+ },
+ "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/blender-mashup/02-close-blender/out/vi3w-close-blender-9x16.mp4",
+ "loudness": {
+  "lufs": -13.8,
+  "true_peak": -1.4,
+  "lra": 16.7
+ },
+ "summary": {
+  "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/blender-mashup/02-close-blender/out/vi3w-close-blender-9x16.mp4",
+  "duration": 32.9,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "vcodec": "h264",
+  "profile": "High",
+  "pix_fmt": "yuv420p",
+  "nb_frames": 987,
+  "acodec": "aac",
+  "sample_rate": 48000,
+  "channels": 2
+ }
+}

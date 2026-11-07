@@ -1,0 +1,68 @@
+{
+ "title": "vi3w-learning-3d",
+ "seconds": 40.1,
+ "segments": 2,
+ "vo_lines": 1,
+ "rights": "own",
+ "mix": {
+  "vo_median_db": -16.5,
+  "snr_median_db": 39.6,
+  "snr_p10_db": 29.8,
+  "voiced_below_8db_pct": 0.0,
+  "sfx_on_words": [],
+  "gap_bursts_s": [
+   16.3,
+   16.4,
+   16.6,
+   16.7,
+   17.8,
+   17.9,
+   18.0,
+   18.1,
+   18.2,
+   18.4,
+   18.5,
+   18.6
+  ]
+ },
+ "master": {
+  "measured": {
+   "input_i": "-17.91",
+   "input_tp": "-2.44",
+   "input_lra": "11.90",
+   "input_thresh": "-28.75",
+   "output_i": "-13.39",
+   "output_tp": "-1.50",
+   "output_lra": "8.50",
+   "output_thresh": "-23.77",
+   "normalization_type": "dynamic",
+   "target_offset": "-0.61"
+  },
+  "mode": "loudnorm-linear",
+  "result": {
+   "lufs": -13.7,
+   "true_peak": -1.5,
+   "lra": 9.4
+  }
+ },
+ "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/blender-mashup/01-learning-3d/out/vi3w-learning-3d-9x16.mp4",
+ "loudness": {
+  "lufs": -13.7,
+  "true_peak": -1.5,
+  "lra": 9.4
+ },
+ "summary": {
+  "file": "/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/blender-mashup/01-learning-3d/out/vi3w-learning-3d-9x16.mp4",
+  "duration": 40.1,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "vcodec": "h264",
+  "profile": "High",
+  "pix_fmt": "yuv420p",
+  "nb_frames": 1203,
+  "acodec": "aac",
+  "sample_rate": 48000,
+  "channels": 2
+ }
+}
