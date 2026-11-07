@@ -8,6 +8,13 @@ description: Build a Zack D. Films / LowPolyShorts-style 3D explainer short (9:1
 Pilot and template: `projects/shorts/3d-2d-hat/` (scene.py + build.py). Library: `src/reelforge/blender/director.py`
 (runs inside Blender) and `src/reelforge/blender/render.py` (parallel renderer). Copy the pilot folder for a new short.
 
+## Skill chain (use in this order)
+1. `3d-explainer-script`: topic → SCRIPT.md (beat formula, ~115 words, a visual note per 2-5-word chunk).
+2. `3d-shot-grammar`: SCRIPT.md → shots.json (Zack shot vocabulary, a cut every ~1 s, `zack.py` void/pop/whip/cutaway).
+3. This skill: VO, scene.py, render, compose.
+4. Look: `3d-lookdev` (premium Zack look) **or** `lowpoly-ps2` (PS2 LowPolyShorts look, `ps2.py`, ~10× faster).
+5. `film-qc` loop to ≥9/10.
+
 ## Pipeline (one command: `.venv/bin/python projects/shorts/<id>/build.py [--preview]`)
 
 1. **VO first.** ElevenLabs direct API (never fal for now), then word timestamps (mlx-whisper, or ElevenLabs
@@ -33,7 +40,8 @@ Pilot and template: `projects/shorts/3d-2d-hat/` (scene.py + build.py). Library:
 - Use stock animations (Mixamo/Sketchfab clips) for locomotion. Script only the acting beats.
 
 ## Camera and light language (Zack D)
-- Cut on every phrase (1.5-3 s shots): over-shoulder establish → close-up on the action → 3/4 close-up → wide payoff.
+- Cut on every caption chunk: measured median **~1.0 s** per shot (about 40 setups in 41 s); full vocabulary in
+  `3d-shot-grammar`. Pattern: MACRO on the action → INSERT → WIDE/POV payoff.
 - Every shot moves: eased dolly or push-in of 5-15 %, plus `D.handheld()` noise of 5-8 mm. Lens 28-38 mm on the
   vertical sensor. DOF f/4 only on close-ups.
 - High-key soft studio: light-blue cyclorama, soft sun (14° angle) for contact shadows, a big area key front-left, a
