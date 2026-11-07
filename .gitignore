@@ -45,3 +45,39 @@ FinalUploads/
 
 # Poly Haven CC0 cache (re-download: python -m reelforge.polyhaven kit)
 assets/polyhaven/
+
+# Rendered frame sequences, Blender autosave backups, re-encoded reference footage (regenerable)
+projects/**/frames/
+*.blend1
+projects/**/ref/h264/
+
+# Stray dir from an unformatted path string
+%s/
+
+# Oversized files (>50 MB), added 2026-11-07
+projects/shorts/vi3w-outro/out/showcase.blend
+projects/shorts/game-dev-facts/ref/DvZXYF0ErWs.mp4
+projects/shorts/i-miss-steve/out/film-raw2.mp4
+projects/shorts/gta6-13-years/out/story.mp4
+projects/shorts/i-miss-steve/out/film-raw.mp4
+projects/shorts/i-miss-steve/out/film-v2-raw.mp4
+projects/shorts/walt-jesse/out/walt-jesse.mp4
+projects/shorts/gta6-13-years/out/gta6-13-years.mp4
+projects/shorts/i-miss-steve/out/i-miss-steve.mp4
+projects/shorts/walt-no-cancer/out/walt-no-cancer.mp4
+projects/shorts/gta6-by-hand/out/story.mp4
+projects/shorts/i-miss-steve/out/i-miss-steve-v2.mp4
+projects/shorts/landlord-dog/out/scene.blend
+projects/shorts/delhi-spend/out/scene.blend
+projects/shorts/roblox-dev-facts/ref/bh/unZxKg5Pe4M.mp4
+projects/shorts/learn-blender-hindi/out/scene.blend
+projects/shorts/gta6-by-hand/out/gta6-by-hand.mp4
+projects/shorts/delhi-spend/out/delhi-spend.mp4
+projects/shorts/vi3w-outro/out/outro.blend
+projects/shorts/roblox-dev-facts/ref/bh/C5hwO43G_aw.mp4
+projects/shorts/gta6-13-years/ref/N-xHcvug3WI.mp4
+projects/shorts/vi3w-outro/assets/bread.glb
+projects/shorts/landlord-dog/assets/bread.glb
+
+# Pipeline workspace with its own git repo
+projects/launch/studios-in-3-clicks/

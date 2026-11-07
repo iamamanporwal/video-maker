@@ -1,0 +1,14 @@
+[
+ {
+  "prompt": "A person walks forward.",
+  "seconds": 3.0
+ },
+ {
+  "prompt": "A person jumps.",
+  "seconds": 2.0
+ },
+ {
+  "prompt": "A person performs a backflip.",
+  "seconds": 2.2
+ }
+]
