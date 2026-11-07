@@ -1,0 +1,1988 @@
+{
+ "fps": 30,
+ "durationInFrames": 2316,
+ "shots": [
+  {
+   "src": "clips/cut/0870df059e.mp4",
+   "from": 0,
+   "dur": 40,
+   "at": 0,
+   "x": 0.45,
+   "mode": "full",
+   "grade": "vice",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/e1739d4f95.mp4",
+   "from": 40,
+   "dur": 40,
+   "at": 0,
+   "x": 0.6,
+   "mode": "full",
+   "grade": "warm",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "3d/calendar.mp4",
+   "from": 80,
+   "dur": 45,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "warm",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/7d01174c51.mp4",
+   "from": 125,
+   "dur": 55,
+   "at": 0,
+   "x": 0.45,
+   "mode": "full",
+   "grade": "warm",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/84ca322c0f.mp4",
+   "from": 180,
+   "dur": 76,
+   "at": 0,
+   "x": 0.4,
+   "mode": "full",
+   "grade": "vice",
+   "glitch": true,
+   "speed": 1.0
+  },
+  {
+   "src": "3d/hourglass.mp4",
+   "from": 256,
+   "dur": 48,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/ef5b2fba97.mp4",
+   "from": 304,
+   "dur": 27,
+   "at": 0,
+   "x": 0.4,
+   "mode": "full",
+   "grade": "money",
+   "glitch": true,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/bf9a43f9df.mp4",
+   "from": 331,
+   "dur": 60,
+   "at": 0,
+   "x": 0.55,
+   "mode": "full",
+   "grade": "money",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/1640c608da.mp4",
+   "from": 391,
+   "dur": 53,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "money",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/22bc0503d8.mp4",
+   "from": 444,
+   "dur": 26,
+   "at": 0,
+   "x": 0.4,
+   "mode": "full",
+   "grade": "money",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "3d/consoles.mp4",
+   "from": 470,
+   "dur": 164,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 0.712
+  },
+  {
+   "src": "clips/cut/5dca3c8474.mp4",
+   "from": 634,
+   "dur": 35,
+   "at": 0,
+   "x": 0.6,
+   "mode": "full",
+   "grade": "warm",
+   "glitch": true,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/c600e9eea7.mp4",
+   "from": 669,
+   "dur": 63,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "money",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/d621c5feaa.mp4",
+   "from": 732,
+   "dur": 73,
+   "at": 0,
+   "x": 0.45,
+   "mode": "full",
+   "grade": "money",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "3d/printer.mp4",
+   "from": 805,
+   "dur": 87,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "money",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/90c98ffb5b.mp4",
+   "from": 892,
+   "dur": 62,
+   "at": 0,
+   "x": 0.4,
+   "mode": "full",
+   "grade": "warm",
+   "glitch": true,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/0458308193.mp4",
+   "from": 954,
+   "dur": 61,
+   "at": 0,
+   "x": 0.55,
+   "mode": "full",
+   "grade": "warm",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/8902a28670.mp4",
+   "from": 1015,
+   "dur": 63,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "warm",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/b798943a27.mp4",
+   "from": 1078,
+   "dur": 71,
+   "at": 0,
+   "x": 0.45,
+   "mode": "full",
+   "grade": "warm",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/1326e100a3.mp4",
+   "from": 1149,
+   "dur": 36,
+   "at": 0,
+   "x": 0.45,
+   "mode": "full",
+   "grade": "red",
+   "glitch": true,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/ff3a729a23.mp4",
+   "from": 1185,
+   "dur": 120,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "cold",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/b264b559e1.mp4",
+   "from": 1305,
+   "dur": 70,
+   "at": 0,
+   "x": 0.45,
+   "mode": "full",
+   "grade": "red",
+   "glitch": true,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/881ad7340c.mp4",
+   "from": 1375,
+   "dur": 36,
+   "at": 0,
+   "x": 0.65,
+   "mode": "full",
+   "grade": "cold",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/ebc24fba2d.mp4",
+   "from": 1411,
+   "dur": 61,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "bw",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/07ce93a74a.mp4",
+   "from": 1472,
+   "dur": 57,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "red",
+   "glitch": true,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/9a0fe63c15.mp4",
+   "from": 1529,
+   "dur": 78,
+   "at": 0,
+   "x": 0.4,
+   "mode": "full",
+   "grade": "red",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/2aea4a0363.mp4",
+   "from": 1607,
+   "dur": 87,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/54d71a47e5.mp4",
+   "from": 1694,
+   "dur": 41,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "vice",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/03fd228770.mp4",
+   "from": 1735,
+   "dur": 41,
+   "at": 0,
+   "x": 0.45,
+   "mode": "full",
+   "grade": "vice",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/6a41cfe78b.mp4",
+   "from": 1776,
+   "dur": 82,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "vice",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/2b1ae144be.mp4",
+   "from": 1858,
+   "dur": 75,
+   "at": 0,
+   "x": 0.3,
+   "mode": "full",
+   "grade": "vice",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/ba7ee47afe.mp4",
+   "from": 1933,
+   "dur": 50,
+   "at": 0,
+   "x": 0.35,
+   "mode": "full",
+   "grade": "vice",
+   "glitch": true,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/d041631b3a.mp4",
+   "from": 1983,
+   "dur": 64,
+   "at": 0,
+   "x": 0.5,
+   "mode": "band",
+   "grade": "vhs",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/4a5fcd34a3.mp4",
+   "from": 2047,
+   "dur": 48,
+   "at": 0,
+   "x": 0.5,
+   "mode": "band",
+   "grade": "vhs",
+   "glitch": true,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/a4b395dc0f.mp4",
+   "from": 2095,
+   "dur": 41,
+   "at": 0,
+   "x": 0.5,
+   "mode": "band",
+   "grade": "none",
+   "glitch": true,
+   "speed": 1.0
+  },
+  {
+   "src": "3d/vault.mp4",
+   "from": 2136,
+   "dur": 49,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/c73318cd88.mp4",
+   "from": 2185,
+   "dur": 47,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "vice",
+   "glitch": false,
+   "speed": 1.0
+  },
+  {
+   "src": "clips/cut/16bfb0e50f.mp4",
+   "from": 2232,
+   "dur": 84,
+   "at": 0,
+   "x": 0.55,
+   "mode": "full",
+   "grade": "bw",
+   "glitch": false,
+   "speed": 1.0
+  }
+ ],
+ "overlays": [
+  {
+   "kind": "title",
+   "lines": [
+    "why did it take",
+    "13 YEARS?"
+   ],
+   "from": 256,
+   "dur": 46
+  },
+  {
+   "kind": "stamp",
+   "text": "18+ \u2713",
+   "sub": "NOW LEGAL TO BUY",
+   "color": "#6FDB6A",
+   "from": 186,
+   "dur": 70
+  },
+  {
+   "kind": "chapter",
+   "n": "REASON 1",
+   "title": "the money printer",
+   "color": "#6FDB6A",
+   "from": 302,
+   "dur": 89
+  },
+  {
+   "kind": "counter",
+   "prefix": "$",
+   "value": 1000000000,
+   "label": "GTA V \u00b7 FIRST 3 DAYS",
+   "note": "GUINNESS WORLD RECORD",
+   "from": 391,
+   "dur": 79
+  },
+  {
+   "kind": "stack",
+   "title": "SAME GAME \u00b7 3 CONSOLE GENERATIONS",
+   "items": [
+    {
+     "a": "PS3",
+     "b": "2013",
+     "at": 0
+    },
+    {
+     "a": "PS4",
+     "b": "2014",
+     "at": 30
+    },
+    {
+     "a": "PS5",
+     "b": "2022",
+     "at": 69
+    }
+   ],
+   "from": 470,
+   "dur": 164
+  },
+  {
+   "kind": "counter",
+   "prefix": "$",
+   "value": 1300000,
+   "label": "GTA ONLINE \u00b7 PER DAY (REPORTED)",
+   "note": "LEAKED FIGURES VIA KOTAKU",
+   "from": 689,
+   "dur": 116
+  },
+  {
+   "kind": "cash",
+   "text": "+$",
+   "from": 780,
+   "dur": 43
+  },
+  {
+   "kind": "tip",
+   "text": "Shark Cards are not a retirement plan.",
+   "from": 805,
+   "dur": 84
+  },
+  {
+   "kind": "chapter",
+   "n": "REASON 2",
+   "title": "cowboys",
+   "color": "#FF9A3C",
+   "from": 890,
+   "dur": 64
+  },
+  {
+   "kind": "stamp",
+   "text": "RDR2",
+   "sub": "OCT 2018 \u00b7 PRIORITY #1",
+   "color": "#FF9A3C",
+   "rot": -6,
+   "from": 954,
+   "dur": 61
+  },
+  {
+   "kind": "stamp",
+   "text": "100 HRS",
+   "sub": "PER WEEK (2018 INTERVIEW)",
+   "color": "#E8303A",
+   "from": 1103,
+   "dur": 46
+  },
+  {
+   "kind": "stars",
+   "n": 5,
+   "from": 1149,
+   "dur": 36
+  },
+  {
+   "kind": "phone",
+   "who": "Rockstar",
+   "msgs": [
+    {
+     "text": "new rule: less crunch \ud83d\ude4f",
+     "at": 26
+    },
+    {
+     "text": "so... GTA 6 when?",
+     "at": 65,
+     "me": true
+    },
+    {
+     "text": "slower.",
+     "at": 96
+    }
+   ],
+   "from": 1182,
+   "dur": 121
+  },
+  {
+   "kind": "chapter",
+   "n": "REASON 3",
+   "title": "everything went wrong",
+   "color": "#E8303A",
+   "from": 1303,
+   "dur": 72
+  },
+  {
+   "kind": "stamp",
+   "text": "2020",
+   "sub": "HEAD WRITER EXITS",
+   "color": "#FFE14D",
+   "rot": -5,
+   "from": 1378,
+   "dur": 33
+  },
+  {
+   "kind": "stamp",
+   "text": "WFH",
+   "sub": "PANDEMIC \u00b7 2020",
+   "color": "#4FA3FF",
+   "from": 1411,
+   "dur": 61
+  },
+  {
+   "kind": "wasted",
+   "text": "leaked",
+   "sub": "$5,000,000 \u00b7 ROCKSTAR SAYS",
+   "from": 1529,
+   "dur": 78
+  },
+  {
+   "kind": "stamp",
+   "text": "2 CONTINENTS",
+   "sub": "ORIGINAL PLAN (REPORTEDLY)",
+   "color": "#FFE14D",
+   "rot": -4,
+   "from": 1621,
+   "dur": 73
+  },
+  {
+   "kind": "tip",
+   "text": "In Florida, this counts as a normal Tuesday.",
+   "from": 1735,
+   "dur": 41
+  },
+  {
+   "kind": "counter",
+   "value": 4711,
+   "label": "ROCKSTAR STAFF \u00b7 AUG 2026",
+   "note": "2,441 IN 2018",
+   "from": 1776,
+   "dur": 82
+  },
+  {
+   "kind": "stamp",
+   "text": "NPC HQ",
+   "sub": "A WHOLE OFFICE (LA)",
+   "color": "#FF3E9A",
+   "from": 1868,
+   "dur": 64
+  },
+  {
+   "kind": "chapter",
+   "n": "REASON 4",
+   "title": "polish",
+   "color": "#4FA3FF",
+   "from": 1932,
+   "dur": 51
+  },
+  {
+   "kind": "stamp",
+   "text": "DELAYED",
+   "color": "#E8303A",
+   "from": 2047,
+   "dur": 48
+  },
+  {
+   "kind": "stamp",
+   "text": "DELAYED",
+   "sub": "AGAIN",
+   "color": "#E8303A",
+   "rot": 6,
+   "from": 2095,
+   "dur": 41
+  },
+  {
+   "kind": "passed",
+   "title": "mission passed?",
+   "sub": "$79.99 \u00b7 NOV 19, 2026",
+   "from": 2185,
+   "dur": 47
+  },
+  {
+   "kind": "bridge",
+   "sketch": "img/sketch.png",
+   "model": "clips/car3d.mp4",
+   "pop": 43,
+   "from": 2231,
+   "dur": 85
+  }
+ ],
+ "hud": {
+  "from": 135,
+  "to": 2232,
+  "years": [
+   [
+    135,
+    2013
+   ],
+   [
+    180,
+    2026
+   ],
+   [
+    307,
+    2013
+   ],
+   [
+    500,
+    2014
+   ],
+   [
+    539,
+    2022
+   ],
+   [
+    669,
+    2026
+   ],
+   [
+    895,
+    2018
+   ],
+   [
+    1308,
+    2020
+   ],
+   [
+    1472,
+    2022
+   ],
+   [
+    1776,
+    2026
+   ],
+   [
+    1983,
+    2025
+   ],
+   [
+    2047,
+    2026
+   ]
+  ],
+  "cash": [
+   [
+    391,
+    0
+   ],
+   [
+    444,
+    1000000000
+   ],
+   [
+    732,
+    1000000000
+   ],
+   [
+    846,
+    1500000000
+   ],
+   [
+    893,
+    1500000000
+   ],
+   [
+    895,
+    0
+   ]
+  ]
+ },
+ "credit": {
+  "text": "Footage: Rockstar Games \u00b7 official trailers",
+  "to": 2232
+ },
+ "words": [
+  [
+   9,
+   26,
+   "GTA"
+  ],
+  [
+   29,
+   38,
+   "5"
+  ],
+  [
+   40,
+   45,
+   "came"
+  ],
+  [
+   46,
+   49,
+   "out"
+  ],
+  [
+   51,
+   57,
+   "four"
+  ],
+  [
+   59,
+   72,
+   "thousand,"
+  ],
+  [
+   74,
+   79,
+   "eight"
+  ],
+  [
+   80,
+   86,
+   "hundred"
+  ],
+  [
+   86,
+   88,
+   "and"
+  ],
+  [
+   89,
+   98,
+   "eleven"
+  ],
+  [
+   99,
+   106,
+   "days"
+  ],
+  [
+   107,
+   117,
+   "ago."
+  ],
+  [
+   125,
+   128,
+   "If"
+  ],
+  [
+   130,
+   132,
+   "you"
+  ],
+  [
+   133,
+   137,
+   "were"
+  ],
+  [
+   139,
+   148,
+   "five"
+  ],
+  [
+   150,
+   155,
+   "back"
+  ],
+  [
+   157,
+   171,
+   "then..."
+  ],
+  [
+   176,
+   178,
+   "you"
+  ],
+  [
+   180,
+   184,
+   "can"
+  ],
+  [
+   186,
+   192,
+   "now"
+  ],
+  [
+   195,
+   205,
+   "legally"
+  ],
+  [
+   206,
+   213,
+   "buy"
+  ],
+  [
+   215,
+   230,
+   "GTA"
+  ],
+  [
+   234,
+   248,
+   "6."
+  ],
+  [
+   256,
+   260,
+   "So"
+  ],
+  [
+   262,
+   266,
+   "why"
+  ],
+  [
+   268,
+   271,
+   "did"
+  ],
+  [
+   272,
+   274,
+   "it"
+  ],
+  [
+   274,
+   279,
+   "take"
+  ],
+  [
+   280,
+   289,
+   "thirteen"
+  ],
+  [
+   291,
+   303,
+   "years?"
+  ],
+  [
+   307,
+   314,
+   "Reason"
+  ],
+  [
+   316,
+   326,
+   "one."
+  ],
+  [
+   331,
+   347,
+   "GTA"
+  ],
+  [
+   351,
+   357,
+   "5"
+  ],
+  [
+   360,
+   369,
+   "refused"
+  ],
+  [
+   369,
+   371,
+   "to"
+  ],
+  [
+   372,
+   384,
+   "die."
+  ],
+  [
+   391,
+   393,
+   "A"
+  ],
+  [
+   396,
+   406,
+   "billion"
+  ],
+  [
+   408,
+   415,
+   "dollars"
+  ],
+  [
+   417,
+   418,
+   "in"
+  ],
+  [
+   420,
+   425,
+   "three"
+  ],
+  [
+   426,
+   439,
+   "days."
+  ],
+  [
+   444,
+   451,
+   "World"
+  ],
+  [
+   453,
+   463,
+   "record."
+  ],
+  [
+   470,
+   475,
+   "Then"
+  ],
+  [
+   476,
+   479,
+   "they"
+  ],
+  [
+   481,
+   486,
+   "sold"
+  ],
+  [
+   487,
+   488,
+   "it"
+  ],
+  [
+   489,
+   494,
+   "again"
+  ],
+  [
+   496,
+   498,
+   "on"
+  ],
+  [
+   500,
+   518,
+   "PS4."
+  ],
+  [
+   523,
+   527,
+   "And"
+  ],
+  [
+   528,
+   534,
+   "again"
+  ],
+  [
+   536,
+   537,
+   "on"
+  ],
+  [
+   539,
+   558,
+   "PS5."
+  ],
+  [
+   565,
+   572,
+   "Three"
+  ],
+  [
+   574,
+   585,
+   "console"
+  ],
+  [
+   586,
+   605,
+   "generations."
+  ],
+  [
+   609,
+   618,
+   "Same"
+  ],
+  [
+   619,
+   631,
+   "game."
+  ],
+  [
+   636,
+   645,
+   "Same"
+  ],
+  [
+   646,
+   660,
+   "Trevor."
+  ],
+  [
+   669,
+   686,
+   "GTA"
+  ],
+  [
+   689,
+   701,
+   "Online"
+  ],
+  [
+   703,
+   716,
+   "reportedly"
+  ],
+  [
+   718,
+   723,
+   "makes"
+  ],
+  [
+   724,
+   730,
+   "about"
+  ],
+  [
+   732,
+   753,
+   "1.3"
+  ],
+  [
+   754,
+   761,
+   "million"
+  ],
+  [
+   762,
+   775,
+   "dollars."
+  ],
+  [
+   780,
+   786,
+   "Per"
+  ],
+  [
+   787,
+   798,
+   "day."
+  ],
+  [
+   805,
+   811,
+   "Why"
+  ],
+  [
+   812,
+   818,
+   "build"
+  ],
+  [
+   819,
+   819,
+   "a"
+  ],
+  [
+   821,
+   824,
+   "new"
+  ],
+  [
+   825,
+   836,
+   "game..."
+  ],
+  [
+   841,
+   846,
+   "when"
+  ],
+  [
+   846,
+   848,
+   "the"
+  ],
+  [
+   849,
+   853,
+   "old"
+  ],
+  [
+   854,
+   858,
+   "one"
+  ],
+  [
+   859,
+   867,
+   "prints"
+  ],
+  [
+   868,
+   880,
+   "money?"
+  ],
+  [
+   895,
+   903,
+   "Reason"
+  ],
+  [
+   904,
+   918,
+   "two."
+  ],
+  [
+   923,
+   947,
+   "Cowboys."
+  ],
+  [
+   954,
+   960,
+   "Red"
+  ],
+  [
+   961,
+   966,
+   "Dead"
+  ],
+  [
+   967,
+   973,
+   "2"
+  ],
+  [
+   978,
+   994,
+   "reportedly"
+  ],
+  [
+   995,
+   1003,
+   "pulled"
+  ],
+  [
+   1004,
+   1014,
+   "senior"
+  ],
+  [
+   1015,
+   1023,
+   "staff"
+  ],
+  [
+   1024,
+   1028,
+   "off"
+  ],
+  [
+   1030,
+   1041,
+   "GTA"
+  ],
+  [
+   1044,
+   1049,
+   "6"
+  ],
+  [
+   1051,
+   1054,
+   "for"
+  ],
+  [
+   1056,
+   1071,
+   "years."
+  ],
+  [
+   1078,
+   1083,
+   "Then"
+  ],
+  [
+   1084,
+   1085,
+   "a"
+  ],
+  [
+   1087,
+   1102,
+   "co-founder"
+  ],
+  [
+   1103,
+   1112,
+   "mentioned"
+  ],
+  [
+   1114,
+   1126,
+   "100-hour"
+  ],
+  [
+   1127,
+   1140,
+   "weeks,"
+  ],
+  [
+   1144,
+   1148,
+   "and"
+  ],
+  [
+   1149,
+   1151,
+   "the"
+  ],
+  [
+   1152,
+   1160,
+   "internet"
+  ],
+  [
+   1162,
+   1169,
+   "lost"
+  ],
+  [
+   1171,
+   1177,
+   "it."
+  ],
+  [
+   1185,
+   1189,
+   "So"
+  ],
+  [
+   1191,
+   1206,
+   "Rockstar"
+  ],
+  [
+   1208,
+   1218,
+   "promised"
+  ],
+  [
+   1220,
+   1226,
+   "less"
+  ],
+  [
+   1227,
+   1242,
+   "crunch."
+  ],
+  [
+   1247,
+   1273,
+   "Translation:"
+  ],
+  [
+   1278,
+   1295,
+   "slower."
+  ],
+  [
+   1308,
+   1316,
+   "Reason"
+  ],
+  [
+   1318,
+   1331,
+   "three."
+  ],
+  [
+   1336,
+   1349,
+   "Everything"
+  ],
+  [
+   1350,
+   1355,
+   "went"
+  ],
+  [
+   1356,
+   1368,
+   "wrong."
+  ],
+  [
+   1375,
+   1378,
+   "The"
+  ],
+  [
+   1380,
+   1384,
+   "lead"
+  ],
+  [
+   1386,
+   1393,
+   "writer"
+  ],
+  [
+   1395,
+   1406,
+   "left."
+  ],
+  [
+   1411,
+   1413,
+   "A"
+  ],
+  [
+   1415,
+   1431,
+   "pandemic"
+  ],
+  [
+   1433,
+   1438,
+   "sent"
+  ],
+  [
+   1440,
+   1451,
+   "everyone"
+  ],
+  [
+   1453,
+   1465,
+   "home."
+  ],
+  [
+   1472,
+   1474,
+   "A"
+  ],
+  [
+   1477,
+   1487,
+   "hacker"
+  ],
+  [
+   1489,
+   1495,
+   "leaked"
+  ],
+  [
+   1499,
+   1507,
+   "ninety"
+  ],
+  [
+   1509,
+   1524,
+   "clips."
+  ],
+  [
+   1529,
+   1543,
+   "Rockstar"
+  ],
+  [
+   1545,
+   1551,
+   "says"
+  ],
+  [
+   1552,
+   1556,
+   "that"
+  ],
+  [
+   1558,
+   1567,
+   "cost"
+  ],
+  [
+   1569,
+   1576,
+   "five"
+  ],
+  [
+   1577,
+   1585,
+   "million"
+  ],
+  [
+   1586,
+   1600,
+   "dollars."
+  ],
+  [
+   1607,
+   1611,
+   "The"
+  ],
+  [
+   1613,
+   1619,
+   "first"
+  ],
+  [
+   1621,
+   1628,
+   "map"
+  ],
+  [
+   1629,
+   1644,
+   "reportedly"
+  ],
+  [
+   1645,
+   1653,
+   "covered"
+  ],
+  [
+   1655,
+   1663,
+   "chunks"
+  ],
+  [
+   1664,
+   1666,
+   "of"
+  ],
+  [
+   1667,
+   1671,
+   "two"
+  ],
+  [
+   1673,
+   1689,
+   "continents."
+  ],
+  [
+   1694,
+   1698,
+   "They"
+  ],
+  [
+   1699,
+   1703,
+   "cut"
+  ],
+  [
+   1704,
+   1705,
+   "it"
+  ],
+  [
+   1706,
+   1710,
+   "down"
+  ],
+  [
+   1711,
+   1712,
+   "to"
+  ],
+  [
+   1713,
+   1728,
+   "Florida."
+  ],
+  [
+   1735,
+   1738,
+   "Of"
+  ],
+  [
+   1740,
+   1748,
+   "course"
+  ],
+  [
+   1749,
+   1753,
+   "it's"
+  ],
+  [
+   1754,
+   1768,
+   "Florida."
+  ],
+  [
+   1776,
+   1779,
+   "The"
+  ],
+  [
+   1780,
+   1786,
+   "team"
+  ],
+  [
+   1787,
+   1795,
+   "nearly"
+  ],
+  [
+   1796,
+   1806,
+   "doubled,"
+  ],
+  [
+   1808,
+   1811,
+   "to"
+  ],
+  [
+   1814,
+   1839,
+   "4,700"
+  ],
+  [
+   1840,
+   1853,
+   "people."
+  ],
+  [
+   1858,
+   1864,
+   "There's"
+  ],
+  [
+   1865,
+   1867,
+   "an"
+  ],
+  [
+   1868,
+   1881,
+   "entire"
+  ],
+  [
+   1882,
+   1892,
+   "office"
+  ],
+  [
+   1893,
+   1898,
+   "just"
+  ],
+  [
+   1899,
+   1902,
+   "for"
+  ],
+  [
+   1904,
+   1928,
+   "NPCs."
+  ],
+  [
+   1936,
+   1944,
+   "Reason"
+  ],
+  [
+   1945,
+   1955,
+   "four."
+  ],
+  [
+   1960,
+   1977,
+   "Polish."
+  ],
+  [
+   1983,
+   1993,
+   "Trailer"
+  ],
+  [
+   1995,
+   2003,
+   "one"
+  ],
+  [
+   2005,
+   2011,
+   "said"
+  ],
+  [
+   2012,
+   2042,
+   "2025."
+  ],
+  [
+   2047,
+   2052,
+   "Then"
+  ],
+  [
+   2054,
+   2059,
+   "May"
+  ],
+  [
+   2060,
+   2090,
+   "2026."
+  ],
+  [
+   2095,
+   2099,
+   "Then"
+  ],
+  [
+   2101,
+   2111,
+   "November"
+  ],
+  [
+   2113,
+   2129,
+   "19th."
+  ],
+  [
+   2136,
+   2143,
+   "Both"
+  ],
+  [
+   2145,
+   2156,
+   "delays?"
+  ],
+  [
+   2157,
+   2160,
+   "For"
+  ],
+  [
+   2162,
+   2176,
+   "polish."
+  ],
+  [
+   2180,
+   2183,
+   "The"
+  ],
+  [
+   2185,
+   2199,
+   "price?"
+  ],
+  [
+   2204,
+   2210,
+   "Eighty"
+  ],
+  [
+   2212,
+   2225,
+   "bucks."
+  ],
+  [
+   2232,
+   2237,
+   "Your"
+  ],
+  [
+   2238,
+   2244,
+   "first"
+  ],
+  [
+   2245,
+   2253,
+   "3D"
+  ],
+  [
+   2256,
+   2268,
+   "model?"
+  ],
+  [
+   2274,
+   2279,
+   "One"
+  ],
+  [
+   2281,
+   2295,
+   "sketch."
+  ]
+ ],
+ "captionsFrom": 135,
+ "emphasis": [
+  "billion",
+  "ps4",
+  "ps5",
+  "trevor",
+  "13",
+  "million",
+  "day",
+  "cowboys",
+  "100hour",
+  "slower",
+  "wrong",
+  "ninety",
+  "five",
+  "florida",
+  "4700",
+  "npcs",
+  "polish",
+  "2025",
+  "2026",
+  "19th",
+  "eighty",
+  "sketch",
+  "legally",
+  "thirteen"
+ ],
+ "cues": [
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 253,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 186,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 299,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 427,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 470,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 500,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 539,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 725,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 780,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 887,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 954,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 1103,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 1208,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 1247,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 1278,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 1300,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 1378,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 1411,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 1529,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 1621,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 1812,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 1868,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 1929,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 2047,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 2095,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/ding.mp3",
+   "from": 2185,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 2228,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 2274,
+   "volume": 0.55
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 180,
+   "volume": 0.18
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 304,
+   "volume": 0.18
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 634,
+   "volume": 0.18
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 892,
+   "volume": 0.18
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 1149,
+   "volume": 0.18
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 1305,
+   "volume": 0.18
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 1472,
+   "volume": 0.18
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 1933,
+   "volume": 0.18
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 2047,
+   "volume": 0.18
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 2095,
+   "volume": 0.18
+  }
+ ]
+}

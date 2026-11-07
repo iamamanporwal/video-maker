@@ -1,0 +1,9 @@
+{
+  "used": [
+    {"asset": "palm tree (props, citypull)", "name": "Palm Tree Pack LOWPOLY", "author": "sixonetwo (evan4129)", "license": "CC BY 4.0", "url": "https://sketchfab.com/3d-models/palm-tree-pack-lowpoly-fd439b0f82c34497aabb21c68ad2fb34", "caption_credit": "Palm Tree Pack LOWPOLY by sixonetwo (Sketchfab, CC BY 4.0)"},
+    {"asset": "HDRI lighting", "name": "belfast_sunset_puresky", "author": "Poly Haven", "license": "CC0", "url": "https://polyhaven.com/a/belfast_sunset_puresky"},
+    {"asset": "PBR textures", "name": "pavement_02, asphalt_02, concrete_floor_02, plastered_wall, wood_table_001", "author": "Poly Haven", "license": "CC0", "url": "https://polyhaven.com/textures"}
+  ],
+  "procedural": "trash can (galvanised, morph), bench, buildings, city, Florida map, office desks/figures: built in scene.py",
+  "not_used": "Sketchfab trash can (LiliumLetifer) and bench (Berk Gedik) downloads stalled (~10 KB/s), replaced by procedural models; no credit needed"
+}

@@ -1,0 +1,1332 @@
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0001.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0003.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0005.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0007.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0009.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0011.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0013.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0015.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0017.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0019.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0021.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0023.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0025.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0027.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0029.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0031.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0033.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0035.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0037.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0039.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0041.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0043.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0045.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0047.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0049.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0051.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0053.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0055.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0057.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0059.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0061.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0063.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0065.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0067.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0069.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0071.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0073.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0075.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0077.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0079.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0081.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0083.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0085.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0087.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0089.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0091.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0093.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0095.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0097.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0099.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0101.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0103.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0105.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0107.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0109.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0111.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0113.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0115.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0117.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0119.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0121.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0123.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0125.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0127.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0129.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0131.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0133.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0135.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0137.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0139.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0141.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0143.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0145.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0147.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0149.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0151.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0153.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0155.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0157.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0159.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0161.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0163.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0165.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0167.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0169.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0171.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0173.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0175.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0177.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0179.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0181.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0183.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0185.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0187.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0189.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0191.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0193.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0195.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0197.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0199.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0201.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0203.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0205.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0207.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0209.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0211.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0213.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0215.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0217.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0219.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0221.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0223.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0225.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0227.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0229.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0231.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0233.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0235.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0237.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0239.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0241.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0243.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0245.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0247.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0249.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0251.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0253.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0255.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0257.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0259.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0261.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0263.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0265.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0267.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0269.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0271.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0273.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0275.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0277.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0279.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0281.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0283.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0285.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0287.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0289.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0291.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0293.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0295.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0297.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0299.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0301.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0303.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0305.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0307.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0309.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0311.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0313.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0315.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0317.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0319.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0321.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0323.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0325.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0327.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0329.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0331.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0333.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0335.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0337.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0339.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0341.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0343.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0345.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0347.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0349.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0351.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0353.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0355.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0357.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0359.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0361.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0363.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0365.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0367.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0369.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0371.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0373.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0375.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0377.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0379.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0381.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0383.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0385.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0387.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0389.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0391.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0393.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0395.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0397.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0399.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0401.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0403.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0405.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0407.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0409.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0411.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0413.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0415.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0417.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0419.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0421.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0423.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0425.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0427.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0429.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0431.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0433.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0435.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0437.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0439.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0441.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0443.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0445.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0447.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0449.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0451.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0453.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0455.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0457.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0459.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0461.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0463.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0465.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0467.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0469.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0471.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0473.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0475.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0477.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0479.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0481.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0483.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0485.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0487.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0489.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0491.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0493.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0495.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0497.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0499.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0501.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0503.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0505.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0507.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0509.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0511.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0513.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0515.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0517.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0519.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0521.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0523.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0525.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0527.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0529.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0531.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0533.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0535.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0537.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0539.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0541.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0543.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0545.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0547.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0549.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0551.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0553.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0555.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0557.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0559.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0561.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0563.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0565.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0567.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0569.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0571.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0573.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0575.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0577.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0579.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0581.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0583.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0585.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0587.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0589.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0591.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0593.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0595.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0597.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0599.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0601.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0603.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0605.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0607.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0609.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0611.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0613.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0615.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0617.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0619.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0621.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0623.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0625.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0627.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0629.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0631.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0633.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0635.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0637.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0639.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0641.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0643.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0645.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0647.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0649.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0651.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0653.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0655.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0657.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0659.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0661.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0663.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0665.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0667.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0669.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0671.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0673.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0675.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0677.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0679.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0681.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0683.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0685.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0687.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0689.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0691.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0693.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0695.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0697.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0699.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0701.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0703.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0705.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0707.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0709.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0711.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0713.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0715.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0717.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0719.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0721.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0723.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0725.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0727.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0729.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0731.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0733.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0735.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0737.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0739.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0741.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0743.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0745.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0747.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0749.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0751.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0753.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0755.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0757.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0759.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0761.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0763.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0765.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0767.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0769.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0771.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0773.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0775.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0777.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0779.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0781.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0783.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0785.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0787.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0789.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0791.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0793.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0795.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0797.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0799.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0801.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0803.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0805.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0807.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0809.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0811.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0813.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0815.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0817.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0819.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0821.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0823.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0825.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0827.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0829.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0831.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0833.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0835.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0837.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0839.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0841.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0843.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0845.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0847.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0849.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0851.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0853.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0855.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0857.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0859.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0861.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0863.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0865.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0867.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0869.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0871.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0873.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0875.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0877.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0879.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0881.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0883.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0885.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0887.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0889.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0891.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0893.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0895.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0897.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0899.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0901.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0903.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0905.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0907.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0909.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0911.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0913.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0915.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0917.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0919.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0921.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0923.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0925.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0927.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0929.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0931.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0933.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0935.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0937.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0939.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0941.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0943.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0945.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0947.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0949.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0951.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0953.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0955.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0957.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0959.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0961.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0963.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0965.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0967.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0969.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0971.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0973.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0975.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0977.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0979.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0981.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0983.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0985.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0987.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0989.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0991.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0993.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0995.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0997.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_0999.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1001.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1003.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1005.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1007.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1009.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1011.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1013.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1015.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1017.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1019.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1021.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1023.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1025.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1027.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1029.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1031.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1033.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1035.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1037.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1039.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1041.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1043.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1045.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1047.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1049.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1051.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1053.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1055.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1057.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1059.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1061.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1063.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1065.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1067.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1069.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1071.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1073.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1075.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1077.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1079.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1081.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1083.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1085.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1087.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1089.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1091.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1093.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1095.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1097.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1099.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1101.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1103.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1105.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1107.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1109.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1111.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1113.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1115.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1117.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1119.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1121.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1123.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1125.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1127.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1129.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1131.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1133.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1135.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1137.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1139.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1141.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1143.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1145.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1147.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1149.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1151.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1153.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1155.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1157.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1159.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1161.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1163.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1165.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1167.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1169.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1171.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1173.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1175.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1177.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1179.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1181.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1183.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1185.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1187.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1189.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1191.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1193.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1195.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1197.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1199.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1201.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1203.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1205.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1207.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1209.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1211.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1213.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1215.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1217.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1219.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1221.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1223.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1225.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1227.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1229.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1231.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1233.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1235.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1237.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1239.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1241.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1243.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1245.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1247.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1249.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1251.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1253.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1255.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1257.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1259.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1261.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1263.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1265.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1267.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1269.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1271.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1273.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1275.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1277.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1279.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1281.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1283.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1285.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1287.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1289.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1291.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1293.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1295.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1297.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1299.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1301.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1303.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1305.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1307.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1309.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1311.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1313.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1315.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1317.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1319.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1321.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1323.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1325.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1327.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1329.jpg'
+duration 0.06666667
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/studio-three-clicks/out/preview/f_1331.jpg'
+duration 0.06666667

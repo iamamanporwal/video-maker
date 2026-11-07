@@ -3,6 +3,7 @@ import { Composition } from "remotion";
 import { DevFact } from "./DevFact";
 import { GameReel } from "./GameReel";
 import { GtaFact } from "./GtaFact";
+import { Gta13 } from "./Gta13";
 import { IMissSteve } from "./IMissSteve";
 import { ModClip } from "./ModClip";
 import { EXPLAINER_FRAMES, RobloxExplainer } from "./RobloxExplainer";
@@ -63,6 +64,16 @@ export const ShortsRoot: React.FC = () => (
   <Composition
     id="GtaFact"
     component={GtaFact as any}
+    width={1080}
+    height={1920}
+    fps={30}
+    durationInFrames={900}
+    defaultProps={{}}
+    calculateMetadata={({ props }) => ({ durationInFrames: (props as any).durationInFrames ?? 900, fps: 30 })}
+  />
+  <Composition
+    id="Gta13"
+    component={Gta13 as any}
     width={1080}
     height={1920}
     fps={30}

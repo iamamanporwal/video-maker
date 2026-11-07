@@ -1,0 +1,11 @@
+[
+ {"name": "Fairheaven LT '80 - Low poly model", "author": "DanielZhabotinsky", "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/e2678da920cc4be68dbc193727919ffb", "used_in": ["cycles", "fallthrough", "bugs"]},
+ {"name": "Eric Rigged 001 - Rigged 3D Business Man", "author": "renderpeople", "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/eric-rigged-001-rigged-3d-business-man-a46bc9f67aaa415bb4f3241eef900e7f", "used_in": ["lonely"]},
+ {"name": "Gaming Desktop PC", "author": "Yolala3d", "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/gaming-desktop-pc-d1d8282c9916438091f11aeb28787b66", "used_in": ["lonely"]},
+ {"name": "Gaming Chair [FREE DOWNLOAD]", "author": "Karldashian", "license": "CC Attribution",
+  "url": "https://sketchfab.com/3d-models/gaming-chair-free-download-bcb13eb7ef9e4c3c9499aacff6c79757", "used_in": ["lonely"]},
+ {"name": "Michelle / X Bot (Mixamo sample rigs via three.js examples)", "author": "Adobe Mixamo", "license": "royalty-free (Mixamo)", "url": "https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf", "used_in": ["npcs","rig","animate","cycles","bugs"]}
+]
