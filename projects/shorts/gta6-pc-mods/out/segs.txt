@@ -1,0 +1,7 @@
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/gta6-pc-mods/out/seg_00.mp4'
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/gta6-pc-mods/out/seg_01.mp4'
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/gta6-pc-mods/out/seg_02.mp4'
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/gta6-pc-mods/out/seg_03.mp4'
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/gta6-pc-mods/out/seg_04.mp4'
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/gta6-pc-mods/out/seg_05.mp4'
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/gta6-pc-mods/out/seg_06.mp4'

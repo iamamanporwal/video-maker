@@ -1,0 +1,1138 @@
+{
+ "fps": 30,
+ "durationInFrames": 1395,
+ "shots": [
+  {
+   "src": "3d/street.mp4",
+   "from": 0,
+   "dur": 183,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/drive.mp4",
+   "from": 183,
+   "dur": 192,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/lodline.mp4",
+   "from": 375,
+   "dur": 122,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/lod.mp4",
+   "from": 497,
+   "dur": 70,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/cull.mp4",
+   "from": 567,
+   "dur": 120,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/stream.mp4",
+   "from": 687,
+   "dur": 151,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/crowd.mp4",
+   "from": 838,
+   "dur": 150,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/reveal.mp4",
+   "from": 988,
+   "dur": 167,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/street.mp4",
+   "from": 1155,
+   "dur": 80,
+   "at": 9,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/lodline.mp4",
+   "from": 1235,
+   "dur": 160,
+   "at": 24,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  }
+ ],
+ "overlays": [
+  {
+   "kind": "logo",
+   "src": "logos/gta6_logo.png",
+   "x": 540,
+   "y": 190,
+   "w": 430,
+   "glow": "#FF3E9A",
+   "slam": true,
+   "from": 2,
+   "dur": 55
+  },
+  {
+   "kind": "stamp",
+   "text": "NOT DRAWN",
+   "sub": "MOST OF THE CITY",
+   "color": "#E8303A",
+   "rot": -5,
+   "from": 148,
+   "dur": 35
+  },
+  {
+   "kind": "counter",
+   "value": 33,
+   "label": "MS PER FRAME",
+   "note": "30 FPS = 33 MILLISECONDS",
+   "from": 188,
+   "dur": 98
+  },
+  {
+   "kind": "tip",
+   "text": "THE STANDARD OPEN-WORLD TRICKS. NOT ROCKSTAR'S CODE.",
+   "from": 286,
+   "dur": 89
+  },
+  {
+   "kind": "chapter",
+   "n": "1",
+   "title": "LOD",
+   "color": "#FFE14D",
+   "from": 375,
+   "dur": 54
+  },
+  {
+   "kind": "tip",
+   "text": "LOD 0 \u00b7 35,162 TRIANGLES",
+   "from": 497,
+   "dur": 23
+  },
+  {
+   "kind": "tip",
+   "text": "LOD 1 \u00b7 8,790 TRIANGLES",
+   "from": 520,
+   "dur": 19
+  },
+  {
+   "kind": "tip",
+   "text": "LOD 2 \u00b7 2,109 TRIANGLES",
+   "from": 539,
+   "dur": 17
+  },
+  {
+   "kind": "tip",
+   "text": "LOD 3 \u00b7 526 TRIANGLES",
+   "from": 556,
+   "dur": 11
+  },
+  {
+   "kind": "chapter",
+   "n": "2",
+   "title": "CULLING",
+   "color": "#5CE1FF",
+   "from": 567,
+   "dur": 37
+  },
+  {
+   "kind": "tip",
+   "text": "YELLOW CONE = WHAT THE CAMERA SEES.",
+   "from": 604,
+   "dur": 36
+  },
+  {
+   "kind": "stamp",
+   "text": "OCCLUDED",
+   "sub": "HIDDEN BEHIND A BUILDING",
+   "color": "#E8303A",
+   "rot": -5,
+   "from": 644,
+   "dur": 43
+  },
+  {
+   "kind": "chapter",
+   "n": "3",
+   "title": "STREAMING",
+   "color": "#6FDB6A",
+   "from": 687,
+   "dur": 41
+  },
+  {
+   "kind": "tip",
+   "text": "ONLY NEARBY TILES STAY LOADED.",
+   "from": 728,
+   "dur": 110
+  },
+  {
+   "kind": "chapter",
+   "n": "4",
+   "title": "INSTANCING",
+   "color": "#FF3E9A",
+   "from": 838,
+   "dur": 41
+  },
+  {
+   "kind": "counter",
+   "value": 100,
+   "label": "PEDESTRIANS \u00b7 ONE MODEL",
+   "note": "SAME MESH, DRAWN 100 TIMES",
+   "from": 897,
+   "dur": 91
+  },
+  {
+   "kind": "stamp",
+   "text": "33 MS",
+   "sub": "THE WHOLE CITY",
+   "color": "#6FDB6A",
+   "rot": -5,
+   "from": 1056,
+   "dur": 99
+  },
+  {
+   "kind": "passed",
+   "sub": "CITY RENDERED",
+   "from": 1100,
+   "dur": 55
+  },
+  {
+   "kind": "bridge",
+   "sketch": "img/sketch.png",
+   "model": "clips/car3d.mp4",
+   "pop": 42,
+   "from": 1323,
+   "dur": 72
+  }
+ ],
+ "hud": {
+  "from": 0,
+  "to": 0,
+  "years": [],
+  "cash": []
+ },
+ "credit": {
+  "text": "",
+  "to": 0,
+  "perShot": true
+ },
+ "words": [
+  [
+   4,
+   33,
+   "GTA 6"
+  ],
+  [
+   33,
+   40,
+   "is"
+  ],
+  [
+   40,
+   48,
+   "lying"
+  ],
+  [
+   48,
+   53,
+   "to"
+  ],
+  [
+   53,
+   57,
+   "you"
+  ],
+  [
+   57,
+   62,
+   "in"
+  ],
+  [
+   62,
+   72,
+   "every"
+  ],
+  [
+   72,
+   81,
+   "single"
+  ],
+  [
+   81,
+   91,
+   "frame."
+  ],
+  [
+   100,
+   108,
+   "That"
+  ],
+  [
+   108,
+   114,
+   "whole"
+  ],
+  [
+   114,
+   124,
+   "city"
+  ],
+  [
+   129,
+   141,
+   "Most"
+  ],
+  [
+   141,
+   145,
+   "of"
+  ],
+  [
+   145,
+   148,
+   "it"
+  ],
+  [
+   148,
+   154,
+   "isn't"
+  ],
+  [
+   154,
+   158,
+   "even"
+  ],
+  [
+   158,
+   164,
+   "being"
+  ],
+  [
+   164,
+   172,
+   "drawn."
+  ],
+  [
+   183,
+   188,
+   "At"
+  ],
+  [
+   188,
+   214,
+   "30 FPS"
+  ],
+  [
+   219,
+   221,
+   "a"
+  ],
+  [
+   221,
+   230,
+   "console"
+  ],
+  [
+   230,
+   237,
+   "gets"
+  ],
+  [
+   237,
+   261,
+   "33 MS"
+  ],
+  [
+   261,
+   270,
+   "per"
+  ],
+  [
+   270,
+   280,
+   "picture"
+  ],
+  [
+   286,
+   295,
+   "So"
+  ],
+  [
+   295,
+   304,
+   "every"
+  ],
+  [
+   304,
+   312,
+   "big"
+  ],
+  [
+   312,
+   320,
+   "open"
+  ],
+  [
+   320,
+   327,
+   "world"
+  ],
+  [
+   327,
+   339,
+   "cheats"
+  ],
+  [
+   344,
+   356,
+   "Four"
+  ],
+  [
+   356,
+   363,
+   "ways."
+  ],
+  [
+   375,
+   379,
+   "Trick"
+  ],
+  [
+   379,
+   389,
+   "one"
+  ],
+  [
+   395,
+   408,
+   "LOD"
+  ],
+  [
+   417,
+   429,
+   "Up"
+  ],
+  [
+   429,
+   436,
+   "close"
+  ],
+  [
+   438,
+   444,
+   "this"
+  ],
+  [
+   444,
+   450,
+   "car"
+  ],
+  [
+   450,
+   456,
+   "is"
+  ],
+  [
+   456,
+   475,
+   "35,000"
+  ],
+  [
+   475,
+   489,
+   "triangles"
+  ],
+  [
+   497,
+   506,
+   "Far"
+  ],
+  [
+   506,
+   512,
+   "away"
+  ],
+  [
+   516,
+   523,
+   "almost"
+  ],
+  [
+   523,
+   533,
+   "nothing"
+  ],
+  [
+   538,
+   542,
+   "You"
+  ],
+  [
+   542,
+   547,
+   "never"
+  ],
+  [
+   547,
+   556,
+   "notice."
+  ],
+  [
+   567,
+   576,
+   "Trick"
+  ],
+  [
+   576,
+   582,
+   "two"
+  ],
+  [
+   590,
+   600,
+   "Culling"
+  ],
+  [
+   604,
+   611,
+   "Behind"
+  ],
+  [
+   611,
+   616,
+   "you"
+  ],
+  [
+   620,
+   626,
+   "Not"
+  ],
+  [
+   626,
+   634,
+   "drawn"
+  ],
+  [
+   640,
+   646,
+   "Behind"
+  ],
+  [
+   646,
+   650,
+   "a"
+  ],
+  [
+   650,
+   657,
+   "building"
+  ],
+  [
+   662,
+   670,
+   "Not"
+  ],
+  [
+   670,
+   676,
+   "drawn."
+  ],
+  [
+   687,
+   695,
+   "Trick"
+  ],
+  [
+   695,
+   703,
+   "three"
+  ],
+  [
+   711,
+   726,
+   "Streaming"
+  ],
+  [
+   728,
+   734,
+   "The"
+  ],
+  [
+   734,
+   740,
+   "map"
+  ],
+  [
+   740,
+   744,
+   "is"
+  ],
+  [
+   744,
+   750,
+   "cut"
+  ],
+  [
+   750,
+   755,
+   "into"
+  ],
+  [
+   755,
+   767,
+   "tiles"
+  ],
+  [
+   774,
+   781,
+   "Drive"
+  ],
+  [
+   781,
+   792,
+   "forward"
+  ],
+  [
+   792,
+   800,
+   "and"
+  ],
+  [
+   800,
+   803,
+   "the"
+  ],
+  [
+   803,
+   807,
+   "ones"
+  ],
+  [
+   807,
+   814,
+   "behind"
+  ],
+  [
+   814,
+   819,
+   "you"
+  ],
+  [
+   819,
+   828,
+   "unload."
+  ],
+  [
+   838,
+   845,
+   "Trick"
+  ],
+  [
+   845,
+   856,
+   "four"
+  ],
+  [
+   856,
+   879,
+   "Instancing"
+  ],
+  [
+   879,
+   897,
+   "These"
+  ],
+  [
+   897,
+   903,
+   "hundred"
+  ],
+  [
+   903,
+   917,
+   "pedestrians"
+  ],
+  [
+   917,
+   926,
+   "are"
+  ],
+  [
+   926,
+   934,
+   "one"
+  ],
+  [
+   934,
+   944,
+   "model"
+  ],
+  [
+   944,
+   954,
+   "drawn"
+  ],
+  [
+   954,
+   954,
+   "a"
+  ],
+  [
+   954,
+   967,
+   "hundred"
+  ],
+  [
+   967,
+   978,
+   "times."
+  ],
+  [
+   988,
+   996,
+   "Stack"
+  ],
+  [
+   996,
+   1003,
+   "all"
+  ],
+  [
+   1003,
+   1011,
+   "four"
+  ],
+  [
+   1016,
+   1020,
+   "and"
+  ],
+  [
+   1020,
+   1024,
+   "a"
+  ],
+  [
+   1024,
+   1029,
+   "whole"
+  ],
+  [
+   1029,
+   1037,
+   "city"
+  ],
+  [
+   1037,
+   1046,
+   "fits"
+  ],
+  [
+   1046,
+   1056,
+   "inside"
+  ],
+  [
+   1056,
+   1086,
+   "33 MS"
+  ],
+  [
+   1094,
+   1104,
+   "It"
+  ],
+  [
+   1104,
+   1110,
+   "only"
+  ],
+  [
+   1110,
+   1123,
+   "exists"
+  ],
+  [
+   1123,
+   1129,
+   "where"
+  ],
+  [
+   1129,
+   1134,
+   "you're"
+  ],
+  [
+   1134,
+   1140,
+   "looking."
+  ],
+  [
+   1155,
+   1161,
+   "The"
+  ],
+  [
+   1161,
+   1167,
+   "best"
+  ],
+  [
+   1167,
+   1178,
+   "optimization"
+  ],
+  [
+   1178,
+   1193,
+   "is"
+  ],
+  [
+   1193,
+   1196,
+   "the"
+  ],
+  [
+   1196,
+   1200,
+   "one"
+  ],
+  [
+   1200,
+   1205,
+   "you"
+  ],
+  [
+   1205,
+   1212,
+   "never"
+  ],
+  [
+   1212,
+   1221,
+   "see."
+  ],
+  [
+   1235,
+   1244,
+   "Every"
+  ],
+  [
+   1244,
+   1248,
+   "game"
+  ],
+  [
+   1248,
+   1256,
+   "model"
+  ],
+  [
+   1256,
+   1262,
+   "gets"
+  ],
+  [
+   1262,
+   1270,
+   "built"
+  ],
+  [
+   1270,
+   1274,
+   "in"
+  ],
+  [
+   1274,
+   1282,
+   "levels"
+  ],
+  [
+   1282,
+   1288,
+   "like"
+  ],
+  [
+   1288,
+   1298,
+   "this"
+  ],
+  [
+   1303,
+   1314,
+   "Vi3W"
+  ],
+  [
+   1314,
+   1321,
+   "makes"
+  ],
+  [
+   1321,
+   1324,
+   "the"
+  ],
+  [
+   1324,
+   1330,
+   "first"
+  ],
+  [
+   1330,
+   1336,
+   "one"
+  ],
+  [
+   1336,
+   1341,
+   "from"
+  ],
+  [
+   1341,
+   1347,
+   "one"
+  ],
+  [
+   1347,
+   1357,
+   "sketch"
+  ],
+  [
+   1357,
+   1365,
+   "in"
+  ],
+  [
+   1365,
+   1373,
+   "seconds."
+  ]
+ ],
+ "captionsFrom": 0,
+ "emphasis": [
+  "gta6",
+  "lying",
+  "drawn",
+  "30fps",
+  "33ms",
+  "cheats",
+  "lod",
+  "35000",
+  "triangles",
+  "culling",
+  "streaming",
+  "instancing",
+  "hundred",
+  "one",
+  "model",
+  "city",
+  "looking",
+  "vi3w",
+  "sketch",
+  "seconds",
+  "never",
+  "see",
+  "frame",
+  "behind",
+  "unload"
+ ],
+ "cues": [
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 0,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/glitch.mp3",
+   "from": 146,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 148,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/riser.mp3",
+   "from": 112,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 640,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/ting.mp3",
+   "from": 1094,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/drop.mp3",
+   "from": 926,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 180,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 372,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 494,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 564,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 684,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 835,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 985,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 1152,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 1232,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 224,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/slam.mp3",
+   "from": 375,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/slam.mp3",
+   "from": 567,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 644,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/slam.mp3",
+   "from": 687,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/slam.mp3",
+   "from": 838,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 933,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 1056,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/ding.mp3",
+   "from": 1100,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 1320,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 1365,
+   "volume": 0.55
+  }
+ ]
+}

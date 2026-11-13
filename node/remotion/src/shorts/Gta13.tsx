@@ -38,7 +38,12 @@ type Ov =
   | { kind: "viewport"; from: number; dur: number; mode: string; tris?: [number, number]; objects?: [number, number]; rec?: boolean }
   | { kind: "pipeline"; from: number; dur: number; steps: { label: string; at: number }[] }
   | { kind: "keys"; from: number; dur: number; keys: number[] }
-  | { kind: "console"; from: number; dur: number; lines: { text: string; at: number; warn?: boolean }[] };
+  | { kind: "console"; from: number; dur: number; lines: { text: string; at: number; warn?: boolean }[] }
+  | { kind: "logo"; from: number; dur: number; src: string; x: number; y: number; w: number; rot?: number; glow?: string; slam?: boolean; bg?: string }
+  | { kind: "receipt"; from: number; dur: number; title: string; items: { label: string; price: string; at: number; hot?: boolean }[];
+      total?: { label: string; value: string; at: number }; foot?: string }
+  | { kind: "bills"; from: number; dur: number; n: number; src: string; ox?: number; oy?: number; spread?: number; up?: boolean; seed?: number }
+  | { kind: "flash"; from: number; dur: number; color?: string };
 export type Gta13Props = {
   fps: number;
   durationInFrames: number;
@@ -150,6 +155,7 @@ const ramp = (keys: [number, number][], f: number) =>
 const Hud: React.FC<{ hud: Gta13Props["hud"] }> = ({ hud }) => {
   const f = useCurrentFrame();
   if (f < hud.from || f >= hud.to) return null;
+  const hasYr = hud.years.length > 0;
   const yr = step(hud.years, f);
   const changed = hud.years.reduce((t, [k]) => (f >= k ? k : t), 0);
   const bump = 1 + 0.25 * (1 - tween(f, changed, 10, 0, 1, "outCubic"));
@@ -157,8 +163,8 @@ const Hud: React.FC<{ hud: Gta13Props["hud"] }> = ({ hud }) => {
   const op = tween(f, hud.from, 8) * interpolate(f, [hud.to - 8, hud.to], [1, 0], clamp);
   return (
     <div style={{ position: "absolute", right: 46, top: 200, textAlign: "right", opacity: op }}>
-      <Pd size={64} s={7} style={{ transform: `scale(${bump})`, transformOrigin: "right center" }}>{yr}</Pd>
-      {cash > 0 && <Pd size={52} color={GREEN} s={6} style={{ marginTop: 6 }}>${fmt(cash)}</Pd>}
+      {hasYr && <Pd size={64} s={7} style={{ transform: `scale(${bump})`, transformOrigin: "right center" }}>{yr}</Pd>}
+      {cash > 0 && <Pd size={hasYr ? 52 : 74} color={GREEN} s={7} style={{ marginTop: 6, fontVariantNumeric: "tabular-nums" }}>${fmt(cash)}</Pd>}
     </div>
   );
 };
@@ -500,6 +506,93 @@ const Console: React.FC<{ o: Extract<Ov, { kind: "console" }> }> = ({ o }) => {
   );
 };
 
+// ------------------------------------------------------------- money kit: real logos, thermal receipt, flying real bills
+const LogoPop: React.FC<{ o: Extract<Ov, { kind: "logo" }> }> = ({ o }) => {
+  const f = useCurrentFrame();
+  const k = o.slam ? tween(f, 0, 7, 2.6, 1, "outCubic") : tween(f, 0, 12, 0, 1, "outBack");
+  const out = interpolate(f, [o.dur - 6, o.dur], [1, 0], clamp);
+  const shake = o.slam && f < 10 ? Math.sin(f * 9.1) * 14 * (1 - f / 10) : 0;
+  const bob = Math.sin(f / 9) * 6;
+  return (
+    <div style={{ position: "absolute", left: o.x - o.w / 2 + shake, top: o.y + bob, width: o.w, opacity: Math.min(1, o.slam ? tween(f, 0, 3) : k) * out,
+                  transform: `scale(${k}) rotate(${o.rot ?? 0}deg)`, filter: `drop-shadow(0 0 ${o.glow ? 40 : 0}px ${o.glow ?? "transparent"}) drop-shadow(0 14px 30px #000C)`,
+                  background: o.bg, borderRadius: o.bg ? 28 : 0, padding: o.bg ? 26 : 0 }}>
+      <Img src={staticFile(o.src)} style={{ width: "100%", display: "block" }} />
+    </div>
+  );
+};
+
+const RMONO = "'Courier New', Menlo, monospace";
+const Receipt: React.FC<{ o: Extract<Ov, { kind: "receipt" }> }> = ({ o }) => {
+  const f = useCurrentFrame();
+  const drop = tween(f, 0, 14, 0, 1, "outBack");
+  const out = interpolate(f, [o.dur - 7, o.dur], [1, 0], clamp);
+  const shown = o.items.filter((it) => f >= it.at);
+  const tot = o.total && f >= o.total.at;
+  return (
+    <div style={{ position: "absolute", right: 34, top: 230 - (1 - drop) * 900, width: 600, transform: "rotate(2.5deg)", opacity: out,
+                  filter: "drop-shadow(0 30px 40px #000D)" }}>
+      <div style={{ background: "linear-gradient(180deg, #FFFDF4, #F3EEDD)", padding: "26px 30px 22px", fontFamily: RMONO, color: "#1B1B1B" }}>
+        <div style={{ textAlign: "center", fontWeight: 900, fontSize: 34, letterSpacing: "0.06em" }}>{o.title}</div>
+        <div style={{ textAlign: "center", fontSize: 22, marginTop: 4, color: "#555" }}>*** RECEIPT ***</div>
+        <div style={{ borderTop: "3px dashed #999", margin: "14px 0 8px" }} />
+        {shown.map((it, i) => {
+          const p = tween(f, it.at, 8, 0, 1, "outCubic");
+          const fresh = f - it.at < 14;
+          return (
+            <div key={i} style={{ display: "flex", justifyContent: "space-between", gap: 12, fontSize: 30, fontWeight: 900, padding: "5px 6px", lineHeight: 1.15,
+                                  background: fresh ? "#FFE14D" : "transparent", clipPath: `inset(0 0 ${(1 - p) * 100}% 0)`, color: it.hot ? "#C8102E" : "#1B1B1B" }}>
+              <span>{it.label}</span><span style={{ whiteSpace: "nowrap" }}>{it.price}</span>
+            </div>
+          );
+        })}
+        {tot && (
+          <>
+            <div style={{ borderTop: "3px dashed #999", margin: "10px 0 6px" }} />
+            <div style={{ display: "flex", justifyContent: "space-between", fontSize: 40, fontWeight: 900,
+                          transform: `scale(${tween(f, o.total!.at, 8, 1.3, 1, "outBack")})` }}>
+              <span>{o.total!.label}</span><span style={{ color: "#C8102E" }}>{o.total!.value}</span>
+            </div>
+          </>
+        )}
+        {o.foot && <div style={{ marginTop: 10, fontSize: 20, color: "#666", textAlign: "center" }}>{o.foot}</div>}
+      </div>
+      <div style={{ height: 22, background: "linear-gradient(135deg, #F3EEDD 33%, transparent 33%) 0 0 / 22px 22px, linear-gradient(225deg, #F3EEDD 33%, transparent 33%) 0 0 / 22px 22px" }} />
+    </div>
+  );
+};
+
+const Bills: React.FC<{ o: Extract<Ov, { kind: "bills" }> }> = ({ o }) => {
+  const f = useCurrentFrame();
+  const sd = o.seed ?? 1;
+  return (
+    <AbsoluteFill style={{ pointerEvents: "none", perspective: 1400 }}>
+      {Array.from({ length: o.n }).map((_, i) => {
+        const r = (k: number) => hash(i * 17.3 + k * 5.1 + sd * 31.7);
+        const t0 = r(1) * Math.max(1, o.dur * 0.55);
+        const life = 22 + r(2) * 26;
+        const p = (f - t0) / life;
+        if (p < 0 || p > 1) return null;
+        const ang = (r(3) - 0.5) * Math.PI * (o.spread ?? 1.2) + (o.up ? -Math.PI / 2 : Math.PI / 2);
+        const sp = 900 + r(4) * 1500;
+        const x = (o.ox ?? 540) + Math.cos(ang) * sp * p;
+        const y = (o.oy ?? 900) + Math.sin(ang) * sp * p + (o.up ? 0 : 700 * p * p);
+        const w = 220 + r(5) * 260;
+        return (
+          <Img key={i} src={staticFile(o.src)} style={{ position: "absolute", left: x - w / 2, top: y - w * 0.21, width: w,
+                 transform: `rotateZ(${(r(6) - 0.5) * 360 + f * (r(7) - 0.5) * 22}deg) rotateX(${Math.sin(f / 4 + i) * 55}deg) rotateY(${Math.cos(f / 5 + i) * 35}deg)`,
+                 opacity: interpolate(p, [0, 0.08, 0.85, 1], [0, 1, 1, 0], clamp), boxShadow: "0 12px 24px #0008", filter: `brightness(${0.85 + r(8) * 0.3})` }} />
+        );
+      })}
+    </AbsoluteFill>
+  );
+};
+
+const Flash: React.FC<{ o: Extract<Ov, { kind: "flash" }> }> = ({ o }) => {
+  const f = useCurrentFrame();
+  return <AbsoluteFill style={{ background: o.color ?? "#fff", opacity: interpolate(f, [0, o.dur], [0.85, 0], clamp), pointerEvents: "none" }} />;
+};
+
 const OvView: React.FC<{ o: Ov }> = ({ o }) => {
   switch (o.kind) {
     case "chapter": return <Chapter o={o} />;
@@ -519,6 +612,10 @@ const OvView: React.FC<{ o: Ov }> = ({ o }) => {
     case "pipeline": return <Pipeline o={o} />;
     case "keys": return <Keys o={o} />;
     case "console": return <Console o={o} />;
+    case "logo": return <LogoPop o={o} />;
+    case "receipt": return <Receipt o={o} />;
+    case "bills": return <Bills o={o} />;
+    case "flash": return <Flash o={o} />;
   }
 };
 

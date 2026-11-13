@@ -1,0 +1,20 @@
+I asked AI for a horror hallway. Then I gave it 94 Blender skills 💀
+
+blender-skills (by arjun988) is 94 SKILL.md files: hard-surface, retopology, UVs, materials, lighting, export, plus art styles (low poly, anime, voxel, PSX horror…) and a blender-director skill that routes your prompt through the right pipeline. It works with Claude Code, Cursor, Kiro and Codex, and runs inside Blender through the BlenderMCP addon.
+
+Install:
+git clone https://github.com/arjun988/blender-skills
+cp -r blender-skills/.claude/skills your-project/.claude/
+
+Repo → github.com/arjun988/blender-skills (MIT)
+
+What should it build next? Keep it legal 👇
+
+#blender #b3d #3dmodeling #claudecode #gamedev #ai #shorts
+
+How it was made: every scene was built by Claude Code with blender-skills installed, following the skills' rules (e.g. horror-style: narrow corridor, single flickering key light, fog, sparse story props), scripted and rendered in Blender EEVEE (headless Python, not live via MCP). The "without skills" hallway is a joke dramatization.
+Credits:
+Music: "Investigations" Kevin MacLeod (incompetech.com), CC BY 4.0
+3D: "Eric Rigged 001" by renderpeople (Sketchfab, CC BY 4.0) · textures/HDRIs: Poly Haven (CC0)
+Voice: Chatterbox TTS (Resemble AI, MIT)
+Repo stats as of Nov 10, 2026: 2,409 stars.

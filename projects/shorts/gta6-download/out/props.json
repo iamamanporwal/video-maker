@@ -1,0 +1,1253 @@
+{
+ "fps": 30,
+ "durationInFrames": 1493,
+ "shots": [
+  {
+   "src": "3d/hook.mp4",
+   "from": 0,
+   "dur": 119,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/console.mp4",
+   "from": 119,
+   "dur": 61,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/grid.mp4",
+   "from": 180,
+   "dur": 105,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/fiber.mp4",
+   "from": 285,
+   "dur": 107,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/dc_red.mp4",
+   "from": 392,
+   "dur": 55,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": true,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/locked.mp4",
+   "from": 447,
+   "dur": 97,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/uk.mp4",
+   "from": 544,
+   "dur": 74,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/dc.mp4",
+   "from": 618,
+   "dur": 78,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/edges.mp4",
+   "from": 696,
+   "dur": 128,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/wave.mp4",
+   "from": 824,
+   "dur": 196,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/dc.mp4",
+   "from": 1020,
+   "dur": 62,
+   "at": 80,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/unlock.mp4",
+   "from": 1082,
+   "dur": 123,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/patch.mp4",
+   "from": 1205,
+   "dur": 83,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": true,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "clips/cut/5ac79c123d.mp4",
+   "from": 1288,
+   "dur": 205,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "vice",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": true
+  }
+ ],
+ "overlays": [
+  {
+   "kind": "logo",
+   "src": "logos/gta6_logo.png",
+   "x": 540,
+   "y": 190,
+   "w": 430,
+   "glow": "#FF3E9A",
+   "slam": true,
+   "from": 2,
+   "dur": 67
+  },
+  {
+   "kind": "flash",
+   "color": "#ff3020",
+   "from": 43,
+   "dur": 7
+  },
+  {
+   "kind": "stamp",
+   "text": "BUSIEST DAY EVER",
+   "sub": "VIRGIN MEDIA O2 \u00b7 NOV 10",
+   "color": "#E8303A",
+   "rot": -5,
+   "from": 69,
+   "dur": 50
+  },
+  {
+   "kind": "tip",
+   "text": "ROCKSTAR: UP TO 212 GB OF FREE SPACE NEEDED.",
+   "from": 132,
+   "dur": 48
+  },
+  {
+   "kind": "counter",
+   "value": 25000000,
+   "label": "COPIES \u00b7 DAY ONE",
+   "note": "ANALYST ESTIMATES: 25-45 MILLION",
+   "from": 195,
+   "dur": 90
+  },
+  {
+   "kind": "counter",
+   "value": 5300000000,
+   "label": "GIGABYTES \u00b7 AT THE SAME TIME",
+   "note": "25M \u00d7 212 GB \u00b7 IF EVERYONE DOWNLOADS",
+   "from": 329,
+   "dur": 63
+  },
+  {
+   "kind": "stars",
+   "n": 5,
+   "from": 392,
+   "dur": 55
+  },
+  {
+   "kind": "chapter",
+   "n": "1",
+   "title": "SEND IT EARLY",
+   "color": "#FFE14D",
+   "from": 447,
+   "dur": 43
+  },
+  {
+   "kind": "tip",
+   "text": "PRE-LOAD OPENED NOV 10. LAUNCH IS NOV 19.",
+   "from": 490,
+   "dur": 54
+  },
+  {
+   "kind": "stamp",
+   "text": "+51.6%",
+   "sub": "VIRGIN MEDIA O2 TRAFFIC \u00b7 FIRST HOUR",
+   "color": "#E8303A",
+   "rot": -6,
+   "from": 555,
+   "dur": 63
+  },
+  {
+   "kind": "chapter",
+   "n": "2",
+   "title": "COPY IT EVERYWHERE",
+   "color": "#5CE1FF",
+   "from": 618,
+   "dur": 78
+  },
+  {
+   "kind": "tip",
+   "text": "CDN: COPIES CACHED ON SERVERS NEAR YOU.",
+   "from": 716,
+   "dur": 108
+  },
+  {
+   "kind": "chapter",
+   "n": "3",
+   "title": "TIME ZONES",
+   "color": "#6FDB6A",
+   "from": 824,
+   "dur": 42
+  },
+  {
+   "kind": "tip",
+   "text": "PS5 UNLOCKS AT 12:00 AM LOCAL TIME.",
+   "from": 866,
+   "dur": 71
+  },
+  {
+   "kind": "stamp",
+   "text": "UNLOCKED",
+   "sub": "ONE TIME ZONE AT A TIME",
+   "color": "#6FDB6A",
+   "rot": -5,
+   "from": 946,
+   "dur": 74
+  },
+  {
+   "kind": "passed",
+   "sub": "GAME UNLOCKED",
+   "from": 1175,
+   "dur": 30
+  },
+  {
+   "kind": "wasted",
+   "text": "GOOD LUCK",
+   "sub": "(day-one patch)",
+   "from": 1247,
+   "dur": 41
+  },
+  {
+   "kind": "bridge",
+   "sketch": "img/sketch.png",
+   "model": "clips/car3d.mp4",
+   "pop": 46,
+   "from": 1356,
+   "dur": 137
+  }
+ ],
+ "hud": {
+  "from": 0,
+  "to": 0,
+  "years": [],
+  "cash": []
+ },
+ "credit": {
+  "text": "Footage: Rockstar Games",
+  "to": 1493,
+  "perShot": true
+ },
+ "words": [
+  [
+   4,
+   30,
+   "GTA 6"
+  ],
+  [
+   30,
+   43,
+   "already"
+  ],
+  [
+   43,
+   50,
+   "broke"
+  ],
+  [
+   50,
+   54,
+   "the"
+  ],
+  [
+   54,
+   61,
+   "internet"
+  ],
+  [
+   69,
+   83,
+   "And"
+  ],
+  [
+   83,
+   91,
+   "it's"
+  ],
+  [
+   91,
+   94,
+   "not"
+  ],
+  [
+   94,
+   99,
+   "even"
+  ],
+  [
+   99,
+   104,
+   "out"
+  ],
+  [
+   104,
+   110,
+   "yet."
+  ],
+  [
+   119,
+   127,
+   "The"
+  ],
+  [
+   127,
+   132,
+   "game"
+  ],
+  [
+   132,
+   136,
+   "is"
+  ],
+  [
+   136,
+   180,
+   "212 GB"
+  ],
+  [
+   180,
+   183,
+   "And"
+  ],
+  [
+   183,
+   195,
+   "analysts"
+  ],
+  [
+   195,
+   204,
+   "expect"
+  ],
+  [
+   204,
+   233,
+   "25 MILLION"
+  ],
+  [
+   233,
+   247,
+   "copies"
+  ],
+  [
+   247,
+   255,
+   "sold"
+  ],
+  [
+   255,
+   260,
+   "on"
+  ],
+  [
+   260,
+   264,
+   "day"
+  ],
+  [
+   264,
+   274,
+   "one."
+  ],
+  [
+   285,
+   291,
+   "If"
+  ],
+  [
+   291,
+   299,
+   "everyone"
+  ],
+  [
+   299,
+   309,
+   "downloads"
+  ],
+  [
+   309,
+   314,
+   "at"
+  ],
+  [
+   314,
+   321,
+   "midnight"
+  ],
+  [
+   329,
+   339,
+   "that's"
+  ],
+  [
+   339,
+   369,
+   "5 BILLION GB"
+  ],
+  [
+   369,
+   378,
+   "at"
+  ],
+  [
+   378,
+   388,
+   "once"
+  ],
+  [
+   392,
+   405,
+   "So"
+  ],
+  [
+   405,
+   411,
+   "why"
+  ],
+  [
+   411,
+   417,
+   "won't"
+  ],
+  [
+   417,
+   420,
+   "the"
+  ],
+  [
+   420,
+   426,
+   "internet"
+  ],
+  [
+   426,
+   435,
+   "melt."
+  ],
+  [
+   447,
+   453,
+   "Trick"
+  ],
+  [
+   453,
+   461,
+   "one"
+  ],
+  [
+   466,
+   471,
+   "They"
+  ],
+  [
+   471,
+   478,
+   "already"
+  ],
+  [
+   478,
+   484,
+   "sent"
+  ],
+  [
+   484,
+   490,
+   "it"
+  ],
+  [
+   490,
+   511,
+   "Pre-load"
+  ],
+  [
+   511,
+   519,
+   "opened"
+  ],
+  [
+   519,
+   528,
+   "nine"
+  ],
+  [
+   528,
+   535,
+   "days"
+  ],
+  [
+   535,
+   544,
+   "early"
+  ],
+  [
+   544,
+   549,
+   "and"
+  ],
+  [
+   549,
+   555,
+   "gave"
+  ],
+  [
+   555,
+   561,
+   "one"
+  ],
+  [
+   561,
+   568,
+   "British"
+  ],
+  [
+   568,
+   578,
+   "network"
+  ],
+  [
+   578,
+   585,
+   "its"
+  ],
+  [
+   585,
+   595,
+   "busiest"
+  ],
+  [
+   595,
+   601,
+   "day"
+  ],
+  [
+   601,
+   608,
+   "ever."
+  ],
+  [
+   618,
+   630,
+   "Trick"
+  ],
+  [
+   630,
+   645,
+   "two"
+  ],
+  [
+   645,
+   652,
+   "You"
+  ],
+  [
+   652,
+   660,
+   "don't"
+  ],
+  [
+   660,
+   668,
+   "download"
+  ],
+  [
+   668,
+   672,
+   "it"
+  ],
+  [
+   672,
+   676,
+   "from"
+  ],
+  [
+   676,
+   690,
+   "Rockstar"
+  ],
+  [
+   696,
+   705,
+   "The"
+  ],
+  [
+   705,
+   711,
+   "game"
+  ],
+  [
+   711,
+   716,
+   "is"
+  ],
+  [
+   716,
+   725,
+   "copied"
+  ],
+  [
+   725,
+   732,
+   "onto"
+  ],
+  [
+   732,
+   742,
+   "thousands"
+  ],
+  [
+   742,
+   748,
+   "of"
+  ],
+  [
+   748,
+   759,
+   "servers"
+  ],
+  [
+   762,
+   768,
+   "so"
+  ],
+  [
+   768,
+   775,
+   "yours"
+  ],
+  [
+   775,
+   782,
+   "comes"
+  ],
+  [
+   782,
+   789,
+   "from"
+  ],
+  [
+   789,
+   796,
+   "one"
+  ],
+  [
+   796,
+   802,
+   "near"
+  ],
+  [
+   802,
+   807,
+   "your"
+  ],
+  [
+   807,
+   814,
+   "city."
+  ],
+  [
+   824,
+   829,
+   "Trick"
+  ],
+  [
+   829,
+   837,
+   "three"
+  ],
+  [
+   841,
+   850,
+   "Time"
+  ],
+  [
+   850,
+   859,
+   "zones"
+  ],
+  [
+   866,
+   891,
+   "PS5"
+  ],
+  [
+   891,
+   905,
+   "unlocks"
+  ],
+  [
+   905,
+   909,
+   "at"
+  ],
+  [
+   909,
+   917,
+   "midnight"
+  ],
+  [
+   917,
+   926,
+   "local"
+  ],
+  [
+   926,
+   935,
+   "time"
+  ],
+  [
+   937,
+   943,
+   "so"
+  ],
+  [
+   943,
+   946,
+   "the"
+  ],
+  [
+   946,
+   952,
+   "wave"
+  ],
+  [
+   952,
+   960,
+   "rolls"
+  ],
+  [
+   960,
+   965,
+   "around"
+  ],
+  [
+   965,
+   969,
+   "the"
+  ],
+  [
+   969,
+   974,
+   "Earth"
+  ],
+  [
+   974,
+   982,
+   "instead"
+  ],
+  [
+   982,
+   987,
+   "of"
+  ],
+  [
+   987,
+   991,
+   "hitting"
+  ],
+  [
+   991,
+   997,
+   "all"
+  ],
+  [
+   997,
+   1001,
+   "at"
+  ],
+  [
+   1001,
+   1010,
+   "once."
+  ],
+  [
+   1020,
+   1026,
+   "So"
+  ],
+  [
+   1031,
+   1033,
+   "on"
+  ],
+  [
+   1033,
+   1041,
+   "launch"
+  ],
+  [
+   1041,
+   1046,
+   "night"
+  ],
+  [
+   1052,
+   1056,
+   "almost"
+  ],
+  [
+   1056,
+   1064,
+   "nothing"
+  ],
+  [
+   1064,
+   1076,
+   "moves"
+  ],
+  [
+   1082,
+   1088,
+   "The"
+  ],
+  [
+   1088,
+   1094,
+   "game"
+  ],
+  [
+   1094,
+   1098,
+   "is"
+  ],
+  [
+   1098,
+   1107,
+   "already"
+  ],
+  [
+   1107,
+   1112,
+   "on"
+  ],
+  [
+   1112,
+   1115,
+   "your"
+  ],
+  [
+   1115,
+   1128,
+   "console"
+  ],
+  [
+   1133,
+   1142,
+   "locked"
+  ],
+  [
+   1150,
+   1162,
+   "Midnight"
+  ],
+  [
+   1162,
+   1171,
+   "just"
+  ],
+  [
+   1171,
+   1179,
+   "turns"
+  ],
+  [
+   1179,
+   1184,
+   "the"
+  ],
+  [
+   1184,
+   1190,
+   "key."
+  ],
+  [
+   1205,
+   1214,
+   "Unless"
+  ],
+  [
+   1214,
+   1220,
+   "there's"
+  ],
+  [
+   1220,
+   1222,
+   "a"
+  ],
+  [
+   1222,
+   1225,
+   "day"
+  ],
+  [
+   1225,
+   1232,
+   "one"
+  ],
+  [
+   1232,
+   1242,
+   "patch"
+  ],
+  [
+   1247,
+   1256,
+   "Then"
+  ],
+  [
+   1260,
+   1269,
+   "good"
+  ],
+  [
+   1269,
+   1274,
+   "luck."
+  ],
+  [
+   1288,
+   1302,
+   "Rockstar"
+  ],
+  [
+   1302,
+   1309,
+   "needed"
+  ],
+  [
+   1309,
+   1331,
+   "200 GB"
+  ],
+  [
+   1331,
+   1341,
+   "of"
+  ],
+  [
+   1341,
+   1351,
+   "3D"
+  ],
+  [
+   1358,
+   1367,
+   "You"
+  ],
+  [
+   1367,
+   1373,
+   "need"
+  ],
+  [
+   1373,
+   1381,
+   "one"
+  ],
+  [
+   1381,
+   1393,
+   "sketch"
+  ],
+  [
+   1402,
+   1414,
+   "Vi3W"
+  ],
+  [
+   1414,
+   1423,
+   "turns"
+  ],
+  [
+   1423,
+   1426,
+   "it"
+  ],
+  [
+   1426,
+   1431,
+   "into"
+  ],
+  [
+   1431,
+   1436,
+   "a"
+  ],
+  [
+   1436,
+   1445,
+   "3D"
+  ],
+  [
+   1445,
+   1454,
+   "model"
+  ],
+  [
+   1454,
+   1462,
+   "in"
+  ],
+  [
+   1462,
+   1471,
+   "seconds."
+  ]
+ ],
+ "captionsFrom": 0,
+ "emphasis": [
+  "gta6",
+  "broke",
+  "internet",
+  "212gb",
+  "25million",
+  "5billiongb",
+  "melt",
+  "trick",
+  "sent",
+  "early",
+  "busiest",
+  "rockstar",
+  "thousands",
+  "servers",
+  "near",
+  "zones",
+  "midnight",
+  "wave",
+  "nothing",
+  "locked",
+  "key",
+  "patch",
+  "luck",
+  "200gb",
+  "sketch",
+  "vi3w",
+  "3d",
+  "seconds",
+  "ps5"
+ ],
+ "cues": [
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 0,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/glitch.mp3",
+   "from": 41,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 43,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/riser.mp3",
+   "from": 299,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/shock.mp3",
+   "from": 392,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 478,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 541,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 693,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/ting.mp3",
+   "from": 946,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 1017,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 1171,
+   "volume": 0.6
+  },
+  {
+   "src": "sfx/drop.mp3",
+   "from": 1178,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 1205,
+   "volume": 0.25
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 69,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 231,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 365,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/slam.mp3",
+   "from": 447,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 555,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/slam.mp3",
+   "from": 618,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/slam.mp3",
+   "from": 824,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/ding.mp3",
+   "from": 1175,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 1247,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 1353,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 1402,
+   "volume": 0.55
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 392,
+   "volume": 0.15
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 1205,
+   "volume": 0.15
+  }
+ ]
+}

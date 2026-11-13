@@ -1,0 +1,13 @@
+{
+ "street": 6.29,
+ "drive": 6.62,
+ "lodline": 6.35,
+ "lod": 2.52,
+ "cull": 4.2,
+ "stream": 5.24,
+ "crowd": 5.2,
+ "reveal": 5.78,
+ "street@ev": 0.784,
+ "cull@ev": 0.586,
+ "crowd@ev": 0.565
+}

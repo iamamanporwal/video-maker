@@ -1,0 +1,17 @@
+60 years of 3D modeling, and the hardest part never changed... until now. 🧊➡️✏️
+
+1963: Sketchpad and a light pen. 1972: Catmull's polygon hand. 1975: the Utah teapot. 1995: the first fully computer-animated movie. The pictures got unbelievably good, but artists still click and drag vertices one by one.
+
+Now: draw a sketch and Vi3W turns it into a 3D model in seconds, with auto-rig, animation and Roblox/Unity export. Every model at the end was made in Vi3W.
+
+Try it → vi3w.in (link in bio)
+
+#3dmodeling #blender #gamedev #3dart #history #shorts
+
+Facts: Ivan Sutherland's Sketchpad (MIT, 1963, light pen on the TX-2); Ed Catmull & Fred Parke, "A Computer Animated Hand" (University of Utah, 1972); Martin Newell's Utah teapot (1975); Toy Story (1995), the first fully computer-animated feature. No studio footage or logos are used; all history scenes are our own 3D recreations.
+
+Credits:
+Music Info: Cinematic Documentary - AShamaluevMusic. Music Link: https://youtu.be/EcAX2cbsdRw
+3D: "Eric Rigged 001" by renderpeople · "Utah Teapot Continous Quads" by saw (both Sketchfab, CC BY 4.0) · textures/HDRI: Poly Haven (CC0)
+Voice: Kokoro-82M (Apache 2.0)
+Vi3W screen capture and models: Vi3W

@@ -31,3 +31,17 @@ then logo + Vi3W.in + "comment the GTA car we should build next 👇". Target ~3
 ## Episodes
 01 leak-firestick (HERO) · 02 trailer-record · 03 ps5-billion. VO lines in vo.py, cuts in build.py.
 Post ≥ 1 day apart; 01 first, ideally before the 9 Nov court date.
+
+## 04 how-cars-are-built (started 2026-11-12, in progress)
+User brief: "really really cool visuals". Own 3D/AI visuals first, trailer clips only as punctuation (see gta6-by-hand).
+Visual plan: Higgsfield MCP (72 h free trial tied to Fable 5.2; auto-converts to Ultra unless cancelled) for hero
+cinematic shots of a GTA-style car being built: blockout → wireframe → materials → damage → interior. Fallback: Blender + turbo-mlx.
+Ends with the Vi3W car plug (demo3 sketch → 3D car) + shared vi3w-outro.
+
+Candidate facts (NEED a second source before use; no GTA 6-specific vehicle pipeline is public):
+| fact | source | safe wording |
+|---|---|---|
+| GTA V car models went from ~4 moving parts to 15 in a retractable roof alone; detail 10-20x GTA IV | Leslie Benzies, GTA V era (GameSpot "1,000+ people made GTAV") | "on GTA V, one convertible roof alone had fifteen moving parts" |
+| Vehicle handling is ~100 parameters per car (drag, wheels, steering) | Obbe Vermeij, ex-Rockstar tech director (GamesHub) | "every car has about a hundred handling settings" (era: original trilogy) |
+| Every vehicle has a separate damage model built by hand | Rockstar Newswire, Vice City "The Lab" exhibit | "every car has a second, smashed-up version modelled too" |
+| GTA VI has "an order of magnitude more interiors" | Aaron Garbut, Edge/GamesRadar | about buildings, NOT car interiors |

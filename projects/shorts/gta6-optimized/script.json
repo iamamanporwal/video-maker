@@ -1,0 +1,12 @@
+{"lines": [
+ ["h1", "GTA 6 is lying to you in every single frame."],
+ ["h2", "That whole city? Most of it isn't even being drawn."],
+ ["h3", "At thirty frames per second, a console gets thirty-three milliseconds per picture. So every big open world cheats. Four ways."],
+ ["t1", "Trick one. LOD. Up close, this car is thirty-five thousand triangles. Far away, almost nothing. You never notice."],
+ ["t2", "Trick two. Culling. Behind you? Not drawn. Behind a building? Not drawn."],
+ ["t3", "Trick three. Streaming. The map is cut into tiles. Drive forward, and the ones behind you unload."],
+ ["t4", "Trick four. Instancing. These hundred pedestrians are one model, drawn a hundred times."],
+ ["p1", "Stack all four, and a whole city fits inside thirty-three milliseconds. It only exists where you're looking."],
+ ["p2", "The best optimization is the one you never see."],
+ ["b1", "Every game model gets built in levels like this. Vi3W makes the first one from one sketch, in seconds."]
+]}

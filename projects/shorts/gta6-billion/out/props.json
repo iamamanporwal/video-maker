@@ -1,0 +1,1782 @@
+{
+ "fps": 30,
+ "durationInFrames": 1823,
+ "shots": [
+  {
+   "src": "3d/rocket.mp4",
+   "from": 0,
+   "dur": 123,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/cashrain.mp4",
+   "from": 123,
+   "dur": 72,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "money",
+   "glitch": true,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/vault.mp4",
+   "from": 195,
+   "dur": 132,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/bh_office.mp4",
+   "from": 327,
+   "dur": 131,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": true,
+   "speed": 0.805,
+   "credit": false
+  },
+  {
+   "src": "3d/printer.mp4",
+   "from": 458,
+   "dur": 170,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/bh_florida.mp4",
+   "from": 628,
+   "dur": 51,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "vice",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "clips/cut/69692ee9c0.mp4",
+   "from": 679,
+   "dur": 83,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "vice",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": true
+  },
+  {
+   "src": "3d/bh_citypull.mp4",
+   "from": 762,
+   "dur": 24,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/bh_props.mp4",
+   "from": 786,
+   "dur": 34,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/bh_trashcan.mp4",
+   "from": 820,
+   "dur": 75,
+   "at": 87,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 0.96,
+   "credit": false
+  },
+  {
+   "src": "3d/bh_animate.mp4",
+   "from": 895,
+   "dur": 67,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": true,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/bh_rig.mp4",
+   "from": 962,
+   "dur": 45,
+   "at": 15,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/beer.mp4",
+   "from": 1007,
+   "dur": 157,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": true,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/leak.mp4",
+   "from": 1164,
+   "dur": 117,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": true,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "clips/cut/ebe4687731.mp4",
+   "from": 1281,
+   "dur": 26,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "vice",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": true
+  },
+  {
+   "src": "3d/sign.mp4",
+   "from": 1307,
+   "dur": 162,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "none",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/cashrain_rev.mp4",
+   "from": 1469,
+   "dur": 131,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "money",
+   "glitch": true,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "clips/cut/3af2dcbf38.mp4",
+   "from": 1600,
+   "dur": 62,
+   "at": 0,
+   "x": 0.55,
+   "mode": "full",
+   "grade": "money",
+   "glitch": false,
+   "speed": 1.0,
+   "credit": true
+  },
+  {
+   "src": "3d/bh_lonely.mp4",
+   "from": 1662,
+   "dur": 46,
+   "at": 0,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "cold",
+   "glitch": true,
+   "speed": 1.0,
+   "credit": false
+  },
+  {
+   "src": "3d/bh_lonely.mp4",
+   "from": 1708,
+   "dur": 115,
+   "at": 24,
+   "x": 0.5,
+   "mode": "full",
+   "grade": "cold",
+   "glitch": false,
+   "speed": 0.5,
+   "credit": false
+  }
+ ],
+ "overlays": [
+  {
+   "kind": "bills",
+   "n": 34,
+   "src": "img/bill.png",
+   "ox": 540,
+   "oy": 1250,
+   "spread": 1.4,
+   "up": true,
+   "seed": 1,
+   "from": 0,
+   "dur": 123
+  },
+  {
+   "kind": "logo",
+   "src": "logos/gta6_logo.png",
+   "x": 540,
+   "y": 170,
+   "w": 470,
+   "glow": "#FF3E9A",
+   "slam": true,
+   "from": 2,
+   "dur": 58
+  },
+  {
+   "kind": "stamp",
+   "text": "\u00d713",
+   "sub": "CHANDRAYAAN-3 \u2248 $75M",
+   "color": "#FFE14D",
+   "rot": -6,
+   "from": 94,
+   "dur": 29
+  },
+  {
+   "kind": "flash",
+   "from": 123,
+   "dur": 7
+  },
+  {
+   "kind": "logo",
+   "src": "logos/Rockstar_Games_Logo.svg",
+   "x": 300,
+   "y": 330,
+   "w": 330,
+   "rot": -6,
+   "slam": true,
+   "from": 144,
+   "dur": 51
+  },
+  {
+   "kind": "logo",
+   "src": "logos/Take-Two_Interactive_Logo.svg",
+   "x": 780,
+   "y": 360,
+   "w": 360,
+   "rot": 5,
+   "slam": true,
+   "bg": "#fff",
+   "from": 148,
+   "dur": 47
+  },
+  {
+   "kind": "stamp",
+   "text": "WRONG",
+   "sub": "ROCKSTAR, ON THE $1.5B RUMOR",
+   "color": "#E8303A",
+   "rot": -7,
+   "from": 236,
+   "dur": 23
+  },
+  {
+   "kind": "stamp",
+   "text": "NO COMMENT",
+   "sub": "THE REAL NUMBER",
+   "color": "#E8303A",
+   "rot": 5,
+   "from": 259,
+   "dur": 31
+  },
+  {
+   "kind": "receipt",
+   "title": "ROCKSTAR GAMES \u00b7 GTA VI",
+   "foot": "*napkin math \u00b7 rest = estimates",
+   "items": [],
+   "from": 313,
+   "dur": 71
+  },
+  {
+   "kind": "counter",
+   "value": 4711,
+   "label": "ROCKSTAR EMPLOYEES \u00b7 2026",
+   "note": "UP FROM 2,441",
+   "from": 384,
+   "dur": 74
+  },
+  {
+   "kind": "tip",
+   "text": "NAPKIN MATH, NOT AN OFFICIAL NUMBER.",
+   "from": 458,
+   "dur": 95
+  },
+  {
+   "kind": "receipt",
+   "title": "ROCKSTAR GAMES \u00b7 GTA VI",
+   "foot": "*napkin math \u00b7 rest = estimates",
+   "items": [
+    {
+     "label": "4,711 STAFF \u00d7 $100K*",
+     "price": "$471M/YR",
+     "at": 5
+    }
+   ],
+   "from": 548,
+   "dur": 80
+  },
+  {
+   "kind": "bills",
+   "n": 26,
+   "src": "img/bill.png",
+   "ox": 540,
+   "oy": -200,
+   "spread": 0.9,
+   "seed": 3,
+   "from": 571,
+   "dur": 57
+  },
+  {
+   "kind": "stamp",
+   "text": "FAKE FLORIDA",
+   "sub": "LEONIDA \u00b7 GTA VI",
+   "color": "#FF3E9A",
+   "rot": -5,
+   "from": 650,
+   "dur": 29
+  },
+  {
+   "kind": "stamp",
+   "text": "SINCE 2015",
+   "sub": "FIRST MIAMI RESEARCH TRIP (BLOOMBERG)",
+   "color": "#FFE14D",
+   "rot": 4,
+   "from": 744,
+   "dur": 18
+  },
+  {
+   "kind": "receipt",
+   "title": "ROCKSTAR GAMES \u00b7 GTA VI",
+   "foot": "*napkin math \u00b7 rest = estimates",
+   "items": [
+    {
+     "label": "4,711 STAFF \u00d7 $100K*",
+     "price": "$471M/YR",
+     "at": -281
+    },
+    {
+     "label": "FAKE FLORIDA (2015-)",
+     "price": "$ ???",
+     "at": 16
+    }
+   ],
+   "from": 834,
+   "dur": 61
+  },
+  {
+   "kind": "viewport",
+   "mode": "Pose Mode \u00b7 Mocap cleanup",
+   "rec": true,
+   "from": 895,
+   "dur": 112
+  },
+  {
+   "kind": "tip",
+   "text": "BLOOMBERG: THE TEAM DEBATED HOW BUYING A BEER SHOULD WORK.",
+   "from": 1007,
+   "dur": 80
+  },
+  {
+   "kind": "pipeline",
+   "steps": [
+    {
+     "label": "GRAB FROM FRIDGE",
+     "at": 0
+    },
+    {
+     "label": "WALK TO COUNTER",
+     "at": 30
+    },
+    {
+     "label": "PAY",
+     "at": 58
+    }
+   ],
+   "from": 1087,
+   "dur": 77
+  },
+  {
+   "kind": "receipt",
+   "title": "ROCKSTAR GAMES \u00b7 GTA VI",
+   "foot": "*napkin math \u00b7 rest = estimates",
+   "items": [
+    {
+     "label": "4,711 STAFF \u00d7 $100K*",
+     "price": "$471M/YR",
+     "at": -578
+    },
+    {
+     "label": "FAKE FLORIDA (2015-)",
+     "price": "$ ???",
+     "at": -281
+    },
+    {
+     "label": "MOCAP + 1 BEER DEBATE",
+     "price": "$ ???",
+     "at": 14
+    }
+   ],
+   "from": 1131,
+   "dur": 39
+  },
+  {
+   "kind": "stars",
+   "n": 5,
+   "from": 1178,
+   "dur": 103
+  },
+  {
+   "kind": "counter",
+   "prefix": "$",
+   "value": 5000000,
+   "label": "LEAK CLEANUP \u00b7 PER ROCKSTAR (2022)",
+   "note": "+ THOUSANDS OF STAFF HOURS",
+   "from": 1213,
+   "dur": 68
+  },
+  {
+   "kind": "logo",
+   "src": "logos/Netflix_2015_logo.svg",
+   "x": 540,
+   "y": 420,
+   "w": 560,
+   "slam": true,
+   "from": 1281,
+   "dur": 35
+  },
+  {
+   "kind": "stamp",
+   "text": "$975,000",
+   "sub": "REPORTEDLY",
+   "color": "#F5C542",
+   "rot": -6,
+   "from": 1389,
+   "dur": 41
+  },
+  {
+   "kind": "bills",
+   "n": 24,
+   "src": "img/bill.png",
+   "ox": 540,
+   "oy": -200,
+   "spread": 0.9,
+   "seed": 5,
+   "from": 1430,
+   "dur": 39
+  },
+  {
+   "kind": "receipt",
+   "title": "ROCKSTAR GAMES \u00b7 GTA VI",
+   "foot": "*napkin math \u00b7 rest = estimates",
+   "items": [
+    {
+     "label": "4,711 STAFF \u00d7 $100K*",
+     "price": "$471M/YR",
+     "at": -869
+    },
+    {
+     "label": "FAKE FLORIDA (2015-)",
+     "price": "$ ???",
+     "at": -572
+    },
+    {
+     "label": "MOCAP + 1 BEER DEBATE",
+     "price": "$ ???",
+     "at": -277
+    },
+    {
+     "label": "LEAK CLEANUP 2022",
+     "price": "$5,000,000",
+     "at": -159,
+     "hot": true
+    },
+    {
+     "label": "1 ROOF SIGN",
+     "price": "$975,000",
+     "at": -21,
+     "hot": true
+    }
+   ],
+   "total": {
+    "label": "TOTAL",
+    "value": "NO COMMENT",
+    "at": 23
+   },
+   "from": 1422,
+   "dur": 47
+  },
+  {
+   "kind": "logo",
+   "src": "logos/Take-Two_Interactive_Logo.svg",
+   "x": 540,
+   "y": 330,
+   "w": 420,
+   "slam": true,
+   "bg": "#fff",
+   "from": 1491,
+   "dur": 57
+  },
+  {
+   "kind": "counter",
+   "prefix": "$",
+   "value": 3000000000,
+   "label": "FIRST 4 MONTHS \u00b7 ANALYST ESTIMATE",
+   "note": "\u2248 40 MILLION COPIES",
+   "from": 1543,
+   "dur": 57
+  },
+  {
+   "kind": "bills",
+   "n": 40,
+   "src": "img/bill.png",
+   "ox": 540,
+   "oy": 2100,
+   "spread": 1.0,
+   "up": true,
+   "seed": 7,
+   "from": 1469,
+   "dur": 193
+  },
+  {
+   "kind": "passed",
+   "sub": "BUDGET RECOVERED",
+   "from": 1623,
+   "dur": 39
+  },
+  {
+   "kind": "logo",
+   "src": "logos/gta6_logo.png",
+   "x": 540,
+   "y": 200,
+   "w": 420,
+   "glow": "#FF3E9A",
+   "from": 1600,
+   "dur": 62
+  },
+  {
+   "kind": "wasted",
+   "text": "BROKE",
+   "sub": "(probably you)",
+   "from": 1662,
+   "dur": 46
+  },
+  {
+   "kind": "bridge",
+   "sketch": "img/sketch.png",
+   "model": "clips/car3d.mp4",
+   "pop": 41,
+   "from": 1706,
+   "dur": 117
+  }
+ ],
+ "hud": {
+  "from": 123,
+  "to": 307,
+  "years": [],
+  "cash": [
+   [
+    123,
+    0
+   ],
+   [
+    185,
+    1000000000
+   ]
+  ]
+ },
+ "credit": {
+  "text": "Footage: Rockstar Games",
+  "to": 1823,
+  "perShot": true
+ },
+ "words": [
+  [
+   6,
+   32,
+   "GTA 6"
+  ],
+  [
+   32,
+   38,
+   "may"
+  ],
+  [
+   38,
+   42,
+   "have"
+  ],
+  [
+   42,
+   49,
+   "cost"
+  ],
+  [
+   49,
+   55,
+   "more"
+  ],
+  [
+   55,
+   60,
+   "than"
+  ],
+  [
+   60,
+   71,
+   "India's"
+  ],
+  [
+   71,
+   77,
+   "Moon"
+  ],
+  [
+   77,
+   88,
+   "landing"
+  ],
+  [
+   94,
+   104,
+   "13"
+  ],
+  [
+   104,
+   117,
+   "times."
+  ],
+  [
+   123,
+   144,
+   "Analysts"
+  ],
+  [
+   144,
+   148,
+   "say"
+  ],
+  [
+   148,
+   156,
+   "over"
+  ],
+  [
+   156,
+   185,
+   "$1 BILLION."
+  ],
+  [
+   195,
+   214,
+   "Rockstar"
+  ],
+  [
+   214,
+   225,
+   "says"
+  ],
+  [
+   225,
+   236,
+   "that's"
+  ],
+  [
+   236,
+   246,
+   "wrong"
+  ],
+  [
+   246,
+   259,
+   "And"
+  ],
+  [
+   259,
+   265,
+   "won't"
+  ],
+  [
+   265,
+   270,
+   "say"
+  ],
+  [
+   270,
+   278,
+   "what's"
+  ],
+  [
+   278,
+   283,
+   "right."
+  ],
+  [
+   290,
+   296,
+   "So"
+  ],
+  [
+   296,
+   307,
+   "let's"
+  ],
+  [
+   307,
+   313,
+   "follow"
+  ],
+  [
+   313,
+   317,
+   "the"
+  ],
+  [
+   317,
+   323,
+   "money."
+  ],
+  [
+   327,
+   338,
+   "First"
+  ],
+  [
+   347,
+   351,
+   "the"
+  ],
+  [
+   351,
+   359,
+   "people"
+  ],
+  [
+   367,
+   384,
+   "Rockstar"
+  ],
+  [
+   384,
+   390,
+   "has"
+  ],
+  [
+   390,
+   431,
+   "4,711"
+  ],
+  [
+   431,
+   447,
+   "employees."
+  ],
+  [
+   458,
+   466,
+   "Say"
+  ],
+  [
+   466,
+   475,
+   "each"
+  ],
+  [
+   475,
+   480,
+   "one"
+  ],
+  [
+   480,
+   491,
+   "costs"
+  ],
+  [
+   491,
+   509,
+   "$100K"
+  ],
+  [
+   509,
+   514,
+   "a"
+  ],
+  [
+   514,
+   520,
+   "year"
+  ],
+  [
+   523,
+   533,
+   "That's"
+  ],
+  [
+   533,
+   542,
+   "almost"
+  ],
+  [
+   542,
+   548,
+   "half"
+  ],
+  [
+   548,
+   553,
+   "a"
+  ],
+  [
+   553,
+   560,
+   "billion"
+  ],
+  [
+   560,
+   571,
+   "dollars"
+  ],
+  [
+   571,
+   587,
+   "Every"
+  ],
+  [
+   587,
+   602,
+   "Single"
+  ],
+  [
+   602,
+   619,
+   "Year."
+  ],
+  [
+   628,
+   637,
+   "Then"
+  ],
+  [
+   637,
+   643,
+   "they"
+  ],
+  [
+   643,
+   650,
+   "built"
+  ],
+  [
+   650,
+   658,
+   "fake"
+  ],
+  [
+   658,
+   672,
+   "Florida"
+  ],
+  [
+   679,
+   692,
+   "Their"
+  ],
+  [
+   692,
+   701,
+   "first"
+  ],
+  [
+   701,
+   712,
+   "research"
+  ],
+  [
+   712,
+   720,
+   "trip"
+  ],
+  [
+   720,
+   724,
+   "to"
+  ],
+  [
+   724,
+   736,
+   "Miami"
+  ],
+  [
+   744,
+   752,
+   "2015."
+  ],
+  [
+   762,
+   769,
+   "Every"
+  ],
+  [
+   769,
+   778,
+   "street"
+  ],
+  [
+   786,
+   795,
+   "every"
+  ],
+  [
+   795,
+   802,
+   "palm"
+  ],
+  [
+   802,
+   811,
+   "tree"
+  ],
+  [
+   820,
+   826,
+   "every"
+  ],
+  [
+   826,
+   834,
+   "trash"
+  ],
+  [
+   834,
+   844,
+   "can"
+  ],
+  [
+   850,
+   865,
+   "Made"
+  ],
+  [
+   865,
+   872,
+   "by"
+  ],
+  [
+   872,
+   883,
+   "hand."
+  ],
+  [
+   895,
+   904,
+   "Then"
+  ],
+  [
+   904,
+   909,
+   "the"
+  ],
+  [
+   909,
+   918,
+   "actors"
+  ],
+  [
+   918,
+   941,
+   "Mo-cap"
+  ],
+  [
+   941,
+   948,
+   "suits"
+  ],
+  [
+   948,
+   954,
+   "for"
+  ],
+  [
+   954,
+   962,
+   "every"
+  ],
+  [
+   962,
+   971,
+   "walk"
+  ],
+  [
+   975,
+   982,
+   "punch"
+  ],
+  [
+   988,
+   988,
+   "and"
+  ],
+  [
+   988,
+   996,
+   "stumble."
+  ],
+  [
+   1007,
+   1021,
+   "Bloomberg"
+  ],
+  [
+   1021,
+   1030,
+   "says"
+  ],
+  [
+   1030,
+   1035,
+   "they"
+  ],
+  [
+   1035,
+   1041,
+   "even"
+  ],
+  [
+   1041,
+   1052,
+   "argued"
+  ],
+  [
+   1052,
+   1058,
+   "about"
+  ],
+  [
+   1058,
+   1063,
+   "how"
+  ],
+  [
+   1063,
+   1067,
+   "you"
+  ],
+  [
+   1067,
+   1072,
+   "buy"
+  ],
+  [
+   1072,
+   1075,
+   "a"
+  ],
+  [
+   1075,
+   1082,
+   "beer"
+  ],
+  [
+   1087,
+   1093,
+   "Grab"
+  ],
+  [
+   1093,
+   1096,
+   "it"
+  ],
+  [
+   1096,
+   1100,
+   "from"
+  ],
+  [
+   1100,
+   1103,
+   "the"
+  ],
+  [
+   1103,
+   1112,
+   "fridge"
+  ],
+  [
+   1117,
+   1124,
+   "Walk"
+  ],
+  [
+   1124,
+   1126,
+   "it"
+  ],
+  [
+   1126,
+   1129,
+   "to"
+  ],
+  [
+   1129,
+   1131,
+   "the"
+  ],
+  [
+   1131,
+   1138,
+   "counter"
+  ],
+  [
+   1145,
+   1153,
+   "Pay."
+  ],
+  [
+   1164,
+   1170,
+   "Then"
+  ],
+  [
+   1170,
+   1178,
+   "someone"
+  ],
+  [
+   1178,
+   1186,
+   "leaked"
+  ],
+  [
+   1186,
+   1193,
+   "90"
+  ],
+  [
+   1193,
+   1205,
+   "clips"
+  ],
+  [
+   1213,
+   1224,
+   "Rockstar"
+  ],
+  [
+   1224,
+   1231,
+   "says"
+  ],
+  [
+   1231,
+   1235,
+   "the"
+  ],
+  [
+   1235,
+   1243,
+   "cleanup"
+  ],
+  [
+   1243,
+   1252,
+   "cost"
+  ],
+  [
+   1252,
+   1270,
+   "$5 MILLION."
+  ],
+  [
+   1281,
+   1291,
+   "And"
+  ],
+  [
+   1291,
+   1299,
+   "marketing"
+  ],
+  [
+   1307,
+   1316,
+   "A"
+  ],
+  [
+   1316,
+   1322,
+   "Vice"
+  ],
+  [
+   1322,
+   1326,
+   "City"
+  ],
+  [
+   1326,
+   1336,
+   "sign"
+  ],
+  [
+   1336,
+   1342,
+   "on"
+  ],
+  [
+   1342,
+   1345,
+   "the"
+  ],
+  [
+   1345,
+   1351,
+   "Miami"
+  ],
+  [
+   1351,
+   1361,
+   "Heat's"
+  ],
+  [
+   1361,
+   1370,
+   "arena"
+  ],
+  [
+   1375,
+   1389,
+   "Reportedly"
+  ],
+  [
+   1389,
+   1430,
+   "$975,000"
+  ],
+  [
+   1430,
+   1445,
+   "For"
+  ],
+  [
+   1445,
+   1451,
+   "one"
+  ],
+  [
+   1451,
+   1460,
+   "sign."
+  ],
+  [
+   1469,
+   1482,
+   "Crazy"
+  ],
+  [
+   1491,
+   1507,
+   "Analysts"
+  ],
+  [
+   1507,
+   1515,
+   "expect"
+  ],
+  [
+   1515,
+   1538,
+   "GTA 6"
+  ],
+  [
+   1538,
+   1543,
+   "to"
+  ],
+  [
+   1543,
+   1548,
+   "make"
+  ],
+  [
+   1548,
+   1561,
+   "$3 BILLION"
+  ],
+  [
+   1561,
+   1576,
+   "in"
+  ],
+  [
+   1576,
+   1582,
+   "four"
+  ],
+  [
+   1582,
+   1589,
+   "months."
+  ],
+  [
+   1600,
+   1608,
+   "The"
+  ],
+  [
+   1608,
+   1615,
+   "billion"
+  ],
+  [
+   1615,
+   1623,
+   "comes"
+  ],
+  [
+   1623,
+   1633,
+   "back"
+  ],
+  [
+   1638,
+   1653,
+   "Fast."
+  ],
+  [
+   1662,
+   1670,
+   "You"
+  ],
+  [
+   1670,
+   1677,
+   "don't"
+  ],
+  [
+   1677,
+   1681,
+   "have"
+  ],
+  [
+   1681,
+   1683,
+   "a"
+  ],
+  [
+   1683,
+   1690,
+   "billion"
+  ],
+  [
+   1690,
+   1700,
+   "dollars."
+  ],
+  [
+   1708,
+   1714,
+   "So"
+  ],
+  [
+   1714,
+   1722,
+   "sketch"
+  ],
+  [
+   1722,
+   1728,
+   "it"
+  ],
+  [
+   1733,
+   1740,
+   "and"
+  ],
+  [
+   1740,
+   1747,
+   "Vi3W"
+  ],
+  [
+   1747,
+   1757,
+   "turns"
+  ],
+  [
+   1757,
+   1761,
+   "it"
+  ],
+  [
+   1761,
+   1767,
+   "into"
+  ],
+  [
+   1767,
+   1771,
+   "a"
+  ],
+  [
+   1771,
+   1780,
+   "3D"
+  ],
+  [
+   1780,
+   1787,
+   "model"
+  ],
+  [
+   1787,
+   1793,
+   "in"
+  ],
+  [
+   1793,
+   1801,
+   "seconds."
+  ]
+ ],
+ "captionsFrom": 32,
+ "emphasis": [
+  "13",
+  "moon",
+  "$1billion",
+  "$5million",
+  "$3billion",
+  "gta6",
+  "billion",
+  "wrong",
+  "money",
+  "4711",
+  "$100k",
+  "half",
+  "year",
+  "florida",
+  "2015",
+  "hand",
+  "beer",
+  "pay",
+  "90",
+  "$5",
+  "million",
+  "$975000",
+  "one",
+  "sign",
+  "$3",
+  "fast",
+  "vi3w",
+  "3d",
+  "seconds",
+  "broke"
+ ],
+ "cues": [
+  {
+   "src": "sfx/jet.mp3",
+   "from": 0,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 2,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/yt-explode.mp3",
+   "from": 94,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/riser.mp3",
+   "from": 87,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 161,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/slam.mp3",
+   "from": 221,
+   "volume": 0.6
+  },
+  {
+   "src": "sfx/vineboom.mp3",
+   "from": 259,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/printer.mp3",
+   "from": 458,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/printer.mp3",
+   "from": 548,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/page.mp3",
+   "from": 571,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/page.mp3",
+   "from": 587,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/page.mp3",
+   "from": 602,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 553,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 676,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/ting.mp3",
+   "from": 1075,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 1145,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/pipe.mp3",
+   "from": 1178,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/splash.mp3",
+   "from": 1181,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/glitch.mp3",
+   "from": 1164,
+   "volume": 0.25
+  },
+  {
+   "src": "sfx/vineboom.mp3",
+   "from": 1389,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/rewind.mp3",
+   "from": 1468,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 1553,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 144,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 148,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 236,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/printer.mp3",
+   "from": 313,
+   "volume": 0.18,
+   "dur": 24
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 420,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/printer.mp3",
+   "from": 548,
+   "volume": 0.18,
+   "dur": 24
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 650,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 744,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/printer.mp3",
+   "from": 834,
+   "volume": 0.18,
+   "dur": 24
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 1087,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 1117,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/click.mp3",
+   "from": 1145,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/printer.mp3",
+   "from": 1131,
+   "volume": 0.18,
+   "dur": 24
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 1249,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 1281,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/printer.mp3",
+   "from": 1422,
+   "volume": 0.18,
+   "dur": 24
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 1491,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/kaching.mp3",
+   "from": 1579,
+   "volume": 0.3
+  },
+  {
+   "src": "sfx/ding.mp3",
+   "from": 1623,
+   "volume": 0.5
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 1600,
+   "volume": 0.35
+  },
+  {
+   "src": "sfx/boom.mp3",
+   "from": 1662,
+   "volume": 0.45
+  },
+  {
+   "src": "sfx/whoosh.mp3",
+   "from": 1703,
+   "volume": 0.4
+  },
+  {
+   "src": "sfx/pop.mp3",
+   "from": 1747,
+   "volume": 0.55
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 123,
+   "volume": 0.15
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 327,
+   "volume": 0.15
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 895,
+   "volume": 0.15
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 1007,
+   "volume": 0.15
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 1164,
+   "volume": 0.15
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 1469,
+   "volume": 0.15
+  },
+  {
+   "src": "sfx/freeze.mp3",
+   "from": 1662,
+   "volume": 0.15
+  }
+ ]
+}

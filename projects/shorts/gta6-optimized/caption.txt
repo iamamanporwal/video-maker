@@ -1,0 +1,22 @@
+TITLE:
+GTA 6 is lying to you in every single frame 👀
+
+DESCRIPTION:
+At 30 fps a console gets 33 milliseconds to build every picture. So open worlds cheat. 4 ways:
+
+1️⃣ LOD: far-away stuff uses simpler models (35,000 triangles up close, almost nothing far away)
+2️⃣ Culling: behind you or behind a building? Not drawn
+3️⃣ Streaming: the map loads in tiles around you
+4️⃣ Instancing: 100 pedestrians = 1 model drawn 100 times
+
+Rockstar hasn't published GTA 6's tech. These are the standard open-world tricks, shown with our own 3D demo.
+
+Every game model gets built in levels like this. Vi3W makes the first one from one sketch 👉 vi3w.in
+
+Which trick surprised you? 👇
+
+Sources: general real-time rendering practice (LOD, frustum/occlusion culling, world streaming, GPU instancing). 30 fps = 33.3 ms per frame is simple math. Triangle counts are from our demo car.
+Car model: "(FREE) 1995 Fiat Punto GT" by Karol Miklas (Sketchfab, CC BY 4.0). Music: "Hitman" by Kevin MacLeod (incompetech.com), CC BY 4.0.
+GTA VI logo: Rockstar Games / Take-Two Interactive.
+
+#gta6 #gtavi #gamedev #3d #optimization #shorts

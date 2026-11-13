@@ -1,0 +1,2208 @@
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0001.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0002.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0003.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0004.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0005.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0006.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0007.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0008.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0009.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0010.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0011.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0012.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0013.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0014.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0015.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0016.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0017.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0018.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0019.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0020.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0021.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0022.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0023.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0024.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0025.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0026.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0027.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0028.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0029.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0030.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0031.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0032.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0033.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0034.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0035.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0036.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0037.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0038.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0039.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0040.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0041.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0042.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0043.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0044.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0045.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0046.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0047.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0048.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0049.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0050.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0051.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0052.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0053.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0054.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0055.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0056.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0057.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0058.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0059.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0060.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0061.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0062.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0063.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0064.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0065.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0066.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0067.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0068.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0069.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0070.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0071.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0072.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0073.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0074.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0075.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0076.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0077.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0078.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0079.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0080.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0081.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0082.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0083.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0084.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0085.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0086.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0087.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0088.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0089.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0090.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0091.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0092.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0093.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0094.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0095.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0096.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0097.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0098.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0099.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0100.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0101.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0102.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0103.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0104.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0105.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0106.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0107.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0108.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0109.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0110.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0111.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0112.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0113.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0114.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0115.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0116.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0117.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0118.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0119.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0120.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0121.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0122.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0123.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0124.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0125.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0126.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0127.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0128.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0129.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0130.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0131.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0132.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0133.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0134.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0135.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0136.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0137.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0138.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0139.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0140.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0141.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0142.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0143.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0144.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0145.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0146.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0147.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0148.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0149.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0150.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0151.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0152.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0153.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0154.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0155.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0156.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0157.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0158.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0159.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0160.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0161.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0162.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0163.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0164.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0165.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0166.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0167.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0168.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0169.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0170.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0171.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0172.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0173.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0174.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0175.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0176.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0177.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0178.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0179.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0180.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0181.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0182.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0183.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0184.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0185.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0186.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0187.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0188.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0189.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0190.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0191.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0192.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0193.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0194.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0195.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0196.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0197.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0198.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0199.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0200.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0201.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0202.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0203.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0204.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0205.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0206.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0207.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0208.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0209.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0210.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0211.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0212.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0213.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0214.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0215.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0216.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0217.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0218.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0219.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0220.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0221.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0222.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0223.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0224.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0225.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0226.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0227.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0228.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0229.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0230.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0231.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0232.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0233.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0234.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0235.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0236.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0237.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0238.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0239.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0240.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0241.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0242.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0243.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0244.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0245.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0246.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0247.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0248.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0249.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0250.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0251.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0252.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0253.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0254.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0255.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0256.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0257.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0258.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0259.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0260.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0261.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0262.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0263.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0264.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0265.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0266.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0267.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0268.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0269.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0270.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0271.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0272.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0273.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0274.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0275.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0276.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0277.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0278.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0279.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0280.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0281.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0282.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0283.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0284.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0285.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0286.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0287.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0288.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0289.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0290.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0291.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0292.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0293.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0294.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0295.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0296.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0297.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0298.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0299.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0300.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0301.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0302.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0303.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0304.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0305.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0306.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0307.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0308.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0309.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0310.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0311.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0312.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0313.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0314.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0315.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0316.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0317.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0318.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0319.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0320.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0321.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0322.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0323.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0324.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0325.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0326.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0327.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0328.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0329.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0330.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0331.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0332.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0333.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0334.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0335.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0336.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0337.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0338.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0339.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0340.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0341.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0342.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0343.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0344.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0345.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0346.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0347.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0348.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0349.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0350.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0351.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0352.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0353.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0354.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0355.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0356.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0357.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0358.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0359.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0360.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0361.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0362.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0363.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0364.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0365.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0366.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0367.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0368.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0369.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0370.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0371.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0372.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0373.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0374.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0375.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0376.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0377.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0378.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0379.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0380.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0381.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0382.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0383.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0384.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0385.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0386.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0387.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0388.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0389.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0390.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0391.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0392.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0393.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0394.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0395.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0396.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0397.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0398.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0399.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0400.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0401.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0402.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0403.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0404.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0405.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0406.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0407.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0408.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0409.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0410.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0411.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0412.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0413.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0414.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0415.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0416.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0417.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0418.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0419.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0420.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0421.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0422.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0423.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0424.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0425.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0426.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0427.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0428.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0429.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0430.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0431.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0432.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0433.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0434.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0435.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0436.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0437.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0438.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0439.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0440.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0441.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0442.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0443.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0444.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0445.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0446.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0447.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0448.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0449.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0450.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0451.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0452.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0453.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0454.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0455.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0456.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0457.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0458.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0459.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0460.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0461.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0462.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0463.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0464.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0465.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0466.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0467.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0468.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0469.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0470.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0471.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0472.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0473.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0474.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0475.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0476.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0477.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0478.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0479.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0480.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0481.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0482.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0483.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0484.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0485.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0486.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0487.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0488.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0489.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0490.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0491.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0492.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0493.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0494.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0495.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0496.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0497.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0498.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0499.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0500.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0501.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0502.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0503.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0504.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0505.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0506.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0507.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0508.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0509.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0510.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0511.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0512.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0513.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0514.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0515.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0516.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0517.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0518.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0519.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0520.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0521.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0522.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0523.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0524.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0525.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0526.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0527.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0528.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0529.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0530.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0531.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0532.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0533.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0534.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0535.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0536.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0537.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0538.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0539.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0540.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0541.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0542.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0543.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0544.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0545.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0546.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0547.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0548.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0549.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0550.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0551.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0552.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0553.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0554.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0555.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0556.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0557.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0558.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0559.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0560.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0561.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0562.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0563.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0564.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0565.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0566.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0567.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0568.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0569.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0570.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0571.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0572.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0573.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0574.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0575.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0576.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0577.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0578.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0579.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0580.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0581.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0582.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0583.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0584.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0585.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0586.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0587.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0588.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0589.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0590.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0591.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0592.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0593.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0594.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0595.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0596.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0597.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0598.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0599.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0600.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0601.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0602.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0603.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0604.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0605.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0606.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0607.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0608.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0609.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0610.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0611.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0612.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0613.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0614.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0615.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0616.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0617.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0618.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0619.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0620.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0621.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0622.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0623.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0624.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0625.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0626.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0627.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0628.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0629.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0630.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0631.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0632.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0633.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0634.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0635.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0636.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0637.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0638.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0639.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0640.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0641.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0642.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0643.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0644.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0645.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0646.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0647.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0648.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0649.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0650.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0651.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0652.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0653.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0654.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0655.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0656.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0657.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0658.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0659.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0660.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0661.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0662.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0663.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0664.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0665.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0666.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0667.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0668.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0669.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0670.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0671.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0672.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0673.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0674.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0675.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0676.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0677.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0678.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0679.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0680.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0681.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0682.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0683.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0684.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0685.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0686.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0687.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0688.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0689.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0690.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0691.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0692.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0693.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0694.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0695.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0696.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0697.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0698.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0699.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0700.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0701.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0702.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0703.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0704.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0705.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0706.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0707.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0708.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0709.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0710.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0711.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0712.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0713.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0714.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0715.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0716.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0717.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0718.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0719.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0720.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0721.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0722.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0723.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0724.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0725.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0726.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0727.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0728.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0729.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0730.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0731.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0732.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0733.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0734.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0735.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0736.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0737.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0738.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0739.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0740.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0741.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0742.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0743.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0744.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0745.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0746.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0747.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0748.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0749.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0750.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0751.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0752.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0753.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0754.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0755.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0756.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0757.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0758.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0759.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0760.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0761.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0762.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0763.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0764.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0765.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0766.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0767.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0768.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0769.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0770.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0771.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0772.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0773.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0774.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0775.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0776.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0777.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0778.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0779.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0780.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0781.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0782.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0783.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0784.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0785.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0786.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0787.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0788.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0789.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0790.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0791.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0792.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0793.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0794.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0795.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0796.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0797.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0798.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0799.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0800.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0801.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0802.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0803.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0804.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0805.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0806.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0807.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0808.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0809.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0810.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0811.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0812.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0813.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0814.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0815.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0816.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0817.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0818.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0819.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0820.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0821.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0822.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0823.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0824.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0825.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0826.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0827.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0828.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0829.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0830.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0831.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0832.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0833.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0834.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0835.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0836.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0837.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0838.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0839.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0840.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0841.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0842.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0843.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0844.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0845.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0846.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0847.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0848.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0849.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0850.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0851.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0852.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0853.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0854.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0855.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0856.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0857.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0858.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0859.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0860.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0861.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0862.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0863.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0864.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0865.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0866.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0867.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0868.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0869.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0870.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0871.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0872.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0873.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0874.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0875.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0876.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0877.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0878.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0879.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0880.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0881.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0882.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0883.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0884.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0885.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0886.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0887.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0888.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0889.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0890.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0891.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0892.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0893.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0894.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0895.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0896.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0897.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0898.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0899.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0900.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0901.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0902.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0903.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0904.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0905.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0906.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0907.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0908.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0909.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0910.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0911.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0912.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0913.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0914.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0915.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0916.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0917.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0918.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0919.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0920.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0921.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0922.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0923.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0924.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0925.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0926.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0927.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0928.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0929.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0930.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0931.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0932.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0933.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0934.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0935.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0936.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0937.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0938.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0939.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0940.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0941.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0942.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0943.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0944.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0945.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0946.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0947.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0948.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0949.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0950.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0951.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0952.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0953.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0954.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0955.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0956.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0957.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0958.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0959.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0960.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0961.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0962.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0963.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0964.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0965.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0966.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0967.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0968.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0969.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0970.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0971.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0972.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0973.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0974.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0975.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0976.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0977.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0978.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0979.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0980.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0981.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0982.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0983.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0984.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0985.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0986.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0987.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0988.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0989.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0990.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0991.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0992.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0993.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0994.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0995.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0996.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0997.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0998.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_0999.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1000.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1001.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1002.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1003.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1004.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1005.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1006.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1007.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1008.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1009.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1010.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1011.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1012.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1013.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1014.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1015.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1016.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1017.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1018.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1019.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1020.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1021.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1022.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1023.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1024.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1025.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1026.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1027.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1028.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1029.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1030.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1031.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1032.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1033.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1034.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1035.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1036.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1037.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1038.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1039.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1040.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1041.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1042.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1043.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1044.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1045.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1046.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1047.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1048.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1049.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1050.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1051.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1052.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1053.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1054.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1055.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1056.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1057.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1058.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1059.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1060.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1061.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1062.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1063.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1064.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1065.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1066.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1067.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1068.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1069.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1070.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1071.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1072.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1073.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1074.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1075.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1076.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1077.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1078.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1079.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1080.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1081.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1082.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1083.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1084.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1085.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1086.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1087.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1088.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1089.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1090.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1091.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1092.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1093.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1094.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1095.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1096.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1097.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1098.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1099.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1100.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1101.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1102.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1103.png'
+duration 0.033333
+file '/Users/amanporwal/Desktop/youtube videos/Launch Vids/projects/shorts/sneeze-eyes/out/frames/f_1104.png'
+duration 0.033333

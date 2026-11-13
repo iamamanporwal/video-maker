@@ -90,13 +90,21 @@ class KimodoBackend:
     def __init__(self, model: str = "Kimodo-SOMA-RP-v1.2", exe: str | None = None,
                  seed: int = 1, text_encoder_device: str | None = None, diffusion_steps: int = 100):
         self.model, self.seed, self.steps = model, seed, diffusion_steps
-        self.exe = exe or shutil.which("kimodo_gen")
+        self.home = Path(os.environ.get("KIMODO_HOME", Path.home() / "models" / "kimodo"))
+        local = self.home / "venv" / "bin" / "kimodo_gen"
+        self.exe = exe or (str(local) if local.exists() else shutil.which("kimodo_gen"))
         self.text_encoder_device = text_encoder_device
         if not self.exe:
             raise RuntimeError("kimodo_gen not found - install Kimodo (README step 3) or use --motion clips")
 
     def generate(self, segs: list[Segment], out_stem: Path) -> dict:
         env = dict(os.environ)
+        # fully offline: local checkpoints + local (ungated-mirror) LLM2Vec text encoder
+        env.setdefault("CHECKPOINT_DIR", str(self.home / "checkpoints"))
+        env.setdefault("TEXT_ENCODERS_DIR", str(self.home / "text_encoders"))
+        env.setdefault("TEXT_ENCODER_MODE", "local")
+        env.setdefault("HF_HUB_OFFLINE", "1")
+        env.setdefault("PYTORCH_ENABLE_MPS_FALLBACK", "1")
         if self.text_encoder_device:
             env["TEXT_ENCODER_DEVICE"] = self.text_encoder_device
         cmd = [self.exe, " ".join(s.prompt for s in segs),
